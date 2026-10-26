@@ -7,13 +7,19 @@ framework_version: 1.1.1
 ## Identity
 - **Name:** Ibad Akbar
 - **Location:** Karachi, Sindh, Pakistan
-- **Phone:** (not provided — add via `/setup` when ready)
+- **Phone:** +92 313 1163184
 - **Email:** ibad_2000@hotmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ibad-akbar
 - **GitHub:** https://github.com/ibadakbar
 - **Portfolio:** https://ibadakbar.netlify.app
 - **Status:** Employed — Full Stack Developer at Plai (Remote, United States)
-- **Constraints:** Based in Karachi; open to remote roles (already working US remote). Relocation preferences TBD in search config.
+- **Constraints / search preferences:**
+  - Based in Karachi, Pakistan
+  - **Target countries/regions:** Germany, Saudi Arabia, Switzerland, Europe (EU/EEA + UK), Australia, New Zealand, Pakistan
+  - **Job types:** Full-time, part-time, contract
+  - **Workplace type:** Remote, hybrid, on-site (all in scope when geography matches)
+  - **Priority filters:** Visa sponsorship, relocation support (boost strongly when present)
+  - Remote / hybrid roles that hire candidates in/from those markets are in scope
 - **Experience framing:** 5+ years (honest to timeline from 2021)
 
 ### Languages

@@ -91,9 +91,13 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
+- Within Karachi / Pakistan (local, hybrid, or remote): PASS
+- Remote hiring into target markets (Germany, Saudi Arabia, Switzerland, Europe, Australia, New Zealand, Pakistan): PASS
+- On-site / hybrid in a **target geography** with visa sponsorship and/or relocation support: PASS (boost)
+- On-site / hybrid in a target geography with **no** sponsorship/relocation mentioned: FLAG (discuss — may still apply if sponsorship is possible)
+- On-site only **outside** target geographies with no remote option and no sponsorship path: FAIL
+- Full-time, part-time, and contract: all PASS on employment type (note contract vs permanent in evaluation)
+- Remote, hybrid, and on-site: all PASS on workplace type when geography / sponsorship rules above are met (note workplace type in evaluation)
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
@@ -109,16 +113,16 @@ Does this role advance career goals and contain tasks that energize?
 **Career goals:**
 - Grow as a senior full-stack / product engineer on scalable SaaS (React, Next.js, TypeScript)
 - Own end-to-end features that improve performance, UX, and measurable business outcomes
-- Continue remote or hybrid work with strong product teams (TBD refined in `/setup` follow-up)
+- Continue remote, hybrid, or sponsored relocation into Germany / Saudi Arabia / Switzerland / Europe / Australia / New Zealand / Pakistan with strong product teams
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: Building SaaS UIs and dashboards, performance optimization, shipping product features, real-time / interactive apps *[Inferred from LinkedIn About / CV - confirm in follow-up]*
-- Tasks that drain: Pure maintenance with no product ownership; ticket factories without architecture voice *[Inferred - confirm in follow-up]*
+- Tasks that energize: Building SaaS UIs and dashboards, performance optimization, shipping product features, real-time / interactive apps
+- Tasks that drain: Pure maintenance with no product ownership; ticket factories without architecture voice
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
 - **Security**: Currently employed at Plai (remote US); job search can be selective
-- **Flexibility**: Karachi-based; remote-friendly preferred
+- **Flexibility**: Karachi-based; open to FT / PT / contract and remote / hybrid / on-site; prioritizes visa sponsorship + relocation support for target countries
 - **Professional development:** System design, performance engineering, scalable architecture (per LinkedIn About)
 
 ### 6. Salary Benchmark (Optional)

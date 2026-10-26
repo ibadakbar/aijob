@@ -14,7 +14,11 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Identity
 - **Name:** Ibad Akbar
-- **Location:** Karachi, Pakistan (prefer remote worldwide; Karachi local OK; relocation open to discuss)
+- **Location:** Karachi, Pakistan
+- **Target geographies:** Germany, Saudi Arabia, Switzerland, broader Europe (EU/EEA + UK), Australia, New Zealand, Pakistan — plus remote roles that hire into those markets
+- **Work arrangements:** Full-time, part-time, and contract are all acceptable
+- **Workplace type:** Remote, hybrid, and on-site (on-site/hybrid in target geographies; remote worldwide into those markets)
+- **Mobility:** Actively seeking **visa sponsorship** and **relocation support** for on-site/hybrid roles in the target geographies
 - **Languages:**
   | Language | Level |
   |----------|-------|
@@ -80,9 +84,9 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - Startups building real-time or marketplace products
 
 ### Deal-breakers
-- Roles that require on-site only in a city you cannot commute to (prefer remote; Karachi local OK)
+- On-site only outside the target geographies with **no** visa sponsorship / relocation path and no remote option
 - Unpaid long "trial" periods framed as employment
-- Roles whose primary language requirement is a language not on your Languages table
+- Roles whose primary language requirement is a language not on your Languages table (German/Arabic as a *required* working language = FAIL unless you add that language later)
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
