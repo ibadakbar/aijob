@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** React.js, Next.js, TypeScript/JavaScript, Node.js, MERN, SaaS dashboards, REST APIs, frontend performance/UX, Redux, Firebase/Supabase
+**Moderate match areas:** React Native/Expo, Shopify/Liquid, AWS/DigitalOcean, Docker/CI/CD, OpenAI/LLM feature integration, Stripe, real-time (Socket.io/WebRTC)
+**Weak match areas:** Native iOS/Android (Swift/Kotlin), deep SRE/Kubernetes platform ops, formal security engineering as primary role, heavy data science/ML research, Java/.NET enterprise stacks
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +74,9 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Full-stack / frontend SaaS product engineering, advertising analytics dashboards, real estate and marketplace web apps, MERN/Next.js delivery, remote collaboration with US teams
+**Moderate:** Mobile (React Native), e-commerce/Shopify, live streaming / real-time apps, mentoring juniors
+**Entry-level:** Dedicated cyber security roles (CEH cert only), pure DevOps/SRE, native mobile, ML research engineer
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -107,19 +107,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Grow as a senior full-stack / product engineer on scalable SaaS (React, Next.js, TypeScript)
+- Own end-to-end features that improve performance, UX, and measurable business outcomes
+- Continue remote or hybrid work with strong product teams (TBD refined in `/setup` follow-up)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: Building SaaS UIs and dashboards, performance optimization, shipping product features, real-time / interactive apps *[Inferred from LinkedIn About / CV - confirm in follow-up]*
+- Tasks that drain: Pure maintenance with no product ownership; ticket factories without architecture voice *[Inferred - confirm in follow-up]*
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently employed at Plai (remote US); job search can be selective
+- **Flexibility**: Karachi-based; remote-friendly preferred
+- **Professional development:** System design, performance engineering, scalable architecture (per LinkedIn About)
 
 ### 6. Salary Benchmark (Optional)
 

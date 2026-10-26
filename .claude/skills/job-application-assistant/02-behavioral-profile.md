@@ -4,51 +4,57 @@ framework_version: 1.0.0
 
 # Behavioral Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
-
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+Ibad Akbar's profile (inferred from LinkedIn About and work history) reads as a **product- and performance-oriented builder**: curious about how products scale, focused on UX and load speed, and comfortable shipping SaaS features with remote/startup teams.
+
+*[Inferred from LinkedIn About / CV narrative - review before relying on this]*
 
 ## Core Behavioral Drives
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+| Achievement / delivery | High | Ships production SaaS features and measurable platform improvements |
+| Learning / systems | High | Explicit focus on architecture, performance engineering, and scaling |
+| Collaboration | Moderate–High | Mentoring juniors, Agile delivery, remote cross-team work |
+| Autonomy | High | Remote US role; owns dashboard and platform features end-to-end |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+- **Performance and UX craft:** Optimizes React apps (code splitting, lazy loading) and frames work around speed and conversion. *[Inferred from LinkedIn About / CV - review before relying on this]*
+- **Ownership of product outcomes:** Builds dashboards and platforms used by real users; ties engineering to business impact. *[Inferred from LinkedIn About - review before relying on this]*
+- **Mentoring and standards:** Code reviews and mentoring juniors at Plai and Code-Avenue. *[From CV experience bullets]*
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- Scalable SaaS / product environments with clear user impact
+- Remote or distributed teams with ownership of features
+- Stacks centered on React, Next.js, Node, and modern TypeScript
+- Roles that mix frontend craft with enough backend/API ownership to ship end-to-end
+
+*[Inferred from LinkedIn About and role history - review before relying on this]*
 
 ## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- **Formal cyber security day-job depth:** CEH training is recent; frame as security-aware engineering, not as a security specialist career yet.
+- **Deep infra / SRE:** Cloud and Docker are present; do not overclaim platform-ops leadership without concrete ownership stories.
 
 ## Mapping to Job Posting Language
 
 When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+- Scalable SaaS, product-minded engineer, performance, UX
+- React / Next.js ownership, TypeScript, full-stack delivery
+- Mentoring, code quality, Agile shipping
 
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+- Pure backend/infra-only with no product UI
+- Heavy on-call SRE without frontend/product work
+- Roles requiring native iOS/Android (not React Native) as primary skill
 
 ## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
-- [WHAT_DOESN'T_WORK]
+- Autonomy with clear product goals; room to own features end-to-end
+- Collaborative code review culture; less interest in micromanaged ticket factories
+
+*[Inferred - review before relying on this]*
 
 ## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+- **Cover letters:** Lead with shipping SaaS features, performance/UX outcomes, and remote collaboration.
+- **CV:** Emphasize dashboards, measurable platform improvements, mentoring.
+- **Interviews:** Use Plai analytics dashboard, Dar-E-Zameen performance work, Code-Avenue mentoring STAR examples.
+- **Don't overstate:** Senior title on LinkedIn vs. Full Stack title on CV — use role titles as employed; claim "senior" only if the posting's bar matches demonstrated scope.

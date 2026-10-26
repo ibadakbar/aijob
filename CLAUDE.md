@@ -1,10 +1,9 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Ibad Akbar
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+<!-- SETUP: Populated by /setup Path A from documents/ + defaults for search preferences -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Ibad Akbar, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,79 +12,77 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Ibad Akbar
+- **Location:** Karachi, Pakistan (prefer remote worldwide; Karachi local OK; relocation open to discuss)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | Urdu | Native |
+  | English | Professional / Fluent |
+  | Hindi | Conversational |
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Employed — Full Stack Developer at Plai (Remote, United States)
+- **LinkedIn headline:** "Senior Software Engineer | React & Next.js | Full-Stack TypeScript | Shopify | AI | SaaS & AI-Powered Products | Scalable Web & Mobile Apps | Performance, UX & Cloud"
+- **Contact:** ibad_2000@hotmail.com | https://www.linkedin.com/in/ibad-akbar | https://github.com/ibadakbar | https://ibadakbar.netlify.app
+- **Phone:** +923131163184
+- **Experience framing:** 5+ years
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **BSc in Software Engineering** (Jan 2018 – Dec 2021) - University of Karachi
+  - Topics: Software engineering, web and application development
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Full Stack Developer** (2024 - Present) - **Plai** (United States, Remote)
+  - SaaS advertising analytics dashboards; database and frontend performance; mentoring juniors; Agile delivery
+- **MERN Stack Developer** (2023 - 2024) - **Code-Avenue** (Karachi, Pakistan)
+  - React apps, reusable components/hooks, REST APIs, Redux, Jest, mentoring; Employee of the Year
+- **Frontend Developer** (2022 - 2023) - **Limton Innovative Systems** (Karachi, Pakistan)
+  - React UIs; IoT product contribution; requirements to maintainable UI
+- **MERN Stack Developer** (2021 - 2022) - **Dar-E-Zameen** (Karachi, Pakistan)
+  - Real estate platform performance (~40% UX/perf), MongoDB Atlas (~50% faster queries), Node.js load (~25% reduction) — numbers as stated on CV; verify measurement story before interviews
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** React.js, Next.js, TypeScript/JavaScript, Node.js, MERN, SaaS dashboards, REST APIs, frontend performance/UX
+- **Secondary:** React Native/Expo, Shopify/Liquid, AWS/DigitalOcean, Docker/CI/CD, OpenAI/LLM features, Stripe, Socket.io/WebRTC
+- **Domain:** SaaS product engineering, advertising analytics, e-commerce storefronts, real-time streaming, marketplace/logistics UIs
+- **Software:** PostgreSQL, Supabase, MongoDB, MySQL, Firebase, Git, Docker
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Cyber Security (CEH)** - NAVTTC / PMYSDP Batch III, Iqra University Karachi - Grade A+ - Feb–May 2026 (issued Jun 2026)
+- **JavaScript (Advanced)** - HackerRank
+- **Web Design & Web Engineering** - NAVTTC
+- **Web & Mobile Development** - Saylani Mass IT Training
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None listed.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Employee of the Year - Code-Avenue
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Product- and performance-oriented builder** - scales SaaS products, cares about UX and load speed
+- **Ownership + mentoring** - ships end-to-end features; reviews code and mentors juniors
+- **Strengths:** React/Next delivery, remote collaboration, measurable platform improvements
+- **Growth areas:** Deep SRE/infra; cyber security as primary career (cert only for now)
+- **Thrives in:** Scalable SaaS product teams with autonomy and clear user impact
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building scalable SaaS products with React, Next.js, and TypeScript
+- Performance, UX, and shipping features that convert or help real users
+- End-to-end ownership (frontend + APIs) on product teams
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- SaaS / B2B software: product companies needing full-stack or strong frontend engineers
+- Advertising tech / analytics: dashboard and campaign tooling (Plai-adjacent)
+- E-commerce / Shopify agencies and platforms
+- Startups building real-time or marketplace products
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Roles that require on-site only in a city you cannot commute to (prefer remote; Karachi local OK)
+- Unpaid long "trial" periods framed as employment
+- Roles whose primary language requirement is a language not on your Languages table
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

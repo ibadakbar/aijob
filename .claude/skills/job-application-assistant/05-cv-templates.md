@@ -59,7 +59,7 @@ Expected output: `Output written on main_<company>_<role>.pdf (2 pages, ...)`. A
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Ibad Akbar - CV},
     % Keep pdfpagemode=UseNone: this block runs after moderncv's own
     % \AtEndPreamble (moderncv.cls sets pdfpagemode there), so a FullScreen
     % value here would win and open every CV in fullscreen presentation mode.
@@ -69,13 +69,13 @@ Expected output: `Output written on main_<company>_<role>.pdf (2 pages, ...)`. A
 \usepackage{import}
 
 % Personal data
-\name{[FIRST_NAME]}{[LAST_NAME]}
+\name{Ibad}{Akbar}
 % If you have no address to list, DELETE this whole line. \address{}{}{} fails
 % with "There's no line here to end" on every moderncv version.
-\address{[YOUR_ADDRESS]}{}{}
-\phone[mobile]{[YOUR_PHONE]}
-\email{[YOUR_EMAIL]}
-\extrainfo{\href{[YOUR_LINKEDIN_URL]}{LinkedIn}, \href{[YOUR_GITHUB_URL]}{GitHub}}
+\address{Karachi, Pakistan}{}{}
+% Phone not yet provided — add \phone[mobile]{...} when available
+\email{ibad_2000@hotmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/ibad-akbar}{LinkedIn}, \href{https://github.com/ibadakbar}{GitHub}, \href{https://ibadakbar.netlify.app}{Portfolio}}
 
 \begin{document}
 \makecvtitle
@@ -137,11 +137,14 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Full Stack / SaaS product engineer roles:**
+> Full Stack Developer with 5+ years building scalable SaaS and web applications. Strong in React, Next.js, TypeScript, and Node.js, with a focus on performance, UX, and reliable APIs. Experienced shipping advertising analytics dashboards and cloud-backed product features for remote product teams.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Frontend / React / Next.js roles:**
+> Frontend-focused engineer specializing in React and Next.js, with production experience in reusable component systems, state management, and performance (code splitting, lazy loading). Comfortable integrating REST APIs and collaborating closely with backend teams to deliver end-to-end product features.
+
+**For React Native / cross-platform roles:**
+> Full Stack Developer with web and mobile experience (React, React Native, TypeScript), including real-time live streaming UIs with Socket.io and WebRTC. Comfortable shipping shared product surfaces across web and mobile with Node.js backends.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 
