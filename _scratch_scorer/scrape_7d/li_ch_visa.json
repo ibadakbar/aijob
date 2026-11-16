@@ -1,0 +1,53 @@
+﻿{
+  "meta": {
+    "count": 5,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4482627589",
+      "title": "Staff Software Engineer, Platform & Infrastructure",
+      "company": "Stream",
+      "companyUrl": "https://www.linkedin.com/company/getstream",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-10-24",
+      "url": "https://nl.linkedin.com/jobs/view/staff-software-engineer-platform-infrastructure-at-stream-4482627589"
+    },
+    {
+      "id": "4476189731",
+      "title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
+      "company": "Sprint and Partners",
+      "companyUrl": "https://nl.linkedin.com/company/sprint&partners",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-10-26",
+      "url": "https://nl.linkedin.com/jobs/view/sre-platform-engineer-senior-staff-amsterdam-global-platform-at-sprint-and-partners-4476189731"
+    },
+    {
+      "id": "4419837058",
+      "title": "System Engineer – Managed Kubernetes",
+      "company": "Leaseweb",
+      "companyUrl": "https://nl.linkedin.com/company/leaseweb",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-06",
+      "url": "https://nl.linkedin.com/jobs/view/system-engineer%E2%80%AF%E2%80%93-managed-kubernetes-at-leaseweb-4419837058"
+    },
+    {
+      "id": "4467209384",
+      "title": "System Engineer – Public Cloud Scalability",
+      "company": "Leaseweb",
+      "companyUrl": "https://nl.linkedin.com/company/leaseweb",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-10-27",
+      "url": "https://nl.linkedin.com/jobs/view/system-engineer-%E2%80%93-public-cloud-scalability-at-leaseweb-4467209384"
+    },
+    {
+      "id": "4473786649",
+      "title": "Platform Engineering - Developer Experience - (Sr & Staff levels) | AI, AWS & Software Engineering | High base + equity | Amsterdam, Hybrid",
+      "company": "Sprint and Partners",
+      "companyUrl": "https://nl.linkedin.com/company/sprint&partners",
+      "location": "Amsterdam Area",
+      "date": "2026-10-26",
+      "url": "https://nl.linkedin.com/jobs/view/platform-engineering-developer-experience-sr-staff-levels-ai-aws-software-engineering-high-base-%2B-equity-amsterdam-hybrid-at-sprint-and-partners-4473786649"
+    }
+  ]
+}

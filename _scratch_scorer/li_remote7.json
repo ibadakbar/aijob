@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4489184441",
+      "title": "Junior Fullstack Engineer",
+      "company": "Quo",
+      "companyUrl": "https://www.linkedin.com/company/gowithquo",
+      "location": "Vancouver, British Columbia, Canada",
+      "date": "2026-11-10",
+      "url": "https://ca.linkedin.com/jobs/view/junior-fullstack-engineer-at-quo-4489184441"
+    },
+    {
+      "id": "4472202587",
+      "title": "Senior Software Engineer (Full Stack)",
+      "company": "Topstep",
+      "companyUrl": "https://www.linkedin.com/company/topstep",
+      "location": "United States",
+      "date": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-topstep-4472202587"
+    },
+    {
+      "id": "4489186262",
+      "title": "Junior Fullstack Engineer",
+      "company": "Quo",
+      "companyUrl": "https://www.linkedin.com/company/gowithquo",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-10",
+      "url": "https://ca.linkedin.com/jobs/view/junior-fullstack-engineer-at-quo-4489186262"
+    },
+    {
+      "id": "4487009761",
+      "title": "Senior Fullstack React & Node Developer - Remote Work | REF#307768",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Carabobo State, Venezuela",
+      "date": "2026-11-03",
+      "url": "https://ve.linkedin.com/jobs/view/senior-fullstack-react-node-developer-remote-work-ref%23307768-at-bairesdev-4487009761"
+    },
+    {
+      "id": "4476386918",
+      "title": "Senior Fullstack React & Node Developer - Remote Work | REF#305556",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Federal District, Venezuela",
+      "date": "2026-11-03",
+      "url": "https://ve.linkedin.com/jobs/view/senior-fullstack-react-node-developer-remote-work-ref%23305556-at-bairesdev-4476386918"
+    },
+    {
+      "id": "4486061994",
+      "title": "Fullstack Developer - Advertising Technology",
+      "company": "Schibsted",
+      "companyUrl": "https://no.linkedin.com/company/schibsted-asa",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-03",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-developer-advertising-technology-at-schibsted-4486061994"
+    },
+    {
+      "id": "4486246711",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "companyUrl": "https://www.linkedin.com/company/kake",
+      "location": "Pune District, Maharashtra, India",
+      "date": "2026-11-06",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4486246711"
+    },
+    {
+      "id": "4472049827",
+      "title": "Software Engineer",
+      "company": "MongoDB",
+      "companyUrl": "https://www.linkedin.com/company/mongodbinc",
+      "location": "United States",
+      "date": "2026-11-07",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-mongodb-4472049827"
+    },
+    {
+      "id": "4484687686",
+      "title": "Fullstack Engineer",
+      "company": "Tibber",
+      "companyUrl": "https://no.linkedin.com/company/tibber",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-03",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-engineer-at-tibber-4484687686"
+    },
+    {
+      "id": "4484693142",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "companyUrl": "https://www.linkedin.com/company/kake",
+      "location": "Cairo, Egypt",
+      "date": "2026-11-03",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4484693142"
+    }
+  ]
+}

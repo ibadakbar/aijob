@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Benetics AI",
+    "url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-06",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "location": "Z\u00fcrich, Switzerland",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.9
+    },
+    "sponsorship_score": 0.9,
+    "skill_score": 0.55
+  },
+  {
+    "title": "Senior Full Stack Engineer - ClickStack",
+    "company": "ClickHouse",
+    "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-clickstack-at-clickhouse-4487993835",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-10",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Amsterdam Area / Netherlands remote",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.3
+    },
+    "sponsorship_score": 0.3,
+    "skill_score": 0.92
+  },
+  {
+    "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
+    "company": "ClickHouse",
+    "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-typescript-frontend-ai-ml-at-clickhouse-4488303193",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-10",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Amsterdam, Netherlands",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.3
+    },
+    "sponsorship_score": 0.3,
+    "skill_score": 0.9
+  },
+  {
+    "title": "Demo Software Engineer (f/m/d)",
+    "company": "Contentful",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/contentful/demo-software-engineer-london-378723",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-10",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "location": "London, UK",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55
+    },
+    "sponsorship_score": 0.55,
+    "skill_score": 0.85
+  },
+  {
+    "title": "Full Stack Engineer (Web,Frontend Oriented) \u2014 AI Facial Recognition, Identity & Security",
+    "company": "Binance",
+    "url": "https://ae.linkedin.com/jobs/view/full-stack-engineer-web-frontend-oriented-%E2%80%94-ai-facial-recognition-identity-security-at-binance-4479960196",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-09",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Abu Dhabi, UAE (remote-first)",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.3
+    },
+    "sponsorship_score": 0.3,
+    "skill_score": 0.82
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "company": "TensorX",
+    "url": "https://tensorx.ai/careers/senior-full-stack-engineer/",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-08",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Dublin, Ireland (hybrid)",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.25
+    },
+    "sponsorship_score": 0.25,
+    "skill_score": 0.95
+  },
+  {
+    "title": "Senior Frontend Engineer",
+    "company": "Almedia",
+    "url": "https://de.linkedin.com/jobs/view/senior-frontend-engineer-at-almedia-4489190100",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-10",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Berlin, Germany",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.25
+    },
+    "sponsorship_score": 0.25,
+    "skill_score": 0.88
+  },
+  {
+    "title": "Full-Stack Software Engineer, Child Safety Tools & Systems (London)",
+    "company": "OpenAI",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/full-stack-software-engineer-child-safety-tools-systems-london-87438",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-10",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "location": "London, UK",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55
+    },
+    "sponsorship_score": 0.55,
+    "skill_score": 0.7
+  },
+  {
+    "title": "(Junior) Frontend Engineer \u2014 Broker (m/f/x)",
+    "company": "Scalable Capital",
+    "url": "https://de.linkedin.com/jobs/view/junior-frontend-engineer-%E2%80%94-broker-m-f-x-at-scalable-capital-4487923252",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-09",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Munich, Germany",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.25
+    },
+    "sponsorship_score": 0.25,
+    "skill_score": 0.75
+  },
+  {
+    "title": "Senior Engineer - Full Stack",
+    "company": "Inception42",
+    "url": "https://ae.linkedin.com/jobs/view/senior-engineer-full-stack-at-inception42-4487688752",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-09",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Abu Dhabi, UAE",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.25
+    },
+    "sponsorship_score": 0.25,
+    "skill_score": 0.7
+  },
+  {
+    "title": "Senior Specialist - Fullstack Engineer",
+    "company": "Al Ghurair",
+    "url": "https://ae.linkedin.com/jobs/view/senior-specialist-fullstack-engineer-at-al-ghurair-4486365687",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-05",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Dubai, UAE",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.25
+    },
+    "sponsorship_score": 0.25,
+    "skill_score": 0.68
+  },
+  {
+    "title": "Principal Engineer -- Full-Stack TypeScript (Node.js, React, Cloud)",
+    "company": "Hook",
+    "url": "https://job-boards.greenhouse.io/hook/jobs/8922828002",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-07",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "freehire-search",
+    "source": "cli",
+    "location": "Remote",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.2
+    },
+    "sponsorship_score": 0.2,
+    "skill_score": 0.9
+  }
+]

@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4487731978",
+      "title": "Full stack developer (Javascript 1 year day contract rate North Dublin",
+      "company": "Presidio IT Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/presidio-it-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-developer-javascript-1-year-day-contract-rate-north-dublin-at-presidio-it-recruitment-4487731978"
+    },
+    {
+      "id": "4483817261",
+      "title": "React Engineer",
+      "company": "Air Apps",
+      "companyUrl": "https://www.linkedin.com/company/airapps",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/react-engineer-at-air-apps-4483817261"
+    },
+    {
+      "id": "4485806710",
+      "title": "Full Stack Engineer",
+      "company": "RECRUITERS",
+      "companyUrl": "https://ie.linkedin.com/company/recruiters",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-recruiters-4485806710"
+    },
+    {
+      "id": "4479447131",
+      "title": "Frontend Web Developer",
+      "company": "Air Apps",
+      "companyUrl": "https://www.linkedin.com/company/airapps",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-03",
+      "url": "https://ie.linkedin.com/jobs/view/frontend-web-developer-at-air-apps-4479447131"
+    },
+    {
+      "id": "4486832651",
+      "title": "Senior Full Stack Engineer",
+      "company": "Harvey Nash",
+      "companyUrl": "https://uk.linkedin.com/company/harvey-nash",
+      "location": "Galway, County Galway, Ireland",
+      "date": "2026-11-03",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-at-harvey-nash-4486832651"
+    },
+    {
+      "id": "4484561122",
+      "title": "Senior Software Engineer",
+      "company": "Trust In SODA",
+      "companyUrl": "https://uk.linkedin.com/company/trust-in-soda",
+      "location": "Galway, County Galway, Ireland",
+      "date": "2026-10-29",
+      "url": "https://ie.linkedin.com/jobs/view/senior-software-engineer-at-trust-in-soda-4484561122"
+    },
+    {
+      "id": "4465888095",
+      "title": "Senior Full Stack Engineer",
+      "company": "TensorX",
+      "companyUrl": "https://ie.linkedin.com/company/tensorx-ai",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-08",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-at-tensorx-4465888095"
+    },
+    {
+      "id": "4412981038",
+      "title": "Senior / Staff Software Engineer",
+      "company": "Motion (Creative Analytics)",
+      "companyUrl": "https://ca.linkedin.com/company/motion1",
+      "location": "Ireland",
+      "date": "2026-11-02",
+      "url": "https://ie.linkedin.com/jobs/view/senior-staff-software-engineer-at-motion-creative-analytics-4412981038"
+    }
+  ]
+}

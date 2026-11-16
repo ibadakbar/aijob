@@ -1,0 +1,20 @@
+{
+  "jobs": [
+    {
+      "id": 1001,
+      "title": "Full Stack Engineer (React)",
+      "location": {"name": "London, UK"},
+      "absolute_url": "https://boards.greenhouse.io/example/jobs/1001",
+      "first_published": "2026-10-15T12:00:00-04:00",
+      "updated_at": "2026-10-16T12:00:00-04:00"
+    },
+    {
+      "id": 1002,
+      "title": "Office Manager",
+      "location": {"name": "New York"},
+      "absolute_url": "https://boards.greenhouse.io/example/jobs/1002",
+      "first_published": "2026-10-10T12:00:00-04:00"
+    }
+  ],
+  "meta": {"total": 2}
+}

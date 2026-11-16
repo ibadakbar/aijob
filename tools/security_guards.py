@@ -89,6 +89,13 @@ ALLOWED_PERMISSIONS = {
     # Reads a file or stdin, writes only to an explicit --out, never fetches.
     "Bash(python tools/posting_guard.py:*)",
     "Bash(python3 tools/posting_guard.py:*)",
+    # Visa / relocation discovery (/scrape Step 1d).
+    "Bash(python tools/visa_discover.py:*)",
+    "Bash(python3 tools/visa_discover.py:*)",
+    # Evidence-based client/job lead engine (/leads).
+    "Bash(python tools/leads_cli.py:*)",
+    "Bash(python3 tools/leads_cli.py:*)",
+    "Skill(lead-engine)",
 }
 
 # Rules that must stay in .claude/settings.json permissions.ask. An ask rule
@@ -193,6 +200,13 @@ REQUIRED_IGNORE_RULES = [
     "company_research/*.json",
     # Machine-local Claude Code user configuration and ad-hoc permissions approvals.
     ".claude/settings.local.json",
+    # Lead engine store + per-run exports (contacts, outreach drafts, company names).
+    "leads/store/**",
+    "!leads/store/.gitkeep",
+    "leads/exports/**",
+    "!leads/exports/.gitkeep",
+    "**/leads/store/**",
+    "**/leads/exports/**",
 ]
 
 # Negation (re-include) rules the template legitimately ships. .gitignore is
@@ -207,6 +221,9 @@ ALLOWED_IGNORE_NEGATIONS = {
     "!cv/main_example.tex",
     "!cover_letters/cover_example.tex",
     "!documents/**/.gitkeep",
+    "!**/job_scraper/cache/.gitkeep",
+    "!leads/store/.gitkeep",
+    "!leads/exports/.gitkeep",
 }
 
 # Hook commands the template legitimately ships, as "<Event>:<command>" strings.
@@ -246,6 +263,10 @@ ALLOWED_SKILL_TOOLS = {
     "Bash(python3 tools/job_key.py:*)",
     "Bash(python tools/scrape_state.py:*)",
     "Bash(python3 tools/scrape_state.py:*)",
+    "Bash(python tools/visa_discover.py:*)",
+    "Bash(python3 tools/visa_discover.py:*)",
+    "Bash(python tools/leads_cli.py:*)",
+    "Bash(python3 tools/leads_cli.py:*)",
 }
 
 # The tools a shipped .claude/agents/*.md may list. These agents read untrusted

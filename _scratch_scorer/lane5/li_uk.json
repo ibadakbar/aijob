@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486225416",
+      "title": "React Developer",
+      "company": "SThree",
+      "companyUrl": "https://uk.linkedin.com/company/sthree-plc",
+      "location": "Manchester, England, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/react-developer-at-sthree-4486225416"
+    },
+    {
+      "id": "4486232123",
+      "title": "NextJS Developer",
+      "company": "SThree",
+      "companyUrl": "https://uk.linkedin.com/company/sthree-plc",
+      "location": "Manchester, England, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/nextjs-developer-at-sthree-4486232123"
+    },
+    {
+      "id": "4489618190",
+      "title": "Senior Frontend Engineer (Contract) | Typescript & React | Hybrid | Outside IR35 | £550/£600 a Day | 6 month contract",
+      "company": "Owen Thomas | B Corp™",
+      "companyUrl": "https://uk.linkedin.com/company/owen-thomas-talent",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-10",
+      "url": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-contract-typescript-react-hybrid-outside-ir35-%C2%A3550-%C2%A3600-a-day-6-month-contract-at-owen-thomas-b-corp%E2%84%A2-4489618190"
+    },
+    {
+      "id": "4487768601",
+      "title": "Front End Engineer / React Developer",
+      "company": "Hays",
+      "companyUrl": "https://uk.linkedin.com/company/hays",
+      "location": "Telford, England, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/front-end-engineer-react-developer-at-hays-4487768601"
+    },
+    {
+      "id": "4486973818",
+      "title": "Frontend Developer",
+      "company": "Norton Blake",
+      "companyUrl": "https://uk.linkedin.com/company/norton-blake",
+      "location": "Greater Bristol Area, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-developer-at-norton-blake-4486973818"
+    },
+    {
+      "id": "4487154230",
+      "title": "Senior Frontend Developer",
+      "company": "Salt",
+      "companyUrl": "https://uk.linkedin.com/company/salt",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/senior-frontend-developer-at-salt-4487154230"
+    },
+    {
+      "id": "4488842915",
+      "title": "Front-End Developer (React + Typescript)",
+      "company": "iO Associates",
+      "companyUrl": "https://uk.linkedin.com/company/ioassociates",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/front-end-developer-react-%2B-typescript-at-io-associates-4488842915"
+    },
+    {
+      "id": "4486964534",
+      "title": "Full Stack Engineer",
+      "company": "Auro Recruitment Group",
+      "companyUrl": "https://www.linkedin.com/company/auro-recruitment-group",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-at-auro-recruitment-group-4486964534"
+    },
+    {
+      "id": "4486582379",
+      "title": "Senior UI Developer",
+      "company": "ScaleneWorks People Solutions LLP",
+      "companyUrl": "https://in.linkedin.com/company/scaleneworks",
+      "location": "Glasgow, Scotland, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/senior-ui-developer-at-scaleneworks-people-solutions-llp-4486582379"
+    },
+    {
+      "id": "4488365639",
+      "title": "Full Stack Engineer - Ecommerce Giant (Global household name)",
+      "company": "Ventula Consulting",
+      "companyUrl": "https://uk.linkedin.com/company/ventula-consulting",
+      "location": "Manchester Area, United Kingdom",
+      "date": "2026-11-10",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-ecommerce-giant-global-household-name-at-ventula-consulting-4488365639"
+    }
+  ]
+}

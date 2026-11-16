@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4487142556",
+      "title": "AI Frontend Engineer",
+      "company": "Tech Rise",
+      "companyUrl": "https://nl.linkedin.com/company/techrisepeople",
+      "location": "Amsterdam Area",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/ai-frontend-engineer-at-tech-rise-4487142556"
+    },
+    {
+      "id": "4482284077",
+      "title": "Senior Full Stack Engineer",
+      "company": "NEP Group, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/nep-group-inc",
+      "location": "Hilversum, North Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-at-nep-group-inc-4482284077"
+    },
+    {
+      "id": "4488303193",
+      "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-10",
+      "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-typescript-frontend-ai-ml-at-clickhouse-4488303193"
+    },
+    {
+      "id": "4488835979",
+      "title": "Full Stack Engineer",
+      "company": "Oakwell Hampton Group",
+      "companyUrl": "https://uk.linkedin.com/company/oakwell-hampton",
+      "location": "Delft, South Holland, Netherlands",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-oakwell-hampton-group-4488835979"
+    },
+    {
+      "id": "4485824245",
+      "title": "Senior Full Stack Developer (TypeScript / React / Node.js)",
+      "company": "Russell Tobin",
+      "companyUrl": "https://www.linkedin.com/company/russell-tobin-&-associates-llc",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-developer-typescript-react-node-js-at-russell-tobin-4485824245"
+    },
+    {
+      "id": "4452435844",
+      "title": "Senior Software Engineer",
+      "company": "Lab Digital",
+      "companyUrl": "https://nl.linkedin.com/company/lab-digital-bv",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-at-lab-digital-4452435844"
+    },
+    {
+      "id": "4485080502",
+      "title": "Full Stack Developer - Marketplace",
+      "company": "Trustoo.nl",
+      "companyUrl": "https://nl.linkedin.com/company/trustoo-de-beste-bedrijven-voor-jou",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-developer-marketplace-at-trustoo-nl-4485080502"
+    },
+    {
+      "id": "4487993835",
+      "title": "Senior Full Stack Engineer - ClickStack",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Amsterdam Area",
+      "date": "2026-11-10",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-clickstack-at-clickhouse-4487993835"
+    },
+    {
+      "id": "4487926661",
+      "title": "Full Stack Tech Lead",
+      "company": "Search X Recruitment",
+      "companyUrl": "https://nl.linkedin.com/company/search-x-recruitment",
+      "location": "Arnhem, Gelderland, Netherlands",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-tech-lead-at-search-x-recruitment-4487926661"
+    },
+    {
+      "id": "4451102446",
+      "title": "Frontend / Full Stack Software Engineer",
+      "company": "S[&]T",
+      "companyUrl": "https://nl.linkedin.com/company/science-&-technology",
+      "location": "Delft, South Holland, Netherlands",
+      "date": "2026-11-06",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-full-stack-software-engineer-at-s-t-4451102446"
+    }
+  ]
+}

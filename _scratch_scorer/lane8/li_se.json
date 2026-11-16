@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485005227",
+      "title": "Founding Engineer",
+      "company": "Solace Care",
+      "companyUrl": "https://se.linkedin.com/company/solacecare",
+      "location": "Greater Stockholm Metropolitan Area",
+      "date": "2026-11-04",
+      "url": "https://se.linkedin.com/jobs/view/founding-engineer-at-solace-care-4485005227"
+    },
+    {
+      "id": "4485817994",
+      "title": "Full Stack Engineer",
+      "company": "OneLab",
+      "companyUrl": "https://se.linkedin.com/company/onelabse",
+      "location": "Greater Stockholm Metropolitan Area",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-engineer-at-onelab-4485817994"
+    },
+    {
+      "id": "4486904423",
+      "title": "Fullstack Software Engineer",
+      "company": "OneLab",
+      "companyUrl": "https://se.linkedin.com/company/onelabse",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-software-engineer-at-onelab-4486904423"
+    },
+    {
+      "id": "4462038513",
+      "title": "Senior Full Stack Engineer",
+      "company": "AKQA",
+      "companyUrl": "https://uk.linkedin.com/company/akqa",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/senior-full-stack-engineer-at-akqa-4462038513"
+    },
+    {
+      "id": "4474353998",
+      "title": "Full-stack Software Engineer - Graph Engine",
+      "company": "Neo4j",
+      "companyUrl": "https://www.linkedin.com/company/neo4j",
+      "location": "Malmo, Skåne County, Sweden",
+      "date": "2026-11-09",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-software-engineer-graph-engine-at-neo4j-4474353998"
+    },
+    {
+      "id": "4482740609",
+      "title": "AI-utvecklare",
+      "company": "Martin & Servera",
+      "companyUrl": "https://se.linkedin.com/company/martin-&-servera",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/ai-utvecklare-at-martin-servera-4482740609"
+    },
+    {
+      "id": "4414142636",
+      "title": "Fullstack Engineer, Cloud & App Hosting",
+      "company": "Lovable",
+      "companyUrl": "https://se.linkedin.com/company/lovable-dev",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-09",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-engineer-cloud-app-hosting-at-lovable-4414142636"
+    },
+    {
+      "id": "4486222635",
+      "title": "Full Stack Product Engineer",
+      "company": "Exakt",
+      "companyUrl": "https://se.linkedin.com/company/exaktstockholm",
+      "location": "Lidingö, Stockholm County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-product-engineer-at-exakt-4486222635"
+    },
+    {
+      "id": "4488135038",
+      "title": "Full-Stack Developer",
+      "company": "Embedl",
+      "companyUrl": "https://se.linkedin.com/company/embedl",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-developer-at-embedl-4488135038"
+    },
+    {
+      "id": "4459505533",
+      "title": "Full Stack Developer (Python/React)",
+      "company": "Filed",
+      "companyUrl": "https://www.linkedin.com/company/filedhq",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-developer-python-react-at-filed-4459505533"
+    }
+  ]
+}

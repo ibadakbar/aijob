@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4478668530",
+      "title": "Senior Software Engineer",
+      "company": "Templafy",
+      "companyUrl": "https://www.linkedin.com/company/templafy",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-10",
+      "url": "https://dk.linkedin.com/jobs/view/senior-software-engineer-at-templafy-4478668530"
+    },
+    {
+      "id": "4489474207",
+      "title": "Senior Software Engineer - Digital Workplace",
+      "company": "Canonical",
+      "companyUrl": "https://uk.linkedin.com/company/canonical",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-10",
+      "url": "https://dk.linkedin.com/jobs/view/senior-software-engineer-digital-workplace-at-canonical-4489474207"
+    },
+    {
+      "id": "4489627902",
+      "title": "Senior Design Manager (Infrastructure)",
+      "company": "Canonical",
+      "companyUrl": "https://uk.linkedin.com/company/canonical",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-10",
+      "url": "https://dk.linkedin.com/jobs/view/senior-design-manager-infrastructure-at-canonical-4489627902"
+    },
+    {
+      "id": "4488314255",
+      "title": "Senior Engineer – AI & Data Products (Aarhus)",
+      "company": "The Tech Collective",
+      "companyUrl": "https://dk.linkedin.com/company/thetechcollective",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "date": "2026-11-10",
+      "url": "https://dk.linkedin.com/jobs/view/senior-engineer-%E2%80%93-ai-data-products-aarhus-at-the-tech-collective-4488314255"
+    },
+    {
+      "id": "4488311317",
+      "title": "Senior Engineer – AI & Data Products (Copenhagen)",
+      "company": "The Tech Collective",
+      "companyUrl": "https://dk.linkedin.com/company/thetechcollective",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-10",
+      "url": "https://dk.linkedin.com/jobs/view/senior-engineer-%E2%80%93-ai-data-products-copenhagen-at-the-tech-collective-4488311317"
+    },
+    {
+      "id": "4481594209",
+      "title": "Senior Solution Architect - Denmark",
+      "company": "Elastic",
+      "companyUrl": "https://www.linkedin.com/company/elastic-co",
+      "location": "Denmark",
+      "date": "2026-11-10",
+      "url": "https://dk.linkedin.com/jobs/view/senior-solution-architect-denmark-at-elastic-4481594209"
+    },
+    {
+      "id": "4486238212",
+      "title": "Lead Designer",
+      "company": "Laerdal Copenhagen",
+      "companyUrl": "https://dk.linkedin.com/company/laerdalcopenhagen",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-10",
+      "url": "https://dk.linkedin.com/jobs/view/lead-designer-at-laerdal-copenhagen-4486238212"
+    },
+    {
+      "id": "4389099710",
+      "title": "Open Talent Pool - all DHI locations",
+      "company": "DHI",
+      "companyUrl": "https://dk.linkedin.com/company/dhi",
+      "location": "Hørsholm, Capital Region of Denmark, Denmark",
+      "date": "2026-11-11",
+      "url": "https://dk.linkedin.com/jobs/view/open-talent-pool-all-dhi-locations-at-dhi-4389099710"
+    }
+  ]
+}

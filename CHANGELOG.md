@@ -15,6 +15,14 @@ per-file diff commands.
 
 ### Added
 
+- **`/leads` evidence-based client & job lead engine** (`leads/`, `tools/leads_cli.py`,
+  `.claude/commands/leads.md`, `.claude/skills/lead-engine/`) — natural-language prompts parse into
+  structured criteria; Remotive + Arbeitnow adapters (fixture for offline tests); intent classes
+  `EXPLICIT_DEMAND` / `STRONG_SIGNAL` / `POTENTIAL_FIT` with separate intent vs fit scores; contact
+  provenance without fabricated emails; dedupe/persist/export (Markdown + CSV + outreach drafts);
+  review / outreach / outcome / followup subcommands. Never sends external messages without approval.
+  Stubs document Upwork/LinkedIn/etc. Live Remotive integration verified in development.
+
 - **CI runs the Python suite on Windows** (`.github/workflows/ci.yml` `python-tests-windows`) - every
   job ran on Ubuntu, so a Windows-only failure reached master with all checks green: #480's test
   (an atomic rename that Windows file locking refuses) and #486's (a tool printing non-ASCII JSON

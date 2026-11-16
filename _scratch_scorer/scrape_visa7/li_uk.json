@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4368093625",
+      "title": "Senior Software Engineer",
+      "company": "Aurora Energy Research",
+      "companyUrl": "https://uk.linkedin.com/company/aurora-energy-research-limited",
+      "location": "Oxford, England, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-at-aurora-energy-research-4368093625"
+    },
+    {
+      "id": "4476441590",
+      "title": "Full Stack Engineer",
+      "company": "OJ Digital",
+      "companyUrl": "https://uk.linkedin.com/company/ojdigital",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-at-oj-digital-4476441590"
+    },
+    {
+      "id": "4383901950",
+      "title": "Member of Technical Staff - Applications",
+      "company": "Reflection",
+      "companyUrl": "https://www.linkedin.com/company/reflectionai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-04",
+      "url": "https://uk.linkedin.com/jobs/view/member-of-technical-staff-applications-at-reflection-4383901950"
+    },
+    {
+      "id": "4485825128",
+      "title": "Principal Software Engineer - UCX",
+      "company": "Simon James IT Ltd",
+      "companyUrl": "https://uk.linkedin.com/company/simon-james-it-ltd",
+      "location": "Greater Bristol Area, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/principal-software-engineer-ucx-at-simon-james-it-ltd-4485825128"
+    },
+    {
+      "id": "4487136582",
+      "title": "Founding Engineer - React/Python - £100k-£120k + Equity - London",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineer-react-python-%C2%A3100k-%C2%A3120k-%2B-equity-london-at-oliver-bernard-4487136582"
+    },
+    {
+      "id": "4487671979",
+      "title": "Software Engineer III - React",
+      "company": "Archer",
+      "companyUrl": "https://uk.linkedin.com/company/meet-archer",
+      "location": "Glasgow, Scotland, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-iii-react-at-archer-4487671979"
+    },
+    {
+      "id": "4488785077",
+      "title": "Senior Engineer",
+      "company": "Arva AI",
+      "companyUrl": "https://www.linkedin.com/company/arva-ai",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-08",
+      "url": "https://uk.linkedin.com/jobs/view/senior-engineer-at-arva-ai-4488785077"
+    },
+    {
+      "id": "4486227240",
+      "title": "Founding Engineer",
+      "company": "Spectrum Search",
+      "companyUrl": "https://uk.linkedin.com/company/spectrumsearch",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineer-at-spectrum-search-4486227240"
+    },
+    {
+      "id": "4488120601",
+      "title": "Staff Software Engineer",
+      "company": "Burns Sheehan",
+      "companyUrl": "https://uk.linkedin.com/company/burnssheehan",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/staff-software-engineer-at-burns-sheehan-4488120601"
+    },
+    {
+      "id": "4478596242",
+      "title": "Founding Engineers (Typescript) | 90-120k (+equity) | Early stage travel / consumer marketplace startup | x5 days pw (central/east Ldn)",
+      "company": "Owen Thomas | B Corp™",
+      "companyUrl": "https://uk.linkedin.com/company/owen-thomas-talent",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-08",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineers-typescript-90-120k-%2Bequity-early-stage-travel-consumer-marketplace-startup-x5-days-pw-central-east-ldn-at-owen-thomas-b-corp%E2%84%A2-4478596242"
+    }
+  ]
+}

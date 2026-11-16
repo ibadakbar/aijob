@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4481236939",
+      "title": "Senior Frontend Developer - React",
+      "company": "Cpl",
+      "companyUrl": "https://ie.linkedin.com/company/cpl",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/senior-frontend-developer-react-at-cpl-4481236939"
+    },
+    {
+      "id": "4488642592",
+      "title": "Frontend Engineer (Remote)",
+      "company": "Joblet-AI",
+      "companyUrl": "https://www.linkedin.com/company/joblet-ai",
+      "location": "Ireland",
+      "date": "2026-11-11",
+      "url": "https://ie.linkedin.com/jobs/view/frontend-engineer-remote-at-joblet-ai-4488642592"
+    },
+    {
+      "id": "4487731978",
+      "title": "Full stack developer (Javascript 1 year day contract rate North Dublin",
+      "company": "Presidio IT Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/presidio-it-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-developer-javascript-1-year-day-contract-rate-north-dublin-at-presidio-it-recruitment-4487731978"
+    },
+    {
+      "id": "4485806710",
+      "title": "Full Stack Engineer",
+      "company": "RECRUITERS",
+      "companyUrl": "https://ie.linkedin.com/company/recruiters",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-recruiters-4485806710"
+    },
+    {
+      "id": "4487762887",
+      "title": "Software Engineer - Java&React",
+      "company": "E-Frontiers",
+      "companyUrl": "https://ie.linkedin.com/company/e-frontiers-ltd",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-java-react-at-e-frontiers-4487762887"
+    },
+    {
+      "id": "4489449866",
+      "title": "Full Stack Engineer",
+      "company": "Archer Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/archer",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-archer-recruitment-4489449866"
+    },
+    {
+      "id": "4489600672",
+      "title": "Full Stack Engineer",
+      "company": "Harvey Nash",
+      "companyUrl": "https://uk.linkedin.com/company/harvey-nash",
+      "location": "Galway, County Galway, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-harvey-nash-4489600672"
+    },
+    {
+      "id": "4488651222",
+      "title": "JavaScript Full-Stack Developer (Remote)",
+      "company": "Joblet-AI",
+      "companyUrl": "https://www.linkedin.com/company/joblet-ai",
+      "location": "Ireland",
+      "date": "2026-11-11",
+      "url": "https://ie.linkedin.com/jobs/view/javascript-full-stack-developer-remote-at-joblet-ai-4488651222"
+    },
+    {
+      "id": "4487789482",
+      "title": "Full Stack Engineer - Java & React",
+      "company": "Vantage",
+      "companyUrl": "https://ie.linkedin.com/company/vantage-resources-ltd-",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-java-react-at-vantage-4487789482"
+    },
+    {
+      "id": "4465888095",
+      "title": "Senior Full Stack Engineer",
+      "company": "TensorX",
+      "companyUrl": "https://ie.linkedin.com/company/tensorx-ai",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-08",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-at-tensorx-4465888095"
+    }
+  ]
+}

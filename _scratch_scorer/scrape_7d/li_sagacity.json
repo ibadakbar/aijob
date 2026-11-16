@@ -1,0 +1,53 @@
+﻿{
+  "meta": {
+    "count": 5,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4488023776",
+      "title": "Full Stack Engineer",
+      "company": "Aspect",
+      "companyUrl": "https://uk.linkedin.com/company/aspect-maintenance-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-at-aspect-4488023776"
+    },
+    {
+      "id": "4389789550",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "company": "Scale",
+      "companyUrl": "https://www.linkedin.com/company/scaleai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/senior-full-stack-software-engineer-forward-deployed-gps-at-scale-4389789550"
+    },
+    {
+      "id": "4476305968",
+      "title": "Software Engineer",
+      "company": "Formula.",
+      "companyUrl": "https://uk.linkedin.com/company/formula-talent-consultancy",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-28",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-at-formula-4476305968"
+    },
+    {
+      "id": "4371312300",
+      "title": "Product Engineer (Full Stack)",
+      "company": "Granola",
+      "companyUrl": "https://uk.linkedin.com/company/meetgranola",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-31",
+      "url": "https://uk.linkedin.com/jobs/view/product-engineer-full-stack-at-granola-4371312300"
+    },
+    {
+      "id": "4486395713",
+      "title": "Full Stack Engineer (Mid-Level)",
+      "company": "ECA International",
+      "companyUrl": "https://uk.linkedin.com/company/eca-international",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-04",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-mid-level-at-eca-international-4486395713"
+    }
+  ]
+}

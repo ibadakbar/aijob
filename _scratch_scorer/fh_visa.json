@@ -1,0 +1,553 @@
+﻿{
+  "meta": {
+    "count": 15,
+    "page": 1,
+    "total": 85960
+  },
+  "results": [
+    {
+      "id": "react-js-developer-next-js-typescript-tredence-analytics-solutions-private-limited-jtf7aqmr",
+      "title": "React.js Developer - Next.js/TypeScript",
+      "company": "Tredence Analytics Solutions Private Limited",
+      "company_slug": "tredence-analytics-solutions",
+      "location": "Pune; Gurgaon/Gurugram; Bangalore",
+      "date": "2026-07-21",
+      "url": "https://www.hirist.tech/j/react-js-developer-next-js-typescript-1656256?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "agile",
+        "api",
+        "api-design",
+        "ci-cd",
+        "cloud",
+        "design-patterns",
+        "generative-ai",
+        "git",
+        "mysql",
+        "nextjs",
+        "postgresql",
+        "rdbms",
+        "react",
+        "rest",
+        "sql",
+        "sql-server",
+        "typescript",
+        "unit-testing"
+      ],
+      "description": "**Job description :** Senior Front End Engineer\n\n**Experience :** 6-10yrs\n\n**Location :** Bangalore / Chennai / Pune/ Hyderabad/ Gurgaon / Kolkata\n\n**About the Role :**\n\nWe are looking for a committed and responsible Frontend Developer with hands-on experience in React.js, Next.js, and Typescript\n\n**Key Responsibilities :**\n\n\\- Develop and maintain robust, scalable web applications using React.js, Next.js and Typescript\n\n\\- Build and integrate RESTful APIs and backend services\n\n\\- Adhere to software design best practices including SOLID, DRY, and standard design patterns\n\n\\- Ensure clean code, proper documentation, and effective unit testing\n\n\\- Collaborate closely with cross-functional teams to deliver high-quality features\n\n\\- Experiment with and implement GenAI-powered solutions where applicable\n\n\\- Participate in peer code reviews and architectural discussions\n\n\\- Stay updated with the latest trends in full stack development and cloud technologies\n\n**Required Skills & Experience :**\n\n\\- Strong hands-on experience in React.js, Next.js and Typescript\n\n\\- Good knowledge of PostgreSQL or other relational databases (e.g., MySQL, SQL Server)\n\n\\- Solid understanding of REST API design, asynchronous programming, and modern web development practices\n\n\\- Proven experience in applying software development principles: SOLID, DRY\n\n\\- Familiarity with Git, CI/CD pipelines, and Agile workflows\n\n**Why Work With Us?**\n\n\\- Work with a forward-thinking team exploring GenAI and cutting-edge technologies\n\n\\- Culture of ownership, transparency, and continuous learning\n\n\\- Flexible work environment (Remote/Hybrid)\n\n\\- Opportunities for growth, leadership, and upskilling"
+    },
+    {
+      "id": "remote-react-web-engineer-typescript-next-js-cirtec-services-gmbh-g5wccc5x",
+      "title": "Remote React Web Engineer (TypeScript/Next.js)",
+      "company": "Cirtec Services GmbH",
+      "company_slug": "cirtec-services",
+      "location": "Dubai, United Arab Emirates",
+      "date": "2026-10-27",
+      "url": "https://en-ae.whatjobs.com/pub_api__cpl__94307825__7102?utm_campaign=publisher&utm_medium=api&geoID=1743&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "mena"
+      ],
+      "countries": [
+        "ae"
+      ],
+      "skills": [],
+      "description": "Cirtec Medical is hiring a React Web Developer for remote collaboration with a distributed team in the GCC region. The role emphasizes building fast, accessible web apps, collaborating with designers and backend engineers to ship reliable features.\n\nYou will work on modern frontend tech stacks, contribute to a shared component library, optimize performance and ensure cross-browser accessibility. Excellent English is required."
+    },
+    {
+      "id": "frontend-developer-react-js-typescript-next-js-newpage-solutions-4ajmya42",
+      "title": "Frontend Developer - React.js/TypeScript/Next.js",
+      "company": "NewPage Solutions",
+      "company_slug": "newpage-solutions",
+      "location": "EU",
+      "date": "2026-06-12",
+      "url": "https://www.hirist.tech/j/frontend-developer-react-js-typescript-next-js-1644392?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [],
+      "skills": [
+        "accessibility",
+        "ai",
+        "auth0",
+        "authentication",
+        "aws",
+        "ci-cd",
+        "claude-code",
+        "cloudflare",
+        "css",
+        "data-visualization",
+        "entra-id",
+        "github",
+        "github-actions",
+        "github-copilot",
+        "jest",
+        "llm",
+        "nextjs",
+        "observability",
+        "okta",
+        "playwright",
+        "plotly",
+        "react",
+        "react-testing-library",
+        "redux",
+        "remix",
+        "sso",
+        "storybook",
+        "tailwind",
+        "time-series",
+        "typescript",
+        "vitest",
+        "wcag",
+        "websockets",
+        "zustand"
+      ],
+      "description": "**Job Description :**\n\nWe are hiring Front-End Engineers to build the surfaces where AI outputs meet real usersstreaming chat, dense dashboards, multi-view visualizations, and the interaction patterns that make non-deterministic systems feel trustworthy.\n\nYou are not implementing fixed designs.\n\nYou are co-shaping how people actually interact with what AI producesacross audiences with different mental models on the same product.\n\nYou partner closely with product, design, and engineering to translate ambiguous ideas into interfaces that ship.\n\nYou treat AI as the substrate of how software gets builtnot a tool to be cautious of, not something you are \"exploring,\" but the medium you work in.\n\nYou work fluently with Claude Code, Cursor, and modern AI-assisted development workflows\n\n**What You'll Do :**\n\n**Shape the surface :**\n\n\\- Sit with product, design, and engineering to translate evolving requirements and ambiguous ideas into shipping interfaces.\n\n\\- Co-shape interaction patterns for AI-driven experiencesstreaming responses, evidence citations, confidence cues, guided workflowsas UX is stress-tested with real users.\n\n\\- Build prototypes fast to react to. Iterate from rough designs and feedback rather than waiting for finished specs.\n\n\\- Distinguish AI-surfaced output from authoritative or human-approved content visually and structurallybecause in enterprise contexts that distinction matters.\n\n**Build (fast) with AI :**\n\n\\- Build production-grade front-ends in React 18+ with TypeScript, using Next.js (App Router) or equivalent meta-frameworks (Remix, TanStack Start).\n\n\\- Implement streaming UI patterns for chat interfaces and agent interactionsServer-Sent Events, streaming fetch, optimistic updates, partial rendering.\n\n\\- Build dense, real-time dashboards with multi-level drill-down (portfolio / segment / entity / task) and multi-view visualizations.\n\n\\- Implement data visualizations using Recharts, Visx, D3.js, Plotly, or EChartsincluding radar/spider charts, time-series, and custom chart compositions.\n\n\\- Build component architectures grounded in design systems and tokens, using Tailwind CSS with shadcn/ui, Radix UI, Material UI, or Mantine.\n\n\\- Implement client and server state cleanly : TanStack Query for server state; Zustand, Redux Toolkit, or Jotai for client state.\n\n\\- Use AI-assisted development tools (Claude Code, Cursor, GitHub Copilot) through structured workflows, templates, and sub-agentswith discipline and review.\n\n**Ship, Operate, Harden :**\n\n\\- Own role-based access at the UI layer, integrate with enterprise SSO (Okta, Auth0, Entra ID, or equivalent) using the appropriate SDK.\n\n\\- Implement forms with React Hook Form + Zod (or equivalent schema validation) for type-safe data flow end-to-end.\n\n\\- Write tests that hold up : Vitest or Jest, React Testing Library, Playwright for E2E.\n\n\\- Build to WCAG 2.1 AA conformance : keyboard navigation, ARIA patterns, accessible colour and contrast, screen reader support.\n\n\\- Deploy on AWS (or Cloudflare for edge use cases)chosen for fit.\n\n\\- Apply engineering practices that hold up in production : structured logging, observability, performance budgets, automated CI/CD (GitHub Actions).\n\n\\- Own what you build end-to-end, including how it behaves in production.\n\n**What You Bring :**\n\n\\- 3+ years modern front-end engineering experience, production-grade.\n\n\\- Strong React 18+ and TypeScript fundamentals, with hands-on Next.js (App Router) or equivalent meta-framework experience.\n\n\\- Data visualization experience : radar/spider charts, multi-level drill-down dashboards, real-time data views. Hands-on with at least one of Recharts, Visx, D3.js, Plotly, or ECharts.\n\n\\- Streaming UI experience : Server-Sent Events, streaming fetch, real-time data patterns, chat-style interfaces with progressive rendering.\n\n\\- Component architecture and design-system implementation. Hands-on with Tailwind CSS and at least one component library (shadcn/ui, Radix UI, Material UI, or Mantine).\n\n\\- Strong state management with TanStack Query plus one of Zustand, Redux Toolkit, or Jotai.\n\n\\- Forms and validation : React Hook Form + Zod or equivalent.\n\n\\- Testing discipline : Vitest or Jest, React Testing Library, Playwright (or equivalent) for E2E.\n\n\\- WCAG 2.1 AA conformance, keyboard navigation, ARIA patterns.\n\n\\- Active, structured use of AI-assisted development tools (Claude Code, Cursor, GitHub Copilot) with demonstrable workflows.\n\n\\- Comfortable iterating from evolving designs and co-shaping interaction patterns rather than executing fixed specs.\n\n\\- Strong attention to information hierarchyyou can hold multiple audiences with different mental models in your head on the same product.\n\n\\- A real, recent trail of built things : GitHub, a portfolio, side projects, indie tools, or OSS contributions.\n\n\\- A no-compromise attitude on clean code, performance, accessibility, and user experience.\n\n\\- Bachelor's or Master's in Computer Science, Design Engineering, or a related discipline (or equivalent demonstrable experience).\n\n**Bonus Skills / Experience :**\n\n\\- Experience building front-ends for LLM-powered products : streaming chat UIs, evidence citation surfaces, agent interaction patterns.\n\n\\- Design tokens and design-system implementation experience at scale.\n\n\\- Storybook for component documentation.\n\n\\- Real-time data patterns : WebSockets, server-driven UI, optimistic updates.\n\n\\- Authentication flows with enterprise SSO providers (Okta, Auth0, Entra ID, or equivalent).\n\n\\- Healthcare or life sciences domain exposure.\n\n\\- Public writing, talks, or threads about building with AI"
+    },
+    {
+      "id": "senior-software-engineer-typescript-node-js-react-next-aws-ncs-philippines-od32y72v",
+      "title": "Senior Software Engineer (TypeScript/Node.js/React/Next/AWS)",
+      "company": "NCS Philippines",
+      "company_slug": "ncs-philippines",
+      "location": "Bonifacio Global City, Metro Manila",
+      "date": "2026-11-10",
+      "url": "https://ph.jobstreet.com/job/95790548?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "ph"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "android",
+        "aws",
+        "azure",
+        "cdk",
+        "cloud",
+        "dart",
+        "devops",
+        "event-driven-architecture",
+        "flutter",
+        "gcp",
+        "ios",
+        "microservices",
+        "nextjs",
+        "nodejs",
+        "react",
+        "serverless",
+        "typescript"
+      ],
+      "description": "**Company Overview**\n\nNCS is a leading AI Tech Services company. With a 15,000-strong team across the Asia Pacific, NCS scales its platforms and capabilities to provide clients with greater agility and AI expertise across a range of industries. Embracing a strong ecosystem of global partners, NCS transforms technology services delivery combining AI with digital resilience to drive real business impact. NCS is a subsidiary of the Singtel Group.\n\nWe want things to be amazingly simple for our customers - which is the focus of our awesome staff. As part of this role, the **Software Engineer (Senior Level or can be Mid Level)** will help rapidly drive and shape business outcomes through technology.\n\n**What to expect:**\n\n- Achieve top-notch digital customer experience by building, operating, and maintaining the platform for over one million customers of the project.\n- As team members, they will work across multiple disciplines including front-end, back-end, architecture, security, DevOps, and native apps.\n- Be a member of a cross-functional delivery team, working with Product Managers, Analysts, UX Designers, and other Software Engineers to ship new features and fixes.\n- Develop the code for small, well-scoped components and features and work with the team to release them to production.\n- Work with your Tech Lead and other mentors to continue to learn and grow.\n- Actively participate in agile ceremonies and technical discussions.\n\n**About you:**\n\n- Experience on **AWS or any of the big three cloud providers.**\n\n<!--THE END-->\n\n- **Minimum of 3+ years hands-on experience with AWS or other major cloud providers (Azure, GCP).**\n- Experienced in **TypeScript/Node.js, React, AWS, Flutter/Dart, Native App Development, AWS serverless, Next.js CDK, Bedrock, Messaging platforms**\n- **Flutter/Dart** experience is required for this position.\n- Minimum of 5+ years commercial experience in **Flutter/Dart development is required.**\n- **Native App Development experience** is required for this role.\n- Minimum of 5+ years experience in **Native App Development is required.**\n- Experience with both **iOS and Android native mobile platforms is required.**\n- Experience with microservices using **Node.JS.**\n- Minimum of 3+ years experience developing and implementing **microservices architecture using Node.JS.**\n- Understanding of event-driven architecture.\n- Expert-level understanding of event-driven architecture with proven ability to design and implement complex event-driven systems.\n- Working experience in event-driven architecture is required for this position.\n- Working experience in event-driven architecture with hands-on implementation capabilities is required for this position.\n- **React is an advantage!**\n- 5+ years of professional software engineering experience required for this senior position.\n- A minimum of 5+ years of professional software engineering experience is required for this position.\n- This position is classified as mid-level despite the experience requirements mentioned.\n- This is a senior-level position requiring 5+ years of professional software engineering experience.\n\nWe're less concerned about 'seniority' through years of experience and much more interested in your actual accomplishments, your high levels of motivation, your sense of ambition and desire to innovate, and your collaborative and team-focused attitude. We'd love to hear about some of the other projects where you've displayed these traits and more. If you have examples of your work online, presentations you've done at conferences or meetups, or open-source projects you've contributed in, even better!\n\n\\****The candidate must be willing to take a technical assessment test.***\n\n***Work Set-up: Hybrid or can be work from home or as needed RTO***"
+    },
+    {
+      "id": "senior-frontend-engineer-react-next-js-typescript-s-i-systems-ltd-fdl4iwo7",
+      "title": "Senior Frontend Engineer - React / Next.js / TypeScript",
+      "company": "S I Systems",
+      "company_slug": "s-i-systems",
+      "location": "Toronto, Canada",
+      "date": "2026-11-09",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__160240123__7103?utm_campaign=publisher&utm_medium=api&geoID=6225&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "aws",
+        "azure",
+        "cloud",
+        "gcp",
+        "nextjs",
+        "react",
+        "rest",
+        "typescript"
+      ],
+      "description": "**Duration: 1 Year**\n\n**Location: Remote** (open to occasional in-person for all-hands meetings, if requested at Toronto)\n\n**40 hours / week**\n\nOur client is Canada's largest retailer. They are looking for an experienced Frontend Engineer to join the Supply Chain Technology team and contribute to the development of a new AI-powered supply chain platform.\n\nWorking closely with AI and Backend Engineers, you will be responsible for developing modern, responsive and interactive user interfaces that bring the platform's functionality to life.\n\nThis is an exciting opportunity to contribute to a new technology initiative that combines modern frontend engineering with next-generation AI capabilities.\n\n### Key Responsibilities:\n\n- Design, develop and maintain modern, responsive and interactive web applications using React and TypeScript.\n- Build and enhance frontend applications using Next.js.\n- Develop reusable components and scalable frontend architecture.\n- Integrate frontend applications with REST APIs and backend services.\n- Collaborate closely with AI and Backend Engineers to deliver fully integrated AI-powered applications.\n- Develop intuitive and user-friendly interfaces that support complex application workflows.\n- Ensure applications are responsive, accessible, performant and maintainable.\n\n### Must Have Skills:\n\n- Strong experience **developing frontend applications using React**, hands-on experience with **Next.js**.\n- Strong **TypeScript development** experience, building modern, scalable, and responsible web applications.\n- Hands-on experience **integrating REST APIs and backend services**.\n- Experience with **Google Cloud (preferred)**, open to AWS/Azure\n\n### Senior Frontend Engineer - React / Next.js / TypeScript\n\n**Duration: 1 Year**\n\n**Location: Remote** (open to occasional in-person for all-hands meetings, if requested at Toronto)\n\n**40 hours / week**\n\nOur client is Canada's largest retailer. They are looking for an experienced Frontend Engineer to join the Supply Chain Technology team and contribute to the development of a new AI-powered supply chain platform.\n\nWorking closely with AI and Backend Engineers, you will be responsible for developing modern, responsive and interactive user interfaces that bring the platform's functionality to life.\n\nThis is an exciting opportunity to contribute to a new technology initiative that combines modern frontend engineering with next-generation AI capabilities.\n\n### Key Responsibilities:\n\n- Design, develop and maintain modern, responsive and interactive web applications using React and TypeScript.\n- Build and enhance frontend applications using Next.js.\n- Develop reusable components and scalable frontend architecture.\n- Integrate frontend applications with REST APIs and backend services.\n- Collaborate closely with AI and Backend Engineers to deliver fully integrated AI-powered applications.\n- Develop intuitive and user-friendly interfaces that support complex application workflows.\n- Ensure applications are responsive, accessible, performant and maintainable.\n\n### Must Have Skills:\n\n- Strong experience **developing frontend applications using React**, hands-on experience with **Next.js**.\n- Strong **TypeScript development** experience, building modern, scalable, and responsible web applications.\n- Hands-on experience **integrating REST APIs and backend services**.\n- Experience delivering **production-grade applications**.\n- Experience with **Google Cloud (preferred)**, open to AWS/Azure\n\n**Disclaimer:**\n\n**AI may be used in evaluating candidates.**\n\n**This posting is for an existing vacancy.**"
+    },
+    {
+      "id": "senior-frontend-developer-react-js-next-js-typescript-square-root-consulting-nmvrtyix",
+      "title": "Senior Frontend Developer - React.js/Next.js/TypeScript",
+      "company": "Square Root Consulting",
+      "company_slug": "square-root-consulting",
+      "location": "Bangalore",
+      "date": "2026-10-21",
+      "url": "https://www.hirist.tech/j/senior-frontend-developer-react-js-next-js-typescript-1679349?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "accessibility",
+        "ai",
+        "api",
+        "api-design",
+        "api-gateway",
+        "authentication",
+        "automation",
+        "aws",
+        "aws-bedrock",
+        "cdk",
+        "ci-cd",
+        "cloudfront",
+        "cloudwatch",
+        "css",
+        "cypress",
+        "eventbridge",
+        "grafana",
+        "html",
+        "javascript",
+        "jest",
+        "lambda",
+        "machine-learning",
+        "nextjs",
+        "npm",
+        "playwright",
+        "react",
+        "react-testing-library",
+        "redux",
+        "rest",
+        "s3",
+        "sentry",
+        "seo",
+        "serverless",
+        "sqs",
+        "storybook",
+        "tailwind",
+        "test-automation",
+        "typescript",
+        "vite",
+        "vitest",
+        "wcag",
+        "webpack"
+      ],
+      "description": "**Role Overview:**\n\nOur Client is seeking an experienced Senior Frontend Developer to lead the design, build, and evolution of React and Next.js applications for an enterprise-scale, serverless platform on AWS supporting national-level digital infrastructure.\n\nYou will own the frontend across the full software development lifecycle, from UI architecture and design-system work through development, deployment, and production support. You will work closely with architects, designers, backend engineers, and delivery leads to ship scalable, accessible, high-performance user experiences, while setting standards and mentoring other frontend engineers.\n\n**Key Responsibilities:**\n\n\\- Lead the architecture, design, and development of responsive, accessible web applications using React, Next.js, and TypeScript.\n\n\\- Build performant Next.js applications using the App Router, React Server Components, SSR, SSG, and ISR.\n\n\\- Design and maintain a reusable component library and design system in partnership with UX/UI designers.\n\n\\- Define patterns for state management, routing, data fetching, caching, and error handling.\n\n\\- Integrate frontends with RESTful APIs and serverless backend services, collaborating with backend engineers on API contracts.\n\n\\- Own frontend performance, monitoring Core Web Vitals and optimizing bundle size, rendering, and load times.\n\n\\- Ensure WCAG accessibility compliance across all user-facing features.\n\n\\- Establish and enforce frontend engineering standards through code reviews, automated testing, and linting.\n\n\\- Contribute to frontend build, CI/CD, and deployment pipelines on AWS.\n\n\\- Support production releases, monitoring, and troubleshooting of frontend issues.\n\n\\- Provide technical leadership and mentorship to frontend developers.\n\n\\- Leverage AI tools to improve developer productivity, code quality, and UI testing.\n\n**Required Skills & Qualifications:**\n\n\\- Languages: expert-level TypeScript and modern JavaScript (ES6+).\n\n\\- React: hooks and functional components, advanced component patterns, state management (Redux Toolkit, React Query/TanStack Query, or Context API), and React Router.\n\n\\- Next.js: App Router, React Server Components, SSR/SSG/ISR, route handlers and middleware, data fetching and caching, and SEO/performance optimization (Core Web Vitals).\n\n\\- Web fundamentals: semantic HTML5, CSS3, and modern styling (CSS Modules, Tailwind CSS, or styled-components); responsive design and WCAG 2.1/2.2 accessibility.\n\n\\- Tooling & testing: Vite or Webpack, npm/pnpm, ESLint/Prettier, Jest or Vitest, React Testing Library, and Cypress or Playwright.\n\n\\- Design systems: experience building and maintaining shared component libraries (e.g., Storybook).\n\n\\- Strong understanding of RESTful API design and integrating APIs with frontend applications.\n\n\\- Experience with CI/CD pipelines and frontend deployment automation.\n\n\\- Familiarity with frontend monitoring and logging (e.g., Amazon CloudWatch RUM, Amazon Managed Grafana, Sentry).\n\n\\- Proven track record of technical leadership, code review, and mentoring in a team setting.\n\n**Nice-to-Have Skills:**\n\n\\- Familiarity with serverless backends (AWS Lambda, API Gateway) and authentication with Amazon Cognito.\n\n\\- Experience hosting Next.js on AWS (Amplify, OpenNext, or S3 + CloudFront) and AWS CDK in TypeScript.\n\n\\- Experience with micro-frontends or monorepo tooling (Nx, Turborepo).\n\n\\- Experience integrating AI/ML-powered features (e.g., Amazon Bedrock) into user interfaces.\n\n\\- Exposure to large-scale or government/national infrastructure systems.\n\n\\- Backend AWS work (SQS, Step Functions, EventBridge, SES, Glue)."
+    },
+    {
+      "id": "frontend-full-stack-developer-react-next-js-typescript-azka-it-mp2hjouq",
+      "title": "Frontend / Full Stack Developer (React / Next.js / TypeScript)",
+      "company": "azka-it",
+      "company_slug": "azka-it",
+      "location": "Caracas, VE",
+      "date": "2026-10-08",
+      "url": "https://azka-it.viterbit.site/frontend-full-stack-developer-react-next-js-typescript-xm7ziEi57pzj/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ve"
+      ],
+      "skills": [
+        "azure",
+        "azure-devops",
+        "devops",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": "**AZKAIT** es una empresa Mexicana que busca y conecta el mejor talento IT con empresas Latinoamericanas y de Estados Unidos.\n\nEstamos en la búsqueda de tu talento como **Frontend / Full Stack Developer (React / Next.js / TypeScript)**\n\n#### **Descripción del Puesto**\n\nBuscamos un Frontend / Full Stack Developer con un mínimo de 2 años de experiencia comprobable para incorporarse a un proyecto de alto impacto. El profesional será responsable del desarrollo de interfaces web modernas, dinámicas y de alto rendimiento utilizando React, Next.js y TypeScript, colaborando estrechamente bajo la metodología ágil e integrándose a flujos de trabajo en Azure DevOps."
+    },
+    {
+      "id": "senior-frontend-engineer-react-next-js-typescript-freelancing-vbeqwpeh",
+      "title": "Senior Frontend Engineer - React/Next.js + TypeScript",
+      "company": "Freelancing",
+      "company_slug": "freelancing",
+      "location": "Singapore, Singapore",
+      "date": "2026-08-10",
+      "url": "https://en-sg.whatjobs.com/pub_api__cpl__88842146__7119?utm_campaign=publisher&utm_medium=api&geoID=1&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "sg"
+      ],
+      "skills": [
+        "api",
+        "nextjs",
+        "react",
+        "rest",
+        "typescript"
+      ],
+      "description": "Heyram Solutions is seeking an experienced Senior Frontend Developer to enhance and maintain a production-ready web application, focusing on user experience, performance, and frontend architecture. You will work within an existing codebase, deliver scalable frontend solutions, and collaborate with designers and backend engineers to ensure seamless user experiences.\n\nStrong React.js, Next.js, TypeScript, and REST API experience are essential."
+    },
+    {
+      "id": "ui-developer-react-next-js-typescript-talproindia-zohorecruit-in-zyhfspxo",
+      "title": "UI Developer (React + Next.js + TypeScript)",
+      "company": "TALPRO INDIA PRIVATE LIMITED",
+      "company_slug": "talpro-india",
+      "location": "Mumbai, India",
+      "date": "2026-04-21",
+      "url": "https://talproindia.zohorecruit.in/jobs/Careers/28024000025115287?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "api",
+        "css",
+        "cypress",
+        "git",
+        "html",
+        "javascript",
+        "jest",
+        "nextjs",
+        "react",
+        "react-testing-library",
+        "redux",
+        "rest",
+        "scrum",
+        "tailwind",
+        "typescript",
+        "version-control",
+        "wcag",
+        "wireframing"
+      ],
+      "description": "# **UI Developer (React + Next.js + TypeScript)**\n\n## **Role Details**\n\n- **Experience:** 5–7 Years\n- **Location:** Mumbai – Bandra Kurla Complex (BKC)\n- **Work Mode:** Hybrid (3 days/week from office)\n- **Contract Duration:** 12 Months (C2H)\n- **Budget:** Max 13 LPA\n- **Joining:** Immediate Joiners Only\n- **Interview Process:** In-person interview (Final Round- mandatory)\n\n* * *\n\n## **Role Overview**\n\nWe are looking for an experienced **UI Developer** with strong expertise in **React, Next.js, and TypeScript** to design and build **modern, scalable, and high-performance web applications**.\n\nThe ideal candidate should have a solid understanding of **frontend architecture, performance optimization, and UI best practices**, with a strong focus on **clean, reusable, and maintainable code**.\n\n* * *\n\n## **Key Responsibilities**\n\n### **UI & Frontend Development**\n\n- Design and develop **responsive, user-centric web applications** using:\n  \n  - React\n  - Next.js\n  - TypeScript\n  - HTML5 & CSS3\n- Translate **UI/UX designs, wireframes, and mockups** into high-quality code\n- Build reusable and scalable **frontend components and libraries**\n- Ensure **cross-browser compatibility and consistent UI behavior**\n\n* * *\n\n### **Application Quality & Performance**\n\n- Optimize applications for **performance, scalability, and responsiveness**\n- Ensure high standards of **code quality and maintainability**\n- Implement **accessibility standards (WCAG)** and responsive design principles\n- Identify and resolve UI bugs and performance issues\n\n* * *\n\n### **Collaboration & Integration**\n\n- Integrate frontend with **REST APIs**\n- Collaborate with backend developers, UX designers, and product teams\n- Participate in **code reviews, sprint planning, and design discussions**\n\n* * *\n\n### **Engineering Excellence**\n\n- Follow modern frontend best practices and frameworks\n- Contribute to **UI architecture, standards, and guidelines**\n- Mentor junior developers where required\n- Stay updated with latest frontend technologies and trends\n\n* * *\n\n## **Mandatory Skills**\n\n✔ Strong hands-on experience in:\n\n- **React.js**\n- **Next.js**\n- **TypeScript**\n\n✔ Strong proficiency in:\n\n- HTML5, CSS3 (Flexbox, Grid, responsive design)\n- Modern JavaScript (ES6+)\n\n✔ Experience with:\n\n- REST API integration\n- State management (Redux / Context API or similar)\n- Cross-browser compatibility\n- Performance optimization\n\n✔ Familiarity with:\n\n- Git / version control\n- Agile / Scrum environments\n\n* * *\n\n## **Nice to Have**\n\n- Experience with UI libraries (Material UI, Ant Design, Tailwind)\n- Knowledge of testing frameworks (Jest, Cypress, React Testing Library)\n- Understanding of accessibility standards\n- Experience in enterprise-scale applications\n\n* * *\n\n## **Soft Skills**\n\n- Strong problem-solving and analytical mindset\n- Good communication and collaboration skills\n- Ability to work independently and take ownership\n- Attention to detail and UI/UX sensitivity\n\n* * *\n\n## **Key Expectations**\n\n? Strong hands-on **Next.js + React + TypeScript is mandatory**\n\n? Candidate must be available for **in-person interview in Mumbai (BKC)**\n\n? Immediate joiners Only"
+    },
+    {
+      "id": "full-stack-developer-react-typescript-node-js-next-js-hikru-x3ekft7m",
+      "title": "Full-Stack Developer (React/TypeScript + Node.js/Next.js.)",
+      "company": "Hikru",
+      "company_slug": "hikru",
+      "location": "Remote, Worldwide",
+      "date": "2026-01-19",
+      "url": "https://torre.ai/post/qdPOEBNw-hikru-full-stack-developer-reacttypescript-nodejsnextjs?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "global"
+      ],
+      "countries": [],
+      "skills": [
+        "agile",
+        "ai",
+        "api",
+        "azure",
+        "ci-cd",
+        "clean-architecture",
+        "cloud",
+        "nextjs",
+        "nodejs",
+        "observability",
+        "react",
+        "scrum",
+        "typescript"
+      ],
+      "description": "We are looking for a Full-Stack Developer with strong ownership and hands-on experience delivering end-to-end solutions in modern web applications.\n\nThis role is for a developer who can analyze requirements, propose technical solutions, and implement them using best practices in a collaborative Agile environment.\n\nExperience with AI-assisted development and cloud platforms is expected. Healthcare experience is a plus, not a requirement.\n\nKey Responsibilities\n\nFull-Stack Development  \n\\- Design, develop, and maintain end-to-end features.  \n\\- Build frontend applications using React and TypeScript.  \n\\- Develop backend services using Node.js and Next.js.  \n\\- Design clean, scalable APIs and data flows.  \n\\- Apply best practices for code quality, testing, and maintainability.\n\nArchitecture & Best Practices  \n\\- Analyze requirements and propose solid technical solutions.  \n\\- Follow clean architecture and modern software design principles.  \n\\- Ensure performance, scalability, and security considerations.  \n\\- Participate in code reviews and technical discussions.\n\nCloud & Delivery  \n\\- Develop and operate applications on Azure Cloud.  \n\\- Work with CI/CD pipelines and automated deployments.  \n\\- Ensure observability, reliability, and secure configuration.\n\nAI-Assisted Development  \n\\- Use AI tools to improve productivity and code quality.  \n\\- Apply AI responsibly, validating outputs and maintaining standards.  \n\\- Identify opportunities where AI can improve development workflows.\n\nCollaboration & Agile  \n\\- Work within Scrum / Agile methodologies.  \n\\- Collaborate closely with developers, QA, and product owners.  \n\\- Take ownership of tasks and deliverables.  \n\\- Contribute to a collaborative and learning-oriented team culture.\n\nRequired Experience & Skills  \n\\- Strong experience as a Full-Stack Developer.  \n\\- Solid knowledge of React, Node.js, and Next.js.  \n\\- Experience working with Azure Cloud.  \n\\- Understanding of software architecture and best practices.  \n\\- Experience working in Agile/Scrum teams.  \n\\- Ability to deliver features with low ramp-up time.\n\nIdeal Profile  \n\\- Owns features from design to production.  \n\\- Writes clean, maintainable, and scalable code.  \n\\- Uses AI as a productivity tool, not a shortcut.  \n\\- Communicates clearly and works well in a team.  \n\\- Focused on quality, delivery, and continuous improvement.\n\n**Location:** Remote - GMT-09:00 to GMT-03:00\n\n**Skills required for this job:**\n\n- Agile methodologies\n- CI/CD\n- Full-stack development\n- Microsoft Azure\n- Next.js\n- Node.js\n- React.js\n- Software architecture\n- TypeScript"
+    },
+    {
+      "id": "full-stack-typescript-developer-m-w-d-react-next-js-boot1-gmbh-eqhcjmlo",
+      "title": "Full-Stack TypeScript Developer (m/w/d) (React/Next.js)",
+      "company": "Boot1 GmbH",
+      "company_slug": "boot1",
+      "location": "Grünwald, Germany",
+      "date": "2026-09-30",
+      "url": "https://join.com/companies/bootsschule1/16925002-full-stack-typescript-developer-m-w-d-react-next-js?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ci-cd",
+        "cloud",
+        "crm",
+        "docker",
+        "git",
+        "jira",
+        "kanban",
+        "nextjs",
+        "nodejs",
+        "react",
+        "scrum",
+        "typescript"
+      ],
+      "description": "Wir bringen Menschen in ganz Deutschland zum Bootsführerschein, und unsere Lernplattform ist das Herzstück dabei. Damit sie weiter wächst, suchen wir dich.\n\n## Aufgaben\n\n- Du entwickelst Features end-to-end: mit TypeScript, React und Next.js im Frontend und Node.js mit Prisma im Backend.\n- Du arbeitest an unserer ganzen Produktlandschaft:\n- **Online-Lernplattform:** Lernmodule, Prüfungstrainer und Lernfortschritt\n- **Website und Buchungsstrecke:** Kursbuchung, Checkout und Landingpages\n- **Interne Tools:** Verwaltung von Teilnehmer:innen, Prüfungsterminen und Partnerstandorten\n- Du baust und pflegst Schnittstellen, etwa zu Zahlungsdiensten, CRM und Marketing-Tools, und automatisierst wiederkehrende Abläufe.\n- Du betreibst unsere Anwendungen mit Docker und sorgst für stabile Deployments.\n- Du schreibst sauberen, getesteten Code und bringst dich in Code-Reviews ein.\n- Du planst Vorhaben mit, schätzt Aufwände, stimmst Prioritäten mit Marketing und Geschäftsführung ab und hältst Projekte auf Kurs.\n\n## Qualifikation\n\n**Das bringst du mit:**\n\n- Mehrjährige Berufserfahrung als Full-Stack- oder Web-Entwickler:in\n- Sehr gute Kenntnisse in TypeScript, React und Next.js\n- Erfahrung mit Node.js, relationalen Datenbanken und Prisma\n- Solide Grundlagen in Docker und Git-basierten Workflows\n- Eine eigenständige, lösungsorientierte Arbeitsweise und Lust, Verantwortung für ein Produkt zu übernehmen\n- Sehr gute Deutsch- und gute Englischkenntnisse\n\n**Ein Plus ist:**\n\n- **Project Management:** Erfahrung mit Scrum oder Kanban, Aufwandsschätzung und Tools wie Jira oder Linear\n- Erfahrung mit Zahlungsanbindungen, CI/CD und Cloud-Hosting\n- Interesse an E-Learning oder Wassersport\n\n## Benefits\n\n- **Echter Impact:** Was du baust, nutzen unsere Kund:innen kurz darauf\n- **Moderner Stack und kurze Wege:** Entscheidungen fallen schnell und direkt mit der Geschäftsführung\n- **Flexibilität:** Vollzeit mit 40 Stunden, hybrides Arbeiten und Arbeitszeiten nach Absprache\n- **Einarbeitung:** eine strukturierte Einarbeitung in Plattform und Codebasis\n- **Ab aufs Wasser:** Du machst deinen Bootsführerschein bei uns kostenlos"
+    },
+    {
+      "id": "software-engineer-frontend-pleno-react-next-js-typescript-act-digital-gemvpt6f",
+      "title": "Software Engineer Frontend Pleno | React + Next.js + TypeScript",
+      "company": "act digital",
+      "company_slug": "act-digital",
+      "location": "São Paulo, Brazil",
+      "date": "2026-11-07",
+      "url": "https://br.whatjobs.com/pub_api__cpl__466122337__7076?utm_campaign=publisher&utm_medium=api&geoID=25&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "aws",
+        "azure",
+        "bdd",
+        "ci-cd",
+        "cloud",
+        "css",
+        "devops",
+        "gcp",
+        "html",
+        "javascript",
+        "nextjs",
+        "observability",
+        "react",
+        "seo",
+        "tdd",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "Estamos em busca de uma pessoa desenvolvedora para atuar na construção e evolução de produtos digitais de grande escala, participando de decisões arquiteturais, desenvolvimento frontend e evolução técnica do time.\n\nVaga: Remoto Inglês Fluente\n\n### Requisitos\n\n- React.js\n- Next.js\n- JavaScript / TypeScript\n- HTML5 e CSS3\n- Web Components\n- SEO e Web Vitals\n- Clean Code e Design de Software\n- Cloud Computing (AWS, Azure ou GCP)\n- CI/CD e Cultura DevOps\n- Observabilidade e Monitoramento\n- TDD, BDD e Testes Automatizados\n- Metodologias Ágeis\n\n### Diferenciais\n\n- Experiência com aplicações de alta escala\n- Atuação em produtos digitais\n- Mentoria técnica e desenvolvimento de pessoas\n- Participação em decisões arquiteturais\n\nPerfil Profissional Pleno, com autonomia técnica, visão arquitetural, capacidade de influenciar decisões, apoiar outros desenvolvedores e contribuir para a evolução técnica do time."
+    },
+    {
+      "id": "frontend-engineer-next-js-react-typescript-redux-toolkit-tailwind-css-dentsu-biy2vrpz",
+      "title": "Frontend Engineer - (Next.js, React, TypeScript, Redux Toolkit, Tailwind CSS)",
+      "company": "Dentsu",
+      "company_slug": "dentsu",
+      "location": "DGS India - Bengaluru - Manyata N1 Block",
+      "date": "2026-10-27",
+      "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Bengaluru---Manyata-N1-Block/Frontend-Engineer----Nextjs--React--TypeScript--Redux-Toolkit--Tailwind-CSS-_R1136557?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "ai",
+        "api",
+        "api-design",
+        "authentication",
+        "aws",
+        "azure",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "css",
+        "docker",
+        "express",
+        "git",
+        "html",
+        "javascript",
+        "jest",
+        "nestjs",
+        "nextjs",
+        "nodejs",
+        "openapi",
+        "rbac",
+        "react",
+        "react-testing-library",
+        "redux",
+        "rest",
+        "saas",
+        "swagger",
+        "tailwind",
+        "typescript",
+        "vitest"
+      ],
+      "description": "**Job Description:**\n\n# **Job Description: Frontend Engineer**\n\n**Tech Stack: Next.js | React | TypeScript | Redux Toolkit | Tailwind CSS**\n\n## **Role Overview**\n\nWe are looking for a Frontend Engineer with strong experience in React, Next.js, and TypeScript to build scalable, high-performance, and maintainable web applications. The ideal candidate should have a solid understanding of frontend architecture, state management, API integration, and performance optimization, with the ability to collaborate effectively with backend engineers and other stakeholders.\n\n## **Key Responsibilities**\n\n- Develop scalable, responsive, and maintainable web applications using Next.js, React, and TypeScript.\n- Build reusable UI components and follow established frontend architecture and coding standards.\n- Manage application state using Redux Toolkit, including slices, reducers, selectors, and asynchronous thunks.\n- Integrate REST APIs, work with API contracts, and handle asynchronous operations, errors, loading states, and data synchronization.\n- Build responsive interfaces using Tailwind CSS and modern frontend development practices.\n- Optimize application performance, rendering, bundle size, and data-fetching workflows.\n- Implement form validation, routing, authentication flows, and permission-aware UI.\n- Write testable, high-quality code and participate in code reviews, debugging, and technical discussions.\n- Collaborate with backend engineers to define API requirements, troubleshoot integration issues, and deliver features end to end.\n\n## **Required Skills**\n\n**Core Technologies**\n\n- Strong proficiency in JavaScript (ES6+), React, Next.js, and TypeScript.\n- Solid understanding of React hooks, component composition, reusable patterns, and modern Next.js architecture.\n- Strong knowledge of HTML5, CSS3, responsive design, and Tailwind CSS.\n\n**State Management and API Integration**\n\n- Hands-on experience with Redux Toolkit, including slices, selectors, and createAsyncThunk.\n- Experience integrating REST APIs and working with API contracts, request/response schemas, and TypeScript types.\n- Understanding of HTTP methods, status codes, authentication, pagination, filtering, and error handling.\n- Ability to manage asynchronous workflows, loading states, failed requests, and data consistency.\n\n**Performance and Advanced Frontend Concepts**\n\n- Understanding of React rendering, re-renders, memoization, and component optimization.\n- Experience with code splitting, lazy loading, caching, and bundle optimization.\n- Understanding of Next.js rendering strategies, including SSR, SSG, Server Components, Client Components, and data-fetching patterns.\n- Familiarity with browser developer tools, performance profiling, and Core Web Vitals.\n\n**Engineering Practices**\n\n- Proficiency with Git, branching, pull requests, and collaborative development workflows.\n- Familiarity with frontend testing using tools such as Jest/Vitest and React Testing Library.\n- Understanding of code quality, debugging, accessibility, and frontend security fundamentals.\n\n## **Preferred Qualifications**\n\n- Experience with AI-assisted and agentic development workflows using tools such as Claude Code, including multi-file changes, codebase exploration, debugging, refactoring, and test generation.\n- Ability to effectively guide AI coding agents through well-defined tasks, review generated code, validate results, and maintain code quality, security, and architectural consistency.\n- Familiarity with backend technologies such as Node.js, NestJS, or Express.\n- Understanding of REST API design, DTOs, validation, authentication, and authorization.\n- Experience with Zod or similar schema-validation libraries, and OpenAPI/Swagger.\n- Familiarity with RTK Query or TanStack Query for server-state management.\n- Experience building enterprise applications, SaaS platforms, dashboards, or data-intensive interfaces.\n- Familiarity with role-based access control (RBAC), multi-tenant applications, monorepos, and CI/CD workflows.\n- Exposure to Docker and cloud platforms such as Microsoft Azure or AWS.\n\n## **Ideal Candidate**\n\n- Strong problem-solving and analytical skills.\n- Writes clean, reusable, maintainable, and well-typed code.\n- Understands the reasoning behind architectural and performance decisions.\n- Takes ownership of features from development through testing and delivery.\n- Communicates effectively and collaborates well with cross-functional teams.\n\n**Experience:** Mid-level to Senior, depending on technical depth and demonstrated ownership.\n\n**Core Stack:** Next.js, React, TypeScript, Redux Toolkit, Tailwind CSS, REST APIs, Git.\n\n**Location:**\n\nDGS India - Bengaluru - Manyata N1 Block\n\n**Brand:**\n\nMerkle\n\n**Time Type:**\n\nFull time\n\n**Contract Type:**\n\nPermanent"
+    },
+    {
+      "id": "full-stack-developer-typescript-react-next-js-node-js-applause-it-limited-7ekxqq62",
+      "title": "Full Stack Developer – TypeScript, React/Next.js, Node.js",
+      "company": "Applause IT Limited",
+      "company_slug": "applause-it",
+      "location": "Warwick, United Kingdom",
+      "date": "2026-10-19",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__577374002__7082?utm_campaign=publisher&utm_medium=api&geoID=833&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "aws",
+        "cad",
+        "cloud",
+        "cloudfront",
+        "cnc",
+        "docker",
+        "ecs",
+        "express",
+        "gdpr",
+        "git",
+        "javascript",
+        "jwt",
+        "lambda",
+        "nestjs",
+        "nextjs",
+        "nodejs",
+        "oauth",
+        "openid",
+        "postgresql",
+        "python",
+        "rdbms",
+        "rds",
+        "react",
+        "s3",
+        "sql",
+        "stripe",
+        "terraform",
+        "typescript"
+      ],
+      "description": "### Full Stack Developer – TypeScript, React/Next.js, Node.js\n\n**Location:** Near LeamingtonSpa, Warwickshire (Hybrid – 3 days on site)  \n**Job type:** Permanent, Full-time  \n**Salary:** £38,000 – £45,000 + benefits\n\nWe’re hiring a **Full StackDeveloper** for an established, growing UK software company whose design andmanufacturing software is used by creative businesses worldwide. You’ll workacross the whole stack on a production customer platform, with code review onevery change and a clear path to becoming its lead developer.\n\n### About the role\n\nAlongside its desktop products,the business runs a growing set of web services: customer accounts, licensing,subscriptions and cloud compute. You’ll focus on the customer account andlicensing platform, built with **Next.js, NestJS, TypeScript, PostgreSQL andAWS**.\n\nYou’ll start on well-scopedfeatures and take on more ownership as your experience grows. You’ll gettechnical mentoring from the Infrastructure Tech Lead and work with the desktopsoftware team and experienced external development and QA partners. As theplatform grows, you’ll also contribute to backend compute and AI services andhelp rebuild the company website.\n\n### What you’ll be doing\n\n- Building features across the **Next.js** frontend and **NestJS** API\n- Designing and evolving the **PostgreSQL**schema, including migrations and query performance\n- Building APIs used by the company’s desktopapplications\n- Deploying and monitoring services on **AWS**,with a focus on reliability, security and cost\n- Writing automated tests and maintaining CI/CDpipelines\n- Handling customer and account data securely and inline with GDPR\n\n### What you’ll bring\n\n- Experience building web applications in **TypeScriptor JavaScript**, whether commercially, on placement or throughsubstantial personal projects\n- **React**, with some exposure to **Next.js**\n- Back-end development in **Node.js**, buildingREST APIs (NestJS, Express or similar)\n- **SQL** and relational databases, ideallyPostgreSQL\n- **Git**, and a habit of writing tests\n\n### Nice to have\n\n- NestJS or Next.js in production\n- AWS (ECS/Lambda, RDS, S3, CloudFront), Terraform orDocker\n- Integrating AI models, or some Python\n- OAuth 2.0/OIDC, JWT, Stripe or licensing systems\n- Interest in CAD/CAM or design software\n\n### Tech stack:\n\nTypeScript,Next.js, React, NestJS, Node.js, PostgreSQL, AWS, Terraform, Docker\n\n### What’s on offer\n\n- £40,000 – £45,000 salary\n- 8% contributory pension and private healthcare\n- 25 days’ holiday + bank holidays, plus additionaltime off at Christmas\n- Hybrid working: 3 days on site, 2 from home\n- A clear progression path to lead developer on aproduction platform\n- Access to in-house CNC machines and 3D printers"
+    },
+    {
+      "id": "hybrid-frontend-tech-lead-next-js-react-typescript-ht-recruit-t4uit4hk",
+      "title": "Hybrid Frontend Tech Lead: Next.js, React & TypeScript",
+      "company": "HT Recruit",
+      "company_slug": "ht-recruit",
+      "location": "London, United Kingdom",
+      "date": "2026-09-21",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__540235410__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "ci-cd",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": "Quinnox Corporation in London is seeking a Tech Lead Front End Specialist to guide a frontend team in building scalable applications using Next.js, React, TypeScript, and Gatsby. You will mentor engineers, define standards, and ensure performance and accessibility across projects.\n\nThe role requires strong expertise with Material UI, MJML, Twig, and Netlify Functions, plus experience in CI/CD and agile environments. Hybrid work model in London offered."
+    }
+  ]
+}

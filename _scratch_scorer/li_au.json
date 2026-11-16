@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485427230",
+      "title": "Senior Software Engineer",
+      "company": "Lookahead",
+      "companyUrl": "https://au.linkedin.com/company/lookahead-search",
+      "location": "Australia",
+      "date": "2026-11-01",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-at-lookahead-4485427230"
+    },
+    {
+      "id": "4483537101",
+      "title": "Staff Software Engineer - Full Stack (React, Next.js, Node,)",
+      "company": "Commonwealth Bank",
+      "companyUrl": "https://au.linkedin.com/company/commonwealthbank",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-10-26",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-full-stack-react-next-js-node-at-commonwealth-bank-4483537101"
+    },
+    {
+      "id": "4486572414",
+      "title": "Front End Full Stack Engineer",
+      "company": "The HR Ally",
+      "companyUrl": "https://au.linkedin.com/company/the-hr-ally",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/front-end-full-stack-engineer-at-the-hr-ally-4486572414"
+    },
+    {
+      "id": "4483528640",
+      "title": "Staff Software Engineer - Full Stack (React, Next.js, Node,)",
+      "company": "Commonwealth Bank",
+      "companyUrl": "https://au.linkedin.com/company/commonwealthbank",
+      "location": "Eveleigh, New South Wales, Australia",
+      "date": "2026-10-26",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-full-stack-react-next-js-node-at-commonwealth-bank-4483528640"
+    },
+    {
+      "id": "4485813318",
+      "title": "Full Stack Engineer",
+      "company": "Ad Astra Consultants",
+      "companyUrl": "https://sg.linkedin.com/company/ad-astra-consultants-singapore",
+      "location": "Greater Sydney Area",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-ad-astra-consultants-4485813318"
+    },
+    {
+      "id": "4484444255",
+      "title": "Software Engineer II - Fullstack",
+      "company": "Mitti by SafetyCulture",
+      "companyUrl": "https://au.linkedin.com/company/mittihq",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-10-28",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-ii-fullstack-at-mitti-by-safetyculture-4484444255"
+    },
+    {
+      "id": "4487558364",
+      "title": "Senior Software Engineer (Full Stack)",
+      "company": "Settify",
+      "companyUrl": "https://au.linkedin.com/company/settify",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-04",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-settify-4487558364"
+    },
+    {
+      "id": "4487564671",
+      "title": "Front full stack Engineer",
+      "company": "Zone IT Solutions",
+      "companyUrl": "https://au.linkedin.com/company/zoneitsolutions",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-04",
+      "url": "https://au.linkedin.com/jobs/view/front-full-stack-engineer-at-zone-it-solutions-4487564671"
+    }
+  ]
+}

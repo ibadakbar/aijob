@@ -2,10 +2,11 @@
 name: scrape
 description: >
   Finds new job postings matching your profile via installed portal-search CLIs
-  (LinkedIn, local job boards, and any skills added with /add-portal). Deduplicates
-  across runs. Triggers on: job scrape, find jobs, search jobs, new jobs, job search,
-  scrape jobs, /scrape
-allowed-tools: Read, Write, Edit, Glob, Grep, Bash(bun --version), Bash(python tools/job_key.py:*), Bash(python3 tools/job_key.py:*), Bash(python tools/scrape_state.py:*), Bash(python3 tools/scrape_state.py:*), WebFetch, WebSearch, Agent, AskUserQuestion
+  (LinkedIn, local job boards, and any skills added with /add-portal), plus the
+  visa/relocation discovery engine (Arbeitnow + curated Greenhouse/Ashby/Lever).
+  Deduplicates across runs. Triggers on: job scrape, find jobs, search jobs, new
+  jobs, job search, scrape jobs, /scrape, visa sponsorship jobs, relocation jobs
+allowed-tools: Read, Write, Edit, Glob, Grep, Bash(bun --version), Bash(python tools/job_key.py:*), Bash(python3 tools/job_key.py:*), Bash(python tools/scrape_state.py:*), Bash(python3 tools/scrape_state.py:*), Bash(python tools/visa_discover.py:*), Bash(python3 tools/visa_discover.py:*), WebFetch, WebSearch, Agent, AskUserQuestion
 ---
 
 # Job Scraper
@@ -16,6 +17,10 @@ allowed-tools: Read, Write, Edit, Glob, Grep, Bash(bun --version), Bash(python t
 
 This skill searches job portals using the **installed portal-search CLIs** in
 `.agents/skills/` (plus WebSearch as a fallback), using queries from your profile.
+It also runs the **visa / relocation discovery engine** (`tools/visa_discover.py`)
+against Arbeitnow and curated public ATS boards (Greenhouse, Ashby, Lever) with
+sponsorship classification and dual sponsorship/skill scores. See
+`visa-sources.md` in this directory and `job_scraper/README.md`.
 It deduplicates against previously seen jobs and the application tracker, and
 presents new matches with a quick fit assessment.
 
@@ -84,6 +89,28 @@ Use `WebSearch` for:
 Use the site-specific query strings from `search-queries.md` directly as WebSearch queries for these portals.
 
 Tag each fallback result as WebSearch-sourced, keeping the portal tag when the fallback stands in for an installed portal whose CLI failed. Step 4 persists this as the entry's `source`, and Step 5 reports which portals ran on the fallback this run.
+
+#### 1d. Visa / relocation discovery engine (always for sponsorship-focused runs; recommended every scrape)
+
+Run the Python engine so sponsorship-tagged and ATS-board roles enter the same pool as portal CLI hits. On Windows use `python` (not `python3`):
+
+```bash
+python tools/visa_discover.py --format scrape --limit 40 --scrape-hits "<temp>/visa_hits.json"
+```
+
+Optional flags:
+- `--sources arbeitnow` — fast sponsorship-heavy pass (Arbeitnow only)
+- `--sources arbeitnow,greenhouse,ashby,lever` — default full live set
+- `--require-country` — drop jobs whose detected country is outside the target list (keeps remote/unknown)
+
+Merge `visa_hits.json` into the Step 2 candidate pool (same `title`/`company`/`url`/`date`/`portal`/`source` contract). Preserve each hit's `sponsorship` object when storing (additive fields on the seen entry).
+
+**Sponsorship classifications** (from `job_scraper/engine/sponsorship.py`):
+`verified_in_listing` · `sponsor_company_only` · `possible` · `not_available` · `unknown`
+
+Never mark a vacancy `verified_in_listing` solely because the employer appears on a sponsor registry. Present `sponsorship_score` and `skill_score` separately in Step 5 when present. Attribute Arbeitnow rows to Arbeitnow.com per their API terms.
+
+Stub sources (Relocate.me, Wellfound, EURES) are documented in `visa-sources.md` and are **not** scraped.
 
 ### Step 2: Fetch & Parse
 
@@ -265,9 +292,11 @@ fallback (websearch): <portal-name>, <portal-name>
 health: <portal-name> - degraded (company null on all 12 results); parsing anchors in .agents/skills/<portal-name>/url-reference.md
 health: <portal-name> - broken (0 results for the SKILL.md test query and a broader retry); parsing anchors in .agents/skills/<portal-name>/url-reference.md
 
-| # | Fit | Title | Company | Location | Deadline | URL |
-|---|-----|-------|---------|----------|----------|-----|
-| 1 | High | ... | ... | ... | ... | [Link](...) |
+| # | Fit | Title | Company | Location | Sponsorship | Deadline | URL |
+|---|-----|-------|---------|----------|-------------|----------|-----|
+| 1 | High | ... | ... | ... | verified_in_listing (0.88) | ... | [Link](...) |
+
+When a hit came from `visa_discover` (or was enriched), fill **Sponsorship** from `sponsorship.classification` and show `sponsorship_score` / `skill_score` in the highlights. Omit the Sponsorship column only when no hit in the run carries that field.
 
 If Step 2.5 flagged a mass-posting pattern, note it in the Title cell (e.g. "Frontend Developer (posted in 6 cities)") rather than burying it. Do the same for a declared-language-insufficient-level flag from the Language Gate (e.g. "Backend Engineer ⚠ fluent English required") - both are signals the user should see at a glance, not just in the detail highlights below.
 

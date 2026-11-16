@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4368093625",
+      "title": "Senior Software Engineer",
+      "company": "Aurora Energy Research",
+      "companyUrl": "https://uk.linkedin.com/company/aurora-energy-research-limited",
+      "location": "Oxford, England, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-at-aurora-energy-research-4368093625"
+    },
+    {
+      "id": "4476441590",
+      "title": "Full Stack Engineer",
+      "company": "OJ Digital",
+      "companyUrl": "https://uk.linkedin.com/company/ojdigital",
+      "location": "Greater London, England, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-at-oj-digital-4476441590"
+    },
+    {
+      "id": "4383901950",
+      "title": "Member of Technical Staff - Applications",
+      "company": "Reflection",
+      "companyUrl": "https://www.linkedin.com/company/reflectionai",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-04",
+      "url": "https://uk.linkedin.com/jobs/view/member-of-technical-staff-applications-at-reflection-4383901950"
+    },
+    {
+      "id": "4479549753",
+      "title": "Forward-Deployed Engineer",
+      "company": "Vercel",
+      "companyUrl": "https://www.linkedin.com/company/vercel",
+      "location": "Harrow, England, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-at-vercel-4479549753"
+    },
+    {
+      "id": "4488785077",
+      "title": "Senior Engineer",
+      "company": "Arva AI",
+      "companyUrl": "https://www.linkedin.com/company/arva-ai",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-08",
+      "url": "https://uk.linkedin.com/jobs/view/senior-engineer-at-arva-ai-4488785077"
+    },
+    {
+      "id": "4485071516",
+      "title": "Senior (Node/React/AWS) Engineer",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "United Kingdom",
+      "date": "2026-11-04",
+      "url": "https://uk.linkedin.com/jobs/view/senior-node-react-aws-engineer-at-oliver-bernard-4485071516"
+    },
+    {
+      "id": "4486245726",
+      "title": "Staff Software Engineer",
+      "company": "Tenth Revolution Group",
+      "companyUrl": "https://uk.linkedin.com/company/tenthrevolution",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/staff-software-engineer-at-tenth-revolution-group-4486245726"
+    },
+    {
+      "id": "4487128866",
+      "title": "Founding (Staff) Engineer | Early-stage AI Start-up | London",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/founding-staff-engineer-early-stage-ai-start-up-london-at-oliver-bernard-4487128866"
+    },
+    {
+      "id": "4488805237",
+      "title": "Forward Deployed Engineer",
+      "company": "Situ",
+      "companyUrl": "https://www.linkedin.com/company/situai",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-08",
+      "url": "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-at-situ-4488805237"
+    },
+    {
+      "id": "4486227240",
+      "title": "Founding Engineer",
+      "company": "Spectrum Search",
+      "companyUrl": "https://uk.linkedin.com/company/spectrumsearch",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineer-at-spectrum-search-4486227240"
+    }
+  ]
+}

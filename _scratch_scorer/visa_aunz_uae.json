@@ -1,0 +1,1212 @@
+[
+  {
+    "title": "Forward Software Engineer",
+    "company": "Mistral.ai",
+    "location": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-paris-278437",
+    "date": "2026-11-07",
+    "id": "forward-software-engineer-paris-278437",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms. We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited. About The Job As a Forward Software Engineer, you will build the systems behind some of the hardest problems Mistral takes on. You join our team of engineers in Applied AI. We gravitate towards hard problems, decide how to solve them, and ship fast. You work closely with our customer-facing teams, and what works goes into production with our customers and across the company. When a project needs it, you work directly on customer engagements. We're looking for a strong software engineer who has shipped agentic or GenAI systems to production. You've felt the pain of agents that work in the demo and fall apart on real tasks: tool calls that fail silently, loops that never end, and quality that drifts after launch. That production depth is your edge. You build across the stack, and you'd rather ship a plain UI on a solid foundation than a polished UI on a fragile one. You think like a founder. You start from the customer's problem, not the technology. You measure success by the value you deliver, and you care about building experiences people love to use. You like working at the edge of what AI can do today, and you push past it. Your scope is end to end, from first prototype to production. You help set the standard for how the team builds agents that are reliable, observable, and safe to run against sensiti",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "and work-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location-specific perks. For the most up-to-date deta",
+          "source_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-paris-278437",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-07",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": null,
+    "workplace": "unknown",
+    "rank_overall": 0.845,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.9
+  },
+  {
+    "title": "Senior Full-Stack Engineer (m/f/d)",
+    "company": "Buying Labs",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/buying-labs/senior-full-stack-engineer-hamburg-62754",
+    "date": "2026-11-05",
+    "id": "senior-full-stack-engineer-hamburg-62754",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Our Company \"Buying Labs is the leading global partner for sourcing and distributing premium consumer goods!\" We're looking for a Senior Full-Stack Engineer (m/f/d) to join our Tech team at our Hamburg headquarters. Our goal is to supercharge how our business works with AI and technology, wherever it makes a real difference. You'll build the systems our teams rely on every day, from internal applications to the data and AI capabilities behind them, and see the impact of your work directly in the business. This is a role for an experienced engineer who takes real ownership: someone who designs solid systems, builds AI into them where it adds value, and drives their work through to production and real users. Your Mission Own systems end to end: Design, build and run features across frontend and backend, from technical approach through deployment and support in production. Build AI into our products: Design and integrate AI-powered features such as structured extraction, classification, automation and agentic workflows. Make them reliable through validation, evaluation and human review where it matters. Data modelling and architecture: Build solid data models in PostgreSQL that serve as the foundation for our applications and AI features. Make architecture decisions that keep our systems maintainable as they grow. Modern and established codebases: Build new applications on our modern stack, and maintain and modernise our established JavaScript platform, which our teams rely on every day. Quality you can stand behind: Write tested, reviewed code and verify your own work before it reaches users. Monitor and troubleshoot production issues. Work closely with the business: Understand the processes behind what you build, work directly with our commercial and operational teams, and help shape what gets built and why. Raise the bar: Share knowledge, Your Profile 6+ years of professional software engineering experience, with a track record of building and running production app",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/buying-labs/senior-full-stack-engineer-hamburg-62754",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "DE",
+    "workplace": "unknown",
+    "rank_overall": 0.8075,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.9
+  },
+  {
+    "title": "Software Engineering Intern - Internal Developer Platform",
+    "company": "Tomtom",
+    "location": "Amsterdam, The Netherlands",
+    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+    "date": "2026-11-07",
+    "id": "software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "We build Frontstage, TomTom's developer portal based on Backstage, and Watchtower, the service that collects data behind it. Together they help engineering teams see what software they own and how it is doing, for example on security, quality and cost. What you'll do: Join a friendly team of engineers and pick up a project of your own, with a mentor to guide you Help build new pages and scorecards in Frontstage using TypeScript and React Help extend Watchtower, our TypeScript and PostgreSQL backend, with new data sources and APIs Work on features that matter to our users, for example showing teams what their services cost on our Kubernetes platform Help keep Frontstage up to date with new Backstage releases Participate in the full cycle: understanding what users need, designing a solution, building, testing and releasing it Build iteratively using agile methodologies, with your code reviewed by the team What you'll need: Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week Available for at least 32h/week Good TypeScript or JavaScript skills Some experience building web applications, for example with React or Node.js Basic knowledge of SQL and databases Nice to have: experience with Backstage, Docker, GitHub Actions or a cloud platform (Azure, AWS or GCP) Solid Computer Science fundamentals Comfortable with written and/or verbal communication in English Interest in building tools that make other engineers' lives easier, and eager to learn Find more English Speaking Jobs in Netherlands on Arbeitnow",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 0.8075,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.9
+  },
+  {
+    "title": "Senior Software Engineer - Data Platform (m/w/d)",
+    "company": "Nubank",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/nubank/senior-software-engineer-data-platform-berlin-354544",
+    "date": "2026-11-03",
+    "id": "senior-software-engineer-data-platform-berlin-354544",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "About Nu Nu serves more than 140 million customers, guided by a mission to fight complexity and empower people. The company has been leading an industry transformation through innovative products and human-centered services. Proprietary technology and data at scale power Nu’s digital platform, built to promote financial access, advancement, and transparency. Its business model thrives on customer love and lower costs, feeding a flywheel of growth and profitability. Visit our Institutional Page You will join an engineering squad in our Berlin office working on distributed systems and platform infrastructure. Our products serve analytics engineers and business teams across the company, but this is primarily a systems engineering role (roughly 75% core software systems engineering, 25% data architecture). We value engineering depth: we build internal distributed solutions and understand the runtimes underneath, rather than only orchestrating managed tools. As a Senior Software Engineer you will shape the architecture of our low-level infrastructure, orchestration frameworks and storage engines. You will lead technical design, resolve systemic bottlenecks in compute and streaming layers, and mentor engineers across squads, working with colleagues in Berlin, the US and Latin America. What you will do Design and build core low-level services and distributed runtimes for Nubank’s global data platform, with high fault tolerance, elastic scale and sub-second event availability. Lead the design of compute orchestration frameworks on large Kubernetes clusters, improving scheduling throughput and resource utilization for complex data pipelines. Design and optimize high-throughput streaming and storage architectures using Apache Kafka and distributed database internals for mission-critical financial workloads. Find and remove performance, network and storage bottlenecks across the infrastructure stack to reduce latency. Work with Analytics Engineering leads and platform users to",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "nd wellness assistance program Extended maternity and paternity leaves Life Insurance and AD&D Work-from-home Allowance Relocation Assistance Package, if applicable Work Model Hybrid 2-3 times/week: Our hybrid work model brings us to the office at least twice a",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/nubank/senior-software-engineer-data-platform-berlin-354544",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-07",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "DE",
+    "workplace": "onsite",
+    "rank_overall": 0.8005,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.43
+  },
+  {
+    "title": "Forward Software Engineer, Data",
+    "company": "Mistral.ai",
+    "location": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-data-paris-359594",
+    "date": "2026-11-07",
+    "id": "forward-software-engineer-data-paris-359594",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms. We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited. About The Job As a Forward Software Engineer, Data, you will build the systems behind some of the hardest problems Mistral takes on. You join our team of engineers in Applied AI. We gravitate towards hard problems, decide how to solve them, and ship fast. You work closely with our customer-facing teams, and what works goes into production with our customers and across the company. When a project needs it, you work directly on customer engagements. We're looking for a strong software engineer who builds end to end and has shipped ML or GenAI systems to production. You've felt the pain of models that pass every eval and fail on real data, and of quality that drifts after launch. You've also felt the data engineering pain: pipelines that break silently, schemas that change under you, and backfills that take a weekend. Data engineering is your edge. You turn messy, large-scale data into systems that hold up. You think like a founder. You start from the customer's problem, not the technology. You measure success by the value you deliver, and you care about building experiences people love to use. You like working at the edge of what AI can do today, and you push past it. Your scope is end to end, from first prototype to production. Your depth in data architecture helps set the standard for how the team design",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "and work-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location-specific perks. For the most up-to-date deta",
+          "source_url": "https://www.arbeitnow.fr/jobs/companies/mistralai/forward-software-engineer-data-paris-359594",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-07",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": null,
+    "workplace": "unknown",
+    "rank_overall": 0.7925,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.75
+  },
+  {
+    "title": "Senior Full Stack Engineer | AI & Security",
+    "company": "Escape",
+    "location": "Paris Office",
+    "url": "https://www.arbeitnow.fr/jobs/companies/escape/senior-full-stack-engineer-ai-security-paris-264565",
+    "date": "2026-11-06",
+    "id": "senior-full-stack-engineer-ai-security-paris-264565",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Senior Full-Stack Engineer (Product & Platform) • Paris Office Location: Paris (75002), 2 days remote per week Company: Escape : Leading AI Cybersecurity Compensation: €75–90k base + 0.05% BSPCE depending on seniority and scope Total Engineering Team at Escape: 21 Engineers, 4 Technical Leads, 4 Squads About Escape Escape is offensive security for the teams that are 100x outnumbered. We build AI agents that find and exploit vulnerabilities in modern applications, APIs, and microservices: the way a real attacker would, but at the speed of a CI pipeline. We're a Y Combinator W23 company. We just closed an $18M Series A in March 2026 led by Balderton Capital (with Uncorrelated Ventures, IRIS, and YC following on). Our customers and partners include Zoom, Schibsted, Wiz, Pandadoc, and a growing list of teams who've stopped pretending annual pen tests are enough. We're 40 people split between Paris and NYC, scaling to 80 in the next 12 months. The product surface is real: ASM, business-logic-aware DAST, and AI Pentesting GA-ing this year. The competitive thesis is that LLMs collapsed the cost of offensive engineering by 1000x, and the companies that ship that capability into production first will own the next decade of the category. We're betting we're those companies. About the Role In AI, context is the moat. At Escape, the data model is the context: and a team of three owns it end to end. Every Escape product (ASM, DAST, AI Pentesting) is built on top of one data model rich enough to represent an entire attack surface and everything our agents learn about it. That model is our moat, and this team owns it. You'll own the schema at the heart of the company and the last mile that delivers our offensive R&D to customers through the GraphQL API and the product UI. If it ships to a customer, it goes through your team. This is not a CRUD SaaS role in security clothing. It's the highest-leverage seat in product engineering: small team, central surface, and a direct line from ",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.fr/jobs/companies/escape/senior-full-stack-engineer-ai-security-paris-264565",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.7825,
+    "sponsorship_score": 0.55,
+    "skill_score": 1.0
+  },
+  {
+    "title": "Junior Full Stack Engineer | AI & Security",
+    "company": "Escape",
+    "location": "Paris Office",
+    "url": "https://www.arbeitnow.fr/jobs/companies/escape/junior-full-stack-engineer-ai-security-paris-269013",
+    "date": "2026-11-06",
+    "id": "junior-full-stack-engineer-ai-security-paris-269013",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Junior Full-Stack Engineer (Product & Platform) – Paris Office Location: Paris (75002), 2 days remote per week Company: Escape – Leading AI Cybersecurity Compensation: 55-75k + 0.05% BSPCE (stock options) Our Team: 21 Engineers, 4 Technical Leads, 4 Squads About Escape Escape is offensive security for the teams that are 100x outnumbered. We build AI agents that find and exploit vulnerabilities in modern applications, APIs, and microservices: the way a real attacker would, but at the speed of a CI pipeline. We're a Y Combinator W23 company. We just closed an $18M Series A in March 2026 led by Balderton Capital (with Uncorrelated Ventures, IRIS, and YC following on). Our customers and partners include Zoom, Schibsted, Wiz, Pandadoc, and a growing list of teams who've stopped pretending annual pen tests are enough. We're 40 people split between Paris and NYC, scaling to 80 in the next 12 months. The product surface is real: ASM, business-logic-aware DAST, and AI Pentesting GA-ing this year. The competitive thesis is that LLMs collapsed the cost of offensive engineering by 1000x, and the companies that ship that capability into production first will own the next decade of the category. We're betting we're those companies. About the Role Your work will help shape the core of Escape’s products. As a Junior Full-Stack Engineer, you’ll work closely with senior engineers and technical leads to deliver features and improvements across the product. This is a great learning opportunity for someone early in their engineering career who wants to dive into AI-powered cybersecurity, work across the stack, and see the impact of their work in production. What You’ll Do Develop on both frontend (Svelte + TypeScript) and backend (Node.js, GraphQL, Prisma, PostgreSQL) parts of the product under the mentorship of experienced engineers Collaborate on delivering new features and improving the user experience for security teams Help maintain and enhance the data model supporting our securit",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.fr/jobs/companies/escape/junior-full-stack-engineer-ai-security-paris-269013",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.7755,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.98
+  },
+  {
+    "title": "Flight Software Engineer",
+    "company": "The Exploration Company",
+    "location": "Munich, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/flight-software-engineer-munich-220316",
+    "date": "2026-10-31",
+    "id": "flight-software-engineer-munich-220316",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Here at The Exploration Company, we are building spacecrafts for humanity. At The Exploration Company we are developing, producing, and operating Nyx - a modular, reusable orbital vehicle for space missions to stations and beyond. Nyx is engineered with the capability to transport cargo and, in the future, humans. We are seeking a highly motivated Flight Software Engineer to join our mission-driven team developing Nyx. In this role, you will take full ownership of key components of the flight software stack. You will be designing, implementing, and testing mission-critical systems that enable safe, autonomous, and reliable spaceflight operations. You will work in a fast-paced, collaborative environment where cross-functional integration is essential. Your code will interface directly with vehicle avionics, guidance systems, propulsion, communications, and ground control. Expect to write modern, high-reliability C++ and Python code, drive software simulations, and ensure flight readiness through rigorous testing at both unit and system levels. The position level will be determined based on your experience, technical depth, and ability to take ownership. Key Responsibilities Design, implement, and own core flight software modules for spacecraft control, telemetry, data handling, fault management, and communications. Develop in modern C++ and Python for support tooling, following best practices in software architecture, testing, and performance optimization. Build and maintain test frameworks for automated unit, integration, and hardware-in-the-loop (HIL) testing to validate software behavior across mission phases. Create and run high-fidelity simulations to model flight dynamics, subsystem interactions, and edge cases. Collaborate closely with GNC, avionics, propulsion, and mission operations teams to ensure seamless integration and mission success. Participate in code reviews, design reviews, and flight readiness assessments. What we would love to see from you Strong",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "based on race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status. Relocation assistance is provided for those willing to relocate including visa sponsorship where applicable. All offers are contingent upon t",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/flight-software-engineer-munich-220316",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-07",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "DE",
+    "workplace": "unknown",
+    "rank_overall": 0.7725,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Catonetworks",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/software-engineer-london-287186",
+    "date": "2026-11-07",
+    "id": "software-engineer-london-287186",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Cato Networks is the converged network and security cloud for the AI era. As AI reshapes cybersecurity, enterprises face a dual challenge: unlocking AI’s potential while defending against AI-driven attacks. Cato addresses both through a unified, cloud-native platform, providing the visibility and context to prioritize risks and stop threats in real time across users, applications, data, and AI agents. Join us as we scale: take on ambitious technological challenges and shape the next generation of enterprise security at a company trusted by thousands of organizations worldwide. Cato Networks is looking for an intelligent and passionate Software Engineer to join a newly formed team focused on enabling the next phase of Cato’s growth. This team is responsible for adapting and extending Cato’s platform to support new use cases, customers, and growth models, while maintaining the robustness and scale of Cato’s cloud-native architecture. In this role, you will design and build backend systems that power new product capabilities, data-driven insights, and platform extensions. You will work on highly scalable services that process, analyze, and expose data across large, distributed networks, and collaborate closely with multiple teams to turn product vision into production-ready solutions. Responsibilities : End-to-end development of backend services, from large-scale data processing to APIs and web-facing interfaces Designing and implementing scalable platform capabilities that support new product growth and expansion initiatives Building reliable, high-performance systems for collecting, aggregating, and analyzing statistics across multiple networks Working closely with product management, research, and automation teams to define and deliver new capabilities Researching, evaluating, and adopting new technologies to accelerate product evolution Collaborating with multiple development teams to integrate new solutions into the existing platform Requirements: 6+ years of expe",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/software-engineer-london-287186",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.755,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.75
+  },
+  {
+    "title": "Staff Software Engineer, Partner Engineering",
+    "company": "Crunchyroll",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/crunchyroll/staff-software-engineer-partner-engineering-london-168644",
+    "date": "2026-11-07",
+    "id": "staff-software-engineer-partner-engineering-london-168644",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "About Crunchyroll Founded by fans, Crunchyroll delivers the art and culture of anime to a passionate community. We super-serve over 100 million anime and manga fans across 200+ countries and territories, and help them connect with the stories and characters they crave. Whether that experience is online or in-person, streaming video, theatrical, games, merchandise, events and more, it’s powered by the anime content we all love. Join our team, and help us shape the future of anime! About the role Crunchyroll is scaling globally, creating unique challenges and exciting opportunities to delight millions of anime fans worldwide. The Partner Engineering team, part of the larger Ecosystem Engineering organization, works with our growing network of partners and internal teams to ensure an exceptional experience for all Crunchyroll fans. As a Staff Partner Engineer, you'll lead strategic technical integrations, optimize deployment processes, and collaborate with key partners to deliver outstanding user experiences. You'll act as the technical point of contact for our partners, driving innovation and solving complex challenges with scalable, forward-thinking solutions. In this high-impact role, you will: Lead cross-functional projects involving Product, Engineering, Business Development, Program Management, and Marketing. Improve and scale existing partner operations. Define and commercialize new partner-facing solutions and workflows. Accelerate new initiatives by building and iterating through the full product development cycle, prototyping, testing, and launching successful features. Identify and bridge product gaps to enable seamless partner integration. You will report to the Senior Manager of Partner Engineering and must be based in the London Area. This is a hybrid role with 3 days a week in the office (Tuesdays, Wednesdays, and Thursdays). About You We’re excited about candidates who bring: A Bachelor’s degree in Computer Science or equivalent practical experience. 12",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/crunchyroll/staff-software-engineer-partner-engineering-london-168644",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.755,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.75
+  },
+  {
+    "title": "Senior Frontend Engineer / Technical Lead",
+    "company": "Athora Netherlands",
+    "location": "Amsterdam, Noord-Holland, Nederland",
+    "url": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-frontend-engineer-technical-lead-amsterdam-166994",
+    "date": "2026-11-06",
+    "id": "senior-frontend-engineer-technical-lead-amsterdam-166994",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Wil jij niet alleen bouwen aan frontendoplossingen, maar ook richting geven aan hoe we onze websites en digitale platformen de komende jaren ontwikkelen? Wat je over ons moet weten? Wij zijn Athora Netherlands, een verzekeringsbedrijf met de bekende merken Zwitserleven en Reaal. Wij houden ons voornamelijk bezig met pensioenen en levensverzekeringen op de Nederlandse markt. Dat doen wij als onderdeel van een Europese groep met vestigingen in Ierland, het Verenigd Koninkrijk, België, Duitsland en Italië. Wij zijn een sterk bedrijf met ruim één miljoen klanten en wij willen de komende jaren doorgroeien tot een van de belangrijkste spelers in de snel veranderende pensioenmarkt. Daarom zoeken wij mensen die niet terugdeinzen voor verandering, die van aanpakken weten, die de ambitie hebben om resultaten neer te zetten en die daarom het beste uit zichzelf en hun team weten te halen. Slimmer samen, noemen wij dat. Wat ga je doen? Voor ons Websites & Portals Platform team zoeken we een ervaren frontend engineer die technisch leiderschap combineert met sterke hands-on kennis van Angular. Iemand die vooruitkijkt, een frontend visie en roadmap kan neerzetten en andere teams kan meenemen in de technische richting. Je bent dus niet alleen degene die complexe frontend vraagstukken kan oplossen. Je helpt ook bepalen waar we naartoe gaan, welke technische keuzes we maken en hoe verschillende ontwikkelteams binnen die koers samenwerken. Als Senior Frontend Engineer / Technical Lead speel je een centrale rol in de verdere ontwikkeling van ons frontend platform. Je houdt je onder andere bezig met: - het opstellen en uitdragen van de technische visie en roadmap voor frontend; - het verder ontwikkelen en moderniseren van het frontend platform; - het ontwikkelen van herbruikbare platformcomponenten voor onze websites en digitale klantomgevingen; - het maken en bewaken van technische en architectuurkeuzes; - hands-on ontwikkelen met Angular en TypeScript; - het inhoudelijk richting geven ",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-frontend-engineer-technical-lead-amsterdam-166994",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 0.7515,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.74
+  },
+  {
+    "title": "Software Engineer, Frontend",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f",
+    "date": "2026-11-04",
+    "id": "6511d68f-b65d-4499-962f-7e2f75eabe3f",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT RAMP Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. ABOUT THE ROLE Our ideal candidate has a deep understanding of JavaScript, a passion for web performance, and can creatively come up with solutions to solve customer's needs. Our tech stack currently involves TypeScript, React, Vite, and Ryu, our in-house design system. Check out our Engineering Blog https://engineering.ramp.com/ for more on our tech stack, mission and values! WHAT YOU’LL DO - Build! - Lead the design of performant, beautiful, and usable interfaces - Collaborate on our technical vision. Lead discussions and implementation of multiple complex projects - Foster a culture of upholding industry-leading UX - Continuously improve our engineering processes, tools, and systems that allow us to scale the code base, productivity, and the team - Recruit, interview and develop your own interview questions, while fostering the culture of excellence, velocity and humility - Inspire and mentor less experienced engineers and interns WHAT YOU'LL NEED - Minimum of 5 years of frontend engineering experience preferred - Proficiency in JavaScript and ",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "g + bonding) or 8 weeks (bonding only) at 100% pay - Pet insurance - In-office perks: lunch, snacks, drinks, and more - Relocation expense coverage to NYC or SF (if needed) CANADA - Group medical, dental, and vision coverage through Sun Life - Life,",
+          "source_url": "https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f",
+          "pattern": "relocation (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "hybrid",
+    "rank_overall": 0.7515,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.74
+  },
+  {
+    "title": "IT Internship - Fullstack Engineer: Cloud-Native Platform Engineering & Developer Experience",
+    "company": "Swisscom",
+    "location": "Rotterdam, Zuid-Holland, Netherlands",
+    "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience-rotterdam-477686",
+    "date": "2026-11-06",
+    "id": "it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience-rotterdam-477686",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "IT Internship - Cloud-Native Platform Engineering & Developer Experience (AnyOrg) Becoming an IT professional that you aspire to be About the Internship Swisscom is always keen on attracting and developing the best talents. As part of the leading telecom and tech company in Switzerland, you will work on real projects that have real impact. From day one, you will be part of an international team collaborating across Switzerland, Rotterdam, and Riga, contributing to innovative solutions in Swisscom’s digital transformation. This means working hands‑on in backend, cloud, or full‑stack development, applying your Computer Science skills to real technical challenges. With colleagues from over 60 nationalities, diversity is not just something we value, it is how we work. We believe in open collaboration, ownership, and continuous learning. You will be encouraged to share ideas, take initiative, and grow within the environment. We respect each other, help each other out, and are not afraid to make mistakes. We make sure you can be the best version of yourself. Our internship program starts on 1st February 2027 . In this 6 months internship you will work in agile teams using Scrum and SAFe, gaining hands-on experience in a fast-paced and supportive environment. About the Internship Project: Cloud-Native Platform Engineering & Developer Experience (AnyOrg) Join a team building enterprise platform services used by engineers across Swisscom. You will work on cloud-native Front/backed services, platform automation, CI/CD pipelines, developer tooling and security integrations. The project offers hands-on experience with modern software engineering practices, DevOps, GitLab pipelines and cloud technologies while collaborating with experienced engineers in an international Agile environment. Must-haves: TypeScript; Git Nice-to-haves: Angular; AWS; Docker; Kubernetes; UX/UI; CSS Who are you? You are a student enrolled in the last year of your HBO or University program in the field o",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience-rotterdam-477686",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 0.727,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.67
+  },
+  {
+    "title": "Full Stack Software Engineer",
+    "company": "Infinit",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/infinit/full-stack-software-engineer-london-402621",
+    "date": "2026-11-07",
+    "id": "full-stack-software-engineer-london-402621",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Job Title: Full Stack Software Engineer Type: Full-time Location: London What about us? Launched in 2023, INFINIT is a fast-growing fintech scale-up operating in multiple countries across Europe and Americas. At INFINIT we are on a mission to reshape the future of SMEs with AI at the forefront. Our all-in-one operating system has banking at its core, and empowers small business owners and their teams to seamlessly manage and optimize every aspect of their business with AI agents. By focussing on specific industries, INFINIT delivers tailored, high-value solutions, while building innovative AI products to further unlock significant growth opportunities for our customers. INFINIT operates globally, with ambitions to further expand its footprint to redefine the fintech landscape for SMEs worldwide. Join us on the INFINIT journey as we revolutionise the SME economy and drive meaningful impact through innovation 🚀 The Role We are hiring a Full Stack Software Engineer to drive our product development cycle. This role is built on the philosophy that the best engineers don't just write code, they build solutions. Your primary responsibility is to bridge the gap between business needs and technical execution, rapidly translating high-level goals into polished, shipped features. You will be expected to challenge requirements , bring a product-first mindset to the engineering team, and ensure every line of code adds tangible value. This role demands strong software engineering proficiency and acute product judgment to prioritize and ship high-impact features in a fast-paced environment. What do you need to be successful in this role? Exceptional software engineering and system design capability , with proven experience designing, building, and shipping production-grade, scalable systems across the full stack (including C#, Python, and Typescript proficiency), always prioritizing technical clarity and maintainable architecture. A \"Product-First\" Engineering Mindset , demonstrat",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/infinit/full-stack-software-engineer-london-402621",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.7235,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.66
+  },
+  {
+    "title": "Principal Software Engineer, GPS",
+    "company": "scaleai",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/principal-software-engineer-gps-london-241669",
+    "date": "2026-11-07",
+    "id": "principal-software-engineer-gps-london-241669",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Principal Software Engineer, Global Public Sector Scale’s rapidly growing Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Creating custom AI applications that will impact millions of citizens Generating high-quality training data for national LLMs Upskilling and advisory services to spread the impact of AI We are hiring a Principal Engineer to join a small team of our most senior engineers who take on the problems no one else can. You will work at the earliest stage of our engagements: shaping the technical approach with clients, defining the technology we build on, and turning ideas into working prototypes fast. You will step in when a project is stuck or a problem is unusually hard, and turn what you learn in the field into shared capabilities every team can build on. This is a very senior, hands-on role. Our engineering organisation is young, so mentoring is a core part of the job: you will raise the bar for how we design, build and deliver, and grow the next generation of technical leaders around you. The role is based in London. At Scale, we’re not just building AI solutions, we are building repeatable blocks to enable the public sector to transform their operations and better serve citizens through cutting-edge technology. If you’re ready to shape the future of AI in the public sector and be a member of our rapidly expanding team, we’d love to hear from you. You will: Take on the hardest technical problems across our programs, stepping in where projects are stuck or the path forward is unclear Lead the technical side of early engagements: work with clients to scope problems, shape proofs of concept and keep the scope needed to prove value as small as possible Build working prototypes quickly, from AI agents and evaluation pipelines to data and knowledge systems, and take the most promising ones to production Define the technology and architecture our solutions",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/principal-software-engineer-gps-london-241669",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.699,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.59
+  },
+  {
+    "title": "Growth Engineer (Fullstack, Frontend-Focused)",
+    "company": "Pennylane SAS",
+    "location": "All France (remote)",
+    "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
+    "date": "2026-11-07",
+    "id": "growth-engineer-fullstack-frontend-focused-paris-299551",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? Then Pennylane is the right place for you ! Our vision We aim to become the most beloved financial Operating System of French SMEs and Accounting Firms (and soon, European ones). We help entrepreneurs rid themselves of time-consuming tasks related to accounting and finance while providing them with access to key financial information to assist in making the best decisions for their business. About us Pennylane is one of the fastest growing Fintechs in France (and soon to be in Europe!) In 5 years of existence, we’ve managed to : 💻 Make ourselves known as a groundbreaking accounting and financial software for small businesses and their accountants 💰 Raise a total of €400 millions, including from Sequoia, the famous fund from the Silicon Valley who invested early in companies like Google, Facebook, Airbnb, Stripe, Paypal and much more... 👨‍👩‍👧‍👦 Grow from 7 cofounders to 1000 happy Pennylaners : we’re now recognized as one of the greatest places to work in France (and also remotely), with a 4.6/5 rating on Glassdoor . 🌍 Build an international environment with more than 25 nationalities, with a strong remote-friendly culture, where 30% of the employees are already working from all parts of Europe 🤝 Earn the trust of thousands of customers and accounting firms and obtain outstanding ratings 🚀 Already more than 900,000 small and medium-sized enterprises (SMEs) and over 6000 accounting firms use Pennylane in France! Your impact Great growth experiences are built by great engineers. At Pennylane, Growth Engineering is about more than building landing pages or running experiments. It's about creating fast, reliable and seamless digital experiences that help entrepreneurs discover Pennylane and get started. As we expand ",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.6915,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.74
+  },
+  {
+    "title": "Software Engineering Intern (Summer)",
+    "company": "Datadog",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+    "date": "2026-09-08",
+    "id": "8052118",
+    "portal": "visa-greenhouse",
+    "source": "cli",
+    "description": "We’re looking for Software Engineering Interns to help build and scale the systems that power Datadog’s observability and security platform. Interns contribute directly to real-world engineering challenges across backend, frontend, infrastructure, data engineering, and developer tooling while working alongside experienced engineers and mentors. You’ll help design, build, and improve systems that process and analyze massive volumes of metrics, logs, and application data in real time. Whether you’re interested in distributed systems, Kubernetes, AI-powered products like Bits AI, or developer platform tooling, you’ll work on meaningful projects that deliver impact to customers at global scale. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Contribute to production systems that process and analyze large-scale observability and application data in real time Build and improve distributed systems across backend infrastructure, developer platforms, and cloud-native services Help identify and solve performance, reliability, and scalability challenges in critical services supporting Datadog’s growing customer base Own and deliver technical projects from design through deployment with support from experienced engineers and mentors Develop technical expertise through hands-on experience with technologies such as Kubernetes, distributed systems, and cloud-native infrastructure Collaborate with fellow interns, mentors, and engineers while building software that delivers impact at global scale Who You Are: Pursuing a degree in Computer Science, Software Engineering, or a related technical field, or have equivalent practical experience Targeting a 2028 full-time start date Demonstrate strong computer science fundamentals, including data structures, algorithms, and soft",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "ork through engineering talks, social events, and community engagement opportunities throughout your internship Receive relocation support and travel benefits where applicable Enjoy office perks including snacks, drinks, and catered lunches on Monday, Wednes",
+          "source_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-07",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "US",
+    "workplace": "unknown",
+    "rank_overall": 0.6875,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Platform Software Engineer",
+    "company": "Tomtom",
+    "location": "Amsterdam, The Netherlands",
+    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-software-engineer-amsterdam-the-netherlands-313114",
+    "date": "2026-11-07",
+    "id": "platform-software-engineer-amsterdam-the-netherlands-313114",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "The Developer Enablement & Security (DE&S) team within Platform Engineering owns the tooling that TomTom engineers use to write, build, store and secure code. This covers GitHub platform management, artifact management with JFrog Artifactory, security scanning, developer tooling and AI governance platforms. We treat internal developers as our customers and aim to make the secure path the easy path. What you will do Administer and automate GitHub Enterprise: repository settings, rulesets, access and governance across a large repository estate. Operate and improve JFrog Artifactory, including repository configuration, cleanup, permissions and support for our hybrid cloud setup. Replace repetitive admin work with scripts and automation using Python, Bash and REST APIs. Build and maintain GitHub Actions workflows and support teams whose pipelines pull and publish packages. Manage platform configuration as code with Terraform or similar tools. Use AI tools to speed up automation and support work, and help developers adopt them safely in line with our AI governance approach. Take ownership of well-defined platform tasks from start to finish, asking for guidance when needed. Troubleshoot developer issues across DNS, TLS, proxies and authentication. Write and maintain documentation and runbooks that let developers help themselves. Explain platform policies clearly and work with developers to adopt them. What you need 2 to 5 years of experience in DevOps, platform, build or infrastructure engineering. Git and GitHub: comfortable with branching, pull requests, reviews and repository settings; hands-on experience with GitHub Actions. Scripting and automation: Python or Bash, with experience calling REST APIs. CI/CD basics: you have built or maintained pipelines and understand how builds pull and publish packages. Package ecosystems: working knowledge of at least two of Maven/Gradle, npm, PyPI, Docker and NuGet. Linux and networking: you can find your way around a server and tr",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-software-engineer-amsterdam-the-netherlands-313114",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "NL",
+    "workplace": "hybrid",
+    "rank_overall": 0.671,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51
+  },
+  {
+    "title": "Lead Java Software Engineer (v/m/x)",
+    "company": "Conxillium Group",
+    "location": "Capelle aan den IJssel, Zuid-Holland, Nederland",
+    "url": "https://www.arbeitnow.nl/jobs/companies/conxillium-group/lead-java-software-engineer-capelle-aan-den-ijssel-111071",
+    "date": "2026-11-06",
+    "id": "lead-java-software-engineer-capelle-aan-den-ijssel-111071",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Bouw mee aan de digitale toekomst van de openbare ruimte Bij Progresity ontwikkelen we software die gemeenten helpt om de openbare ruimte slimmer, veiliger en duurzamer te beheren. Onze applicatie BinnenBeter verbindt inwoners en gemeenten: via de BuitenBeter app kunnen inwoners eenvoudig meldingen doen van problemen in de openbare ruimte, van kapotte straatverlichting tot zwerfafval of een losliggende stoeptegel. Gemeenten ontvangen deze meldingen in BinnenBeter en kunnen ze efficiënt opvolgen, zodat elke melding leidt tot een zichtbare verbetering in de leefomgeving. Zo zorgen we samen voor schonere, veiligere en beter onderhouden steden voor miljoenen inwoners in Nederland. We staan aan de vooravond van een belangrijke volgende stap. Niet alleen ontwikkelen we onze software verder, ook professionaliseren we de manier waarop we software bouwen. We willen groeien naar een moderne engineeringorganisatie waarin eigenaarschap, kwaliteit, automatisering en continu verbeteren centraal staan. Daarom zoeken we een Lead Software Engineer (Java) die niet alleen technisch sterk is, maar ook energie krijgt van het verder brengen van een engineeringteam. Iemand die verder kijkt dan de code van vandaag, een duidelijke technische visie kan ontwikkelen en anderen weet mee te nemen in verandering. Die begrijpt dat goede software niet alleen draait om technologie, maar ook om samenwerking, vakmanschap en het maken van de juiste keuzes. Jouw rol Als Lead Software Engineer (Java) combineer je hands-on software engineering met technisch leiderschap. Je werkt binnen een multidisciplinair productteam aan de verdere ontwikkeling van BinnenBeter en neemt het voortouw in de technische richting en professionalisering van Engineering. Je bent eigenaar van de technische visie en architectuur van het product. Je bepaalt samen met je collega's hoe we onze software toekomstbestendig houden en vertaalt technische ambities naar concrete verbeteringen. Daarbij kijk je verder dan nieuwe functionalit",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/conxillium-group/lead-java-software-engineer-capelle-aan-den-ijssel-111071",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 0.671,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51
+  },
+  {
+    "title": "Software Engineering Intern, Frontend",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "date": "2026-09-24",
+    "id": "a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT RAMP Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. Explore our Engineering Blog https://builders.ramp.com & Emerging Talent https://builders.ramp.com/emerging-talent Blog to learn more about how we build at Ramp and what it’s like to start your career here. ABOUT THE ROLE Ramp is, at its core, an engineering company. We’re looking for frontend and full-stack engineering interns who are excited to build intuitive, high-quality products that solve complex problems for our customers. Our ideal candidate has strong JavaScript fundamentals, an eye for great user experiences, and enjoys turning customer needs into thoughtful engineering solutions. Our frontend stack includes TypeScript, React, Vite, and Ryu, our in-house design system. WHAT YOU’LL DO - Build performant, beautiful, and intuitive interfaces for businesses with complex needs - Own meaningful projects and ship products alongside cross-functional teams - Work closely with product, design, and business teams to turn customer feedback into product improvements - Contribute to the tools, systems, and engineering practices that help Ramp scale W",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "g + bonding) or 8 weeks (bonding only) at 100% pay - Pet insurance - In-office perks: lunch, snacks, drinks, and more - Relocation expense coverage to NYC or SF (if needed) CANADA - Group medical, dental, and vision coverage through Sun Life - Life,",
+          "source_url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+          "pattern": "relocation (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "hybrid",
+    "rank_overall": 0.6665,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.74
+  },
+  {
+    "title": "Senior Software Engineer (Processor Software Stack)",
+    "company": "Ubitium GmbH",
+    "location": "Karlsruhe",
+    "url": "https://www.arbeitnow.com/jobs/companies/ubitium-gmbh/senior-software-engineer-processor-software-stack-karlsruhe-497791",
+    "date": "2026-11-04",
+    "id": "senior-software-engineer-processor-software-stack-karlsruhe-497791",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "At Ubitium, we believe the best engineering happens when people with different perspectives tackle hard problems together. We welcome applicants from all backgrounds and experiences. What matters most is curiosity, skill, and the drive to build technology that improves the world. If that resonates with you, we’d love to hear from you. Our team members come from some of the best universities in the world and left some of the largest tech companies to build something truly remarkable. Tasks We are looking for a Senior Software Engineer who is at home across our processor software from ported libraries and the compiler down to bare-metal and operating systems. Your team will: develop our software stack, including compiler, mapping tools, low-level tooling, simulation and debug infrastructure; write bare-metal, firmware and OS-level software for our RISC-V SoC; implement and optimise signal-processing and inference kernels under real-time constraints; bring up, test and port software on pre-silicon platforms and on silicon, including low-level hardware tests; and work in a close feedback loop with our hardware designers. Requirements Strong C, modern C++ (C++17/20, STL, Boost) and Python. A solid foundation in algorithms and in hardware/software system architecture. Experience working close to the hardware, with a good understanding of system-on-a-chip design, processor architecture and microarchitecture, and some familiarity with RTL and hardware design. Experience with agentic programming. You know your way around all of these fields, and go deep in at least one: i ) compiler development and code generation; ii) low-level tooling, simulation and performance analysis; iii) low-level embedded or systems software, operating systems and real-time; iv) signal processing, numerical computation and ML inference Master's degree (or equivalent experience) and 10+ years of relevant experience. Relocation required. Currently 4 days on-site, 1 day remote. Policy may change. Nice ",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "hyr, Yocto/OpenEmbedded, BLAS/LAPACK/OpenBLAS. Benefits Competitive salary plus stock options 30+ days of paid vacation Relocation support Full German social security and universal healthcare A modern office Free snacks, coffee, and drinks Work with people w",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/ubitium-gmbh/senior-software-engineer-processor-software-stack-karlsruhe-497791",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-07",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": null,
+    "workplace": "unknown",
+    "rank_overall": 0.6525,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Staff Software Engineer - Workloads",
+    "company": "Coreweaveu",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-software-engineer-workloads-london-379375",
+    "date": "2026-11-07",
+    "id": "staff-software-engineer-workloads-london-379375",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . We're proud to be a Living Wage accredited Employer. About the Team Launchables is CoreWeave's platform for building Physical Intelligence. We bring simulation, training and evaluation tools into a common platform, allowing robotics, autonomous systems and engineering teams to focus on their applications while Launchables handles common execution and infrastructure needs. We turn specialist Physical AI software into capabilities that researchers and engineers can use, adapt and build upon. Our work combines strong software engineering with applied domain knowledge to make complex workloads accessible, reproducible and useful in real-world environments. As a Staff Software Engineer, Workloads - Physical AI, you will develop engine integrations, application code, adapters, templates and developer tools that make specialist software available through Launchables. You will work directly with researchers and engineers to understand their tasks, assumptions, dependencies and expected outcomes, translating these into interfaces and configurations that preserve the capabilities they need. You will take ownership of how users configure, run, customise and evaluate workloads. This includes defining meaningful inputs, defaults, constraints and outputs; building command-line and API interfaces; and creating examples and documentation that help users extend existing templates or author their own. You will establish appropriate validation for packaging, exec",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-software-engineer-workloads-london-379375",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.643,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.43
+  },
+  {
+    "title": "Staff Software Engineer, Runtime Systems",
+    "company": "Coreweaveu",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-software-engineer-runtime-systems-london-87057",
+    "date": "2026-11-07",
+    "id": "staff-software-engineer-runtime-systems-london-87057",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . We're proud to be a Living Wage accredited Employer. What You’ll Do: The Physical AI Engineering Team at CoreWeave is building the software and infrastructure that enables demanding AI, simulation, robotics, and engineering workloads to run reliably at scale. As these workloads become more complex, the challenge is no longer simply providing compute. We need to make heterogeneous workloads easier to execute, observe, reproduce, and move across different systems without hiding the capabilities or semantics of the infrastructure underneath them. About the role: We’re seeking a Staff Software Engineer, Runtime Systems to help design and build this layer. This is a hands-on systems engineering role at the intersection of distributed systems, runtimes, workflow execution, programming language concepts, and large-scale compute infrastructure . You’ll work on the foundations that allow complex workloads to move from an abstract description into reliable execution across systems such as Kubernetes, Argo, OSMO, and future execution environments. A major part of the role is deciding where abstraction is useful — and where it creates more complexity. Rather than building another universal workflow engine, you’ll help establish clear contracts between our platform and the systems that execute work, while preserving native capabilities. You’ll operate across architecture and implementation: defining contracts, writing production software, validating assumpt",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-software-engineer-runtime-systems-london-87057",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.643,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.43
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Benetics AI",
+    "location": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
+    "date": "2026-11-06",
+    "id": "software-engineer-zurich-462160",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Construction is a multi-trillion-dollar industry used by every human across the planet. It needs your help: we need to invent new software systems so construction becomes as efficient, quick, automated and green as possible. The team at Benetics (60+ years of engineering experience, 2 founding engineers from Google, and a CEO with a successful exit in tech.) is laser-focused on a vision of understanding each building’s DNA: How are people on-site communicating? How was the building constructed compared to what the plan said? How can we automate planning, implementation, logistics, and maintenance into a seamless process flow? Join the fastest-moving company in this space. Tasks Build reliable, performant, and scalable software solutions. Follow data-driven experimentation to iterate on features. Bring machine learning models for construction process flows. Work closely and collaborate with engineers, product managers, designers, and other team members. Share expertise, hold tech talks, contribute to design meetings, and enrich our engineering culture. Tackle greenfield algorithmic, scaling, and performance challenges. Code using primarily TypeScript and Python Requirements [required] 2+ years of software engineering experience [required] Master’s or bachelor’s degree (or equivalent) in computer science, mathematics, or related fields (ETH Zurich or equivalent) Your A-Game: top-notch software engineering, a curious mind looking to learn constantly, and an empathic style that wants to teach others. Benefits Experienced and powerful team; a start-up without the chaos. Quick pacing while paying attention to all the details: we build a delightful, bullet-proof product. Performance-driven compensation, including equity. A place to learn and develop yourself. A once-in-a-generation chance to reshape an industry of crucial importance for humanity and the planet. We are hiring the best people around the world and offer visa sponsorship. Find more English Speaking Jobs in Swi",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "an industry of crucial importance for humanity and the planet. We are hiring the best people around the world and offer visa sponsorship. Find more English Speaking Jobs in Switzerland on Arbeitnow",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
+          "pattern": "visa sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "dustry of crucial importance for humanity and the planet. We are hiring the best people around the world and offer visa sponsorship. Find more English Speaking Jobs in Switzerland on Arbeitnow",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
+          "pattern": "sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "CH",
+    "workplace": "onsite",
+    "rank_overall": 0.643,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.43
+  },
+  {
+    "title": "Software Engineering Intern - AI Platform Excellence",
+    "company": "Tomtom",
+    "location": "Amsterdam, The Netherlands",
+    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+    "date": "2026-11-07",
+    "id": "software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "We look after the AI tools TomTom engineers use every day, such as GitHub Copilot, Claude and Cursor, and the platform that gives teams access to AI models. We help teams use these tools well, keep an eye on usage and cost, and try out new tools as they appear. What you'll do: Join a friendly team of platform engineers and pick up a project of your own, with a mentor to guide you Help build reports and dashboards that show how AI tools are used across TomTom and what they cost Look into how engineers can get good results from AI tools while using fewer tokens, and share simple tips and tooling with them Help improve our model gateway, for example by adding usage tracking or making it easier for teams to try new models Take part in trying out new AI developer tools and help write down what works and what does not Support the pilot of our AI-assisted ways of working with engineering teams, for example by collecting feedback and usage numbers Build iteratively using agile methodologies, and learn how a platform team works day to day What you'll need: Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week Available for at least 32h/week Good Python skills Some experience using AI coding assistants or LLM APIs, for example in coursework or a side project Basic knowledge of working with data (SQL, pandas or similar) Nice to have: experience with GitHub Actions, APIs or a cloud platform (Azure, AWS or GCP) Solid Computer Science fundamentals Comfortable with written and/or verbal communication in English Curious about AI and eager to learn Find Jobs in Netherlands on Arbeitnow",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 0.643,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.43
+  },
+  {
+    "title": "Software Engineer Intern, Infrastructure",
+    "company": "Talos Trading",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-infrastructure-london-357239",
+    "date": "2026-11-07",
+    "id": "software-engineer-intern-infrastructure-london-357239",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Talos: Institutional Fabric for the Digital Asset Market Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosystem. We are committed to building the most innovative and trusted platform in the world, supporting the entire trading lifecycle. At Talos, you’ll find an environment that champions kindness and respect, values diverse perspectives, and upholds inclusivity at every turn. We believe every member of our team brings invaluable insights and abilities that drive Talos forward. In our pursuit of excellence, we foster a culture of trust, integrity, collaboration, and mutual growth. We are a tight-knit yet globally distributed team of highly experienced engineers and business leaders, with hubs in New York, London, Singapore, and Cyprus. Whether in-office or remote, you’ll be part of a hybrid-friendly environment where your unique talents and insights will play a crucial role in building something extraordinary Software Engineer Intern, Infrastructure Talos is seeking an Software Engineering Intern to join our Infrastructure team for the Summer 2027. As an Software Engineering Intern on the Infrastucture team at Talos, you will work alongside engineering teams to build, scale and maintain the system that powers Talo’s trading and settlement platform. The team is made up of engineers that know building great systems takes time, and we spend the time to ensure the safety, security and performance of our platform. We value strong communication skills and the ability to get things done in a collaborative environment. This internship will run for 12 weeks. Want to learn more about Talos’s engineering culture? Check out Sonic, our first open-source project which allows Talos to achieve microsecond network stack latency in Go: h",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-infrastructure-london-357239",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.643,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.43
+  },
+  {
+    "title": "Senior Embedded Linux Software Engineer",
+    "company": "Auterion",
+    "location": "Zurich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-236170",
+    "date": "2026-11-05",
+    "id": "senior-embedded-linux-software-engineer-zurich-236170",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Auterion builds a cutting-edge operating system for autonomous robotic systems that empower a diverse range of platforms to perform surveillance, reconnaissance, inspection, mapping and logistics tasks. Our industry-leading software drives the adoption of robotic fleets and is recognized by the U.S. government as the future standard for its drone programs. We are looking for a Senior Embedded Linux Software Engineer taking on tasks within the AuterionOS ecosystem, from writing applications to adding driver support for new peripherals, maintaining system services and optimizing performance on embedded platforms. You will be working closely with: Linux running on embedded hardware C/C++, Python & Bash codebases Engaged and friendly engineers from across Auterion Responsibilities Work within the Board Support team and collaborate with other development teams to build leading-edge products. Add features, solve bugs, write tests and improve the performance of software components running on AuterionOS, Auterion’s custom embedded Linux distribution. Collaborate with engineering and product teams to understand both internal and customer use cases. Propose new software solutions and take ownership of the implementation. Your technical expertise will have a huge impact on bringing Auterion’s drone products to market. Provide expert support (L3) to customers facing technical issues. Write clear and concise internal documentation, in addition to contributing to the public-facing knowledge base. Participate in daily stand-ups, as well as release planning and task prioritization meetings. Qualifications and Skills B.Sc./M.Sc. in Computer Science, Software Engineering, or related fields. 3+ years of experience writing object-oriented C++ and/or Python code in a professional setting. Extensive experience working with embedded architectures, including cross-compilation, debugging, and performance optimization. Expert Linux skills, with an excellent grasp of command line operations, ",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-236170",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "CH",
+    "workplace": "unknown",
+    "rank_overall": 0.643,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.43
+  },
+  {
+    "title": "Applied AI Engineer, Fullstack",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9",
+    "date": "2026-06-24",
+    "id": "6a7e382f-240a-4952-b9e5-7fe2b3856bc9",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT RAMP Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. ABOUT THE ROLE The Financial Intelligence team, part of Ramp's Applied AI org, powers the agentic analysis, FP&A, and book-close experiences that over 70,000 businesses rely on to run their finances. We turn messy financial data into a fast, trustworthy, governed data layer that AI agents can work with and build artifacts on top of. This is a frontend-leaning role for an engineer who obsesses over interaction design and data-dense UX, but is just as comfortable designing the API that feeds it. You'll own the surfaces customers actually touch: agentic financial analysis, month-end close, and exploratory data experiences that feel as polished as the best business intelligence tools. If you want your frontend work to sit at the center of real production LLM systems rather than being bolted on at the end, this is the role. WHAT YOU’LL DO - Design and ship customer-facing AI experiences end to end, from React UI through to the APIs and data contracts behind them - Build BI-tool-quality interfaces for agentic analysis, FP&A, and book-close workflows: fa",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "g + bonding) or 8 weeks (bonding only) at 100% pay - Pet insurance - In-office perks: lunch, snacks, drinks, and more - Relocation expense coverage to NYC or SF (if needed) CANADA - Group medical, dental, and vision coverage through Sun Life - Life,",
+          "source_url": "https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9",
+          "pattern": "relocation (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "hybrid",
+    "rank_overall": 0.642,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.67
+  },
+  {
+    "title": "Software Engineer, Frontend, Growth",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
+    "date": "2026-09-21",
+    "id": "7cd46077-05fe-4cd7-816f-5528638342f1",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT RAMP Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. WHAT YOU’LL DO - Lead implementation of complex projects to establish Ramp.com http://Ramp.com as the gold standard for brand and product marketing - Work with designers and engineers to maintain and enhance Ramp's brand design system and component library, ensuring consistency across the site - Partner with designers to create interactive experiences that drive site engagement - Design and unblock yourself when design resources are constrained - Work closely with the paid ads and growth teams to conduct A/B testing on landing pages for multi-channel lead generation WHAT YOU NEED - Minimum 5 years of experience as a front-end or design engineer, ideally on a marketing site - Strong skills in React, CSS and modern frameworks (we use Next.js and Tailwind) - A portfolio site that demonstrates your previous work - Deep understanding of responsive design and design-to-code workflows. - Experience maintaining a reusable component library and sweating the design details in code - Stellar communication skills with a proven ability to work effectively in c",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "g + bonding) or 8 weeks (bonding only) at 100% pay - Pet insurance - In-office perks: lunch, snacks, drinks, and more - Relocation expense coverage to NYC or SF (if needed) CANADA - Group medical, dental, and vision coverage through Sun Life - Life,",
+          "source_url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
+          "pattern": "relocation (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "hybrid",
+    "rank_overall": 0.6385,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.66
+  },
+  {
+    "title": "Principle Software Engineer",
+    "company": "Redwoodsoftware",
+    "location": "",
+    "url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/principle-software-engineer-87856",
+    "date": "2026-11-06",
+    "id": "principle-software-engineer-87856",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "OUR MISSION At Redwood, we empower our customers with lights-out automation for their mission-critical business processes with industry leading products and platforms developed through an AI-Driven Software Development Life Cycle. ABOUT US Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, growth and what’s next. CORE VALUES One Team. One Redwood Make Your Own Weather Obsess over Customer Success Work the Problem Be Curious Own the Outcome Respect Each Other YOUR IMPACT As a Principal Software Engineer, you will be a senior technical leader and strategic influencer shaping Redwood’s RunMyJobs platform. You will drive high-impact technical decisions, own complex system designs, and lead initiatives that span teams and domains. Your work will translate business needs into scalable, resilient full-stack solutions that meet both functional and non-functional requirements. In this fast-paced, agile environment, you will lead projects from concept through delivery, collaborating closely with product, design, engineering, finance, and customer success teams to ensure alignment and success. You will set the standard for engineering excellence by mentoring engineers at all levels and championing a culture of continuous improvement, innovation, and technical rigor. A key part of this role is to ensure development teams follow best practices, coding standards, and technical requirements. You w",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/principle-software-engineer-87856",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": null,
+    "workplace": "hybrid",
+    "rank_overall": 0.635,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.75
+  },
+  {
+    "title": "Software Engineer (80-100%)",
+    "company": "EvoSys AG",
+    "location": "Thun",
+    "url": "https://www.arbeitnow.ch/jobs/companies/evosys-ag/software-engineer-80-100-thun-215029",
+    "date": "2026-11-06",
+    "id": "software-engineer-80-100-thun-215029",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Worum geht es? Wenn in der Schweiz eine Feuerwehr alarmiert wird, läuft die Meldung mit hoher Wahrscheinlichkeit über unsere Systeme. Rund 400 Feuerwehren in 16 Kantonen arbeiten mit unseren Lösungen, von der Alarmierung über die Einsatzführung bis zur Einsatzplanung. Das heisst: Unsere Software muss funktionieren, auch nachts um 3 Uhr. Diese Verantwortung prägt, wie wir entwickeln. Wir suchen dich als Software Engineer, der unsere Plattform mitträgt. Nicht als weitere Person im Team, sondern als eine tragende Säule in unserem Team. Über uns Die EvoSys AG wurde 2011 gegründet und entwickelt seit 2016 eigene Software für Behörden und Organisationen für Rettung und Sicherheit (BORS). Wir sind ein inhabergeführtes Familienunternehmen in Thun mit 9 Mitarbeitenden und in unserem Markt führend. Unsere Produkte heissen AlarmHub, Intervento, FloriPlan, AlarmDisplay und SpotPilot. Sie decken den ganzen Ablauf ab, von der Alarmierung bis zur Auswertung nach dem Einsatz. 2028 kommt mit Respondo eine weitere Lösung dazu. Deine Aufgaben Du entwickelst unsere bestehenden Plattformen weiter und setzt neue Funktionen von der Idee bis in den Betrieb um. Du prägst unsere Architektur mit. Unsere Kundenbasis wächst stark, und unsere Systeme müssen mitwachsen. Konkret bereiten wir den Schritt auf Kubernetes vor und bauen Dienste so um, dass sie zuverlässig skalieren. Du arbeitest an Schnittstellen zu Einsatzzentralen, Partnersystemen und Behördenplattformen. Du setzt KI-gestützte Werkzeuge im Entwicklungsalltag ein, so wie wir alle. Du nimmst an Code Reviews teil und trägst zu Qualität und Dokumentation bei. Du unterstützt bei anspruchsvollen technischen Fragen aus dem Betrieb. Perspektive Mit der Zeit kannst du die fachliche Verantwortung für einen Produktbereich übernehmen. Und wenn es für beide Seiten passt, ist längerfristig auch eine technische Führungsrolle denkbar. Solche Rollen besetzen wir aus dem Team heraus. Voraussetzung für diese Stelle ist das aber ausdrücklich nicht. Dein",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/evosys-ag/software-engineer-80-100-thun-215029",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": null,
+    "workplace": "unknown",
+    "rank_overall": 0.635,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.75
+  },
+  {
+    "title": "Software Engineer – AI-Assisted Development (m/w/d)",
+    "company": "DocCheck AG",
+    "location": "Homeoffice",
+    "url": "https://www.arbeitnow.ch/jobs/companies/doccheck-ag/remote-software-engineer-ai-assisted-development-basel-371528",
+    "date": "2026-11-06",
+    "id": "remote-software-engineer-ai-assisted-development-basel-371528",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Hol' dir den Kick als DocCheck Software Engineer – AI-Assisted Development (m/w/d) Seit Jahrzehnten ist DocCheck im DACH-Raum und darüber hinaus eine bekannte Healthcare-Größe. Nun gehen wir technologisch den nächsten Schritt. DocCheck Schweiz realisiert das Entwicklungssetup der Zukunft, das Agentic Development konsequent nutzt. Als Developer legst du dafür einen der ersten technischen Grundsteine und entwickelst Lösungen für die vielfältigen Bereiche der gesamten DocCheck Gruppe . KI gehört bei uns längst zum Arbeitsalltag – jetzt gestaltest du mit, wie daraus noch schneller funktionierende Software wird. Egal ob in Basel vor Ort oder remote innerhalb der Schweiz, du stehst im stetigen Austausch mit unseren Teams in Köln und entwickelst Software, die in der gesamten DocCheck Gruppe genutzt wird. Kurz: viel Freiheit, viel Wirkung, ziemlich wenig Schema F. DocCheck versetzt den kompletten Gesundheitsmarkt in absolute Effizienz-Ekstase. Egal ob News, Foren, Fachartikel, Medizinshop oder Kreativ-Agentur – DocCheck rührt den Medicals die ultimative Service-Mischung an. Deine Substanz Du hast bereits eigenständig Software entwickelt und kannst zeigen, wie du Anforderungen in lauffähige Prototypen und erste MVPs übersetzt. Den ersten Prototypen baust du selbst – vom Verständnis der Anforderung bis zum Code, der funktioniert. Web-Anwendungen, interne Tools, APIs und Systemintegrationen sind dein Terrain – genauso wie ein sauberer Umgang mit Daten, Berechtigungen, Dokumentation und Tests. Du denkst eigenständig, kommunizierst klar auf Deutsch und weißt, wann KI glänzt – und wann dein eigener Kopf gefragt ist. Dein Trip Du entwickelst mit Agentic Coding Softwarelösungen für unterschiedliche Bereiche der DocCheck Gruppe und bringst Anforderungen direkt in die Umsetzung. Dabei entscheidest du technologieoffen, prüfst deine Ergebnisse kritisch und machst Fortschritt, Risiken und Grenzen transparent. Gleichzeitig prägst du unsere Agentic-Development-Arbeitsweise von Anfang an m",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/doccheck-ag/remote-software-engineer-ai-assisted-development-basel-371528",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "remote",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Staff Software Engineer - Alwin",
+    "company": "Datasnipper",
+    "location": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/staff-software-engineer-alwin-amsterdam-251769",
+    "date": "2026-11-07",
+    "id": "staff-software-engineer-alwin-amsterdam-251769",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "We are looking for a Staff Software Engineer in our Amsterdam office to build Alwin , our Agentic Automation Platform for audit and finance, and the systems around it. Alwin agents run multi-step audit procedures over client evidence and return finished workpapers with every number traced back to source. Humans plan, review and sign off. This is a hands-on role: most of your time will be spent writing code, building the hardest parts of the runtime, prototyping new capabilities and getting them into production. You lead by example: engineers follow your direction because they see it work in your code. Your impact will also come through the engineers and teams you work with. Your mission is to build the best agentic runtime for audit: one that completes audit tasks faster, more accurately, more reliably and at lower cost, while scaling to meet the needs of our largest customers. You will identify the problems that most constrain that mission, align teams around a technical direction and drive solutions through to measurable results, while building the foundations other engineers use and raising the quality of Alwin’s agents in production. Why DataSnipper? The hardest AI problems aren't about getting an answer fast. They're about getting one people can trust. We believe trust is essential to how society works. Every day, we rely on information that's been independently verified, from financial statements to the products we buy, to the sustainability claims companies make. Behind that trust are audit and finance professionals who examine evidence, verify information and hold organizations accountable. At DataSnipper, we build AI solutions that empower those professionals. By making evidence easier to trace and verify, we help them focus on the judgment and expertise that make their work so important. For our product and engineering team, this is where things get exciting. In audit, a plausible answer isn't good enough. Every output has to be explainable and traceable b",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/staff-software-engineer-alwin-amsterdam-251769",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Scientific Software Engineer (Lab Integration)",
+    "company": "Cuspai",
+    "location": "London, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/scientific-software-engineer-lab-integration-london-33388",
+    "date": "2026-11-07",
+    "id": "scientific-software-engineer-lab-integration-london-33388",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "About CuspAI CuspAI is the frontier AI company on a mission to solve the breakthrough materials needed to power human progress. While nature took billions of years to perfect molecules, we are harnessing AI to unlock trillion-dollar materials breakthroughs in months, not millennia. Our founding team is the most cited in the world, comprised of world-class researchers in AI, chemistry and engineering. We are working on some of the hardest and most important challenges including energy, clean water, the future of compute, and carbon capture, and this is just the start of what our 'search engine' for next-generation materials will unlock. We invite you to be part of a diverse, innovative team at the intersection of AI and materials science, working to create impactful partnerships that drive innovation, scalability, and industry collaboration. This work matters. Your work matters. We’re on the cusp of the on-demand materials era. Join us. The Role We are seeking a Scientific Software Engineer to build and run the systems that connect our AI platform to physical laboratories around the world. Together with the team, you will shape the software layer of our closed-loop discovery workflow: our agents propose experiments, partner labs execute them, and the results feed back into our models to guide the next set of experiments. This role sits between lab automation and production engineering. You will bring hands-on experience with scientific or lab automation, and the engineering discipline to make those integrations secure, reliable and scalable across many partners. You will be part of a small team of materials scientists, ML engineers and software engineers, working closely with each other and with our partner labs. You will help define how our AI platform connects to the physical world and shape the tools and practices that link external partner labs to our platform. You will thrive here if you enjoy collaborating across disciplines and learning from people whose exper",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/cuspai/scientific-software-engineer-lab-integration-london-33388",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Senior/Staff Software Engineer, Data Platform",
+    "company": "Evervault",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/evervault/senior-staff-software-engineer-data-platform-london-249277",
+    "date": "2026-11-07",
+    "id": "senior-staff-software-engineer-data-platform-london-249277",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "About Evervault Evervault offers modular payments infrastructure for companies building their own payments stack. We keep raw card data off your systems, cut PCI compliance work, improve acceptance, mitigate fraud and chargebacks and decrease your cost of payments, so you keep full control. Trusted by Ramp, Rippling, Modern Treasury and Overwolf; Series B, led by Ribbit Capital. Role Overview You’ll be the first engineer dedicated to our data platform, and you’ll design and build it largely from scratch. You’ll own the platform that collects our event data, models it, and serves it to customers with roughly 15-second freshness, including building our time-series foundations. This is a senior, hands-on role: you’ll set the architecture, write most of the code and set the bar for the data team that grows around you. You’ll work closely with our VP of Engineering, Product and our leadership team. Product decides which data products to build; you own how they’re built and what the data can support. What You’ll Be Doing Designing and building real-time ingestion for three sources: events our platform already emits, new instrumentation in our product, and data our customers send us Rebuilding our event streaming layer, with the authority to choose how Modelling structured and time-series data in ClickHouse and Databricks so aggregations, trends and benchmarks are fast and cheap at scale (our current defaults, though you can make the case for change) Designing the external data contracts and APIs customers build on, including versioning, reliability and isolation of each customer’s data Defining the event contracts our product engineers instrument against Owning the platform in production: monitoring, data quality, cost and on-call for the systems you build Your First Year In your first few months you’ll assess what we have, decide the platform architecture, and scope our first data product with Product and Engineering. After that, you’ll rebuild the streaming layer and sh",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/evervault/senior-staff-software-engineer-data-platform-london-249277",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Software Engineer Intern, Trading",
+    "company": "Talos Trading",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-trading-london-475763",
+    "date": "2026-11-07",
+    "id": "software-engineer-intern-trading-london-475763",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Talos: Institutional Fabric for the Digital Asset Market Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosystem. We are committed to building the most innovative and trusted platform in the world, supporting the entire trading lifecycle. At Talos, you’ll find an environment that champions kindness and respect, values diverse perspectives, and upholds inclusivity at every turn. We believe every member of our team brings invaluable insights and abilities that drive Talos forward. In our pursuit of excellence, we foster a culture of trust, integrity, collaboration, and mutual growth. We are a tight-knit yet globally distributed team of highly experienced engineers and business leaders, with hubs in New York, London, Singapore, and Cyprus. Whether in-office or remote, you’ll be part of a hybrid-friendly environment where your unique talents and insights will play a crucial role in building something extraordinary. Software Engineer Intern, Trading Talos is seeking a Software Engineering Intern to join our Trading team for the Summer 2027. This intern will work on a critical project related to our high-performance trading systems, contributing to tools that support trading decision-making and performance evaluation. Success in this role will involve designing and building components that enhance our algorithmic capabilities while adding new features to existing infrastructure. Want to learn more about Talos’s engineering culture? Check out Sonic, our first open-source project which allows Talos to achieve microsecond network stack latency in Go: https://github.com/talostrading/sonic Responsibilities Collaborate with the Trading team to define project scope, requirements, and milestones Prepare design documentation and active",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-trading-london-475763",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Automation Software Engineer, 80-100%",
+    "company": "Veratron AG",
+    "location": "Rüthi, Sankt Gallen, Schweiz",
+    "url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/automation-software-engineer-80-100-ruthi-381544",
+    "date": "2026-11-06",
+    "id": "automation-software-engineer-80-100-ruthi-381544",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Wer wir sind Wir sind die Veratron AG - ein weltweit operierendes Entwicklungs- und Produktionsunternehmen, welches seit dem Jahr 1972 anspruchsvolle und innovative Instrumentierungen für Fahrzeuge aller Art vertreibt. Angefangen mit Geschwindigkeits- und Drehzahlmessern für Personenwagen über Motorrad- und Fahrradtachos, Sensoren, Steuermodule und weitere spannende Produkte ist die Veratron AG heute das Kompetenzzentrum für Elektronik-Systeme mit Schwerpunkt auf den Märkten Sonderfahrzeuge und Freizeitschifffahrt. In einem kleinen, engagierten Team arbeitest du hands-on an der Entwicklung moderner Softwarelösungen, die direkt in unseren Produktions- und Prüfanlagen eingesetzt werden. Deine Arbeit hat unmittelbaren Einfluss auf unsere Fertigungsprozesse – von der ersten Idee über die Konzeption bis hin zur Inbetriebnahme und kontinuierlichen Weiterentwicklung der Lösungen. Wir bieten dir Gestaltungsspielraum für deine fachliche und kreative Entfaltung, kurze Entscheidungswege sowie ein hohes Mass an Eigenverantwortung. Dabei übernimmst du Verantwortung für deine Themen und gestaltest aktiv mit, wie softwaregestützte Produktionslösungen bei uns entstehen und wachsen. YOUR PLAYGROUND Du entwickelst Softwarelösungen für unsere Produktions- und Prüfanlagen im Bereich Production Engineering In deiner Rolle planst und realisierst du Projekte im Betriebsmittelbau, von der Konzeption über die Umsetzung (inkl. Bestellungen) und Inbetriebnahme Bestehende Prozesse und Softwarelösungen betreust, wartest und entwickelst du kontinuierlich weiter – in enger Zusammenarbeit mit Produktion und Engineering Du stellst den Betrieb sowie die Wartung produktionsnaher Datennetzwerke und Server sicher Die fachliche Unterstützung und das Coaching von Informatik-Lernenden gehören ebenfalls zu deinem Aufgabenbereich YOUR PROFILE kreativ innovativ mutig / offen für Neues / lösungsorientiert / bodenständig / selbstständig / eigenverantwortung Eine technische Grundausbildung, ergänzt durch eine w",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/automation-software-engineer-80-100-ruthi-381544",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35
+  },
+  {
+    "title": "Software Engineer, Forward Deployed AI Solutions",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+    "date": "2026-07-28",
+    "id": "b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT RAMP Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. ABOUT THE ROLE As a software engineer on the AI Solutions team, you will co-lead customer engagements with an AI Solutions Strategist. The Strategist owns business discovery, ROI narrative, stakeholder alignment, and rollout planning. The engineer owns technical discovery, solution design, prototyping, implementation, and production readiness. This is a deeply client-facing role. You will spend significant time with customers and end users, moving projects from bootcamp and workflow discovery through implementation, launch, and steady production usage. WHAT YOU’LL DO - Translate customer goals into clear system requirements and non-functional requirements covering security, privacy, reliability, performance, scalability, and cost. - Partner directly with customers to understand current workflows, constraints, systems, data quality, and adoption blockers. - Create and maintain solution architecture artifacts: - System context and data flow diagrams - Integration plan across Ramp and customer systems - Security model covering permissions, access pat",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "g + bonding) or 8 weeks (bonding only) at 100% pay - Pet insurance - In-office perks: lunch, snacks, drinks, and more - Relocation expense coverage to NYC or SF (if needed) CANADA - Group medical, dental, and vision coverage through Sun Life - Life,",
+          "source_url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+          "pattern": "relocation (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "hybrid",
+    "rank_overall": 0.614,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.59
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "Redwoodsoftware",
+    "location": "",
+    "url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/senior-software-engineer-364223",
+    "date": "2026-11-06",
+    "id": "senior-software-engineer-364223",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "OUR MISSION At Redwood, we empower our customers with lights-out automation for their mission-critical business processes with industry leading products and platforms developed through an AI-Driven Software Development Life Cycle. ABOUT US Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, growth and what’s next. CORE VALUES One Team. One Redwood Make Your Own Weather Obsess over Customer Success Work the Problem Be Curious Own the Outcome Respect Each Other YOUR IMPACT As a Senior Backend Software Developer on the RunMyJobs (RMJ) team, you will design and deliver the services that power Redwood’s enterprise automation platform. You will shape backend architecture, build secure and reliable integrations, and improve the performance and operability of systems that support mission-critical customer workflows. Design, build, and maintain scalable backend services and APIs using Java and the Spring ecosystem. Contribute to distributed system architecture, including service boundaries, data flows, asynchronous processing, and fault tolerance. Design and optimize relational data models, queries, and persistence layers for performance and integrity. Build and maintain integrations with enterprise systems, cloud services, and external APIs. Partner with Product, Engineering, and other stakeholders to translate requirements into clear technical designs and delivered capabilities. Own backend",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/redwoodsoftware/senior-software-engineer-364223",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": null,
+    "workplace": "hybrid",
+    "rank_overall": 0.607,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.67
+  },
+  {
+    "title": "Software Engineering Intern, Backend",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "date": "2026-04-09",
+    "id": "acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT RAMP Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. Explore our Engineering Blog https://builders.ramp.com & Emerging Talent https://builders.ramp.com/emerging-talent Blog to learn more about how we build at Ramp and what it’s like to start your career here. ABOUT THE ROLE Ramp is, at its core, an engineering company. We’re looking for backend engineering interns (12 or 16-week co-ops) excited to solve challenging technical problems and ship products used by real customers. You’ll work alongside experienced engineers and own meaningful projects from inception to production. We value strong technical fundamentals, high ownership, and people who learn quickly, whether or not they’re familiar with our stack. WHAT YOU’LL DO - Build performant, reliable, and scalable systems powering Ramp’s products - Own meaningful projects from design through launch - Solve problems across areas like payments, risk and fraud, financial infrastructure, data, and AI - Work closely with product and business teams to understand customer needs and improve our products - Contribute to engineering tools and systems that help",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "g + bonding) or 8 weeks (bonding only) at 100% pay - Pet insurance - In-office perks: lunch, snacks, drinks, and more - Relocation expense coverage to NYC or SF (if needed) CANADA - Group medical, dental, and vision coverage through Sun Life - Life,",
+          "source_url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+          "pattern": "relocation (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-07",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "onsite",
+    "rank_overall": 0.586,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51
+  }
+]

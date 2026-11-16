@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4463184609",
+      "title": "Lead Developer",
+      "company": "PwC Australia",
+      "companyUrl": "https://au.linkedin.com/company/pwc-australia",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/lead-developer-at-pwc-australia-4463184609"
+    },
+    {
+      "id": "4488832424",
+      "title": "Senior Software Engineer",
+      "company": "Change Recruitment",
+      "companyUrl": "https://au.linkedin.com/company/change-recruitment",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-at-change-recruitment-4488832424"
+    },
+    {
+      "id": "4486541604",
+      "title": "Founding Full-Stack Engineer (AI & Product) | Equity Partner",
+      "company": "Hospo AI",
+      "companyUrl": "https://au.linkedin.com/company/hospoai",
+      "location": "Greater Sydney Area",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/founding-full-stack-engineer-ai-product-equity-partner-at-hospo-ai-4486541604"
+    },
+    {
+      "id": "4488842057",
+      "title": "Software Engineer",
+      "company": "Change Recruitment",
+      "companyUrl": "https://au.linkedin.com/company/change-recruitment",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-at-change-recruitment-4488842057"
+    },
+    {
+      "id": "4486047209",
+      "title": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security",
+      "company": "Binance",
+      "companyUrl": "https://www.linkedin.com/company/binance",
+      "location": "Australia",
+      "date": "2026-11-03",
+      "url": "https://au.linkedin.com/jobs/view/full-stack-engineer-web-frontend-oriented-%E2%80%94-ai-facial-recognition-identity-security-at-binance-4486047209"
+    },
+    {
+      "id": "4488124283",
+      "title": "Senior Developer (node.js, react)",
+      "company": "NRI Australia & New Zealand",
+      "companyUrl": "https://au.linkedin.com/company/nri-anz",
+      "location": "Brisbane, Queensland, Australia",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/senior-developer-node-js-react-at-nri-australia-new-zealand-4488124283"
+    },
+    {
+      "id": "4485578064",
+      "title": "Fullstack Engineer",
+      "company": "ahm Health Insurance",
+      "companyUrl": "https://au.linkedin.com/company/ahm",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/fullstack-engineer-at-ahm-health-insurance-4485578064"
+    },
+    {
+      "id": "4486571488",
+      "title": "Senior Software Engineer I",
+      "company": "Eucalyptus",
+      "companyUrl": "https://au.linkedin.com/company/eucalyptusvc",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-i-at-eucalyptus-4486571488"
+    },
+    {
+      "id": "4487426556",
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "Blinq",
+      "companyUrl": "https://au.linkedin.com/company/blinq-me",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-blinq-4487426556"
+    },
+    {
+      "id": "4487420915",
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "Blinq",
+      "companyUrl": "https://au.linkedin.com/company/blinq-me",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-blinq-4487420915"
+    }
+  ]
+}

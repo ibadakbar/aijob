@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Frontend Engineering Lead - Content",
+    "company": "trivago",
+    "url": "https://careers.trivago.com/apply/8641657002.?gh_jid=8641657002",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-05",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "D\u00fcsseldorf, Germany",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.95,
+      "evidence": [
+        {
+          "excerpt": "visa support from our talent support team, a relocation package"
+        }
+      ]
+    },
+    "sponsorship_score": 0.95,
+    "skill_score": 0.9,
+    "notes": "joinus@trivago.com published on careers page"
+  },
+  {
+    "title": "Senior Frontend Engineer | UAE Relocation",
+    "company": "PixelChain",
+    "url": "https://careers-page.com/pixelchain/job/L8WV968R",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-08",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "freehire-search",
+    "source": "cli",
+    "location": "Dubai, UAE (relocate)",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.95,
+      "evidence": [
+        {
+          "excerpt": "1-year working visa provided; onboarding flight ticket"
+        }
+      ]
+    },
+    "sponsorship_score": 0.95,
+    "skill_score": 0.65,
+    "notes": "Vue primary; React OK with switch. hr@pixelchain.io listed on Jobaaj company profile"
+  },
+  {
+    "title": "Product Engineer (Full-Stack)",
+    "company": "Clera (Ashby board)",
+    "url": "https://jobs.ashbyhq.com/clera/ad526b41-c4cb-436e-9532-3fb40472c176",
+    "first_seen": "2026-11-10",
+    "posted_date": null,
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "websearch",
+    "source": "websearch",
+    "location": "Berlin, Germany (onsite)",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.9,
+      "evidence": [
+        {
+          "excerpt": "Visa sponsorship: Available"
+        }
+      ]
+    },
+    "sponsorship_score": 0.9,
+    "skill_score": 0.95,
+    "notes": "German strongly preferred not required. Ashby page intermittently 404 \u2014 recheck before apply. Do NOT use getclera.com (different SF company)."
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "company": "BorderPass",
+    "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-at-borderpass-4486398139",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-09",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Toronto, Canada",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.2
+    },
+    "sponsorship_score": 0.2,
+    "skill_score": 0.88,
+    "notes": "careers@borderpass.ai + hello@borderpass.ai published. Sponsorship NOT stated in posting \u2014 FLAG"
+  },
+  {
+    "title": "Software Engineer \u2013 Front-End Focus (with GenAI Integration)",
+    "company": "BorderPass",
+    "url": "https://www.borderpass.ai/careers",
+    "first_seen": "2026-11-10",
+    "posted_date": null,
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "websearch",
+    "source": "websearch",
+    "location": "Remote (Canada careers page)",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.2
+    },
+    "sponsorship_score": 0.2,
+    "skill_score": 0.9,
+    "notes": "React/TS. Apply via careers@borderpass.ai. Sponsorship unknown"
+  },
+  {
+    "title": "React Engineer (talent pool / relocation)",
+    "company": "Air Apps",
+    "url": "https://au.linkedin.com/jobs/view/react-engineer-at-air-apps-4483817261",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-08",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Lisbon, Portugal (LinkedIn mistagged Dublin)",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.6,
+      "evidence": [
+        {
+          "excerpt": "open to support with relocation efforts"
+        }
+      ]
+    },
+    "sponsorship_score": 0.6,
+    "skill_score": 0.85,
+    "notes": "Outside requested geos (PT). Talent-pool post. support@airapps.com is support not careers"
+  },
+  {
+    "title": "Founding Full-Stack Engineer (AI & Product)",
+    "company": "Hospo AI",
+    "url": "https://au.linkedin.com/jobs/view/founding-full-stack-engineer-ai-product-equity-partner-at-hospo-ai-4486541604",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-09",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Greater Sydney Area",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.15
+    },
+    "sponsorship_score": 0.15,
+    "skill_score": 0.8,
+    "notes": "React + C#/.NET; part-time\u2192FT equity. No visa text found"
+  },
+  {
+    "title": "Senior Full Stack Software Engineer",
+    "company": "CanadaVisa",
+    "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-canadavisa-4487478108",
+    "first_seen": "2026-11-10",
+    "posted_date": "2026-11-09",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "location": "Toronto, Canada",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.2
+    },
+    "sponsorship_score": 0.2,
+    "skill_score": 0.9,
+    "notes": "Node/TS/React stack. No sponsorship wording in posting"
+  }
+]

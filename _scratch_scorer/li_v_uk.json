@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4482533595",
+      "title": "Senior Software Engineer",
+      "company": "SR2",
+      "companyUrl": "https://uk.linkedin.com/company/sr2-socially-responsible-recruitment",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-28",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-at-sr2-4482533595"
+    },
+    {
+      "id": "4368093625",
+      "title": "Senior Software Engineer",
+      "company": "Aurora Energy Research",
+      "companyUrl": "https://uk.linkedin.com/company/aurora-energy-research-limited",
+      "location": "Oxford, England, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-at-aurora-energy-research-4368093625"
+    },
+    {
+      "id": "4484119033",
+      "title": "Product Engineering - Team Lead",
+      "company": "Wintermute",
+      "companyUrl": "https://uk.linkedin.com/company/wintermute-trading",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-29",
+      "url": "https://uk.linkedin.com/jobs/view/product-engineering-team-lead-at-wintermute-4484119033"
+    },
+    {
+      "id": "4486141226",
+      "title": "Technical Lead (Full Stack)",
+      "company": "GoodPeople",
+      "companyUrl": "https://uk.linkedin.com/company/goodpeople-business-ltd",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-02",
+      "url": "https://uk.linkedin.com/jobs/view/technical-lead-full-stack-at-goodpeople-4486141226"
+    },
+    {
+      "id": "4483045749",
+      "title": "Product Engineer",
+      "company": "HartleyCo",
+      "companyUrl": "https://uk.linkedin.com/company/hartleyco",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-29",
+      "url": "https://uk.linkedin.com/jobs/view/product-engineer-at-hartleyco-4483045749"
+    },
+    {
+      "id": "4358580855",
+      "title": "Full-Stack Engineer (Front-End Leaning)",
+      "company": "Solve Intelligence",
+      "companyUrl": "https://uk.linkedin.com/company/solve-intelligence",
+      "location": "London, England, United Kingdom",
+      "date": "2026-10-29",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-front-end-leaning-at-solve-intelligence-4358580855"
+    },
+    {
+      "id": "4482512836",
+      "title": "Senior Full Stack Engineer - React/TS/Node - £80-115K",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-28",
+      "url": "https://uk.linkedin.com/jobs/view/senior-full-stack-engineer-react-ts-node-%C2%A380-115k-at-oliver-bernard-4482512836"
+    },
+    {
+      "id": "4482516697",
+      "title": "Senior Full Stack Engineer - React/TS/Node - £80-100K",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "London Area, United Kingdom",
+      "date": "2026-10-28",
+      "url": "https://uk.linkedin.com/jobs/view/senior-full-stack-engineer-react-ts-node-%C2%A380-100k-at-oliver-bernard-4482516697"
+    }
+  ]
+}

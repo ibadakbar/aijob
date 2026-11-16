@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485080502",
+      "title": "Full Stack Developer - Marketplace",
+      "company": "Trustoo.nl",
+      "companyUrl": "https://nl.linkedin.com/company/trustoo-de-beste-bedrijven-voor-jou",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-developer-marketplace-at-trustoo-nl-4485080502"
+    },
+    {
+      "id": "4487993835",
+      "title": "Senior Full Stack Engineer - ClickStack",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Amsterdam Area",
+      "date": "2026-11-10",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-clickstack-at-clickhouse-4487993835"
+    },
+    {
+      "id": "4488303193",
+      "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-10",
+      "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-typescript-frontend-ai-ml-at-clickhouse-4488303193"
+    },
+    {
+      "id": "4482284077",
+      "title": "Senior Full Stack Engineer",
+      "company": "NEP Group, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/nep-group-inc",
+      "location": "Hilversum, North Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-at-nep-group-inc-4482284077"
+    },
+    {
+      "id": "4487142556",
+      "title": "AI Frontend Engineer",
+      "company": "Tech Rise",
+      "companyUrl": "https://nl.linkedin.com/company/techrisepeople",
+      "location": "Amsterdam Area",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/ai-frontend-engineer-at-tech-rise-4487142556"
+    },
+    {
+      "id": "4436375544",
+      "title": "Software Engineer - QuantumBlack, AI by McKinsey",
+      "company": "QuantumBlack, AI by McKinsey",
+      "companyUrl": "https://uk.linkedin.com/company/quantumblack",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4436375544"
+    },
+    {
+      "id": "4452435844",
+      "title": "Senior Software Engineer",
+      "company": "Lab Digital",
+      "companyUrl": "https://nl.linkedin.com/company/lab-digital-bv",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/senior-software-engineer-at-lab-digital-4452435844"
+    },
+    {
+      "id": "4486051546",
+      "title": "Senior fullstack typescript developer",
+      "company": "Haystack People",
+      "companyUrl": "https://nl.linkedin.com/company/haystack-people",
+      "location": "Utrecht, Netherlands",
+      "date": "2026-11-03",
+      "url": "https://nl.linkedin.com/jobs/view/senior-fullstack-typescript-developer-at-haystack-people-4486051546"
+    },
+    {
+      "id": "4486053771",
+      "title": "Principal Software Engineer",
+      "company": "Elsevier",
+      "companyUrl": "https://nl.linkedin.com/company/elsevier",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-03",
+      "url": "https://nl.linkedin.com/jobs/view/principal-software-engineer-at-elsevier-4486053771"
+    },
+    {
+      "id": "4487773179",
+      "title": "Software Engineer (Java & React)",
+      "company": "HUMANCAPiTAL BV",
+      "companyUrl": "https://nl.linkedin.com/company/humancapital-bv",
+      "location": "Leiden, South Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-java-react-at-humancapital-bv-4487773179"
+    }
+  ]
+}

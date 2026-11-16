@@ -1,0 +1,17 @@
+﻿MC Engineering - Full Stack Developer - Node.js
+Remote EU / Italy / Turin
+MC Engineering is an IT consultancy with offices in Torino, Milano, Roma, Bari, Trieste and Firenze.
+Position: Full Stack Developer - Node.js for an important client project in full remote mode.
+You will: develop backend logic and APIs with Node.js; design, integrate and document RESTful APIs; design and manage relational databases and optimize SQL; develop and deploy serverless functions with AWS Lambda; interact with databases via Knex.js; develop dynamic responsive UIs with React; collaborate on application component integration.
+Requirements:
+- Over 4 years software development experience
+- Excellent Node.js for backend
+- Solid SQL, relational DBs, schema design, query optimization
+- Knowledge of AWS Aurora
+- Experience developing and deploying serverless with AWS Lambda
+- Experience with Knex.js
+- Ability to design, integrate and document RESTful APIs
+- Frontend experience with React
+- English at least B2
+- Nice to have: Kubernetes and Java
+Full Remote. Compensation EUR 25,000 to 40,000. Open until 29 Oct 2026.

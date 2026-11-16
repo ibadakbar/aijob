@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4458285907",
+      "title": "Senior Front-End Engineer",
+      "company": "Fuse Energy",
+      "companyUrl": "https://uk.linkedin.com/company/fuseenergyhq",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-10-19",
+      "url": "https://ae.linkedin.com/jobs/view/senior-front-end-engineer-at-fuse-energy-4458285907"
+    },
+    {
+      "id": "4481860016",
+      "title": "Senior Frontend Software Engineer",
+      "company": "Open Innovation AI",
+      "companyUrl": "https://ae.linkedin.com/company/open-innovation-ai",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "date": "2026-10-27",
+      "url": "https://ae.linkedin.com/jobs/view/senior-frontend-software-engineer-at-open-innovation-ai-4481860016"
+    },
+    {
+      "id": "4479960196",
+      "title": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security",
+      "company": "Binance",
+      "companyUrl": "https://www.linkedin.com/company/binance",
+      "location": "Al Saadiyat Island, Abu Dhabi Emirate, United Arab Emirates",
+      "date": "2026-10-19",
+      "url": "https://ae.linkedin.com/jobs/view/full-stack-engineer-web-frontend-oriented-%E2%80%94-ai-facial-recognition-identity-security-at-binance-4479960196"
+    },
+    {
+      "id": "4485066544",
+      "title": "Frontend Architect",
+      "company": "James Douglas Middle East",
+      "companyUrl": "https://ae.linkedin.com/company/james-douglas-middle-east",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "date": "2026-11-04",
+      "url": "https://ae.linkedin.com/jobs/view/frontend-architect-at-james-douglas-middle-east-4485066544"
+    },
+    {
+      "id": "4474557154",
+      "title": "AI Full-Stack Engineer Graduate (Corporate Service System - Frontend) - 2027 Start",
+      "company": "ByteDance",
+      "companyUrl": "https://cn.linkedin.com/company/bytedance",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-10-23",
+      "url": "https://ae.linkedin.com/jobs/view/ai-full-stack-engineer-graduate-corporate-service-system-frontend-2027-start-at-bytedance-4474557154"
+    },
+    {
+      "id": "4477639703",
+      "title": "Senior Software Engineer (Frontend)",
+      "company": "CargoX",
+      "companyUrl": "https://www.linkedin.com/company/cargox-uae",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "date": "2026-10-09",
+      "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-frontend-at-cargox-4477639703"
+    },
+    {
+      "id": "4475276768",
+      "title": "Lead Software Engineer",
+      "company": "Virtusa",
+      "companyUrl": "https://www.linkedin.com/company/virtusa",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-10-10",
+      "url": "https://ae.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475276768"
+    },
+    {
+      "id": "4475287312",
+      "title": "Fullstack Developer (MERN Stack)",
+      "company": "Virtusa",
+      "companyUrl": "https://www.linkedin.com/company/virtusa",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-10-10",
+      "url": "https://ae.linkedin.com/jobs/view/fullstack-developer-mern-stack-at-virtusa-4475287312"
+    }
+  ]
+}

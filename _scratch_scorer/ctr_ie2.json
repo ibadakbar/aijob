@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4487731978",
+      "title": "Full stack developer (Javascript 1 year day contract rate North Dublin",
+      "company": "Presidio IT Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/presidio-it-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-developer-javascript-1-year-day-contract-rate-north-dublin-at-presidio-it-recruitment-4487731978"
+    },
+    {
+      "id": "4485806710",
+      "title": "Full Stack Engineer",
+      "company": "RECRUITERS",
+      "companyUrl": "https://ie.linkedin.com/company/recruiters",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-recruiters-4485806710"
+    },
+    {
+      "id": "4487762887",
+      "title": "Software Engineer - Java&React",
+      "company": "E-Frontiers",
+      "companyUrl": "https://ie.linkedin.com/company/e-frontiers-ltd",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-java-react-at-e-frontiers-4487762887"
+    },
+    {
+      "id": "4486279541",
+      "title": "Senior Full-Stack Engineer - AWS Cloud Native",
+      "company": "G MASS Consulting",
+      "companyUrl": "https://uk.linkedin.com/company/g-mass-consulting",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-aws-cloud-native-at-g-mass-consulting-4486279541"
+    },
+    {
+      "id": "4487789482",
+      "title": "Full Stack Engineer - Java & React",
+      "company": "Vantage",
+      "companyUrl": "https://ie.linkedin.com/company/vantage-resources-ltd-",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-java-react-at-vantage-4487789482"
+    },
+    {
+      "id": "4487104718",
+      "title": "Senior Full-Stack Engineer - Java, React & Microservices",
+      "company": "Vantage",
+      "companyUrl": "https://au.linkedin.com/company/vantagemarkets",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-08",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-java-react-microservices-at-vantage-4487104718"
+    },
+    {
+      "id": "4488131371",
+      "title": "Full Stack Engineer",
+      "company": "Archer Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/archer",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-archer-recruitment-4488131371"
+    },
+    {
+      "id": "4451829448",
+      "title": "Software Engineer 3, Atlas Growth 3",
+      "company": "MongoDB",
+      "companyUrl": "https://www.linkedin.com/company/mongodbinc",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-03",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-3-atlas-growth-3-at-mongodb-4451829448"
+    },
+    {
+      "id": "4487007180",
+      "title": "Full-Stack Software Engineer, Communication Tools",
+      "company": "Stripe",
+      "companyUrl": "https://www.linkedin.com/company/stripe",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-03",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-software-engineer-communication-tools-at-stripe-4487007180"
+    },
+    {
+      "id": "4465888095",
+      "title": "Senior Full Stack Engineer",
+      "company": "TensorX",
+      "companyUrl": "https://ie.linkedin.com/company/tensorx-ai",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-08",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-at-tensorx-4465888095"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486247504",
+      "title": "Software Engineer for CERNBox (IT-SD-GSS-2026-174-GRAP)",
+      "company": "CERN",
+      "companyUrl": "https://ch.linkedin.com/company/cern",
+      "location": "Geneva, Geneva, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-for-cernbox-it-sd-gss-2026-174-grap-at-cern-4486247504"
+    },
+    {
+      "id": "4473994568",
+      "title": "Software Engineer, Staff",
+      "company": "SurePoint Technologies",
+      "companyUrl": "https://www.linkedin.com/company/surepoint-tech",
+      "location": "Fully, Valais, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-staff-at-surepoint-technologies-4473994568"
+    },
+    {
+      "id": "4488192548",
+      "title": "Staff Incubation Engineer-3",
+      "company": "Snyk",
+      "companyUrl": "https://www.linkedin.com/company/snyk",
+      "location": "Zurich, Zurich, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/staff-incubation-engineer-3-at-snyk-4488192548"
+    },
+    {
+      "id": "4488144357",
+      "title": "Senior Frontend Developer",
+      "company": "Noir",
+      "companyUrl": "https://uk.linkedin.com/company/noir-consulting",
+      "location": "Bern, Berne, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/senior-frontend-developer-at-noir-4488144357"
+    },
+    {
+      "id": "4486256860",
+      "title": "Full Stack DevOps Engineer: Springboot & Angular - Deutschschweiz",
+      "company": "ONLU",
+      "companyUrl": "https://ch.linkedin.com/company/onlu",
+      "location": "Zug, Zug, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/full-stack-devops-engineer-springboot-angular-deutschschweiz-at-onlu-4486256860"
+    },
+    {
+      "id": "4486272839",
+      "title": "Software Engineer",
+      "company": "Benetics AI",
+      "companyUrl": "https://ch.linkedin.com/company/benetics-ltd",
+      "location": "Zurich, Zurich, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-at-benetics-ai-4486272839"
+    },
+    {
+      "id": "4471619760",
+      "title": "Senior Solutions Architect",
+      "company": "Elastic",
+      "companyUrl": "https://www.linkedin.com/company/elastic-co",
+      "location": "Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/senior-solutions-architect-at-elastic-4471619760"
+    },
+    {
+      "id": "4486984442",
+      "title": "Senior Cloud Developer (m/w/d)",
+      "company": "Rocken®",
+      "companyUrl": "https://ch.linkedin.com/company/rockenjobs",
+      "location": "Thalwil, Zurich, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/senior-cloud-developer-m-w-d-at-rocken%C2%AE-4486984442"
+    }
+  ]
+}

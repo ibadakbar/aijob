@@ -1,0 +1,735 @@
+﻿{
+  "meta": {
+    "count": 20,
+    "page": 1,
+    "total": 32064
+  },
+  "results": [
+    {
+      "id": "full-stack-react-application-developer-techcarrot-fz-llc-pdaicc2g",
+      "title": "Full Stack React Application Developer",
+      "company": "techcarrot FZ LLC",
+      "company_slug": "techcarrot-fz",
+      "location": "Hyderabad, Chennai, Noida, India",
+      "date": "2026-11-10",
+      "url": "https://techcarrot.zohorecruit.com/jobs/Careers/448395000037913441?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "ai",
+        "analytics",
+        "anthropic",
+        "api",
+        "api-design",
+        "api-documentation",
+        "authentication",
+        "aws",
+        "azure",
+        "azure-application-insights",
+        "azure-devops",
+        "azure-functions",
+        "ci-cd",
+        "cloud",
+        "containerization",
+        "conversational-ai",
+        "crm",
+        "css",
+        "cypress",
+        "data-engineering",
+        "data-ingestion",
+        "data-lake",
+        "data-visualization",
+        "databricks",
+        "datadog",
+        "devops",
+        "docker",
+        "ecommerce",
+        "event-driven-architecture",
+        "express",
+        "fastapi",
+        "fastify",
+        "figma",
+        "flask",
+        "git",
+        "github",
+        "github-actions",
+        "gitlab",
+        "graphql",
+        "jest",
+        "jwt",
+        "kafka",
+        "kubernetes",
+        "lambda",
+        "llm",
+        "microservices",
+        "mongodb",
+        "mysql",
+        "newrelic",
+        "nextjs",
+        "nodejs",
+        "oauth",
+        "observability",
+        "openai",
+        "openapi",
+        "plotly",
+        "postgresql",
+        "prompt-engineering",
+        "python",
+        "rag",
+        "rbac",
+        "react",
+        "react-testing-library",
+        "redis",
+        "redux",
+        "remix",
+        "rest",
+        "scrum",
+        "serverless",
+        "spark",
+        "storybook",
+        "swagger",
+        "tailwind",
+        "typescript",
+        "wcag",
+        "websockets",
+        "zustand"
+      ],
+      "description": "We are looking for a highly skilled Full Stack React Application Developer to build production-grade, data-rich web applications, APIs, and interactive dashboards. You will own the full application lifecycle from designing component architectures and building performant React frontends to creating robust backend APIs and integrating with data platforms.\n\nThis is a hands-on engineering role where you will build applications used by senior leadership, operations teams, and business users. The ideal candidate combines deep React expertise with strong API development skills and enough data fluency to work effectively with data engineering teams.\n\nReact Frontend Development (Primary Focus)\n\n• Architect, build, and maintain complex React applications — dashboards, analytics platforms, internal tools, and customer-facing products\n\n• Develop responsive, mobile-first UIs optimized for tablet (iPad) and desktop with pixel-perfect execution\n\n• Build rich data visualizations using D3.js, Recharts, Chart.js, or custom SVG/Canvas components\n\n• Implement advanced state management patterns using Redux Toolkit, Zustand, React Query, or Context API\n\n• Create reusable, well-documented component libraries with design system integration (Tailwind CSS, Styled Components, or CSS Modules)\n\n• Optimise frontend performance: code splitting, lazy loading, memoisation, virtual scrolling, bundle analysis\n\n• Write comprehensive tests using Jest, React Testing Library, and Cypress for E2E testing\n\n• Implement real-time features using WebSockets, Server-Sent Events, or polling strategies\n\nAPI Design & Backend Development\n\n• Design and build RESTful APIs using Node.js (Express/Fastify) or Python (FastAPI/Flask) following OpenAPI specifications\n\n• Develop GraphQL APIs where appropriate for complex data querying needs\n\n• Implement authentication and authorisation (OAuth 2.0, JWT, RBAC) for secure API access\n\n• Build middleware for logging, rate limiting, caching, error handling, and request validation\n\n• Design database schemas and write efficient queries (PostgreSQL, MongoDB, or similar)\n\n• Implement API versioning, pagination, filtering, and search capabilities\n\n• Build and maintain microservices or serverless functions (Azure Functions / AWS Lambda)\n\n• Create API documentation using Swagger/OpenAPI and maintain developer-facing docs\n\nIntegration & Data Layer\n\n• Integrate frontend applications with data platforms (Databricks, data warehouses, data lakes) through API layers\n\n• Build data ingestion endpoints that accept, validate, transform, and store incoming data\n\n• Work with data engineers to consume curated datasets and serve them through optimised APIs\n\n• Implement caching strategies (Redis, CDN, browser cache) for high-performance data delivery\n\n• Connect to third-party services and APIs (payment gateways, CRM, loyalty platforms, analytics tools)\n\nAI / LLM Integration\n\n• Build conversational AI interfaces (chatbots, knowledge agents) using LLM APIs (OpenAI, Anthropic, Azure OpenAI)\n\n• Implement RAG (Retrieval-Augmented Generation) patterns for document Q&A and contextual search\n\n• Create prompt engineering frameworks and manage AI response streaming in React UIs\n\nDevOps & Delivery\n\n• Set up and maintain CI/CD pipelines (GitHub Actions, Azure DevOps, GitLab CI)\n\n• Containerize applications with Docker and deploy to Kubernetes or cloud-managed services\n\n• Implement monitoring, alerting, and observability (Datadog, New Relic, or Application Insights)\n\n• Conduct code reviews, mentor junior developers, and drive engineering best practices\n\n### Requirements\n\n**Must-Have Skills**\n\n• 5–7 years of professional full stack development experience in a product engineering environment\n\n• Expert-level React.js (4+ years): hooks, context, suspense, server components, performance patterns\n\n• Strong TypeScript proficiency — type-safe component development, generics, utility types\n\n• Production experience building and consuming REST APIs (Node.js with Express/Fastify or Python with FastAPI)\n\n• Solid database skills: PostgreSQL or MySQL (schema design, indexing, query optimisation) and/or MongoDB\n\n• Experience with modern CSS: Tailwind CSS, CSS Modules, or Styled Components for scalable styling\n\n• Proficiency with Git, branching strategies, PR workflows, and collaborative development\n\n• Experience with cloud platforms: Azure (preferred) or AWS — app hosting, serverless, storage, CDN\n\n• Strong understanding of web security: CORS, XSS, CSRF, CSP, authentication flows\n\n• Experience with Docker containerisation and basic Kubernetes or cloud-managed container services\n\n• Familiarity with Agile/Scrum and working in cross-functional, distributed teams\n\n**Good-to-Have Skills**\n\n• Experience with Next.js (App Router, SSR, ISR, API routes) or Remix\n\n• GraphQL development experience (Apollo Server/Client or similar)\n\n• Data visualisation expertise: D3.js, Recharts, Plotly, custom charting\n\n• Experience integrating with LLM/AI APIs and building AI-powered features\n\n• Knowledge of Databricks, Apache Spark, or data lake/warehouse concepts\n\n• Experience with real-time systems: WebSockets, Kafka consumers, event-driven architecture\n\n• Familiarity with design tools (Figma) and design-to-code workflows\n\n• Understanding of retail / e-commerce domain (POS, loyalty, customer analytics)\n\n• Experience with Storybook for component documentation and visual testing\n\n• Knowledge of accessibility standards (WCAG) and internationalisation (i18n)\n\n**Education**\n\n• Bachelor’s or Master’s degree in Computer Science, Information Technology, or related field\n\n• Relevant certifications are a plus: AWS/Azure Developer, Meta React Certification, or similar"
+    },
+    {
+      "id": "full-stack-react-python-developer-appnovation-xpenwbli",
+      "title": "Full Stack React Python Developer",
+      "company": "Appnovation",
+      "company_slug": "appnovation",
+      "location": "Toronto, Canada",
+      "date": "2026-11-09",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159856250__7103?utm_campaign=publisher&utm_medium=api&geoID=6225&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "nextjs",
+        "nodejs",
+        "python",
+        "react",
+        "typescript"
+      ],
+      "description": "Build end-to-end digital health products in Toronto with React, Next.js, Python, and Node.js at Appnovation. Office attendance is required three days weekly.\n\nAppnovation is hiring a Full Stack Developer for a dedicated team serving a health and longevity client. You will deliver features across React, Next.js, TypeScript, Python, and Node.js services. The work spans design, testing, release, and digital health device integrations. You will collaborate with the Technical Lead, project manager, business analyst, and QA.\n\n### Key Responsibilities:\n\n- Build and maintain frontend and backend features end to end\n- Integrate digital health devices and third-party services\n- Write well-tested code and test work before QA\n- Document features, integrations, and technical decisions\n- Follow privacy and compliance requirements for health data\n\n### Requirements:\n\n- At least four years of professional full stack development\n- React, Next.js, and TypeScript frontend experience\n- Ability to work independently from well-defined stories\n- Clear written communication and documentation skills\n- Availability to work in Toronto three days weekly\n\nBring full stack ownership, React expertise, and thoughtful documentation to Appnovation’s Toronto digital health team."
+    },
+    {
+      "id": "full-stack-react-application-developer-techcarrot-hj2xx45k",
+      "title": "Full Stack React Application Developer",
+      "company": "techcarrot",
+      "company_slug": "techcarrot",
+      "location": "Sindh, Pakistan",
+      "date": "2026-11-09",
+      "url": "https://en-pk.whatjobs.com/pub_api__cpl__5497148__7116?utm_campaign=publisher&utm_medium=api&geoID=8&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "pk"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "ai",
+        "analytics",
+        "anthropic",
+        "api",
+        "api-design",
+        "api-documentation",
+        "authentication",
+        "aws",
+        "azure",
+        "azure-application-insights",
+        "azure-devops",
+        "azure-functions",
+        "ci-cd",
+        "cloud",
+        "containerization",
+        "conversational-ai",
+        "crm",
+        "css",
+        "cypress",
+        "data-ingestion",
+        "data-lake",
+        "data-visualization",
+        "databricks",
+        "datadog",
+        "devops",
+        "docker",
+        "ecommerce",
+        "event-driven-architecture",
+        "express",
+        "fastapi",
+        "fastify",
+        "figma",
+        "flask",
+        "git",
+        "github",
+        "github-actions",
+        "gitlab",
+        "graphql",
+        "jest",
+        "jwt",
+        "kafka",
+        "kubernetes",
+        "lambda",
+        "llm",
+        "microservices",
+        "mongodb",
+        "mysql",
+        "newrelic",
+        "nextjs",
+        "nodejs",
+        "oauth",
+        "observability",
+        "openai",
+        "openapi",
+        "plotly",
+        "postgresql",
+        "prompt-engineering",
+        "python",
+        "rag",
+        "rbac",
+        "react",
+        "react-testing-library",
+        "redis",
+        "redux",
+        "remix",
+        "rest",
+        "scrum",
+        "serverless",
+        "spark",
+        "storybook",
+        "swagger",
+        "tailwind",
+        "typescript",
+        "wcag",
+        "websockets",
+        "zustand"
+      ],
+      "description": "### React Frontend Development (Primary Focus)\n\n- Architect, build, and maintain complex React  \n  applications — dashboards, analytics platforms, internal tools, and  \n  customer-facing products\n- Develop responsive, mobile-first UIs optimized for  \n  tablet (iPad) and desktop with pixel-perfect execution\n- Build rich data visualizations using D3.js, Recharts,  \n  Chart.js, or custom SVG/Canvas components\n- Implement advanced state management patterns using  \n  Redux Toolkit, Zustand, React Query, or Context API\n- Create reusable, well-documented component libraries  \n  with design system integration (Tailwind CSS, Styled Components, or CSS  \n  Modules)\n- Optimize frontend performance: code splitting, lazy  \n  loading, memoisation, virtual scrolling, bundle analysis\n- Write comprehensive tests using Jest, React Testing  \n  Library, and Cypress for E2E testing\n- Implement real-time features using WebSockets,  \n  Server-Sent Events, or polling strategies\n\n### API Design & Backend Development\n\n- Design and build RESTful APIs using Node.js  \n  (Express/Fastify) or Python (FastAPI/Flask) following OpenAPI specifications\n- Develop GraphQL APIs where appropriate for complex data  \n  querying needs\n- Implement authentication and authorization (OAuth 2.0,  \n  JWT, RBAC) for secure API access\n- Build middleware for logging, rate limiting, caching,  \n  error handling, and request validation\n- Design database schemas and write efficient queries  \n  (PostgreSQL, MongoDB, or similar)\n- Implement API versioning, pagination, filtering, and  \n  search capabilities\n- Build and maintain microservices or serverless  \n  functions (Azure Functions / AWS Lambda)\n- Create API documentation using Swagger/OpenAPI and  \n  maintain developer-facing docs\n\n### Integration & Data Layer\n\n- Integrate frontend applications with data platforms  \n  (Databricks, data warehouses, data lakes) through API layers\n- Build data ingestion endpoints that accept, validate,  \n  transform, and store incoming data\n- Work with data engineers to consume curated datasets  \n  and serve them through optimized APIs\n- Implement caching strategies (Redis, CDN, browser  \n  cache) for high-performance data delivery\n- Connect to third-party services and APIs (payment  \n  gateways, CRM, loyalty platforms, analytics tools)\n\n### AI / LLM Integration\n\n- Build conversational AI interfaces (chatbots, knowledge  \n  agents) using LLM APIs (OpenAI, Anthropic, Azure OpenAI)\n- Implement RAG (Retrieval-Augmented Generation) patterns  \n  for document Q&A and contextual search\n- Create prompt engineering frameworks and manage AI  \n  response streaming in React UIs\n\n### DevOps & Delivery\n\n- Set up and maintain CI/CD pipelines (GitHub Actions,  \n  Azure DevOps, GitLab CI)\n- Containerize applications with Docker and deploy to  \n  Kubernetes or cloud-managed services\n- Implement monitoring, alerting, and observability  \n  (Datadog, New Relic, or Application Insights)\n- Conduct code reviews, mentor junior developers, and  \n  drive engineering best practices\n\n### Requirements\n\n### Must have skills\n\n- 5–7 years of professional full stack development  \n  experience in a product engineering environment\n- Expert-level React.js (4+ years): hooks, context,  \n  suspense, server components, performance patterns\n- Strong TypeScript proficiency — type-safe component  \n  development, generics, utility types\n- Production experience building and consuming REST APIs  \n  (Node.js with Express/Fastify or Python with FastAPI)\n- Solid database skills: PostgreSQL or MySQL (schema  \n  design, indexing, query optimization) and/or MongoDB\n- Experience with modern CSS: Tailwind CSS, CSS Modules,  \n  or Styled Components for scalable styling\n- Proficiency with Git, branching strategies, PR  \n  workflows, and collaborative development\n- Experience with cloud platforms: Azure (preferred) or  \n  AWS — app hosting, serverless, storage, CDN\n- Strong understanding of web security: CORS, XSS, CSRF,  \n  CSP, authentication flows\n- Experience with Docker containerization and basic  \n  Kubernetes or cloud-managed container services\n- Familiarity with Agile/Scrum and working in  \n  cross-functional, distributed teams\n\n### Good to have skills\n\n- Experience with Next.js (App Router, SSR, ISR, API  \n  routes) or Remix\n- GraphQL development experience (Apollo Server/Client or  \n  similar)\n- Data visualization expertise: D3.js, Recharts, Plotly,  \n  custom charting\n- Experience integrating with LLM/AI APIs and building  \n  AI-powered features\n- Knowledge of Databricks, Apache Spark, or data  \n  lake/warehouse concepts\n- Experience with real-time systems: WebSockets, Kafka  \n  consumers, event-driven architecture\n- Familiarity with design tools (Figma) and  \n  design-to-code workflows\n- Understanding of retail / e-commerce domain (POS,  \n  loyalty, customer analytics)\n- Experience with Storybook for component documentation  \n  and visual testing\n- Knowledge of accessibility standards (WCAG) and  \n  internationalization (i18n)\n\n### Education\n\n- Bachelor’s or Master’s degree in Computer Science,  \n  Information Technology, or related field\n- Relevant certifications are a plus: AWS/Azure  \n  Developer, Meta React Certification, or similar"
+    },
+    {
+      "id": "full-stack-react-net-web-engineer-groupe-sii-2bcswb4z",
+      "title": "Full-Stack React & .NET Web Engineer",
+      "company": "Groupe Sii",
+      "company_slug": "groupe-sii",
+      "location": "Montréal, Canada",
+      "date": "2026-11-08",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159869164__7103?utm_campaign=publisher&utm_medium=api&geoID=3824&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "azure",
+        "bootstrap",
+        "ci-cd",
+        "devops",
+        "react",
+        "typescript"
+      ],
+      "description": "Groupe SII Canada recherche un développeur web expérimenté pour concevoir, développer et déployer des applications web, en collaboration avec les équipes techniques et les parties prenantes.\n\nVous participerez aux analyses, aux tests, à l\\\\'intégration continue et à l\\\\'amélioration continue, en maîtrisant React, TypeScript, Bootstrap et Azure, avec une orientation DevOps et qualité logicielle."
+    },
+    {
+      "id": "full-stack-react-node-js-developer-techedin-3tq3w4td",
+      "title": "Full Stack React Node.js Developer",
+      "company": "Techedin",
+      "company_slug": "techedin",
+      "location": "Toronto, Canada",
+      "date": "2026-11-06",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159155739__7103?utm_campaign=publisher&utm_medium=api&geoID=6225&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "ai",
+        "claude-code",
+        "git",
+        "github",
+        "github-copilot",
+        "nodejs",
+        "npm",
+        "react",
+        "redux"
+      ],
+      "description": "Build secure software with React and Node.js as a Full Stack Software Developer working hybrid, with three remote days in Toronto.\n\nTechedin seeks a Full Stack Software Developer with 5+ years of professional experience. You will develop production software using AI coding assistants, web technologies, React, Redux, Node.js, NPM, Git, and GitHub. The position supports customer-focused solutions through collaborative engineering.\n\n### Key Responsibilities:\n\n- Design, implement, test, and maintain secure stable software\n- Build web solutions supporting cross-platform development experiences\n- Participate in software design and code reviews\n- Estimate tasks, evaluate risks, and identify dependencies\n- Discuss software architecture and design with engineering teams\n\n### Requirements:\n\n- 5+ years developing professional production software\n- Strong programming, debugging, and problem-solving skills\n- Daily experience with Claude Code, Cursor, or GitHub Copilot\n- Hands-on React, Redux, Node.js, and NPM experience\n- Experience with Git, GitHub, and web technologies\n\nApply your full stack development, AI-assisted coding, and architecture skills to Techedin's Toronto engineering work."
+    },
+    {
+      "id": "full-stack-react-next-js-aws-bff-torino-hybrid-gecal-informatica-srl-4smlchy5",
+      "title": "Full Stack React/Next.js – AWS & BFF, Torino Hybrid",
+      "company": "Gecal Informatica Srl",
+      "company_slug": "gecal-informatica",
+      "location": ", Piemonte",
+      "date": "2026-11-06",
+      "url": "https://www.jobleads.com/it/job/full-stack-react-next-js-aws-bff-torino-hybrid--piemonte--eed88c4b2aaf00bee54d26cfc93ef7700?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "it"
+      ],
+      "skills": [
+        "aws",
+        "cloudfront",
+        "nextjs",
+        "nodejs",
+        "react"
+      ],
+      "description": "Gecal Informatica Srl cerca un/una Full Stack con prevalenza Frontend per potenziare il team nel settore automotive. La posizione prevede revisione del codice del fornitore principale e sviluppo autonomo di nuove funzionalità per l’area Digital, con focus su Node.js, React e Next.js.\n\nSi lavora su progetti ospitati su AWS, con attenzione a soluzioni Frontend e BFF su AWS e modelli CSR/SSR. Lavoro ibrido a Torino, contratto CCNL Commercio con RAL 30-32K in base all’esperienza.\n\nRevisione del codice del fornitore principale. Sviluppo autonomo di nuove funzionalità per l’area Digital. Progetto ibrido con focus su AWS e soluzioni Frontend/BFF. Esperienza nello sviluppo frontend e backend (Full Stack). Conoscenza di Node.js, React e Next.js su progetti reali. Conoscenza di hosting e infrastrutture AWS/CloudFront. Contratto CCNL Commercio Lavoro ibrido"
+    },
+    {
+      "id": "full-stack-developer-react-node-js-tsxtr-tsx-trust-company-pgjqqtql",
+      "title": "Full Stack Developer React Node.js",
+      "company": "TSXTR TSX Trust Company",
+      "company_slug": "tsxtr-tsx-trust-company",
+      "location": "Toronto, Canada",
+      "date": "2026-11-10",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__160239731__7103?utm_campaign=publisher&utm_medium=api&geoID=6225&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "api",
+        "aws",
+        "confluence",
+        "css",
+        "docker",
+        "git",
+        "html",
+        "javascript",
+        "jira",
+        "microservices",
+        "nodejs",
+        "postgresql",
+        "python",
+        "react",
+        "rest",
+        "sql"
+      ],
+      "description": "Build scalable web applications with React and Node.js at TMX in Toronto, using a hybrid model with two to three office days weekly.\n\nAs a Full Stack Developer, you will design, implement, and maintain resilient digital interfaces. You will work in a cross-functional squad with Product Owners, Business Analysts, and Engineers. Your toolkit includes JavaScript, Python, RESTful APIs, PostgreSQL, AWS, and Docker.\n\n### Key Responsibilities:\n\n- Lead technical design and front-end architecture for web applications\n- Build RESTful APIs, web sockets, and microservices\n- Optimize code, caching strategies, queries, and application architecture\n- Design relational and non-relational database storage solutions\n- Deploy containerized applications through AWS and automated pipelines\n\n### Requirements:\n\n- Bachelor’s degree or equivalent practical working experience\n- Five-plus years building production-grade full-stack web applications\n- Expertise with JavaScript, React, HTML5, CSS3, and component-based architecture\n- Experience with Node.js, Python frameworks, PostgreSQL, and SQL optimization\n- Hands-on AWS, Docker, Git, Jira, and Confluence experience\n\nApply full-stack development, React, Node.js, Python, and AWS expertise to TMX digital solutions in Toronto."
+    },
+    {
+      "id": "full-stack-java-react-developer-herzum-now-part-of-catworkx-3fkk7rd6",
+      "title": "Full stack Java / React Developer",
+      "company": "Herzum (now part of catworkx)",
+      "company_slug": "herzum-now-part-of-catworkx",
+      "location": "Italy",
+      "date": "2026-11-09",
+      "url": "https://it.whatjobs.com/pub_api__cpl__259320917__7128?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "it"
+      ],
+      "skills": [
+        "java",
+        "jvm",
+        "kotlin",
+        "react"
+      ],
+      "description": "Ricerchiamo per un importante progetto in ambito Banking di una risorsa che possa ricoprire il ruolo di Full Stack Java React Developer da inserire in un team che lavora su soluzioni digitali innovative per il settore finanziario.\n\nFaccia ora il prossimo passo nella sua carriera: scorra verso il basso per leggere la descrizione completa del ruolo e invii la sua candidatura.  \nAttività\n\n- Sviluppo di nuove funzionalità e soluzioni applicative\n- Partecipazione all'intero ciclo di sviluppo del progetto\n- Manutenzione correttiva ed evolutiva\n- Coordinamento di risorse junior all'interno del team\n- Collaborazione con gli altri interlocutori tecnici e di business\n\nRequisiti\n\nMust Have\n\n- Esperienza di almeno 5 anni nel ruolo\n- Ottima conoscenza di Java\n- Ottima conoscenza di Kotlin\n- Ottima conoscenza di React\n\nPlus: aver maturato esperienza nello sviluppo di applicazioni su JVM\n\nSi ricercano professionisti disponibili a collaborare con modalità in Partita IVA, tariffa giornaliera compresa tra 200 € e 220 xysqume €.\n\nUnisciti a noi! Entra a far parte di un team che vive di innovazione, crede nel talento e punta all’eccellenza. Il tuo prossimo passo di carriera inizia qui.\n\nIl presente annuncio è rivolto a entrambi i sessi (L. 903/77 e 125/91) e a persone di tutte le età e nazionalità (D.Lgs. 215/03 e 216/03)."
+    },
+    {
+      "id": "full-stack-developer-react-next-js-learnformula-24ewfejq",
+      "title": "Full Stack Developer (React + Next.js)",
+      "company": "Learnformula",
+      "company_slug": "learnformula",
+      "location": null,
+      "date": "2026-11-09",
+      "url": "https://www.careers-page.com/learnformula/job/5WYYY6YR?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "aws",
+        "ci-cd",
+        "cloudfront",
+        "ec2",
+        "git",
+        "github",
+        "github-actions",
+        "infrastructure-as-code",
+        "ios",
+        "javascript",
+        "kotlin",
+        "lambda",
+        "mysql",
+        "nextjs",
+        "nodejs",
+        "postgresql",
+        "rdbms",
+        "rds",
+        "react",
+        "rest",
+        "s3",
+        "seo",
+        "stripe",
+        "swift",
+        "terraform",
+        "typescript"
+      ],
+      "description": "**Company:** LearnFormula  \n**Location:** Markham, ON, Canada (On-Site)  \n**Employment Type:** Full-Time | Monday–Friday, 9 AM – 5 PM\n\n## About LearnFormula\n\nLearnFormula is an online continuing education platform serving professionals across multiple industries—including CPAs, attorneys, HR managers, engineers, and project managers—who need to maintain their professional certifications through continuing education credits. We're a growing company focused on delivering high-quality, accessible learning experiences that help professionals stay current in their fields.\n\n## The Role\n\nWe're looking for a Full Stack Developer to join our team and help build and enhance our learning platform. You'll work across the entire stack, from crafting responsive user interfaces to building robust backend services. This is an opportunity to make a direct impact on a product used by thousands of professionals across North America.\n\n## What You'll Do\n\n- Build and maintain web applications using React and Next.js\n- Develop and integrate RESTful APIs and backend services\n- Collaborate on database design and optimization\n- Implement responsive, accessible, and performant user interfaces\n- Write clean, maintainable, and well-tested code\n- Participate in code reviews and contribute to technical decisions\n- Work with AWS services for hosting, storage, and infrastructure\n- Integrate with third-party services including payment processors (Stripe) and email platforms\n- Troubleshoot and resolve production issues as they arise\n- Contribute to improving our development workflows and CI/CD pipelines\n\n## What We're Looking For\n\n**Required:**\n\n- 3+ years of professional experience in full stack web development\n- Strong proficiency with React and Next.js (App Router experience preferred)\n- Solid understanding of JavaScript/TypeScript\n- Experience with Node.js and building RESTful APIs\n- Familiarity with relational databases (PostgreSQL or MySQL)\n- Experience with Git and collaborative development workflows\n- Understanding of web performance optimization and SEO best practices\n- Strong problem-solving skills and attention to detail\n- Excellent written and verbal communication skills\n\n**Nice to Have:**\n\n- Experience with native mobile app development (Swift for iOS, Kotlin for Android)\n- Experience with AWS services (EC2, S3, RDS, CloudFront, Lambda)\n- Familiarity with Stripe or other payment processing integrations\n- Experience with video streaming or media delivery\n- Knowledge of LMS platforms or ed-tech products\n- Experience with Terraform or infrastructure-as-code tools\n- Familiarity with GitHub Actions or similar CI/CD platforms\n\n## What We Offer\n\n- Competitive salary commensurate with experience\n- On-site work environment in our Markham office\n- Opportunity to work on a product that helps professionals advance their careers\n- Direct impact on product direction and technical decisions\n- A collaborative, low-bureaucracy work environment"
+    },
+    {
+      "id": "full-stack-engineer-react-node-cloud-microservices-a7-recruitment-company-g7lqhfxi",
+      "title": "Full-Stack Engineer: React/Node, Cloud & Microservices",
+      "company": "A7 Recruitment Company",
+      "company_slug": "a7-recruitment-company",
+      "location": "Taguig, Philippines",
+      "date": "2026-11-09",
+      "url": "https://en-ph.whatjobs.com/pub_api__cpl__67845362__7115?utm_campaign=publisher&utm_medium=api&geoID=1538&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "ph"
+      ],
+      "skills": [
+        "agile",
+        "angular",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "css",
+        "dotnet",
+        "event-driven-architecture",
+        "html",
+        "java",
+        "jenkins",
+        "microservices",
+        "nodejs",
+        "react",
+        "sass",
+        "serverless",
+        "typescript",
+        "vue"
+      ],
+      "description": "A7 Recruitment Company is seeking a capable software engineer with strong full stack skills. You will work across front-end (React/Angular/Vue) and back-end (Node.js/Java/.NET) stacks, contribute to microservices and serverless designs, and drive cloud migrations to AWS or Azure in an Agile environment.\n\nIdeal candidates have experience with React JS, Node.js, TypeScript, HTML/SASS/CSS, and CI/CD pipelines like Jenkins, along with a solid understanding of microservices and event-driven"
+    },
+    {
+      "id": "full-stack-developer-react-node-for-maritime-tech-confindustria-genova-vnb37y67",
+      "title": "Full Stack Developer - React/Node for Maritime Tech",
+      "company": "Confindustria Genova",
+      "company_slug": "confindustria-genova",
+      "location": "Genova, Italy",
+      "date": "2026-11-09",
+      "url": "https://it.whatjobs.com/pub_api__cpl__260579899__7128?utm_campaign=publisher&utm_medium=api&geoID=850&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "it"
+      ],
+      "skills": [
+        "nodejs",
+        "react"
+      ],
+      "description": "Confindustria Genova cerca un Full Stack Developer per la sede di Genova, con competenze in React e Node.js e almeno 2 anni di esperienza in sviluppo software. La laurea in STEM è preferita.\n\nParteciperai allo sviluppo e al rilascio di nuove funzionalità, lavorando su piattaforme nel settore nautico e collaborando con un team dinamico.\n\nL’azienda offre un ambiente giovane, opportunità di crescita e un contesto di innovazione continua nel mondo della nautica."
+    },
+    {
+      "id": "full-stack-developer-react-typescript-node-js-tw-group-pmxe7o65",
+      "title": "Full Stack Developer – React / TypeScript / Node.js",
+      "company": "TW Group",
+      "company_slug": "tw-group",
+      "location": "Las Vegas, Clark County",
+      "date": "2026-11-09",
+      "url": "https://www.adzuna.com/details/5958942287?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [],
+      "countries": [],
+      "skills": [],
+      "description": "**About the Opportunity**\n\nTW Group is partnering with an established gaming technology company seeking a talented Full Stack Developer to design, build, and enhance web-based applications and internal development tools.\n\nThis opportunity is ideal for a software engineer who enjoys working across the full technology stack, solving complex technical challenges, and building applications that improve how creative and technical teams work together.\n\nYou'll collaborate with developers, game designers, mathematicians, artists, and audio specialists to create reliable, scalable, and maintainable tools that support game design and development.\n\n**Key Responsibilities**\n\n- Design, develop, maintain, and enhance full-stack web applications and internal development tools.\n- Build intuitive, functional front-end interfaces and robust back-end services.\n- Develop and maintain APIs that support application functionality and data integration.\n- Work with modern technologies, including React, TypeScript, Node.js, MongoDB, Prisma, and SQL.\n- Collaborate with cross-functional teams to translate technical and business requirements into effective software solutions.\n- Design and implement efficient database structures using relational and non-relational databases.\n- Write clean, well-architected, maintainable, and reusable code.\n- Participate in code reviews, providing constructive feedback and supporting development best practices.\n- Troubleshoot application issues, optimize performance, and contribute to continuous improvement initiatives.\n- Utilize Git and modern development workflows to support collaborative software delivery.\n\n**Required Qualifications**\n\n- 3+ years of professional software development experience using JavaScript, TypeScript, C#, C++, Java, or another major programming language.\n- Solid understanding of relational and non-relational database design and implementation, including technologies such as MongoDB and PostgreSQL.\n- Experience designing, developing, and maintaining robust back-end APIs.\n- Strong knowledge of object-oriented programming, SOLID principles, software design patterns, and application architecture.\n- Experience debugging, troubleshooting, and optimizing software applications.\n- Familiarity with version control, pull requests, code reviews, and modern package management.\n- Strong communication and collaboration skills.\n- Ability to work effectively within multidisciplinary development teams.\n\n**Preferred Qualifications**\n\n- Strong hands-on experience with TypeScript, JavaScript, and Node.js.\n- Experience building web applications using React.\n- Familiarity with Prisma, GraphQL, and Docker.\n- Experience with continuous integration and modern development pipelines.\n- Mobile development experience, including performance and optimization considerations.\n- Contributions to open-source projects, independent software projects, or game development initiatives.\n- Interest in artificial intelligence and its potential applications in software development.\n- Previous experience within casino gaming, iGaming, or interactive entertainment environments.\n\n**Why Consider This Opportunity?**\n\n- Build applications and tools that directly support game design and development.\n- Work with a modern technology stack spanning front-end development, APIs, and databases.\n- Collaborate with talented professionals across software engineering and creative disciplines.\n- Contribute to meaningful technical projects with opportunities to expand your skills.\n\n**Apply Confidentially**\n\nInterested in exploring this opportunity? Submit your resume through TW Group for confidential consideration.\n\nTW Group specializes in connecting talented professionals with opportunities across casino gaming, iGaming, software engineering, game development, and gaming technology.\n\n**www.twgroupconsulting.com**"
+    },
+    {
+      "id": "full-stack-engineer-react-php-hack-platform-support-optimum-solutions-pte-ltd-2oyqfpko",
+      "title": "Full-Stack Engineer (React/PHP/Hack) — Platform & Support",
+      "company": "Optimum Solutions Pte Ltd",
+      "company_slug": "optimum-solutions",
+      "location": "Singapore, Singapore",
+      "date": "2026-11-08",
+      "url": "https://en-sg.whatjobs.com/pub_api__cpl__95188087__7119?utm_campaign=publisher&utm_medium=api&geoID=1&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "sg"
+      ],
+      "skills": [
+        "analytics",
+        "graphql",
+        "php",
+        "react",
+        "spark",
+        "sql"
+      ],
+      "description": "Optimum Solutions Pte Ltd client in Singapore seeks a Software Engineer (Full Stack) to join its Business Support Engineering team. You will resolve complex issues, enhance features, and build tools and platform improvements.\n\nThe role involves full-stack development using PHP/Hack, GraphQL, SQL, Spark, and ReactJS/Bloks, plus collaboration with regional teams in Singapore, the US and Ireland. Contract position ending August 2027 with opportunities to impact product analytics and operational"
+    },
+    {
+      "id": "full-stack-engineer-react-ai-kablamo-ntddyp4f",
+      "title": "Full Stack Engineer React AI",
+      "company": "Kablamo",
+      "company_slug": "kablamo",
+      "location": "Toronto, Canada",
+      "date": "2026-11-08",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__160103938__7103?utm_campaign=publisher&utm_medium=api&geoID=6225&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "ai",
+        "ajax",
+        "api",
+        "claude-code",
+        "generative-ai",
+        "graphql",
+        "json",
+        "nosql",
+        "react",
+        "rest",
+        "unit-testing",
+        "xml"
+      ],
+      "description": "Build full-stack applications with React and generative AI at Kablamo, supporting flexible Canadian teams and work starting November 2026 to February 2027.\n\nAs a FullStack Engineer, you will develop custom software across client and server layers. You will create web interfaces, APIs, and production AI functionality while maintaining testing, security, and reliability. The role includes collaboration across Product, Design, and Platform Engineering.\n\n### Key Responsibilities:\n\n- Architect and build robust web applications end-to-end\n- Construct React.js interfaces aligned with modern design guidelines\n- Implement performant RESTful or GraphQL API endpoints\n- Embed generative AI using RAG and structured outputs\n- Investigate live issues and resolve underlying causes\n\n### Requirements:\n\n- Three to five years developing custom software\n- Experience building complex web applications\n- Experience with REST APIs, JSON/XML, Ajax, and unit testing\n- Experience with relational or NoSQL databases\n- Experience using AI coding tools such as Cursor or Claude Code\n\nBring full-stack development, React, API, testing, and generative AI experience to Kablamo’s custom software engagements."
+    },
+    {
+      "id": "full-stack-developer-react-nestjs-remote-work-ref-308627-bairesdev-xywexhyj",
+      "title": "Full-Stack Developer (React + NestJS) - Remote Work | REF#308627",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": "Guanajuato, Mexico",
+      "date": "2026-11-08",
+      "url": "https://es-mx.whatjobs.com/pub_api__cpl__258469978__7108?utm_campaign=publisher&utm_medium=api&geoID=11&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "mx"
+      ],
+      "skills": [
+        "api",
+        "ci-cd",
+        "git",
+        "github",
+        "github-actions",
+        "nestjs",
+        "postgresql",
+        "react",
+        "vercel"
+      ],
+      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\n### Full-Stack Developer (React + NestJS) at BairesDev\n\nIn this role, you'll build and maintain full-stack applications spanning a React frontend and NestJS backend, working with modern tooling across the entire delivery lifecycle. This is your opportunity to work on end-to-end product development, contributing to both user-facing experiences and the backend services that power them.\n\n### What You'll Do\n\n- Build and maintain frontend interfaces using React.\n- Develop backend services and APIs using NestJS.\n- Design and manage PostgreSQL databases using Prisma.\n- Support release planning, CI/CD pipelines, and deployment workflows.\n\n### What We Are Looking For\n\n- 4+ years of experience in software engineering.\n- Strong proficiency in React.\n- Hands-on experience with NestJS.\n- Experience with PostgreSQL and Prisma.\n- Familiarity with Git release planning and basic GitHub Actions CI/CD.\n- Experience deploying to Vercel.\n- Advanced proficiency in English.\n\nHow we do make your work (and your life) easier:\n\n- 100% remote work (from anywhere).\n- Excellent compensation in USD or your local currency if preferred\n- Hardware and software setup for you to work from home.\n- Flexible hours: create your own schedule.\n- Paid parental leaves, vacations, and national holidays.\n- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.\n- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nJoin a global team where your unique talents can truly thrive and make a significant impact!"
+    },
+    {
+      "id": "full-stack-developer-react-flask-remote-work-ref-309186-bairesdev-kclb3thy",
+      "title": "Full Stack Developer (React & Flask) - Remote Work | REF#309186",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": "Guanajuato, Mexico",
+      "date": "2026-11-08",
+      "url": "https://es-mx.whatjobs.com/pub_api__cpl__258469100__7108?utm_campaign=publisher&utm_medium=api&geoID=11&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "mx"
+      ],
+      "skills": [
+        "api",
+        "flask",
+        "python",
+        "react",
+        "sql",
+        "version-control"
+      ],
+      "description": "At BairesDev we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\nFull Stack Developer (React & Flask) at BairesDev\n\nJoin BairesDev as a Full Stack Developer and deliver web products that pair engaging interfaces with lightweight Python services. You will keep the stack simple and effective.\n\n### What You’ll Do\n\n- Deliver complete features across client and server layers.\n- Build interactive interfaces from reusable components.\n- Create lightweight APIs and services to power the application.\n- Connect the application to databases and external services.\n- Test and debug features to protect user experience.\n- Suggest improvements to architecture and developer workflows.\n\n### What We Are Looking For\n\n- 4+ years of experience in full stack software development.\n- Proven expertise building user interfaces with React.\n- Hands-on experience developing APIs with Python and Flask.\n- Solid knowledge of SQL databases, REST design, and version control.\n- Advanced proficiency in English.\n\n### How we do make your work (and your life) easier:\n\n- 100% remote work (from anywhere).\n- Excellent compensation in USD or your local currency if preferred\n- Hardware and software setup for you to work from home.\n- Flexible hours: create your own schedule.\n- Paid parental leaves, vacations, and national holidays.\n- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.\n- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nJoin a global team where your unique talents can truly thrive and make a significant impact!\n\n#BD-PRIO-2026"
+    },
+    {
+      "id": "full-stack-python-react-engineer-data-viz-fintech-bluelight-qpa6owuj",
+      "title": "Full-Stack Python/React Engineer - Data Viz & Fintech",
+      "company": "Bluelight",
+      "company_slug": "bluelight",
+      "location": "La Pampa, Argentina",
+      "date": "2026-11-08",
+      "url": "https://ar.whatjobs.com/pub_api__cpl__35553855__7080?utm_campaign=publisher&utm_medium=api&geoID=10&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ar"
+      ],
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "ai",
+        "api",
+        "api-design",
+        "automation",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "cloud-native",
+        "css",
+        "docker",
+        "fastapi",
+        "fastify",
+        "fintech",
+        "gcp",
+        "github",
+        "github-copilot",
+        "llm",
+        "nodejs",
+        "openapi",
+        "openid",
+        "postgresql",
+        "prototyping",
+        "python",
+        "react",
+        "rest",
+        "storybook",
+        "tailwind",
+        "typescript",
+        "vite",
+        "vitest",
+        "webpack"
+      ],
+      "description": "### Disclaimer – Must read: Commitment & Focus\n\nThis role requires full-time dedication, with clear priority given to Darwoft projects during the established working hours. It is not compatible with other full-time professional engagements. Any additional professional activities must be disclosed in advance and must not interfere with the responsibilities or working hours of this role.\n\n### About Darwoft\n\nDarwoft is a software factory delivering custom software solutions and IT staff augmentation services to international clients, primarily in the United States and Latin America. We partner with startups and scale-up companies to build high-impact digital products, combining technical excellence with a people-first culture built on long-term relationships and collaborative work.\n\n### Senior Fullstack Engineer (React/TypeScript/AI-Assisted Development) · LATAM\n\n- **Location:** Anywhere in LATAM\n- **Work Model:** 100% Remote\n- **Engagement:** Full-time Contractor\n- **Project:** FinTech · Customer Experience Operations Platform\n- **English Level:** Advanced\n- **Seniority:** Senior\n\n### Commitment & Focus\n\nThis role requires full-time dedication, with clear priority given to Darwoft projects during the established working hours. It is not compatible with other full-time professional engagements.\n\nAny additional professional activities must be disclosed in advance and must not interfere with the responsibilities, availability, or working hours required for this role.\n\n### Get to Know Darwoft\n\nAt Darwoft, we build digital products with heart.\n\nWe’re a Latin American technology company focused on creating impactful, human-centered software in partnership with companies around the world. Our remote-first culture is built on trust, continuous learning, collaboration, and strong engineering standards.\n\nWe’re passionate about technology, but even more about the people behind it. If you’re looking for an environment where your ideas matter, experimentation is encouraged, and your impact is tangible, welcome to Darwoft.\n\n### About the Role\n\nWe’re looking for a **Senior Fullstack Engineer with a strong frontend focus** to join a high-impact international FinTech project building an internal **Customer Experience Operations Platform**.\n\nThe platform provides the tools customer experience agents and supervisors rely on every day to manage **queues, assignments, conversations, agent availability, dashboards, metrics, and operational workflows**.\n\nYou’ll primarily design and ship agent-facing experiences using **React and TypeScript**, working within a modern, modular frontend architecture while collaborating closely with the backend services and APIs that power the platform.\n\nA key aspect of this opportunity is the way the team approaches software development.\n\nWe’re looking for engineers with an **agentic development mindset**: people who actively use **AI coding assistants, LLM agents, automation, and AI-assisted engineering workflows** to prototype faster, solve problems, generate and validate code, improve testing, accelerate debugging, and increase overall engineering productivity.\n\nThis is not simply about using AI autocomplete. We’re looking for engineers who are comfortable incorporating tools such as **Cursor, Claude Code, GitHub Copilot, coding agents, custom scripts, or AI-assisted specifications** into their day-to-day development process while maintaining strong engineering judgment and ownership.\n\nYou’ll work closely with Product, CX stakeholders, designers, and backend engineers to turn operational requirements into reliable, intuitive, and scalable user experiences.\n\n### What You’ll Be Doing\n\n- Design, develop, and maintain **React / TypeScript** features across CX domain modules, including operations tooling, agent presence, inbox workflows, queues, assignments, and internal applications.\n- Build and evolve reusable **UI components, forms, tables, filters, dashboards, and complex operational workflows**.\n- Work with technologies and patterns including **Tailwind CSS, Tremor, Radix/shadcn, and Storybook**.\n- Apply **AI-assisted and agentic software engineering practices** to accelerate prototyping, implementation, testing, refactoring, documentation, and debugging.\n- Experiment with AI coding agents and automated workflows to improve engineering productivity and development quality.\n- Build data-driven interfaces using **TanStack Query, React Router, react-hook-form, and Zod**.\n- Integrate frontend applications with **BFF and backend APIs**.\n- Work within a **micro-frontend architecture using Rspack and Module Federation**, respecting domain boundaries and monorepo conventions.\n- Collaborate on API design and integration with **FastAPI backend services**, including OpenAPI contracts and BFF endpoints.\n- Ensure end-to-end correctness across workflows involving queues, agents, assignments, conversations, and operational metrics.\n- Contribute to authorization-aware UX aligned with gateway permissions and domain-level capability models.\n- Troubleshoot issues across the **frontend BFF backend** stack using both traditional debugging techniques and AI-assisted workflows.\n- Ensure the reliability, accessibility, and performance of agent-critical workflows running in production.\n- Participate in code reviews, architecture discussions, technical decision-making, and engineering best practices around **type safety, linting, testing, and maintainability**.\n\n### What You Bring\n\n- **8+ years of software engineering experience**, with a strong frontend-oriented background.\n- Strong production experience with **React and TypeScript**.\n- Hands-on experience actively using **AI development tools and agentic workflows** such as Cursor, Claude Code, GitHub Copilot, coding agents, AI-assisted specifications, or similar tooling.\n- Ability to use AI as part of the engineering workflow while maintaining ownership over architecture, code quality, testing, and technical decisions.\n- Experience building complex product interfaces involving **forms, tables, filters, dashboards, and multi-step workflows**.\n- Strong understanding of modern frontend development practices and component-driven architectures.\n- Experience with modern bundlers such as **Webpack, Rspack, or Vite**.\n- Experience with **Tailwind CSS** or similar modern styling frameworks.\n- Experience consuming **REST APIs** and working with **OpenAPI-based services**.\n- Ability to debug and troubleshoot issues across frontend and backend boundaries.\n- Experience with modern state management and server-state patterns such as **TanStack Query, React Context, and hooks**.\n- Strong debugging, problem-solving, and technical decision-making skills.\n- Ability to collaborate effectively with **Product, Engineering, and operational stakeholders**.\n- Advanced English proficiency, both spoken and written.\n\n### Nice to Have\n\n- Experience designing or integrating **AI-agent workflows, AI-powered interfaces, or automated support operations**.\n- Experience with **micro-frontend** or **Module Federation**.\n- Experience working with **monorepos** using pnpm, Turbo, Nx, or similar tools.\n- Familiarity with **Refine, react-intl**, or admin/operations-focused internal platforms.\n- Experience developing **BFF layers with Node.js / Fastify**.\n- Experience with **Python / FastAPI**, particularly the ability to understand APIs, propose schema changes, or implement small backend endpoints.\n- Experience working with **PostgreSQL-backed services** and transactional or domain-oriented APIs.\n- Experience in **FinTech, payments, remittances, customer support platforms, or high-volume operational systems**.\n- Experience with **GCP**, including technologies such as OIDC or Pub/Sub.\n- Experience with **Docker** and CI/CD in cloud-native environments.\n- Familiarity with **Storybook, Vitest, and design-system workflows**.\n- Experience working in fast-moving **startup or scale-up environments**.\n\n### What Darwoft Offers\n\n- Contractor agreement with payment in USD\n- 100% remote work\n- Argentina's public holidays\n- English classes\n- Referral program\n- Access to learning platforms"
+    },
+    {
+      "id": "full-stack-developer-react-node-js-nosql-sql-hyderabad-recognized-y7fhitca",
+      "title": "Full Stack Developer (React, Node.js, NoSQL, SQL) (Hyderabad)",
+      "company": "Recognized",
+      "company_slug": "recognized",
+      "location": "Hyderabad, Telangana",
+      "date": "2026-11-08",
+      "url": "https://www.shine.com/jobs/full-stack-developer-react-nodejs-nosql-sql-hyderabad/recognized/20040716?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "java",
+        "mongodb",
+        "mysql",
+        "nodejs",
+        "nosql",
+        "react",
+        "sql"
+      ],
+      "description": "Full Stack Developer (React, Node.js, NoSQL, SQL) (Hyderabad) Company: Recognized Job Location: Hyderabad, Telangana, India Employment Type: Contract Experience Required: 1+ years Full Stack Developer (React, Node.js, NoSQL, SQL) Table -Side Food Ordering App Timings : 04:30PM - 12:30AM Location : Hyderabad (Work from office) Notice : Immediately available This is a contract to hire role for 6 months and can be extended up to 1 year (Candidate will be on our payroll) Job Description: We are looking for a Full Stack Developer to build a table -side food ordering application for in -store use. The role involves developing a user -friendly front -end with React, a robust back end using Node.js, and managing databases with both SQL and NoSQL. You will integrate real -time order processing, menu updates, and payment gateways to enhance the customer experience. Solid understanding of mobile -first design, POS system integration, and ensuring smooth backend performance is required. Skills Required: React.js and Node.js development SQL & NoSQL databases Payment gateway & Symphony POS system integration (Mandatory) Real -time order updates & performance optimization #ReactJS #NodeJS #Full StackDeveloper #Java ScriptDeveloper #SQL #NoSQL #DatabaseManagement #MongoDB #MySQL #PaymentGatewayIntegration #POSIntegration #SymphonyPOS #Real TimeSystems #Real TimeUpdates #WebDevelopment #Performance Optimization #Scalable Applications #Backend Development #Frontend Development #APIIntegration #Tech Hiring #Developer Skills ."
+    },
+    {
+      "id": "full-stack-developer-react-typescript-sql-ai-first-product-studio-remote-latam-atomic-remote-jobs-6ji6g7pe",
+      "title": "Full-Stack Developer (React + Typescript + Sql) | Ai-First Product Studio | Remote (Latam)",
+      "company": "Atomic - Remote Jobs",
+      "company_slug": "atomic-remote-jobs",
+      "location": "Neuquén, Argentina",
+      "date": "2026-11-08",
+      "url": "https://ar.whatjobs.com/pub_api__cpl__35531112__7080?utm_campaign=publisher&utm_medium=api&geoID=2946&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ar"
+      ],
+      "skills": [
+        "acceptance-criteria",
+        "agentic-ai",
+        "ai",
+        "api",
+        "automation",
+        "aws",
+        "azure",
+        "bigquery",
+        "claude-code",
+        "css",
+        "fastapi",
+        "fhir",
+        "fintech",
+        "gcp",
+        "github",
+        "github-copilot",
+        "hipaa",
+        "hl7",
+        "llm",
+        "prototyping",
+        "pydantic",
+        "python",
+        "react",
+        "sql",
+        "sqlalchemy",
+        "storybook",
+        "tailwind",
+        "typescript"
+      ],
+      "description": "### Core Requirements\n\n- Python / FastAPI (Pydantic, SQLAlchemy, Alembic)\n- React and/or TypeScript\n- AWS and/or GCP\n- Strong SQL/BigQuery experience.\n- Strong testing practices and high test coverage.\n- Hands-on experience with FHIR R4 and HL7 v2.x and/or C-CDA.\n- Healthcare experience, particularly HIPAA/PHI.\n\nA **healthcare background** and knowledge of **interoperability standards** are preferred, but initially, we’re open to considering candidates who don’t have this experience if they are technically very strong.\n\nThe interview process would be:\n\n- HR screening\n- English test\n- Technical interview\n\nOur client is a remote product studio that builds MVPs and custom software for startups and companies past the idea stage. Clients hire them for a fixed-scope MVP or for a product team billed by the two-week sprint, and the whole team uses AI coding tools every day.\n\nThey've been at it since 2020 and were profitable in 2025, with a 30% net margin. After building their own AI systems, they tripled monthly revenue with the same team size. Clients rate them 4.9 out of 5 in verified reviews, and the startups they build for have raised more than $25M in venture funding.\n\n### Your Role\n\nYou'll join the team building workflow software for one of the studio's clients: a live product that needs new workflow features while the existing ones keep running. The client's own engineers commit to the same repo, so every new table, permission and workflow goes in next to code someone else is changing. The weight is on the server side, from the SQL database on Azure up through the API, and you also build the React and TypeScript screens that sit on top.\n\nAI coding tools draft most of the specs, tests and migrations. You direct them, read every diff line by line, and answer for what merges. If you'd rather write most of the code by hand, this probably isn't the right seat.\n\nYou report to the studio's leadership and work day to day with the lead developer and the product manager, who sets the acceptance criteria for each sprint. Success means delivering four to five features per two-week sprint, each verified before merge, and owning one area end to end (such as the task engine or the legacy migration) without breaking a live feature.\n\n### You Bring\n\n- 4+ years building full-stack web applications and releasing them to production\n- Experience working in a codebase you didn't write, learning its conventions before changing it\n- Hands-on work on workflow software where different user roles see different data, with approvals, task queues or state machines and an audit log or versioned history\n- React, TypeScript and SQL on Azure, including schema design and migrations\n- Daily use of Cursor, Claude Code or a similar AI coding tool on production work, with tests and CI behind it\n- Clear written and spoken English\n- Experience delivering in fixed-scope sprints with branches, code review and feature flags\n\n### Bonus Points\n\n- Work in a regulated setting such as finance, health or insurance\n- A migration from a legacy system, with reconciliation and duplicate review\n- Time as an outside vendor committing to a client's repo\n- Project rules, custom prompts or agent setups for AI coding tools that your team adopted\n- Spanish, since the platform is bilingual\n\n### What's Offered\n\n- Fully remote contractor role from LATAM, full time at about 40 hours a week\n- Core hours in US time zones, so your day overlaps with the lead developer and the product manager\n- An area of the product to own end to end, with your schema designs reviewed by the lead developer and the client's engineers\n- A team where AI-first delivery is already the daily routine, with tests, CI and feature flags as part of the normal process\n- A start in early November\n\n### Interview Process\n\n1. Intro Call: 30 minutes with atomic HR on your background and goals\n2. Leadership Screening: A short call, possibly with an async part first\n3. Product and Developer Conversation: How you take features from acceptance criteria to merge\n4. Take-Home Test: One feature like the real scope, built and checked\n\nDisclaimer – Must read: Commitment & Focus\n\nThis role requires full-time dedication, with clear priority given to Darwoft projects during the established working hours. It is not compatible with other full-time professional engagements. Any additional professional activities must be disclosed in advance and must not interfere with the responsibilities or working hours required for this role.\n\n### About Darwoft\n\nDarwoft is a software factory delivering custom software solutions and IT staff augmentation services to international clients, primarily in the United States and Latin America. We partner with startups and scale-up companies to build high-impact digital products, combining technical excellence with a people-first culture built on long-term relationships and collaborative work.\n\n### Senior Fullstack Engineer (React/TypeScript/AI-Assisted Development) · LATAM\n\n- **Location:** Anywhere in LATAM\n- **Work Model:** 100% Remote\n- **Engagement:** Full-time Contractor\n- **Project:** FinTech · Customer Experience Operations Platform\n- **English Level:** Advanced\n- **Seniority:** Senior\n\n### Commitment & Focus\n\nThis role requires full-time dedication, with clear priority given to Darwoft projects during the established working hours. It is not compatible with other full-time professional engagements.\n\nAny additional professional activities must be disclosed in advance and must not interfere with the responsibilities, availability, or working hours required for this role.\n\n### Get to Know Darwoft\n\nAt Darwoft, we build digital products with heart.\n\nWe're a Latin American technology company focused on creating impactful, human-centered software in partnership with companies around the world. Our remote-first culture is built on trust, continuous learning, collaboration, and strong engineering standards.\n\nWe're passionate about technology, but even more about the people behind it. If you're looking for an environment where your ideas matter, experimentation is encouraged, and your impact is tangible, welcome to Darwoft.\n\n### About the Role\n\nWe're looking for a **Senior Fullstack Engineer with a strong frontend focus** to join a high-impact international FinTech project building an internal **Customer Experience Operations Platform** .\n\nThe platform provides the tools customer experience agents and supervisors rely on every day to manage **queues, assignments, conversations, agent availability, dashboards, metrics, and operational workflows** .\n\nYou’ll primarily design and ship agent-facing experiences using **React and TypeScript** , working within a modern, modular frontend architecture while collaborating closely with the backend services and APIs that power the platform.\n\nA key aspect of this opportunity is the way the team approaches software development.\n\nWe’re looking for engineers with an **agentic development mindset** : people who actively use **AI coding assistants, LLM agents, automation, and AI-assisted engineering workflows** to prototype faster, solve problems, generate and validate code, improve testing, accelerate debugging, and increase overall engineering productivity.\n\nThis is not simply about using AI autocomplete. We’re looking for engineers who are comfortable incorporating tools such as **Cursor, Claude Code, GitHub Copilot, coding agents, custom scripts, or AI-assisted specifications** into their day-to-day development process while maintaining strong engineering judgment and ownership.\n\nYou’ll work closely with Product, CX stakeholders, designers, and backend engineers to turn operational requirements into reliable, intuitive, and scalable user experiences.\n\n### What You’ll Be Doing\n\n- Design, develop, and maintain **React / TypeScript** features across CX domain modules, including operations tooling, agent presence, inbox workflows, queues, assignments, and internal applications.\n- Build and evolve reusable **UI components, forms, tables, filters, dashboards, and complex operational workflows** .\n- Work with technologies and patterns including **Tailwind CSS, Tremor, Radix/shadcn, and Storybook** .\n- Apply **AI-assisted and agentic software engineering practices** to accelerate prototyping, implementation, testing, refactoring, documentation, and debugging.\n- Experiment with AI coding agents and automated workflows to improve engineering productivity and development quality.\n- Build data-driven interfaces using **TanStack Query, React Router, react-hook-form, and Zod** .\n- Integrate frontend applications with **BFF and backend APIs** ."
+    },
+    {
+      "id": "full-stack-engineer-react-angular-apis-ux-spencer-scott-technology-recruitment-ybkrluzy",
+      "title": "Full-Stack Engineer — React/Angular, APIs & UX",
+      "company": "Spencer Scott - Technology Recruitment",
+      "company_slug": "spencer-scott-technology-recruitment",
+      "location": "Milton Keynes, United Kingdom",
+      "date": "2026-11-07",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__610031488__7082?utm_campaign=publisher&utm_medium=api&geoID=441&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [],
+      "description": "Spencer Scott Ltd is partnering with a well-established sports technology business to recruit multiple full stack software engineers. You will work across a range of digital products, contributing to front-end and back-end development using modern technologies and collaborating with experienced engineers.\n\nYou’ll be involved throughout the development lifecycle—from new features to testing, deployment and ongoing optimisation."
+    }
+  ]
+}

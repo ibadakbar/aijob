@@ -1,0 +1,33 @@
+﻿SpaceDev - Full Stack Web3 Developer
+Full Stack Web3 Developer
+Uruguay
+Welcome to one of Latin America's leading companies providing premium development services. We work with USA & Canada Clients, Global teams, Remote-First Culture, Innovative Web3 Projects. We are looking for an experienced Fullstack Web3 Developer to design, develop, and deploy end-to-end decentralized applications (dApps).
+
+Key Responsibilities:
+- Design, develop, and maintain both frontend and backend components of decentralized applications (dApps).
+- Develop, deploy, and test smart contracts on blockchain platforms like Ethereum, Binance Smart Chain, or Polygon.
+- Build user interfaces using modern frontend frameworks (e.g., React, Vue.js) with seamless Web3 integration.
+- Implement APIs and backend services to connect blockchain data with client-side applications.
+- Integrate and manage wallet connections (e.g., MetaMask, WalletConnect) and transaction handling.
+- Ensure high performance, scalability, and security of the application across the stack.
+- Collaborate with designers, developers, and product teams to deliver intuitive and user-friendly solutions.
+- Stay updated on the latest trends in Web3, blockchain protocols, and Full Stack development.
+
+Required Skills and Qualifications:
+- Proven experience as a Full Stack Developer, with hands-on exposure to Web3 technologies.
+- Proficiency in programming languages such as JavaScript/TypeScript, Node.js, Python, or Go.
+- Strong experience with modern frontend frameworks like React, Vue.js, or Angular.
+- Solid understanding of smart contracts, Solidity, and tools like Hardhat, Truffle, or Remix.
+- Familiarity with Web3 libraries (e.g., Web3.js, ethers.js) for blockchain interaction.
+- Experience with databases (e.g., PostgreSQL, MongoDB) and cloud platforms (e.g., AWS, GCP).
+- Knowledge of version control systems like Git and collaborative development workflows.
+- Strong problem-solving skills, attention to detail, and ability to work autonomously or in a team.
+
+Preferred Qualifications:
+- Experience with Layer 2 solutions and scaling strategies.
+- Familiarity with decentralized identity, DeFi, NFTs, or DAOs.
+- Experience with decentralized storage solutions like IPFS or Arweave.
+- Contributions to open-source Web3 projects.
+- Understanding of CI/CD pipelines and containerization (e.g., Docker, Kubernetes).
+
+Space Perks: 20 vacation days, Udemy, English classes, flexible culture, remote-first with offices in Montevideo, Medellín, Buenos Aires.

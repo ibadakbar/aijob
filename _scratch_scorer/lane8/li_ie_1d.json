@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4489602134",
+      "title": "Product Software Engineer - Frontend",
+      "company": "Brightflag",
+      "companyUrl": "https://www.linkedin.com/company/brightflag",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/product-software-engineer-frontend-at-brightflag-4489602134"
+    },
+    {
+      "id": "4488386292",
+      "title": "Product Software Engineer - Frontend (Brightflag)",
+      "company": "Wolters Kluwer",
+      "companyUrl": "https://nl.linkedin.com/company/wolters-kluwer",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/product-software-engineer-frontend-brightflag-at-wolters-kluwer-4488386292"
+    },
+    {
+      "id": "4487837315",
+      "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+      "company": "ServiceNow",
+      "companyUrl": "https://www.linkedin.com/company/servicenow",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/forward-deployed-solution-engineer-%E2%80%93-applied%E2%80%AFai-fde-at-servicenow-4487837315"
+    },
+    {
+      "id": "4488637689",
+      "title": "Fullstack Software Engineer (Remote)",
+      "company": "Joblet-AI",
+      "companyUrl": "https://www.linkedin.com/company/joblet-ai",
+      "location": "Ireland",
+      "date": "2026-11-11",
+      "url": "https://ie.linkedin.com/jobs/view/fullstack-software-engineer-remote-at-joblet-ai-4488637689"
+    },
+    {
+      "id": "4486060894",
+      "title": "Senior Software Engineer, Search & AI",
+      "company": "Muck Rack",
+      "companyUrl": "https://www.linkedin.com/company/muckrack",
+      "location": "Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/senior-software-engineer-search-ai-at-muck-rack-4486060894"
+    },
+    {
+      "id": "4462218343",
+      "title": "Senior Fullstack Engineer-Boards",
+      "company": "Zalando",
+      "companyUrl": "https://de.linkedin.com/company/zalando",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/senior-fullstack-engineer-boards-at-zalando-4462218343"
+    },
+    {
+      "id": "4481722680",
+      "title": "Software Engineer - App Development",
+      "company": "Cisco",
+      "companyUrl": "https://www.linkedin.com/company/cisco",
+      "location": "Galway, County Galway, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-app-development-at-cisco-4481722680"
+    },
+    {
+      "id": "4489458973",
+      "title": "Senior Software Engineer - Digital Workplace",
+      "company": "Canonical",
+      "companyUrl": "https://uk.linkedin.com/company/canonical",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/senior-software-engineer-digital-workplace-at-canonical-4489458973"
+    }
+  ]
+}

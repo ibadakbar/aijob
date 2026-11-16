@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4488170356",
+      "title": "Senior Software Engineer (TypeScript, Next.js / Node.js) (m/f/x)",
+      "company": "Atolls",
+      "companyUrl": "https://de.linkedin.com/company/atolls",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-typescript-next-js-node-js-m-f-x-at-atolls-4488170356"
+    },
+    {
+      "id": "4487923252",
+      "title": "(Junior) Frontend Engineer — Broker (m/f/x)",
+      "company": "Scalable Capital",
+      "companyUrl": "https://de.linkedin.com/company/scalable-capital",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/junior-frontend-engineer-%E2%80%94-broker-m-f-x-at-scalable-capital-4487923252"
+    },
+    {
+      "id": "4488164592",
+      "title": "Senior Software Engineer (TypeScript, Next.js / Node.js) (m/f/x)",
+      "company": "Atolls",
+      "companyUrl": "https://de.linkedin.com/company/atolls",
+      "location": "Berlin, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-typescript-next-js-node-js-m-f-x-at-atolls-4488164592"
+    },
+    {
+      "id": "4488305147",
+      "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-10",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-typescript-frontend-ai-ml-at-clickhouse-4488305147"
+    },
+    {
+      "id": "4479716119",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479716119"
+    },
+    {
+      "id": "4484683520",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "companyUrl": "https://www.linkedin.com/company/kake",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4484683520"
+    },
+    {
+      "id": "4479598989",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479598989"
+    },
+    {
+      "id": "4480357520",
+      "title": "Lead Engineer",
+      "company": "CoachHub - The digital coaching platform",
+      "companyUrl": "https://de.linkedin.com/company/coachhub",
+      "location": "Germany",
+      "date": "2026-11-07",
+      "url": "https://de.linkedin.com/jobs/view/lead-engineer-at-coachhub-the-digital-coaching-platform-4480357520"
+    }
+  ]
+}

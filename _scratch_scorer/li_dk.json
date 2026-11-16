@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4433302353",
+      "title": "Fullstack Software Engineer – Kommende Projekter",
+      "company": "Etteplan",
+      "companyUrl": "https://fi.linkedin.com/company/etteplan-group",
+      "location": "Herlev, Capital Region of Denmark, Denmark",
+      "date": "2026-11-01",
+      "url": "https://dk.linkedin.com/jobs/view/fullstack-software-engineer-%E2%80%93-kommende-projekter-at-etteplan-4433302353"
+    },
+    {
+      "id": "4476676531",
+      "title": "Software Engineer, GenAI Tech Enablement",
+      "company": "the LEGO Group",
+      "companyUrl": "https://dk.linkedin.com/company/lego-group",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-04",
+      "url": "https://dk.linkedin.com/jobs/view/software-engineer-genai-tech-enablement-at-the-lego-group-4476676531"
+    },
+    {
+      "id": "4486086094",
+      "title": "Student Worker - Software Development",
+      "company": "Siemens Energy",
+      "companyUrl": "https://www.linkedin.com/company/siemens-energy",
+      "location": "Ballerup, Capital Region of Denmark, Denmark",
+      "date": "2026-11-03",
+      "url": "https://dk.linkedin.com/jobs/view/student-worker-software-development-at-siemens-energy-4486086094"
+    },
+    {
+      "id": "4484399009",
+      "title": "Senior Full Stack Engineer, Front-end Focus - Growth",
+      "company": "ZOE",
+      "companyUrl": "https://uk.linkedin.com/company/joinzoe",
+      "location": "Denmark",
+      "date": "2026-11-02",
+      "url": "https://dk.linkedin.com/jobs/view/senior-full-stack-engineer-front-end-focus-growth-at-zoe-4484399009"
+    },
+    {
+      "id": "4488456790",
+      "title": "Software Engineer - QuantumBlack, AI by McKinsey",
+      "company": "QuantumBlack, AI by McKinsey",
+      "companyUrl": "https://uk.linkedin.com/company/quantumblack",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-07",
+      "url": "https://dk.linkedin.com/jobs/view/software-engineer-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4488456790"
+    },
+    {
+      "id": "4487040153",
+      "title": "Fullstack-udvikler til IDA",
+      "company": "EUROPEAN SEARCH COMPANY",
+      "companyUrl": "https://dk.linkedin.com/company/europeansearchcompany",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-03",
+      "url": "https://dk.linkedin.com/jobs/view/fullstack-udvikler-til-ida-at-european-search-company-4487040153"
+    },
+    {
+      "id": "4487291287",
+      "title": "Full Stack Engineer",
+      "company": "e-conomic",
+      "companyUrl": "https://dk.linkedin.com/company/e-conomic",
+      "location": "Copenhagen Metropolitan Area",
+      "date": "2026-11-04",
+      "url": "https://dk.linkedin.com/jobs/view/full-stack-engineer-at-e-conomic-4487291287"
+    },
+    {
+      "id": "4465690782",
+      "title": "Lead Frontend Engineer (m/f) – React & TypeScript | Frontend Architecture for Cloud SaaS Solution",
+      "company": "RIB Software",
+      "companyUrl": "https://de.linkedin.com/company/rib-software",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "date": "2026-11-04",
+      "url": "https://dk.linkedin.com/jobs/view/lead-frontend-engineer-m-f-%E2%80%93-react-typescript-frontend-architecture-for-cloud-saas-solution-at-rib-software-4465690782"
+    },
+    {
+      "id": "4330236803",
+      "title": "Engineering Internship",
+      "company": "Shure Nordic",
+      "companyUrl": "https://dk.linkedin.com/company/shurenordic",
+      "location": "Copenhagen Metropolitan Area",
+      "date": "2026-11-02",
+      "url": "https://dk.linkedin.com/jobs/view/engineering-internship-at-shure-nordic-4330236803"
+    },
+    {
+      "id": "4485030631",
+      "title": "Full Stack Developer – Modern Backend & Frontend",
+      "company": "Twoday",
+      "companyUrl": "https://www.linkedin.com/company/twoday",
+      "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
+      "date": "2026-11-04",
+      "url": "https://dk.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-modern-backend-frontend-at-twoday-4485030631"
+    }
+  ]
+}

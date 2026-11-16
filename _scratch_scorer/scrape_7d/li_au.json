@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4463184609",
+      "title": "Lead Developer",
+      "company": "PwC Australia",
+      "companyUrl": "https://au.linkedin.com/company/pwc-australia",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/lead-developer-at-pwc-australia-4463184609"
+    },
+    {
+      "id": "4487671501",
+      "title": "Principal Forward Deployed Engineer",
+      "company": "V2 AI",
+      "companyUrl": "https://au.linkedin.com/company/v2ai",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/principal-forward-deployed-engineer-at-v2-ai-4487671501"
+    },
+    {
+      "id": "4487656743",
+      "title": "Principal Forward Deployed Engineer",
+      "company": "V2 AI",
+      "companyUrl": "https://au.linkedin.com/company/v2ai",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/principal-forward-deployed-engineer-at-v2-ai-4487656743"
+    },
+    {
+      "id": "4478249166",
+      "title": "Manager - Full Stack Engineer - Technology Consulting",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/manager-full-stack-engineer-technology-consulting-at-ey-4478249166"
+    },
+    {
+      "id": "4486541604",
+      "title": "Founding Full-Stack Engineer (AI & Product) | Equity Partner",
+      "company": "Hospo AI",
+      "companyUrl": "https://au.linkedin.com/company/hospoai",
+      "location": "Greater Sydney Area",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/founding-full-stack-engineer-ai-product-equity-partner-at-hospo-ai-4486541604"
+    },
+    {
+      "id": "4488832424",
+      "title": "Senior Software Engineer",
+      "company": "Change Recruitment",
+      "companyUrl": "https://au.linkedin.com/company/change-recruitment",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-at-change-recruitment-4488832424"
+    },
+    {
+      "id": "4487996897",
+      "title": "Software Engineers (Founding Team)",
+      "company": "TheDriveGroup",
+      "companyUrl": "https://au.linkedin.com/company/thedrivegroup",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/software-engineers-founding-team-at-thedrivegroup-4487996897"
+    },
+    {
+      "id": "4487671615",
+      "title": "Senior Principal - Software Engineering - Sydney/Melbourne/Canberra/Brisbane",
+      "company": "Slalom",
+      "companyUrl": "https://www.linkedin.com/company/slalom-consulting",
+      "location": "Brisbane, Queensland, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/senior-principal-software-engineering-sydney-melbourne-canberra-brisbane-at-slalom-4487671615"
+    },
+    {
+      "id": "4486571488",
+      "title": "Senior Software Engineer I",
+      "company": "Eucalyptus",
+      "companyUrl": "https://au.linkedin.com/company/eucalyptusvc",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-i-at-eucalyptus-4486571488"
+    },
+    {
+      "id": "4488842057",
+      "title": "Software Engineer",
+      "company": "Change Recruitment",
+      "companyUrl": "https://au.linkedin.com/company/change-recruitment",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-at-change-recruitment-4488842057"
+    }
+  ]
+}

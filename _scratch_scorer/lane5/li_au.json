@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4488627847",
+      "title": "Lead React Developer",
+      "company": "Talent",
+      "companyUrl": "https://au.linkedin.com/company/talent-international",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/lead-react-developer-at-talent-4488627847"
+    },
+    {
+      "id": "4488819198",
+      "title": "Senior CMS Front End Designer & Developer",
+      "company": "Peoplebank",
+      "companyUrl": "https://au.linkedin.com/company/peoplebank",
+      "location": "Canberra, Australian Capital Territory, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/senior-cms-front-end-designer-developer-at-peoplebank-4488819198"
+    },
+    {
+      "id": "4486632750",
+      "title": "Frontend Engineer (Remote | $70–$100/hr)",
+      "company": "Synthires",
+      "companyUrl": "https://in.linkedin.com/company/synthires",
+      "location": "Australia",
+      "date": "2026-11-07",
+      "url": "https://au.linkedin.com/jobs/view/frontend-engineer-remote-%2470%E2%80%93%24100-hr-at-synthires-4486632750"
+    },
+    {
+      "id": "4486632759",
+      "title": "Frontend Software Engineer (Remote | $70–$100/hr)",
+      "company": "Synthires",
+      "companyUrl": "https://in.linkedin.com/company/synthires",
+      "location": "Australia",
+      "date": "2026-11-07",
+      "url": "https://au.linkedin.com/jobs/view/frontend-software-engineer-remote-%2470%E2%80%93%24100-hr-at-synthires-4486632759"
+    },
+    {
+      "id": "4489422685",
+      "title": "Principal React Developer",
+      "company": "Hays",
+      "companyUrl": "https://uk.linkedin.com/company/hays",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/principal-react-developer-at-hays-4489422685"
+    },
+    {
+      "id": "4488835242",
+      "title": "Senior Software Engineer - FTC",
+      "company": "Sportsbet",
+      "companyUrl": "https://au.linkedin.com/company/sportsbet",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-ftc-at-sportsbet-4488835242"
+    },
+    {
+      "id": "4487301312",
+      "title": "Frontend Engineer | Remote",
+      "company": "Crossing Hurdles",
+      "companyUrl": "https://www.linkedin.com/company/crossinghurdles",
+      "location": "Australia",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4487301312"
+    },
+    {
+      "id": "4488832482",
+      "title": "Frontend Developer",
+      "company": "Emanate Technology",
+      "companyUrl": "https://au.linkedin.com/company/emanate-technology-pty-ltd",
+      "location": "Canberra, Australian Capital Territory, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/frontend-developer-at-emanate-technology-4488832482"
+    },
+    {
+      "id": "4489400590",
+      "title": "Frontend TypeScript Engineer (AI Training)",
+      "company": "Alignerr",
+      "companyUrl": "https://www.linkedin.com/company/alignerr",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/frontend-typescript-engineer-ai-training-at-alignerr-4489400590"
+    },
+    {
+      "id": "4487874361",
+      "title": "React Developer- Native",
+      "company": "Renaissance InfoSystems",
+      "companyUrl": "https://au.linkedin.com/company/renaissance-infosystems",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-11",
+      "url": "https://au.linkedin.com/jobs/view/react-developer-native-at-renaissance-infosystems-4487874361"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4479598989",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479598989"
+    },
+    {
+      "id": "4470178923",
+      "title": "Principal Frontend Engineer - ZEOS Portal (all genders)",
+      "company": "Zalando",
+      "companyUrl": "https://de.linkedin.com/company/zalando",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-07",
+      "url": "https://de.linkedin.com/jobs/view/principal-frontend-engineer-zeos-portal-all-genders-at-zalando-4470178923"
+    },
+    {
+      "id": "4488164592",
+      "title": "Senior Software Engineer (TypeScript, Next.js / Node.js) (m/f/x)",
+      "company": "Atolls",
+      "companyUrl": "https://de.linkedin.com/company/atolls",
+      "location": "Berlin, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-typescript-next-js-node-js-m-f-x-at-atolls-4488164592"
+    },
+    {
+      "id": "4476669423",
+      "title": "Full Stack Engineer Kotlin & React (Maternity Cover) / Lounge by Zalando (all genders)",
+      "company": "Zalando",
+      "companyUrl": "https://de.linkedin.com/company/zalando",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-engineer-kotlin-react-maternity-cover-lounge-by-zalando-all-genders-at-zalando-4476669423"
+    },
+    {
+      "id": "4485847733",
+      "title": "Senior Fullstack Entwickler - AI & Digital Platforms (m/w/d)",
+      "company": "SCHWAPe Holding AG",
+      "companyUrl": "https://ch.linkedin.com/company/schwape-group",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/senior-fullstack-entwickler-ai-digital-platforms-m-w-d-at-schwape-holding-ag-4485847733"
+    },
+    {
+      "id": "4488821940",
+      "title": "Full-Stack-Developer (w/m/d)",
+      "company": "Autohaus Royal GmbH",
+      "companyUrl": "https://de.linkedin.com/company/autohaus-royal-gmbh",
+      "location": "Berlin, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-developer-w-m-d-at-autohaus-royal-gmbh-4488821940"
+    },
+    {
+      "id": "4485854340",
+      "title": "Senior Full Stack & AI Engineer (m/w/d)",
+      "company": "Overfly",
+      "companyUrl": "https://de.linkedin.com/company/overfly",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-ai-engineer-m-w-d-at-overfly-4485854340"
+    },
+    {
+      "id": "4486361178",
+      "title": "Full-Stack & AI Engineer",
+      "company": "NOW GmbH",
+      "companyUrl": "https://de.linkedin.com/company/now-gmbh",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-ai-engineer-at-now-gmbh-4486361178"
+    },
+    {
+      "id": "4488007729",
+      "title": "Software Engineer",
+      "company": "Planet",
+      "companyUrl": "https://www.linkedin.com/company/planet-labs",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-at-planet-4488007729"
+    },
+    {
+      "id": "4479059846",
+      "title": "Junior Engineer (Typescript / Python / DevOps / AI)",
+      "company": "Almedia",
+      "companyUrl": "https://de.linkedin.com/company/almediaco",
+      "location": "Berlin, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/junior-engineer-typescript-python-devops-ai-at-almedia-4479059846"
+    }
+  ]
+}

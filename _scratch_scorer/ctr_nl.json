@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485824245",
+      "title": "Senior Full Stack Developer (TypeScript / React / Node.js)",
+      "company": "Russell Tobin",
+      "companyUrl": "https://www.linkedin.com/company/russell-tobin-&-associates-llc",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-developer-typescript-react-node-js-at-russell-tobin-4485824245"
+    },
+    {
+      "id": "4485080060",
+      "title": "Senior Front-end Developer (React/Vue & Design Systems) (Secondment)",
+      "company": "Morgan Black",
+      "companyUrl": "https://nl.linkedin.com/company/morgan-black",
+      "location": "South Holland, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/senior-front-end-developer-react-vue-design-systems-secondment-at-morgan-black-4485080060"
+    },
+    {
+      "id": "4485538338",
+      "title": "Full Stack Engineer",
+      "company": "Russell Tobin",
+      "companyUrl": "https://www.linkedin.com/company/russell-tobin-&-associates-llc",
+      "location": "North Holland, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-russell-tobin-4485538338"
+    },
+    {
+      "id": "4486961881",
+      "title": "Fullstack Engineer (DRWN)",
+      "company": "Darwin Engineering",
+      "companyUrl": "https://uk.linkedin.com/company/darwin-engineering-1",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-06",
+      "url": "https://nl.linkedin.com/jobs/view/fullstack-engineer-drwn-at-darwin-engineering-4486961881"
+    },
+    {
+      "id": "4485806485",
+      "title": "Fullstack Developer - Tijdelijk/ZZP",
+      "company": "Independent Recruiters",
+      "companyUrl": "https://nl.linkedin.com/company/independent-recruiters",
+      "location": "Schiphol-Rijk, North Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/fullstack-developer-tijdelijk-zzp-at-independent-recruiters-4485806485"
+    },
+    {
+      "id": "4487195934",
+      "title": "Full Stack Developer",
+      "company": "All About Work",
+      "companyUrl": "https://nl.linkedin.com/company/allaboutwork",
+      "location": "Schiphol, North Holland, Netherlands",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-developer-at-all-about-work-4487195934"
+    },
+    {
+      "id": "4489193706",
+      "title": "Frontend TypeScript Engineer (AI Training)",
+      "company": "Alignerr",
+      "companyUrl": "https://www.linkedin.com/company/alignerr",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-10",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-typescript-engineer-ai-training-at-alignerr-4489193706"
+    },
+    {
+      "id": "4480358704",
+      "title": "Fullstack Engineer",
+      "company": "ANWB",
+      "companyUrl": "https://nl.linkedin.com/company/anwb",
+      "location": "The Hague, South Holland, Netherlands",
+      "date": "2026-11-06",
+      "url": "https://nl.linkedin.com/jobs/view/fullstack-engineer-at-anwb-4480358704"
+    },
+    {
+      "id": "4481552471",
+      "title": "Senior Pega Front-end Developer | ReactJS, Constellation & DX API | Dutch Speaker",
+      "company": "Acquism SARL",
+      "companyUrl": "https://ch.linkedin.com/company/acquism-sarl",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-06",
+      "url": "https://nl.linkedin.com/jobs/view/senior-pega-front-end-developer-reactjs-constellation-dx-api-dutch-speaker-at-acquism-sarl-4481552471"
+    },
+    {
+      "id": "4089171471",
+      "title": "Freelancing at DEPT®",
+      "company": "DEPT®",
+      "companyUrl": "https://nl.linkedin.com/company/dept.global",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/freelancing-at-dept%C2%AE-at-dept%C2%AE-4089171471"
+    }
+  ]
+}

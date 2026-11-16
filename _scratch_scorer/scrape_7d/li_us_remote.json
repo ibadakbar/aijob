@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4472335036",
+      "title": "Senior Frontend Engineer (Voice AI startup)",
+      "company": "Jack",
+      "companyUrl": "https://www.linkedin.com/company/searchwithjack",
+      "location": "Redwood City, CA",
+      "date": "2026-11-09",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-voice-ai-startup-at-jack-4472335036"
+    },
+    {
+      "id": "4487784105",
+      "title": "Full Stack Engineer",
+      "company": "Protech Talent",
+      "companyUrl": "https://uk.linkedin.com/company/protech-talent",
+      "location": "New York City Metropolitan Area",
+      "date": "2026-11-05",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-protech-talent-4487784105"
+    },
+    {
+      "id": "4486378647",
+      "title": "Senior React.js / Next.js Developer | Retail / E-commerce",
+      "company": "Commergence",
+      "companyUrl": "https://in.linkedin.com/company/commergence",
+      "location": "San Ramon, CA",
+      "date": "2026-11-04",
+      "url": "https://www.linkedin.com/jobs/view/senior-react-js-next-js-developer-retail-e-commerce-at-commergence-4486378647"
+    },
+    {
+      "id": "4488419445",
+      "title": "Forward Deployed Engineer",
+      "company": "Talently",
+      "companyUrl": "https://www.linkedin.com/school/talentlytech/",
+      "location": "New York, NY",
+      "date": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-talently-4488419445"
+    },
+    {
+      "id": "4463670549",
+      "title": "Senior Frontend Engineer - Streaming",
+      "company": "Verkada",
+      "companyUrl": "https://www.linkedin.com/company/verkada",
+      "location": "San Mateo, CA",
+      "date": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-streaming-at-verkada-4463670549"
+    },
+    {
+      "id": "4487534373",
+      "title": "Software Engineer",
+      "company": "Loud Solutions",
+      "companyUrl": "https://www.linkedin.com/company/loud-solutions",
+      "location": "San Francisco, CA",
+      "date": "2026-11-04",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-loud-solutions-4487534373"
+    },
+    {
+      "id": "4489458064",
+      "title": "Staff Full-Stack Engineer (Director IC) - Partner Experience",
+      "company": "Capital One",
+      "companyUrl": "https://www.linkedin.com/company/capital-one",
+      "location": "Chicago, IL",
+      "date": "2026-11-10",
+      "url": "https://www.linkedin.com/jobs/view/staff-full-stack-engineer-director-ic-partner-experience-at-capital-one-4489458064"
+    },
+    {
+      "id": "4476315883",
+      "title": "Staff Software Engineer",
+      "company": "Talent Stack",
+      "companyUrl": "https://www.linkedin.com/company/talentstackrecruit",
+      "location": "San Francisco, CA",
+      "date": "2026-11-04",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-talent-stack-4476315883"
+    },
+    {
+      "id": "4489445478",
+      "title": "Staff Full-Stack Engineer (Director IC) - Partner Experience",
+      "company": "Capital One",
+      "companyUrl": "https://www.linkedin.com/company/capital-one",
+      "location": "Plano, TX",
+      "date": "2026-11-10",
+      "url": "https://www.linkedin.com/jobs/view/staff-full-stack-engineer-director-ic-partner-experience-at-capital-one-4489445478"
+    },
+    {
+      "id": "4485733482",
+      "title": "Software Engineer",
+      "company": "Jack",
+      "companyUrl": "https://www.linkedin.com/company/searchwithjack",
+      "location": "New York City Metropolitan Area",
+      "date": "2026-11-09",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jack-4485733482"
+    }
+  ]
+}

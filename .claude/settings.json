@@ -26,7 +26,12 @@
       "Bash(python tools/fetch_page.py:*)",
       "Bash(python3 tools/fetch_page.py:*)",
       "Bash(python tools/posting_guard.py:*)",
-      "Bash(python3 tools/posting_guard.py:*)"
+      "Bash(python3 tools/posting_guard.py:*)",
+      "Bash(python tools/visa_discover.py:*)",
+      "Bash(python3 tools/visa_discover.py:*)",
+      "Bash(python tools/leads_cli.py:*)",
+      "Bash(python3 tools/leads_cli.py:*)",
+      "Skill(lead-engine)"
     ],
     "ask": [
       "Edit(.claude/settings.json)",

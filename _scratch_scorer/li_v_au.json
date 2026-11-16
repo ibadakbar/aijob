@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486563290",
+      "title": "Frontend Developer - Next.js",
+      "company": "Kaizen Global Technologies",
+      "companyUrl": "https://au.linkedin.com/company/kaizen-global-technologies",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/frontend-developer-next-js-at-kaizen-global-technologies-4486563290"
+    },
+    {
+      "id": "4463184609",
+      "title": "Lead Developer",
+      "company": "PwC Australia",
+      "companyUrl": "https://au.linkedin.com/company/pwc-australia",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/lead-developer-at-pwc-australia-4463184609"
+    },
+    {
+      "id": "4489422685",
+      "title": "Principal React Developer",
+      "company": "Hays",
+      "companyUrl": "https://uk.linkedin.com/company/hays",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/principal-react-developer-at-hays-4489422685"
+    },
+    {
+      "id": "4484168071",
+      "title": "Software Engineer – Frontend",
+      "company": "Kaizen Global Technologies",
+      "companyUrl": "https://au.linkedin.com/company/kaizen-global-technologies",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-%E2%80%93-frontend-at-kaizen-global-technologies-4484168071"
+    },
+    {
+      "id": "4484835142",
+      "title": "Senior Front End Engineer",
+      "company": "Ignition Advice",
+      "companyUrl": "https://au.linkedin.com/company/ignitionadvice",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-10-30",
+      "url": "https://au.linkedin.com/jobs/view/senior-front-end-engineer-at-ignition-advice-4484835142"
+    },
+    {
+      "id": "4485272008",
+      "title": "Full Stack Engineer - Country Road Group (Fixed Term)",
+      "company": "Country Road Group",
+      "companyUrl": "https://au.linkedin.com/company/countryroadgroup",
+      "location": "Cremorne, Victoria, Australia",
+      "date": "2026-10-29",
+      "url": "https://au.linkedin.com/jobs/view/full-stack-engineer-country-road-group-fixed-term-at-country-road-group-4485272008"
+    },
+    {
+      "id": "4486541604",
+      "title": "Founding Full-Stack Engineer (AI & Product) | Equity Partner",
+      "company": "Hospo AI",
+      "companyUrl": "https://au.linkedin.com/company/hospoai",
+      "location": "Greater Sydney Area",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/founding-full-stack-engineer-ai-product-equity-partner-at-hospo-ai-4486541604"
+    },
+    {
+      "id": "4487671501",
+      "title": "Principal Forward Deployed Engineer",
+      "company": "V2 AI",
+      "companyUrl": "https://au.linkedin.com/company/v2ai",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/principal-forward-deployed-engineer-at-v2-ai-4487671501"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4487661302",
+      "title": "Full Stack Engineer",
+      "company": "Talent",
+      "companyUrl": "https://au.linkedin.com/company/talent-international",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-08",
+      "url": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-talent-4487661302"
+    },
+    {
+      "id": "4484168071",
+      "title": "Software Engineer – Frontend",
+      "company": "Kaizen Global Technologies",
+      "companyUrl": "https://au.linkedin.com/company/kaizen-global-technologies",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-%E2%80%93-frontend-at-kaizen-global-technologies-4484168071"
+    },
+    {
+      "id": "4489400590",
+      "title": "Frontend TypeScript Engineer (AI Training)",
+      "company": "Alignerr",
+      "companyUrl": "https://www.linkedin.com/company/alignerr",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-10",
+      "url": "https://au.linkedin.com/jobs/view/frontend-typescript-engineer-ai-training-at-alignerr-4489400590"
+    },
+    {
+      "id": "4487107778",
+      "title": "Senior Application Developer FullStack",
+      "company": "NSW Department of Communities and Justice",
+      "companyUrl": "https://au.linkedin.com/company/nsw-department-of-communities-and-justice",
+      "location": "Parramatta, New South Wales, Australia",
+      "date": "2026-11-08",
+      "url": "https://au.linkedin.com/jobs/view/senior-application-developer-fullstack-at-nsw-department-of-communities-and-justice-4487107778"
+    },
+    {
+      "id": "4486563290",
+      "title": "Frontend Developer - Next.js",
+      "company": "Kaizen Global Technologies",
+      "companyUrl": "https://au.linkedin.com/company/kaizen-global-technologies",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/frontend-developer-next-js-at-kaizen-global-technologies-4486563290"
+    },
+    {
+      "id": "4485813318",
+      "title": "Full Stack Engineer",
+      "company": "Ad Astra Consultants",
+      "companyUrl": "https://sg.linkedin.com/company/ad-astra-consultants-singapore",
+      "location": "Greater Sydney Area",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-ad-astra-consultants-4485813318"
+    },
+    {
+      "id": "4486541604",
+      "title": "Founding Full-Stack Engineer (AI & Product) | Equity Partner",
+      "company": "Hospo AI",
+      "companyUrl": "https://au.linkedin.com/company/hospoai",
+      "location": "Greater Sydney Area",
+      "date": "2026-11-06",
+      "url": "https://au.linkedin.com/jobs/view/founding-full-stack-engineer-ai-product-equity-partner-at-hospo-ai-4486541604"
+    },
+    {
+      "id": "4487564671",
+      "title": "Front full stack Engineer",
+      "company": "Zone IT Solutions",
+      "companyUrl": "https://au.linkedin.com/company/zoneitsolutions",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-04",
+      "url": "https://au.linkedin.com/jobs/view/front-full-stack-engineer-at-zone-it-solutions-4487564671"
+    },
+    {
+      "id": "4486519537",
+      "title": "Frontend Software Engineer, TikTok LIVE - Australia",
+      "company": "TikTok",
+      "companyUrl": "https://www.linkedin.com/company/tiktok",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-04",
+      "url": "https://au.linkedin.com/jobs/view/frontend-software-engineer-tiktok-live-australia-at-tiktok-4486519537"
+    },
+    {
+      "id": "4487966526",
+      "title": "Senior Software Engineer",
+      "company": "Jamesons Strata Management",
+      "companyUrl": "https://au.linkedin.com/company/jamesons-strata-management",
+      "location": "Surry Hills, New South Wales, Australia",
+      "date": "2026-11-09",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-at-jamesons-strata-management-4487966526"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4476669423",
+      "title": "Full Stack Engineer Kotlin & React (Maternity Cover) / Lounge by Zalando (all genders)",
+      "company": "Zalando",
+      "companyUrl": "https://de.linkedin.com/company/zalando",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-engineer-kotlin-react-maternity-cover-lounge-by-zalando-all-genders-at-zalando-4476669423"
+    },
+    {
+      "id": "4488007729",
+      "title": "Software Engineer",
+      "company": "Planet",
+      "companyUrl": "https://www.linkedin.com/company/planet-labs",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-at-planet-4488007729"
+    },
+    {
+      "id": "4486361178",
+      "title": "Full-Stack & AI Engineer",
+      "company": "NOW GmbH",
+      "companyUrl": "https://de.linkedin.com/company/now-gmbh",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-ai-engineer-at-now-gmbh-4486361178"
+    },
+    {
+      "id": "4489195664",
+      "title": "Frontend TypeScript Engineer (AI Training)",
+      "company": "Alignerr",
+      "companyUrl": "https://www.linkedin.com/company/alignerr",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-10",
+      "url": "https://de.linkedin.com/jobs/view/frontend-typescript-engineer-ai-training-at-alignerr-4489195664"
+    },
+    {
+      "id": "4479598989",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479598989"
+    },
+    {
+      "id": "4459560178",
+      "title": "Deutsche Bank Internship (f/m/x) in Technology, Data & Innovation 2027 - Berlin",
+      "company": "Deutsche Bank",
+      "companyUrl": "https://de.linkedin.com/company/deutsche-bank",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/deutsche-bank-internship-f-m-x-in-technology-data-innovation-2027-berlin-at-deutsche-bank-4459560178"
+    },
+    {
+      "id": "4478539647",
+      "title": "INTERIM QA und UAT Test Analyst (gn)",
+      "company": "Michael Page",
+      "companyUrl": "https://uk.linkedin.com/company/michael-page",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/interim-qa-und-uat-test-analyst-gn-at-michael-page-4478539647"
+    },
+    {
+      "id": "4479059846",
+      "title": "Junior Engineer (Typescript / Python / DevOps / AI)",
+      "company": "Almedia",
+      "companyUrl": "https://de.linkedin.com/company/almediaco",
+      "location": "Berlin, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/junior-engineer-typescript-python-devops-ai-at-almedia-4479059846"
+    },
+    {
+      "id": "4484659345",
+      "title": "Forward Deployed Engineer",
+      "company": "Xcede",
+      "companyUrl": "https://uk.linkedin.com/company/xcede",
+      "location": "Berlin, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/forward-deployed-engineer-at-xcede-4484659345"
+    },
+    {
+      "id": "4486070220",
+      "title": "Studentische Hilfskraft / Werkstudent:in Software-Entwicklung - Web, Metaverse und KI",
+      "company": "Fraunhofer FOKUS",
+      "companyUrl": "https://de.linkedin.com/company/fraunhoferfokus",
+      "location": "Berlin, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/studentische-hilfskraft-werkstudent-in-software-entwicklung-web-metaverse-und-ki-at-fraunhofer-fokus-4486070220"
+    }
+  ]
+}

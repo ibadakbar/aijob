@@ -1,10 +1,12 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Ibad Akbar — full-stack / React / SaaS; DE / SA / CH / Europe / AU / NZ / PK + visa/relocation -->
+<!-- SETUP: Ibad Akbar — full-stack / React / SaaS; visa/relocation markets below -->
 
 ## Installed portal CLIs (primary for `/scrape`)
 
-`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Enabled by default for this profile: `linkedin-search` and `freehire-search`. Danish demos (Jobindex, Jobbank, Jobdanmark, Jobnet) stay **disabled** (not the target market).
+`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Enabled by default for this profile: `linkedin-search` and `freehire-search`. Danish demos (Jobindex, Jobbank, Jobdanmark, Jobnet) stay **disabled** as HTML scrapers — Denmark is still a **target geography** via LinkedIn, freehire, and `tools/visa_discover.py` (Arbeitnow / ATS boards).
+
+Also run **`python tools/visa_discover.py`** (Step 1d) for Arbeitnow visa-filtered jobs + curated Greenhouse/Ashby/Lever boards. Source research: `visa-sources.md`.
 
 The `site:` query templates below are the **WebSearch fallback**.
 
@@ -13,8 +15,9 @@ The `site:` query templates below are the **WebSearch fallback**.
 ## Search Sites
 
 Primary:
-- **linkedin.com/jobs** — covered by `linkedin-search` CLI; run with location filters for Germany, Saudi Arabia, Switzerland, Europe hubs, Australia, New Zealand, Pakistan, and Remote
-- **freehire.me** — covered by `freehire-search` CLI (tech/SaaS aggregations; filter by country when supported)
+- **linkedin.com/jobs** — `linkedin-search` CLI; location filters for the target geography checklist below + Remote
+- **freehire.me** — `freehire-search` CLI (tech/SaaS; `--country` when supported)
+- **visa discovery engine** — Arbeitnow (`visa_sponsorship=true`) + curated ATS boards in `job_scraper/boards.json`
 
 Secondary (WebSearch fallback):
 - Direct Google `site:` searches for target titles + geography + sponsorship keywords
@@ -38,11 +41,15 @@ When present, call out strongly:
 
 ### Priority 1: Full-stack / SaaS + target geos / sponsorship
 
+Prefer **last 7 days** on sponsorship-focused `/scrape` runs. Always run `visa_discover` alongside LinkedIn/freehire. Drop hits that say US-citizen-only, local rights already required, or German/Dutch as required working language.
+
 ```
-site:linkedin.com/jobs "Full Stack" (React OR Next.js OR TypeScript) ("visa sponsorship" OR "relocation") (Germany OR Switzerland OR Europe OR Australia OR "New Zealand" OR "Saudi Arabia" OR Pakistan)
-site:linkedin.com/jobs "Full Stack Engineer" TypeScript SaaS (Germany OR Switzerland OR Australia OR remote)
-site:linkedin.com/jobs "Software Engineer" "Next.js" ("visa sponsorship" OR relocation) (Germany OR Switzerland OR Australia OR "New Zealand")
-site:linkedin.com/jobs "Full Stack Developer" React ("Saudi Arabia" OR Riyadh OR Jeddah) (visa OR relocation OR Iqama)
+site:linkedin.com/jobs "Full Stack" (React OR Next.js OR TypeScript) ("visa sponsorship" OR "Will sponsor" OR "relocation") (Germany OR Netherlands OR "United Kingdom" OR Ireland OR Australia OR Canada OR UAE OR remote)
+site:linkedin.com/jobs "Full Stack Engineer" TypeScript SaaS (Germany OR Netherlands OR "United Kingdom" OR Australia OR Canada OR remote)
+site:linkedin.com/jobs "Software Engineer" "Next.js" ("visa sponsorship" OR relocation OR "work permit") (Germany OR Netherlands OR Ireland OR Australia OR "United Kingdom")
+site:linkedin.com/jobs "Full Stack Developer" React (Dubai OR UAE OR Abu Dhabi) (visa OR relocation OR "work permit")
+site:linkedin.com/jobs "Senior Software Engineer" React ("visa sponsorship" OR "Skilled Worker" OR "Blue Card" OR relocation) (Germany OR "United Kingdom" OR Netherlands OR Ireland)
+site:linkedin.com/jobs "React" OR "Next.js" ("remote" AND ("worldwide" OR "international" OR "anywhere")) TypeScript (posted last week)
 ```
 
 ### Priority 2: Frontend / React / Next.js by market
@@ -80,7 +87,7 @@ When evaluating results:
 - **Borderline:** On-site in a non-listed country that still offers sponsorship — discuss with candidate
 - **Too far / FAIL:** Strict on-site outside target geographies with no remote option and no visa/relocation path; roles requiring undeclared working languages (e.g. German-only, Arabic-only)
 
-**Target geography checklist:** Germany · Saudi Arabia · Switzerland · Europe (EU/EEA + UK) · Australia · New Zealand · Pakistan
+**Target geography checklist:** Germany · Netherlands · United Kingdom · Ireland · Australia · Canada · New Zealand · United States · Sweden · Finland · Denmark · UAE · Saudi Arabia · Qatar · Switzerland · Pakistan · broader EU/EEA when sponsorship/remote is clear
 
 ## Language Filter
 

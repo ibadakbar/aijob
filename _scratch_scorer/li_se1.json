@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4462038513",
+      "title": "Senior Full Stack Engineer",
+      "company": "AKQA",
+      "companyUrl": "https://uk.linkedin.com/company/akqa",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/senior-full-stack-engineer-at-akqa-4462038513"
+    },
+    {
+      "id": "4486618964",
+      "title": "Forward Deployed Engineering Lead",
+      "company": "FDE Times",
+      "companyUrl": "https://www.linkedin.com/company/fde-times",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-07",
+      "url": "https://se.linkedin.com/jobs/view/forward-deployed-engineering-lead-at-fde-times-4486618964"
+    },
+    {
+      "id": "4488135038",
+      "title": "Full-Stack Developer",
+      "company": "Embedl",
+      "companyUrl": "https://se.linkedin.com/company/embedl",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-developer-at-embedl-4488135038"
+    },
+    {
+      "id": "4483931522",
+      "title": "Senior Frontend Engineer",
+      "company": "edenity.",
+      "companyUrl": "https://uk.linkedin.com/company/edenity-talent",
+      "location": "Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/senior-frontend-engineer-at-edenity-4483931522"
+    },
+    {
+      "id": "4488154042",
+      "title": "Fullstackutvecklare med frontendfokus",
+      "company": "Knightec Group",
+      "companyUrl": "https://www.linkedin.com/company/knightecgroup",
+      "location": "Solna, Stockholm County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/fullstackutvecklare-med-frontendfokus-at-knightec-group-4488154042"
+    },
+    {
+      "id": "4486222635",
+      "title": "Full Stack Product Engineer",
+      "company": "Exakt",
+      "companyUrl": "https://se.linkedin.com/company/exaktstockholm",
+      "location": "Lidingö, Stockholm County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-product-engineer-at-exakt-4486222635"
+    },
+    {
+      "id": "4488458544",
+      "title": "Software Engineer - QuantumBlack, AI by McKinsey",
+      "company": "QuantumBlack, AI by McKinsey",
+      "companyUrl": "https://uk.linkedin.com/company/quantumblack",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-07",
+      "url": "https://se.linkedin.com/jobs/view/software-engineer-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4488458544"
+    },
+    {
+      "id": "4486246041",
+      "title": "Principal Engineer",
+      "company": "Tenth Revolution Group",
+      "companyUrl": "https://uk.linkedin.com/company/tenthrevolution",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/principal-engineer-at-tenth-revolution-group-4486246041"
+    }
+  ]
+}

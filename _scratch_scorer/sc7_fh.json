@@ -1,0 +1,678 @@
+﻿{
+  "meta": {
+    "count": 19,
+    "page": 1,
+    "total": 86071
+  },
+  "results": [
+    {
+      "id": "full-stack-developer-react-typescript-node-js-next-js-hikru-x3ekft7m",
+      "title": "Full-Stack Developer (React/TypeScript + Node.js/Next.js.)",
+      "company": "Hikru",
+      "company_slug": "hikru",
+      "location": "Remote, Worldwide",
+      "date": "2026-01-19",
+      "url": "https://torre.ai/post/qdPOEBNw-hikru-full-stack-developer-reacttypescript-nodejsnextjs?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "global"
+      ],
+      "countries": [],
+      "skills": [
+        "agile",
+        "ai",
+        "api",
+        "azure",
+        "ci-cd",
+        "clean-architecture",
+        "cloud",
+        "nextjs",
+        "nodejs",
+        "observability",
+        "react",
+        "scrum",
+        "typescript"
+      ],
+      "description": "We are looking for a Full-Stack Developer with strong ownership and hands-on experience delivering end-to-end solutions in modern web applications.\n\nThis role is for a developer who can analyze requirements, propose technical solutions, and implement them using best practices in a collaborative Agile environment.\n\nExperience with AI-assisted development and cloud platforms is expected. Healthcare experience is a plus, not a requirement.\n\nKey Responsibilities\n\nFull-Stack Development  \n\\- Design, develop, and maintain end-to-end features.  \n\\- Build frontend applications using React and TypeScript.  \n\\- Develop backend services using Node.js and Next.js.  \n\\- Design clean, scalable APIs and data flows.  \n\\- Apply best practices for code quality, testing, and maintainability.\n\nArchitecture & Best Practices  \n\\- Analyze requirements and propose solid technical solutions.  \n\\- Follow clean architecture and modern software design principles.  \n\\- Ensure performance, scalability, and security considerations.  \n\\- Participate in code reviews and technical discussions.\n\nCloud & Delivery  \n\\- Develop and operate applications on Azure Cloud.  \n\\- Work with CI/CD pipelines and automated deployments.  \n\\- Ensure observability, reliability, and secure configuration.\n\nAI-Assisted Development  \n\\- Use AI tools to improve productivity and code quality.  \n\\- Apply AI responsibly, validating outputs and maintaining standards.  \n\\- Identify opportunities where AI can improve development workflows.\n\nCollaboration & Agile  \n\\- Work within Scrum / Agile methodologies.  \n\\- Collaborate closely with developers, QA, and product owners.  \n\\- Take ownership of tasks and deliverables.  \n\\- Contribute to a collaborative and learning-oriented team culture.\n\nRequired Experience & Skills  \n\\- Strong experience as a Full-Stack Developer.  \n\\- Solid knowledge of React, Node.js, and Next.js.  \n\\- Experience working with Azure Cloud.  \n\\- Understanding of software architecture and best practices.  \n\\- Experience working in Agile/Scrum teams.  \n\\- Ability to deliver features with low ramp-up time.\n\nIdeal Profile  \n\\- Owns features from design to production.  \n\\- Writes clean, maintainable, and scalable code.  \n\\- Uses AI as a productivity tool, not a shortcut.  \n\\- Communicates clearly and works well in a team.  \n\\- Focused on quality, delivery, and continuous improvement.\n\n**Location:** Remote - GMT-09:00 to GMT-03:00\n\n**Skills required for this job:**\n\n- Agile methodologies\n- CI/CD\n- Full-stack development\n- Microsoft Azure\n- Next.js\n- Node.js\n- React.js\n- Software architecture\n- TypeScript"
+    },
+    {
+      "id": "frontend-full-stack-developer-react-next-js-typescript-azka-it-mp2hjouq",
+      "title": "Frontend / Full Stack Developer (React / Next.js / TypeScript)",
+      "company": "azka-it",
+      "company_slug": "azka-it",
+      "location": "Caracas, VE",
+      "date": "2026-10-08",
+      "url": "https://azka-it.viterbit.site/frontend-full-stack-developer-react-next-js-typescript-xm7ziEi57pzj/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ve"
+      ],
+      "skills": [
+        "azure",
+        "azure-devops",
+        "devops",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": "**AZKAIT** es una empresa Mexicana que busca y conecta el mejor talento IT con empresas Latinoamericanas y de Estados Unidos.\n\nEstamos en la búsqueda de tu talento como **Frontend / Full Stack Developer (React / Next.js / TypeScript)**\n\n#### **Descripción del Puesto**\n\nBuscamos un Frontend / Full Stack Developer con un mínimo de 2 años de experiencia comprobable para incorporarse a un proyecto de alto impacto. El profesional será responsable del desarrollo de interfaces web modernas, dinámicas y de alto rendimiento utilizando React, Next.js y TypeScript, colaborando estrechamente bajo la metodología ágil e integrándose a flujos de trabajo en Azure DevOps."
+    },
+    {
+      "id": "full-stack-typescript-developer-m-w-d-react-next-js-boot1-gmbh-eqhcjmlo",
+      "title": "Full-Stack TypeScript Developer (m/w/d) (React/Next.js)",
+      "company": "Boot1 GmbH",
+      "company_slug": "boot1",
+      "location": "Grünwald, Germany",
+      "date": "2026-09-30",
+      "url": "https://join.com/companies/bootsschule1/16925002-full-stack-typescript-developer-m-w-d-react-next-js?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ci-cd",
+        "cloud",
+        "crm",
+        "docker",
+        "git",
+        "jira",
+        "kanban",
+        "nextjs",
+        "nodejs",
+        "react",
+        "scrum",
+        "typescript"
+      ],
+      "description": "Wir bringen Menschen in ganz Deutschland zum Bootsführerschein, und unsere Lernplattform ist das Herzstück dabei. Damit sie weiter wächst, suchen wir dich.\n\n## Aufgaben\n\n- Du entwickelst Features end-to-end: mit TypeScript, React und Next.js im Frontend und Node.js mit Prisma im Backend.\n- Du arbeitest an unserer ganzen Produktlandschaft:\n- **Online-Lernplattform:** Lernmodule, Prüfungstrainer und Lernfortschritt\n- **Website und Buchungsstrecke:** Kursbuchung, Checkout und Landingpages\n- **Interne Tools:** Verwaltung von Teilnehmer:innen, Prüfungsterminen und Partnerstandorten\n- Du baust und pflegst Schnittstellen, etwa zu Zahlungsdiensten, CRM und Marketing-Tools, und automatisierst wiederkehrende Abläufe.\n- Du betreibst unsere Anwendungen mit Docker und sorgst für stabile Deployments.\n- Du schreibst sauberen, getesteten Code und bringst dich in Code-Reviews ein.\n- Du planst Vorhaben mit, schätzt Aufwände, stimmst Prioritäten mit Marketing und Geschäftsführung ab und hältst Projekte auf Kurs.\n\n## Qualifikation\n\n**Das bringst du mit:**\n\n- Mehrjährige Berufserfahrung als Full-Stack- oder Web-Entwickler:in\n- Sehr gute Kenntnisse in TypeScript, React und Next.js\n- Erfahrung mit Node.js, relationalen Datenbanken und Prisma\n- Solide Grundlagen in Docker und Git-basierten Workflows\n- Eine eigenständige, lösungsorientierte Arbeitsweise und Lust, Verantwortung für ein Produkt zu übernehmen\n- Sehr gute Deutsch- und gute Englischkenntnisse\n\n**Ein Plus ist:**\n\n- **Project Management:** Erfahrung mit Scrum oder Kanban, Aufwandsschätzung und Tools wie Jira oder Linear\n- Erfahrung mit Zahlungsanbindungen, CI/CD und Cloud-Hosting\n- Interesse an E-Learning oder Wassersport\n\n## Benefits\n\n- **Echter Impact:** Was du baust, nutzen unsere Kund:innen kurz darauf\n- **Moderner Stack und kurze Wege:** Entscheidungen fallen schnell und direkt mit der Geschäftsführung\n- **Flexibilität:** Vollzeit mit 40 Stunden, hybrides Arbeiten und Arbeitszeiten nach Absprache\n- **Einarbeitung:** eine strukturierte Einarbeitung in Plattform und Codebasis\n- **Ab aufs Wasser:** Du machst deinen Bootsführerschein bei uns kostenlos"
+    },
+    {
+      "id": "full-stack-developer-typescript-react-next-js-node-js-applause-it-limited-7ekxqq62",
+      "title": "Full Stack Developer – TypeScript, React/Next.js, Node.js",
+      "company": "Applause IT Limited",
+      "company_slug": "applause-it",
+      "location": "Warwick, United Kingdom",
+      "date": "2026-10-19",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__577374002__7082?utm_campaign=publisher&utm_medium=api&geoID=833&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "aws",
+        "cad",
+        "cloud",
+        "cloudfront",
+        "cnc",
+        "docker",
+        "ecs",
+        "express",
+        "gdpr",
+        "git",
+        "javascript",
+        "jwt",
+        "lambda",
+        "nestjs",
+        "nextjs",
+        "nodejs",
+        "oauth",
+        "openid",
+        "postgresql",
+        "python",
+        "rdbms",
+        "rds",
+        "react",
+        "s3",
+        "sql",
+        "stripe",
+        "terraform",
+        "typescript"
+      ],
+      "description": "### Full Stack Developer – TypeScript, React/Next.js, Node.js\n\n**Location:** Near LeamingtonSpa, Warwickshire (Hybrid – 3 days on site)  \n**Job type:** Permanent, Full-time  \n**Salary:** £38,000 – £45,000 + benefits\n\nWe’re hiring a **Full StackDeveloper** for an established, growing UK software company whose design andmanufacturing software is used by creative businesses worldwide. You’ll workacross the whole stack on a production customer platform, with code review onevery change and a clear path to becoming its lead developer.\n\n### About the role\n\nAlongside its desktop products,the business runs a growing set of web services: customer accounts, licensing,subscriptions and cloud compute. You’ll focus on the customer account andlicensing platform, built with **Next.js, NestJS, TypeScript, PostgreSQL andAWS**.\n\nYou’ll start on well-scopedfeatures and take on more ownership as your experience grows. You’ll gettechnical mentoring from the Infrastructure Tech Lead and work with the desktopsoftware team and experienced external development and QA partners. As theplatform grows, you’ll also contribute to backend compute and AI services andhelp rebuild the company website.\n\n### What you’ll be doing\n\n- Building features across the **Next.js** frontend and **NestJS** API\n- Designing and evolving the **PostgreSQL**schema, including migrations and query performance\n- Building APIs used by the company’s desktopapplications\n- Deploying and monitoring services on **AWS**,with a focus on reliability, security and cost\n- Writing automated tests and maintaining CI/CDpipelines\n- Handling customer and account data securely and inline with GDPR\n\n### What you’ll bring\n\n- Experience building web applications in **TypeScriptor JavaScript**, whether commercially, on placement or throughsubstantial personal projects\n- **React**, with some exposure to **Next.js**\n- Back-end development in **Node.js**, buildingREST APIs (NestJS, Express or similar)\n- **SQL** and relational databases, ideallyPostgreSQL\n- **Git**, and a habit of writing tests\n\n### Nice to have\n\n- NestJS or Next.js in production\n- AWS (ECS/Lambda, RDS, S3, CloudFront), Terraform orDocker\n- Integrating AI models, or some Python\n- OAuth 2.0/OIDC, JWT, Stripe or licensing systems\n- Interest in CAD/CAM or design software\n\n### Tech stack:\n\nTypeScript,Next.js, React, NestJS, Node.js, PostgreSQL, AWS, Terraform, Docker\n\n### What’s on offer\n\n- £40,000 – £45,000 salary\n- 8% contributory pension and private healthcare\n- 25 days’ holiday + bank holidays, plus additionaltime off at Christmas\n- Hybrid working: 3 days on site, 2 from home\n- A clear progression path to lead developer on aproduction platform\n- Access to in-house CNC machines and 3D printers"
+    },
+    {
+      "id": "remote-full-stack-developer-next-js-react-typescript-pearson-carter-limited-w7zie5ba",
+      "title": "Remote Full Stack Developer | Next.js, React & TypeScript",
+      "company": "Pearson Carter Limited",
+      "company_slug": "pearson-carter",
+      "location": "London, United Kingdom",
+      "date": "2026-10-29",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__588839776__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": "Pearson Carter Limited is seeking a skilled Full Stack Developer to join its in-house Web Development team. The role focuses on Next.js and React applications, offering a remote-first setup with a London office option and flexible hours.\n\nYou will tackle complex technical challenges and contribute to scalable applications. The ideal candidate has strong Next.js, React and TypeScript experience, with a track record of delivering production-grade software and collaborating across teams."
+    },
+    {
+      "id": "staff-full-stack-engineer-react-next-js-typescript-graphql-software-at-scale-keezp4wt",
+      "title": "Staff Full Stack Engineer (React, Next.js, TypeScript, GraphQL)",
+      "company": "Software at Scale",
+      "company_slug": "software-at-scale",
+      "location": "Sydney NSW",
+      "date": "2026-10-26",
+      "url": "https://www.seek.com.au/job/95483874?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "aws",
+        "ci-cd",
+        "claude-code",
+        "containerization",
+        "devops",
+        "docker",
+        "github",
+        "github-actions",
+        "graphql",
+        "json",
+        "nextjs",
+        "nodejs",
+        "pipeline-management",
+        "react",
+        "teamcity",
+        "typescript"
+      ],
+      "description": "Our black belt specialists are leaders in their domains, serving as digital champions, delivery focused experts, top tier security professionals, AI thought leaders, and engineering best practice advocates.\n\nAs 1 of Australias fastest growing software businesses, Software at Scale delivers cutting edge technology solutions that power mission critical platforms. We solve complex engineering challenges at scale, driving quality, performance, and resilience through the strength of our people.\n\n## The Role and The Challenge\n\nWe are seeking an exceptional, highly energetic, and proactive **Staff Full Stack Engineer** to lead technical delivery and architectural strategy across our most critical programs. You will act as an elite technical partner, injecting momentum into complex enterprise environments and eliminating operational inertia from day 1.\n\nIf you are content with picking up standard tickets, writing boilerplate code, or waiting for rigid top down specifications, this is not the role for you. We want a true technical leader who brings high energy, practices respectful thought leadership, and takes complete architectural ownership of ultra fast and highly performant full stack systems. You will step into a high trust and fully empowered environment where you will set engineering baselines, guide multiple squads, and own end to end production operations inside AWS.\n\nAccess to AI Tooling: We believe in removing friction so you can focus on solving hard problems. You will have full access to enterprise AI tooling, including Claude Code, to assist you in accelerating code generation, refactoring, and pipeline management.\n\n## Key Responsibilities\n\n- Thought Leadership and Squad Uplift: Act as an energetic domain leader, energising engineering squads, providing constructive architectural guidance with empathy, and raising engineering standards across client engagements.\n- End to End Architecture: Design, build, and scale production grade systems across the entire stack using TypeScript, React, Next.js, and Node.js, establishing architectural standards for engineering squads.\n- Modernisation and Asset Reuse: Spearhead the practical modernisation of existing legacy platforms, intelligently building upon and reusing existing enterprise technology assets rather than pushing for unnecessary ground up rewrites.\n- System Design and Production Operations: Own comprehensive system design, applying 12 factor app principles and rigorous production safety to ensure your software is robust, observable, and fully prepared to operate reliably in high volume environments.\n- Production Support and Blind Debugging: Maintain absolute visibility over production software where direct server access is restricted, leveraging correlation IDs, structured JSON logging, APM tracing, and dead letter queues.\n- GraphQL Mastery and High Performance Frontend: Architect robust GraphQL APIs on the backend and build lightning fast, responsive interfaces using advanced Next.js features and strict state management.\n- DevOps and AWS Infrastructure: Develop and maintain CI/CD pipelines using GitHub Actions or TeamCity, deploying containerised workloads on AWS and managing secure configurations via dedicated secret vaults.\n\n## What You Bring (Attitude and Mindset)\n\n- Consultant Identity: You present as a trusted technical partner who takes complete ownership of business outcomes, eliminates team friction, and drives solutions rather than waiting for guidance.\n- High Energy Thought Leader: You bring infectious enthusiasm, strategic vision, and hands on technical leadership to the team, acting as a true champion of engineering best practices.\n- Proactive Problem Solver: You do not wait to be handed answers. When faced with broad or open ended problems, you pause, clarify boundaries and constraints, and collaborate to map out execution paths.\n- Master of Constraints: You respect legacy design decisions and regulatory limitations while pragmatically navigating constraints to keep project momentum high.\n\n## What You Bring (Technically)\n\n- Staff Level Expertise: Proven commercial experience operating at a Staff Engineer level within modern and high performing engineering teams, leading architectural direction and mentoring technical talent.\n- Full Stack TypeScript Mastery: Deep and hands on expertise writing production grade TypeScript on both the client and the server within monorepo architectures.\n- Frontend & Backend Excellence: Mandatory, proven experience building complex single page applications using React and Next.js, paired with scalable backend services in Node.js and custom GraphQL implementations.\n- Production Operations & DevOps Mastery: Extensive commercial experience deploying and operating workloads on AWS, managing CI/CD pipelines, containerisation with Docker, and rigorous production monitoring.\n- Comprehensive Testing Discipline: Deep commitment to the testing pyramid, writing clean test code like production code, implementing integration tests, and maintaining contract testing standards.\n- Tooling Fluency: A practical and delivery focused mindset on how to leverage modern AI tools to assist in software engineering and problem solving.\n\n## What We Offer\n\n- The chance to work for 1 of Australias fastest growing and most innovative software businesses.\n- Access to the latest AI tooling to assist you in achieving your technical goals.\n- Meaningful and hands on engineering work solving truly interesting and complex problems.\n- Clear growth pathways from Staff to Principal and beyond.\n- A low ceremony and delivery focused environment that values engineers who own outcomes.\n- Competitive remuneration and benefits."
+    },
+    {
+      "id": "staff-full-stack-engineer-react-next-js-typescript-graphql-software-scale-qntx4ydr",
+      "title": "Staff Full Stack Engineer (React, Next.js, TypeScript, GraphQL)",
+      "company": "Software@Scale",
+      "company_slug": "software-scale",
+      "location": "Sydney, Australia",
+      "date": "2026-10-23",
+      "url": "https://au.whatjobs.com/pub_api__cpl__128482192__7084?utm_campaign=publisher&utm_medium=api&geoID=15513&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "aws",
+        "ci-cd",
+        "claude-code",
+        "containerization",
+        "devops",
+        "docker",
+        "github",
+        "github-actions",
+        "graphql",
+        "json",
+        "nextjs",
+        "nodejs",
+        "pipeline-management",
+        "react",
+        "teamcity",
+        "typescript"
+      ],
+      "description": "### Job Description\n\nOur black belt specialists are leaders in their domains, serving as digital champions, delivery focused experts, top tier security professionals, AI thought leaders, and engineering best practice advocates.\n\nAs 1 of Australias fastest growing software businesses, Software at Scale delivers cutting edge technology solutions that power mission critical platforms. We solve complex engineering challenges at scale, driving quality, performance, and resilience through the strength of our people.\n\nThe Role and The Challenge\n\nWe are seeking an exceptional, highly energetic, and proactive **Staff Full Stack Engineer** to lead technical delivery and architectural strategy across our most critical programs. You will act as an elite technical partner, injecting momentum into complex enterprise environments and eliminating operational inertia from day 1.\n\nIf you are content with picking up standard tickets, writing boilerplate code, or waiting for rigid top down specifications, this is not the role for you. We want a true technical leader who brings high energy, practices respectful thought leadership, and takes complete architectural ownership of ultra fast and highly performant full stack systems. You will step into a high trust and fully empowered environment where you will set engineering baselines, guide multiple squads, and own end to end production operations inside AWS.\n\nAccess to AI Tooling: We believe in removing friction so you can focus on solving hard problems. You will have full access to enterprise AI tooling, including Claude Code, to assist you in accelerating code generation, refactoring, and pipeline management.\n\nKey Responsibilities\n\n- Thought Leadership and Squad Uplift: Act as an energetic domain leader, energising engineering squads, providing constructive architectural guidance with empathy, and raising engineering standards across client engagements.\n- End to End Architecture: Design, build, and scale production grade systems across the entire stack using TypeScript, React, Next.js, and Node.js, establishing architectural standards for engineering squads.\n- Modernisation and Asset Reuse: Spearhead the practical modernisation of existing legacy platforms, intelligently building upon and reusing existing enterprise technology assets rather than pushing for unnecessary ground up rewrites.\n- System Design and Production Operations: Own comprehensive system design, applying 12 factor app principles and rigorous production safety to ensure your software is robust, observable, and fully prepared to operate reliably in high volume environments.\n- Production Support and Blind Debugging: Maintain absolute visibility over production software where direct server access is restricted, leveraging correlation IDs, structured JSON logging, APM tracing, and dead letter queues.\n- GraphQL Mastery and High Performance Frontend: Architect robust GraphQL APIs on the backend and build lightning fast, responsive interfaces using advanced Next.js features and strict state management.\n- DevOps and AWS Infrastructure: Develop and maintain CI/CD pipelines using GitHub Actions or TeamCity, deploying containerised workloads on AWS and managing secure configurations via dedicated secret vaults.\n\nWhat You Bring (Attitude and Mindset)\n\n- Consultant Identity: You present as a trusted technical partner who takes complete ownership of business outcomes, eliminates team friction, and drives solutions rather than waiting for guidance.\n- High Energy Thought Leader: You bring infectious enthusiasm, strategic vision, and hands on technical leadership to the team, acting as a true champion of engineering best practices.\n- Proactive Problem Solver: You do not wait to be handed answers. When faced with broad or open ended problems, you pause, clarify boundaries and constraints, and collaborate to map out execution paths.\n- Master of Constraints: You respect legacy design decisions and regulatory limitations while pragmatically navigating constraints to keep project momentum high.\n\nWhat You Bring (Technically)\n\n- Staff Level Expertise: Proven commercial experience operating at a Staff Engineer level within modern and high performing engineering teams, leading architectural direction and mentoring technical talent.\n- Full Stack TypeScript Mastery: Deep and hands on expertise writing production grade TypeScript on both the client and the server within monorepo architectures.\n- Frontend & Backend Excellence: Mandatory, proven experience building complex single page applications using React and Next.js, paired with scalable backend services in Node.js and custom GraphQL implementations.\n- Production Operations & DevOps Mastery: Extensive commercial experience deploying and operating workloads on AWS, managing CI/CD pipelines, containerisation with Docker, and rigorous production monitoring.\n- Comprehensive Testing Discipline: Deep commitment to the testing pyramid, writing clean test code like production code, implementing integration tests, and maintaining contract testing standards.\n- Tooling Fluency: A practical and delivery focused mindset on how to leverage modern AI tools to assist in software engineering and problem solving.\n\nWhat We Offer\n\n- The chance to work for 1 of Australias fastest growing and most innovative software businesses.\n- Access to the latest AI tooling to assist you in achieving your technical goals.\n- Meaningful and hands on engineering work solving truly interesting and complex problems.\n- Clear growth pathways from Staff to Principal and beyond.\n- A low ceremony and delivery focused environment that values engineers who own outcomes.\n- Competitive remuneration and benefits."
+    },
+    {
+      "id": "staff-full-stack-engineer-react-next-js-typescript-graphql-software-at-scale-am72fmc2",
+      "title": "Staff Full Stack Engineer (React, Next.js, TypeScript, GraphQL)",
+      "company": "Software at Scale",
+      "company_slug": "software-at-scale",
+      "location": "Sydney, Australia",
+      "date": "2026-10-13",
+      "url": "https://au.whatjobs.com/pub_api__cpl__126189667__7084?utm_campaign=publisher&utm_medium=api&geoID=15513&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "api-design",
+        "automation",
+        "claude-code",
+        "devops",
+        "docker",
+        "github",
+        "github-actions",
+        "graphql",
+        "nextjs",
+        "nodejs",
+        "pipeline-management",
+        "react",
+        "teamcity",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "### Staff Full Stack Engineer (React, Next.js, TypeScript, GraphQL)\n\nOur black belt specialists are leaders in their domains, serving as digital champions, delivery focused experts, top tier security professionals, AI thought leaders, and engineering best practice advocates.\n\nAs 1 of Australias fastest growing software businesses, Software at Scale delivers cutting edge technology solutions that power mission critical platforms. We solve complex engineering challenges at scale, driving quality, performance, and resilience through the strength of our people.\n\nOur black belt specialists are leaders in their domains, serving as digital champions, delivery focused experts, top tier security professionals, AI thought leaders, and engineering best practice advocates.\n\nAs 1 of Australias fastest growing software businesses, Software at Scale delivers cutting edge technology solutions that power mission critical platforms. We solve complex engineering challenges at scale, driving quality, performance, and resilience through the strength of our people.\n\n### The Role and The Challenge\n\nWe are seeking an exceptional and highly proactive Staff Full Stack Engineer to lead technical delivery and architectural strategy across our most critical programs.\n\nIf you are content with picking up standard tickets and writing boilerplate code, this is not the role for you. We want an elite technical leader. You will step into a high trust and fully empowered environment where you are expected to take complete architectural ownership of ultra fast and highly performant full stack systems, setting engineering baselines and guiding multiple squads.\n\nAccess to AI Tooling: We believe in removing friction so you can focus on solving hard problems. You will have full access to enterprise AI tooling, including Claude Code, to assist you in accelerating code generation, refactoring, and pipeline management.\n\n### Key Responsibilities\n\n- End to End Architecture: Design, build, and scale production grade systems across the entire stack using TypeScript, React, Next.js, and Node.js, establishing architectural standards for engineering squads.\n- Solving Interesting Problems: Autonomously identify architectural bottlenecks or process inefficiencies, thinking outside the box to engineer creative and unconventional solutions to highly complex technical challenges.\n- System Design and Production Operations: Own comprehensive system design, applying 12 factor app principles to ensure your software is robust, observable, and fully prepared to operate reliably in high scale production environments.\n- Complex Integrations and Legacy Constraints: Architect resilient software solutions that successfully navigate strict enterprise constraints, including seamless integration with legacy systems and complex third party APIs.\n- GraphQL Mastery: Architect and implement robust GraphQL APIs on the backend and seamlessly consume them on the frontend with modern caching strategies.\n- High Performance Frontend: Ensure optimal Core Web Vitals and lightning fast render times by leveraging advanced Next.js features.\n- Secure Development: Architect solutions that adhere to strictest security standards, working safely within highly secure enterprise environments to protect sensitive data and prevent vulnerabilities at every layer.\n- DevOps and Testing: Develop and maintain pipelines using GitHub Actions or TeamCity, implementing robust full stack test automation practices including containerised workflows using Docker.\n\n### What You Bring (Attitude and Mindset)\n\n- Thrives in Ambiguity: You are exceptionally comfortable walking into complex and ambiguous problem spaces. Rather than waiting for a rigid specification, you take the initiative to rapidly distill requirements and map out execution paths.\n- Fearless Continuous Learner: When faced with a capability gap or steep learning curve, you do not freeze. You lean in, rapidly upskill, bridge the divide, and master whatever is needed to deliver excellence.\n- The Desire for a Challenge: You actively seek out difficult engineering constraints and thrive when solving genuinely interesting technical puzzles.\n- Radical Communication and Ownership: You communicate transparently, collaborate openly, challenge assumptions early, and take uncompromising personal accountability for your deliverables from end to end.\n\n### What You Bring (Technically)\n\n- Staff Level Expertise: Proven experience operating at a Staff Engineer level within modern and high performing engineering teams, leading architectural direction and mentoring technical talent.\n- System Design and Production Acumen: Deep understanding of modern system design and architectural patterns, with complete fluency in 12 factor app principles and a rigorous focus on how code behaves in production.\n- Full Stack TypeScript Mastery: Deep and hands on expertise writing production grade TypeScript on both the client and the server within monorepo architectures.\n- Frontend Excellence: Mandatory and proven experience building complex and high performance applications using React and Next.js.\n- Backend and API Design: Extensive commercial experience building scalable backend services in Node.js and designing and implementing GraphQL APIs from scratch.\n- Security and Performance: A strong track record of building secure and performant applications, including optimising bundle sizes, rendering strategies, and database queries.\n- Tooling Fluency: A practical and delivery focused mindset on how to leverage modern AI tools to assist in software engineering and problem solving.\n\n### What We Offer\n\n- The chance to work for 1 of Australias fastest growing and most innovative software businesses.\n- Access to the latest AI tooling to assist you in achieving your technical goals.\n- Meaningful and hands on engineering work solving truly interesting and complex problems.\n- Clear growth pathways from Staff to Principal and beyond.\n- A low ceremony and delivery focused environment that values engineers who own outcomes.\n- Competitive remuneration and benefits."
+    },
+    {
+      "id": "senior-full-stack-engineer-react-angular-next-js-typescript-graphql-software-scale-oqzz6w3z",
+      "title": "Senior Full Stack Engineer (React, Angular, Next.js, TypeScript, GraphQL)",
+      "company": "Software@Scale",
+      "company_slug": "software-scale",
+      "location": "Sydney, Australia",
+      "date": "2026-10-23",
+      "url": "https://au.whatjobs.com/pub_api__cpl__128475093__7084?utm_campaign=publisher&utm_medium=api&geoID=15513&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "api-design",
+        "automation",
+        "aws",
+        "ci-cd",
+        "cloud",
+        "cloud-native",
+        "devops",
+        "docker",
+        "generative-ai",
+        "github",
+        "github-actions",
+        "graphql",
+        "nextjs",
+        "nodejs",
+        "react",
+        "teamcity",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "### Job Description\n\nOur ‘black belt’ specialists are leaders in their domains: digital champions, delivery-focused experts, top-tier security professionals, AI thought leaders, and engineering best practice advocates.\n\nWith a global footprint and deep local insight, Software at Scale delivers cutting-edge technology solutions that power mission-critical platforms. We solve complex engineering challenges at scale, driving quality, performance, and resilience through the strength of our people.\n\n**Empower Your Career**\n\nWe’re seeking a **Senior Full Stack Engineer** to play a key role in delivering high-quality, scalable systems across our most important programmes. This mandate focuses on building an ultra-fast, highly performant modern web application using **Next.js, React, TypeScript, and GraphQL** within a highly secure environment.\n\nThis role is hands-on and delivery-oriented, requiring true end-to-end ownership. You will have the scope to heavily influence both frontend and backend architecture, establish performance baselines, and lead by example within our engineering teams. We are looking for a highly proactive engineer who thrives when navigating legacy constraints and who takes the initiative to find solutions rather than waiting to be given the answer.\n\n**Key Responsibilities**\n\n- **End-to-End Architecture:** Design and build production-grade, highly performant systems across the entire stack using **TypeScript, React, Next.js, and Node.js**.\n- **Proactive Problem Solving:** Take absolute ownership of technical challenges. Autonomously investigate issues, propose robust solutions, and drive them to completion without waiting for detailed, top-down instructions.\n- **Complex Integrations & Legacy Constraints:** Architect resilient software solutions that successfully navigate strict enterprise constraints, including seamless integration with legacy systems and complex, disparate third-party APIs.\n- **GraphQL Mastery:** Architect and implement robust **GraphQL** APIs on the backend (resolvers, schemas, query optimisation) and seamlessly consume them on the frontend with modern caching strategies.\n- **High-Performance Frontend:** Ensure optimal Core Web Vitals and lightning-fast render times by leveraging advanced Next.js features (SSR, SSG, client-side routing).\n- **Secure Development:** Architect full-stack solutions that adhere to the strictest security standards, working safely within a highly secure enterprise environment to protect sensitive data and prevent vulnerabilities at every layer.\n- **Ecosystem Management:** Build and maintain systems within complex monorepo architectures, ensuring clean separation of concerns and shared tooling.\n- **DevOps & Testing:** Develop and maintain CI/CD pipelines using GitHub Actions or TeamCity. Implement robust full-stack test automation practices, including containerised workflows using Docker.\n- **Cloud-Native Deployment:** Leverage AWS-native services to deploy reliable, scalable applications.\n- **AI Tooling Adoption:** Champion the adoption of GenAI and agentic tools where they tangibly improve engineering productivity, code quality, or system capability.\n\n**What You Bring**\n\n- **Senior-Level Expertise:** Proven experience operating at a Senior Engineer level within modern, high-performing engineering teams.\n- **Self-Starter Mindset:** A highly proactive approach to engineering. You are known for hunting down answers, researching architectural trade-offs independently, and bringing fully formed solutions to the table.\n- **Constraint-Driven Design:** Demonstrated ability to design modern software around legacy systems and execute highly complex API integrations securely and reliably.\n- **Full-Stack TypeScript Mastery:** Deep, hands-on expertise writing production-grade **TypeScript** on both the client and the server.\n- **Frontend Excellence:** Mandatory, proven experience building complex, high-performance applications using **React and Next.js**.\n- **Backend & API Design:** Extensive commercial experience building scalable backend services in **Node.js** and designing/implementing **GraphQL** APIs from scratch.\n- **Security & Performance:** A strong track record of building performant applications (optimising bundle sizes, rendering strategies, database queries) specifically within highly regulated or secure environments.\n- **Infrastructure & CI/CD:** Experience deploying and operating workloads on AWS, managing CI/CD pipelines, and working with Docker.\n- **AI Fluency:** Exposure to GenAI and agentic engineering tools, with a practical, delivery-focused mindset on how to use them safely.\n\n**What We Offer**\n\n- Meaningful, hands-on engineering work across complex, enterprise-grade platforms.\n- Clear growth pathways from Senior to Staff and beyond.\n- A low-ceremony, delivery-focused environment that values engineers who proactively own outcomes.\n- Competitive remuneration and benefits.\n- The opportunity to work alongside highly experienced engineers on challenging, high-impact systems."
+    },
+    {
+      "id": "full-stack-developer-frontend-react-redux-javascript-typescript-html5-next-js-and-backen-dawn-infotek-jteup6gx",
+      "title": "Full Stack Developer (Frontend: React, Redux, JavaScript, TypeScript, HTML5, Next.js and Backen[...]",
+      "company": "Dawn InfoTek",
+      "company_slug": "dawn-infotek",
+      "location": "Toronto, Canada",
+      "date": "2026-08-11",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__134155341__7103?utm_campaign=publisher&utm_medium=api&geoID=6225&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "api",
+        "aws",
+        "azure",
+        "cloud",
+        "confluence",
+        "express",
+        "figma",
+        "jira",
+        "nodejs",
+        "react",
+        "react-native",
+        "unit-testing"
+      ],
+      "description": "### Full Stack Developer – Dawn InfoTek\n\nDawn InfoTek Inc. is a professional IT consulting team that partners with major financial institutions, investment firms, and government sectors. We deliver cutting‑edge consulting services and recruit all levels of IT positions for our clients.\n\n**Location:** Hybrid – 3 days/week\n\n**Contract Duration:** ASAP to 07/31/2026 (~7 months) with possibility of extension & conversion to FTE.\n\n### Typical Day in Role\n\n- Design, develop, and maintain robust full‑stack applications using modern technologies like React, React Native, Node.js, and Express.js.\n- Develop and optimize back‑end services, APIs, and database management systems.\n- Collaborate with other software developers, business analysts, and software architects to plan, design, develop, test, and maintain different applications.\n- Maintain high standards of software quality within the team by establishing good practices and habits.\n- Deploy applications on cloud platforms such as AWS and Azure.\n- Design, develop, and unit test applications in accordance with established standards.\n\n### Candidate Requirements / Must Have Skills\n\n- 10+ years of progressive experience working in the IT industry in developer roles.\n- 5‑7 years of experience as a Full Stack developer.\n- 5+ years of combined experience in back‑end development using Node.js, Express.js, and database technologies.\n\n### Nice‑to‑Have Skills\n\n- Experience with JIRA / Confluence.\n- Story refinement and pointing experience.\n- Experience with Figma and other design tools.\n\n### Soft Skills Required\n\n- Excellent verbal and written communication skills coupled with strong interpersonal and problem‑solving skills.\n- Time‑management skills with the ability to handle multiple assignments.\n- Ability to multi‑task and work on multiple initiatives at the same time.\n\n### Education\n\nEducation in a technical field (e.g., computer science, computer engineering)."
+    },
+    {
+      "id": "full-stack-next-js-typescript-developer-carmlize-4y34wuev",
+      "title": "Full-Stack Next.js / TypeScript Developer",
+      "company": "CARMLIZE",
+      "company_slug": "carmlize",
+      "location": "Remote, Worldwide",
+      "date": "2026-10-17",
+      "url": "https://torre.ai/post/kWR9Z1er-carmlize-full-stack-nextjs-typescript-developer?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "global"
+      ],
+      "countries": [],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "authentication",
+        "blockchain",
+        "ci-cd",
+        "cloud",
+        "fintech",
+        "git",
+        "graphql",
+        "llm",
+        "mongodb",
+        "mysql",
+        "nextjs",
+        "nodejs",
+        "postgresql",
+        "react",
+        "typescript",
+        "vercel",
+        "web3",
+        "websockets"
+      ],
+      "description": "Full-Stack Next.js / TypeScript Developer  \nAbout CARMLIZE  \nCARMLIZE is building at the intersection of AI, crypto, real-time market intelligence, and blockchain technology. We’re looking for a strong full-stack developer who can help build and scale production features across our platform.  \nWhat you’ll do  \n\\- Build production applications using Next.js, React, and TypeScript  \n\\- Develop responsive, high-quality frontend experiences  \n\\- Build and maintain backend APIs and server-side functionality  \n\\- Work with databases and data-driven features  \n\\- Integrate third-party APIs, AI services, market-data feeds, and blockchain-related services  \n\\- Work with real-time data and WebSocket-based features  \n\\- Improve application performance, reliability, and security  \n\\- Collaborate with product, AI, blockchain, and design teams  \n\\- Participate in code reviews and architecture decisions  \n\\- Help deploy and maintain applications using Vercel/cloud infrastructure  \nWhat we’re looking for  \n\\- Strong experience with Next.js, React, and TypeScript  \n\\- Backend experience with Node.js  \n\\- Experience building REST and/or GraphQL APIs  \n\\- Experience with databases such as PostgreSQL, MySQL, or MongoDB  \n\\- Understanding of authentication, security, performance, and scalable application architecture  \n\\- Git and modern development workflows  \n\\- Experience with CI/CD and cloud deployment  \n\\- Ability to take ownership of features from idea through production  \nNice to have  \n\\- Crypto, blockchain, Web3, or financial-product experience  \n\\- AI/LLM integration experience  \n\\- Experience with real-time market data or WebSockets  \n\\- Experience building trading, analytics, fintech, or data-heavy products  \nTeam  \nYou’ll report to the Engineering Lead and work closely with our product, AI, blockchain, and design teams to build and ship features across the CARMLIZE platform.  \nPosition  \nFull-time, long-term opportunity with room to grow as the product and engineering team expand.  \nWebsite: https://carmlize.com/\n\n**Location:** Remote - Anywhere\n\n**Skills required for this job:**\n\n- AI integration\n- API development\n- Application security\n- Authentication\n- Blockchain\n- CI/CD\n- Cloud deployment\n- Databases\n- Fintech\n- Git\n- Next.js\n- Node.js\n- Performance optimization\n- React.js\n- Scalable architectures\n- TypeScript\n- WebSockets"
+    },
+    {
+      "id": "senior-full-stack-developer-react-js-next-js-reveal-health-tech-gvd7yyzs",
+      "title": "Senior Full Stack Developer - React.js/Next.js",
+      "company": "Reveal Health Tech",
+      "company_slug": "reveal-health-tech",
+      "location": "Bangalore",
+      "date": "2026-09-04",
+      "url": "https://www.hirist.tech/j/senior-full-stack-developer-react-js-next-js-1666926?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "authentication",
+        "automation",
+        "bigquery",
+        "ci-cd",
+        "cloud",
+        "css",
+        "data-analytics",
+        "data-modeling",
+        "event-driven-architecture",
+        "fhir",
+        "firebase",
+        "firestore",
+        "gcp",
+        "git",
+        "hipaa",
+        "machine-learning",
+        "nextjs",
+        "nosql",
+        "observability",
+        "playwright",
+        "rbac",
+        "react",
+        "serverless",
+        "sql",
+        "tailwind",
+        "typescript"
+      ],
+      "description": "**Position :** Senior Full Stack Developer\n\n**Location :** Bangalore\n\nWere looking for a Senior Full Stack Developer with deep hands-on experience in building secure, scalable healthcare software. In this role, you will take ownership of the design, development and delivery of enterprise-grade applications on our healthcare technology platforms. This is an ideal role for an experienced engineer who can drive technical decisions, own complex integrations and deliver production-quality solutions across a full-stack environment spanning modern web technologies, cloud infrastructure and healthcare data standards.\n\n**Responsibilities :**\n\n\\- Design and develop robust full-stack applications using Next.js, React, TypeScript and Firebase/Google Cloud services.\n\n\\- Take ownership of end-to-end feature delivery: from architecture decisions and design through to production deployment.\n\n\\- Build and maintain FHIR-compliant integrations with Google Cloud Healthcare API, including resource operations, data sync pipelines and streaming exports to BigQuery.\n\n\\- Work on secure, role-based access control (RBAC) across Next.js middleware, Firebase Security Rules, and Firebase Functions.\n\n\\- Develop and maintain Firebase Functions for serverless backend logic, Firestore triggers, Pub/Sub subscribers and scheduled jobs.\n\n\\- Ensure data integrity across Firestore and FHIR datastores, including pipelines to BigQuery for analytics and reporting.\n\n\\- Integrate and maintain AI/ML workflows using Google Genkit and Gemini AI, with strict attention to data privacy and PHI handling.\n\n\\- Monitor application health using GCP Cloud Logging, Error Reporting and Cloud Trace; investigate and resolve production issues proactively.\n\n\\- Conduct thorough code reviews and contribute to engineering standards, patterns and best practices.\n\n\\- Write and maintain automated tests including E2E tests using Playwright to ensure software quality across multiple user roles.\n\n\\- Work closely with cross-functional teams including Product, QA and Operations to support smooth project execution.\n\n\\- Contribute to continuous integration and deployment processes (CI/CD) to improve development and release efficiency.\n\n\\- Ensure all development adheres to HIPAA compliance requirements and healthcare data security standards; maintain up-to-date technical documentation.\n\n**Required Skills:**\n\n**Frontend Technologies:**\n\n\\- Framework: Next.js 15.0 with React 18.3\n\n\\- Language: TypeScript for type-safe development\n\n\\- UI Components: ShadCN UI with Radix UI primitives\n\n\\- Styling: Tailwind CSS with custom design system\n\n\\- State Management: React Hooks and Context API\n\n\\- Form Handling: React Hook Form with Zod validation\n\n**Backend Technologies :**\n\n\\- Authentication: Firebase Authentication with NextAuth.js and custom claims-based RBAC\n\n\\- Database: Firebase Firestore (NoSQL) with Security Rules authoring\n\n\\- FHIR Integration: Google Cloud Healthcare API FHIR R4 resource operations and data exchange\n\n\\- AI/ML Platform: Google Genkit with Gemini AI for clinical workflow automation\n\n\\- Cloud Functions: Firebase Functions HTTP, Firestore, Auth, Pub/Sub, and Scheduled triggers\n\n\\- File Storage: Firebase Storage for documents and media\n\n\\- Data & Analytics: BigQuery for FHIR data analytics; streaming and batch export pipelines from Google Cloud Healthcare API\n\n\\- Messaging: GCP Pub/Sub for event-driven architectures and FHIR change notifications\n\n\\- Observability: GCP Cloud Logging, Error Reporting, and Cloud Trace for monitoring and debugging\n\n**You should apply if you have :**\n\n\\- Bachelors degree in Computer Science, Engineering, or a related field (or equivalent work experience).\n\n\\- 7 to 9 years of hands-on experience in software development with a strong focus on full-stack web technologies.\n\n\\- Deep proficiency in Next.js, React and TypeScript for building production-grade web applications, including App Router patterns and Server Components.\n\n\\- Strong experience with Firebase Authentication, NextAuth.js and implementing custom claims-based RBAC across Next.js middleware, Firebase Security Rules, and Cloud Functions.\n\n\\- Hands-on experience with Firebase Firestore, including data modelling for NoSQL, Security Rules authoring, and working with consistency patterns.\n\n\\- Good experience with Google Cloud Healthcare API for FHIR R4 compliant data exchange, including resource CRUD operations, search, and batch/streaming export to BigQuery.\n\n\\- Practical experience working with BigQuery for healthcare analytics, including navigating FHIR-structured schemas and writing analytical SQL.\n\n\\- Hands-on experience with Firebase Functions across multiple trigger types: HTTP, Firestore, Auth, Pub/Sub, and Scheduled.\n\n\\- Experience with UI development using ShadCN UI, Radix UI primitives, Tailwind CSS, and form handling with React Hook Form and Zod validation.\n\n\\- Experience building event-driven architectures using GCP Pub/Sub, including FHIR change notification pipelines and async processing - good to have.\n\n\\- Experience integrating Google Genkit and Gemini AI into production applications, with strong understanding of responsible AI use and PHI handling in clinical contexts - good to have.\n\n\\- Proficiency with GCP observability tools - Cloud Logging, Error Reporting, and Cloud Trace for proactive monitoring and production issue diagnosis - good to have.\n\n\\- Experience with Git and CI/CD pipelines; experience with Firebase App Hosting or similar deployment platforms is a plus.\n\n\\- Strong understanding of HIPAA compliance requirements and experience designing HIPAA-compliant software, including PHI handling, audit logging and data security best practices - good to have.\n\n\\- Excellent problem-solving skills, ability to work independently on complex systems, and strong written and verbal technical communication"
+    },
+    {
+      "id": "full-stack-developer-next-js-typescript-latimeria-fun4w6xe",
+      "title": "Full Stack Developer (Next.js / TypeScript)",
+      "company": "Latimeria",
+      "company_slug": "latimeria",
+      "location": "UA",
+      "date": "2026-11-03",
+      "url": "https://djinni.co/jobs/856513-full-stack-developer-next-js-typescript/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "ua"
+      ],
+      "skills": [
+        "api",
+        "design-patterns",
+        "docker",
+        "git",
+        "nextjs",
+        "postgresql",
+        "react",
+        "seo",
+        "sql",
+        "tailwind",
+        "typescript"
+      ],
+      "description": "Шукаємо full stack розробника для створення нового вебпродукту з нуля до продакшену. Ви будете єдиним розробником на проєкті перші місяці: від схеми бази до деплою.\n\nКого ми шукаємо  \nУ вас є комерційний досвід із TypeScript і React/Next.js від 3 років  \nВи працювали з Next.js App Router не як із SPA: серверний рендеринг, server actions, кешування  \nPostgreSQL — пишете SQL руками, читаєте плани запитів, ведете міграції  \nВи застосовуєте на практиці принципи SOLID, KISS, DRY, ООП та design patterns  \nВаш рівень компетенції дозволяє приймати та обґрунтовувати технічні рішення — поруч не буде тимліда, який зробить це за вас  \nУ вас є досвід роботи з інструментами: Git, Docker  \nВи маєте за плечима запуск продукту, а не лише окремі фічі  \nБуде плюсом досвід із: Telegram Bot API та Mini Apps, PostGIS або іншими геоданими, MapLibre/Leaflet, SSR і SEO-рендерингом, обробкою персональних даних\n\nНаш стек  \nNext.js (App Router), TypeScript, PostgreSQL + PostGIS, Drizzle або Prisma, Tailwind + shadcn/ui, Telegram Mini Apps, MapLibre GL, Docker\n\nЩо ви будете робити  \nРозробляти MVP з нуля: схема даних, бекенд, фронтенд, деплой  \nЗробити одну кодову базу для трьох поверхонь: публічний сайт із серверним рендерингом та індексацією в Google, Mini App усередині Telegram і веб-кабінет клієнта  \nРеалізувати геочастину: геокодування адрес із кешуванням, пошук за відстанню на PostGIS, мапа з кластеризацією точок  \nПобудувати кабінет, у якому одна людина керує сотнями записів на десятках адрес — масовими діями, а не поштучно  \nПідняти інфраструктуру проєкту: деплой, моніторинг, бекапи  \nБрати участь в обговоренні обсягу: ТЗ написане й детальне, але це живий документ, і ваші аргументи щодо складності впливають на те, що потрапить у першу версію\n\nЩо ми пропонуємо  \nПродукт з нуля, а не підтримка чужої спадщини: усі архітектурні рішення ваші  \nМінімум бюрократії. Адекватність у менеджменті  \nПовністю віддалена робота  \nГотові макети мобільних екранів і написане ТЗ — не доведеться вгадувати, що робити  \nСправедива заробітня плата з переглядом  \nОформлення через ФОП або гіг-контракт"
+    },
+    {
+      "id": "senior-full-stack-developer-next-js-typescript-ai-softloft-zq6vtd7z",
+      "title": "Senior Full Stack Developer (Next.js / TypeScript / AI)",
+      "company": "SOFTLOFT",
+      "company_slug": "softloft",
+      "location": null,
+      "date": "2026-10-30",
+      "url": "https://djinni.co/jobs/856046-senior-full-stack-developer-next-js-typescrip/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [],
+      "countries": [],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "anthropic",
+        "api",
+        "authentication",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "embeddings",
+        "generative-ai",
+        "langchain",
+        "llamaindex",
+        "llm",
+        "nextjs",
+        "nodejs",
+        "openai",
+        "python",
+        "rag",
+        "react",
+        "rest",
+        "typescript",
+        "vector-databases",
+        "vercel"
+      ],
+      "description": "We are looking for an experienced Senior Full Stack Developer with strong expertise in TypeScript, Next.js, and React to design, build, and deliver modern AI-powered applications.  \nThe ideal candidate combines hands-on full-stack development experience with practical knowledge of integrating Large Language Models (LLMs), AI agents, and generative AI capabilities into production applications.\n\nKey Responsibilities  \nDesign, develop, and maintain scalable web applications using Next.js, React, and TypeScript.  \nBuild server-side functionality, APIs, and integrations using Next.js and the Node.js ecosystem.  \nIntegrate LLM providers such as OpenAI, Azure OpenAI, and Anthropic.  \nDevelop AI-powered product features, including conversational interfaces, intelligent workflows, and AI assistants.  \nImplement AI streaming, structured outputs, and tool calling using frameworks such as Vercel AI SDK or LangChain.  \nCollaborate on application architecture, performance, security, and production deployment.  \nWork closely with product and engineering teams to deliver end-to-end solutions.\n\nRequired Skills  \nStrong professional experience with TypeScript, React, and Next.js.  \nSolid understanding of modern full-stack application architecture.  \nExperience with server-side development, REST APIs, and third-party integrations.  \nStrong knowledge of asynchronous programming, authentication, and application performance.  \nExperience building and deploying production-grade applications.  \nAbility to work independently and take ownership of technical solutions.\n\nNice to Have  \nHands-on experience with OpenAI, Azure OpenAI, or Anthropic APIs.  \nExperience with Vercel AI SDK, LangChain, or LlamaIndex.  \nKnowledge of RAG (Retrieval-Augmented Generation), embeddings, and vector databases.  \nExperience developing AI agents and LLM-powered workflows.  \nFamiliarity with Python-based AI services.  \nExperience with cloud platforms and CI/CD pipelines.  \nIdeal Candidate  \nA senior full-stack engineer who can independently deliver complete web applications using Next.js and TypeScript, with a strong interest in or proven experience building AI-powered products."
+    },
+    {
+      "id": "remote-full-stack-engineer-typescript-next-js-flexisource-information-technology-inc-sczbfb46",
+      "title": "Remote Full-Stack Engineer: TypeScript & Next.js",
+      "company": "Flexisource Information Technology Inc.",
+      "company_slug": "flexisource-information-technology",
+      "location": "Mandaluyong, Philippines",
+      "date": "2026-10-25",
+      "url": "https://en-ph.whatjobs.com/pub_api__cpl__67287899__7115?utm_campaign=publisher&utm_medium=api&geoID=41815&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "ph"
+      ],
+      "skills": [
+        "nextjs",
+        "postgresql",
+        "react",
+        "supabase",
+        "typescript"
+      ],
+      "description": "Flexisource Information Technology Inc. is seeking a skilled Full-Stack Developer to join our engineering team and help build, maintain, and improve modern web applications. This role emphasizes a TypeScript-first stack to develop responsive interfaces, backend functionality, and database-driven solutions.\n\nYou will work across frontend and backend with a focus on React, Next.js, Supabase, and PostgreSQL. The ideal candidate writes clean, scalable code and can troubleshoot performance issues"
+    },
+    {
+      "id": "full-stack-sitecore-developer-next-js-react-cloudraptor-vsjs2sl4",
+      "title": "Full Stack Sitecore Developer - Next.js/React",
+      "company": "CloudRaptor",
+      "company_slug": "cloudraptor",
+      "location": "India",
+      "date": "2026-10-16",
+      "url": "https://www.hirist.tech/j/full-stack-sitecore-developer-next-js-react-1679035?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "automation",
+        "azure",
+        "azure-devops",
+        "ci-cd",
+        "cloud",
+        "css",
+        "devops",
+        "html",
+        "javascript",
+        "nextjs",
+        "powershell",
+        "react",
+        "rest",
+        "sql",
+        "storybook",
+        "tailwind",
+        "typescript",
+        "unit-testing"
+      ],
+      "description": "**Role :** Full-stack Sitecore Developer\n\n**Mode :** Remote Aus hours AEDT\n\n**Client :** Tertiary Education\n\n**Key Responsibilities :**\n\n\\- Design, develop, and maintain enterprise-scale digital solutions using Sitecore XM Cloud.\n\n\\- Build and support modern headless applications using Next.js, React, and TypeScript.\n\n\\- Develop scalable and performant front-end experiences leveraging modern rendering patterns including SSG, ISR, and server-side rendering.\n\n\\- Implement and manage Sitecore wildcard pages within Next.js environments.\n\n\\- Collaborate with business stakeholders, architects, UX teams, and developers to deliver technical solutions.\n\n\\- Participate in architectural discussions and provide recommendations on best practices, performance, and scalability.\n\n\\- Develop reusable UI component libraries using Tailwind CSS and modern design systems.\n\n\\- Contribute to CI/CD pipelines, deployment automation, and cloud-based application management.\n\n\\- Support integrations with enterprise platforms, APIs, and middleware solutions.\n\n\\- Maintain high standards of code quality through testing, reviews, and documentation.\n\n**Essential Skills & Experience :**\n\n**Sitecore Expertise :**\n\n\\- Commercial experience delivering solutions on Sitecore XM Cloud.\n\n\\- Experience implementing or migrating solutions from Sitecore XP to XM Cloud.\n\n\\- Strong understanding of Sitecore Headless Services, AI capabilities, content modeling, and personalization.\n\n**Full Stack Development :**\n\n\\- Strong experience with Next.js, React, and TypeScript.\n\n\\- JavaScript (ES6+).\n\n\\- Demonstrated experience implementing and supporting Sitecore wildcard pages within Next.js applications.\n\n\\- Strong understanding of rendering and performance optimization techniques including SSG, ISR, caching strategies, and Core Web Vitals.\n\n**Front-End Development :**\n\n\\- Advanced experience with HTML5, CSS3, Tailwind CSS, and Responsive design.\n\n\\- Component-based architecture.\n\n**Communication & Consulting :**\n\n\\- Excellent verbal and written English communication skills.\n\n\\- Ability to engage directly with business stakeholders and provide technical recommendations.\n\n**Desirable Skills :**\n\n\\- Experience with Storybook, unit testing frameworks, PowerShell, Azure DevOps, Azure Web Apps, Azure Function Apps, Azure SQL, REST API development, WSO2 middleware, Sitecore Forms, Sitecore Connect, Sitecore Send, and Sitecore Content Hub.\n\n**What Success Looks Like :**\n\n\\- You are an accomplished Sitecore professional who combines deep XM Cloud expertise with modern fullstack development skills.\n\n\\- You enjoy solving complex technical challenges and working directly with stakeholders to deliver business outcomes."
+    },
+    {
+      "id": "full-stack-developer-typescript-node-js-react-js-knowledge-artisan-tyw64wax",
+      "title": "Full Stack Developer - TypeScript/Node.js/React.js",
+      "company": "knowledge Artisan",
+      "company_slug": "knowledge-artisan",
+      "location": "Bangalore",
+      "date": "2026-10-16",
+      "url": "https://www.hirist.tech/j/full-stack-developer-typescript-node-js-react-js-1678821?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "api-security",
+        "authentication",
+        "aws",
+        "azure",
+        "chatgpt",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "csharp",
+        "css",
+        "devops",
+        "docker",
+        "dotnet",
+        "elt",
+        "gcp",
+        "git",
+        "github",
+        "github-copilot",
+        "html",
+        "javascript",
+        "json",
+        "linux",
+        "microservices",
+        "mysql",
+        "nextjs",
+        "nodejs",
+        "observability",
+        "postgresql",
+        "rbac",
+        "rdbms",
+        "react",
+        "rest",
+        "sql",
+        "sql-server",
+        "tailwind",
+        "typescript",
+        "unit-testing"
+      ],
+      "description": "**Full Stack Product Development :**\n\n\\- Design, develop, test, and maintain enterprise-grade product features and modules.\n\n\\- Build modern web applications using TypeScript, Node.js, React, Next.js, and Tailwind CSS.\n\n\\- Develop and maintain backend services and enterprise applications using C# and .NET.\n\n\\- Build secure and scalable REST/JSON APIs and service integrations.\n\n\\- Translate functional and technical requirements into well-designed software solutions.\n\n\\- Participate in technical design discussions and contribute to architectural decisions.\n\n**Backend & Integration Development :**\n\n\\- Develop backend services, APIs, business logic, and integration components.\n\n\\- Integrate applications with internal platforms, third-party services, enterprise systems, and data sources.\n\n\\- Implement authentication, authorization, RBAC, and API security patterns.\n\n\\- Work with asynchronous processing, background jobs, APIs, and distributed application components.\n\n**Data & Database Engineering :**\n\n\\- Work with relational databases such as PostgreSQL, MySQL, and SQL Server.\n\n\\- Design schemas, queries, stored procedures, and data-access components where required.\n\n\\- Optimize database queries and application performance.\n\n\\- Work with caching or in-memory data stores where appropriate.\n\n\\- Support application-level data integration and basic ELT/data-processing workflows.\n\n**Cloud & DevOps :**\n\n\\- Develop and deploy applications in cloud environments such as Azure, AWS, or GCP.\n\n\\- Work with CI/CD pipelines and modern software deployment practices.\n\n\\- Troubleshoot applications running in Linux and cloud environments.\n\n\\- Contribute to application monitoring, logging, observability, and production troubleshooting.\n\n\\- Support releases and help resolve post-production issues.\n\n**AI-Assisted Engineering :**\n\n\\- Use tools such as GitHub Copilot, Cursor, Claude Code, ChatGPT, or similar AI development assistants to accelerate development.\n\n\\- Apply AI tools appropriately for coding, debugging, refactoring, documentation, unit testing, and technical analysis.\n\n\\- Validate AI-generated code rather than relying on it blindly.\n\n\\- Explore opportunities to incorporate AI capabilities and AI agents into product workflows.\n\n\\- Continuously evaluate new development tools and engineering approaches that can improve team productivity.\n\n**Technology Ecosystem :**\n\n**- Frontend :** TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML/CSS\n\n**- Backend :** Node.js, C#, .NET / .NET Core, REST APIs, JSON, Microservices\n\n**- Databases :** PostgreSQL, MySQL, SQL Server, In-memory or caching technologies\n\n**- Cloud & DevOps :** Azure, AWS, or GCP, Linux, Git, CI/CD, Docker, Application monitoring and logging"
+    },
+    {
+      "id": "full-stack-engineer-react-next-js-net-on-azure-corus-consultancy-4r6bx5kn",
+      "title": "Full-Stack Engineer: React/Next.js, .NET on Azure",
+      "company": "Corus Consultancy",
+      "company_slug": "corus-consultancy",
+      "location": "Crawley, United Kingdom",
+      "date": "2026-09-22",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__541442027__7082?utm_campaign=publisher&utm_medium=api&geoID=612&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "api",
+        "azure",
+        "ci-cd",
+        "csharp",
+        "dotnet",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": "Corus Consultancy is seeking an experienced Full-Stack Developer to join a product engineering team building modern digital services. This hands-on role covers the full stack with React, Next.js, TypeScript, C#, .NET and Azure, delivering secure, accessible applications.\n\nYou will collaborate with product managers, designers and operations to design, develop, test and support web services, APIs and data access layers, while maintaining code quality and implementing CI/CD practices."
+    },
+    {
+      "id": "senior-full-stack-developer-typescript-next-js-gam-consultoria-em-rh-3w3ufome",
+      "title": "Senior Full-Stack Developer (Typescript / Next.js)",
+      "company": "Gam Consultoria em RH",
+      "company_slug": "gam-consultoria-em-rh",
+      "location": "Todo Brasil",
+      "date": "2025-10-16",
+      "url": "https://gamrh.pandape.infojobs.com.br/Detail/2660128?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "accessibility",
+        "api",
+        "ci-cd",
+        "developer-experience",
+        "nextjs",
+        "react",
+        "saas",
+        "tailwind",
+        "typescript"
+      ],
+      "description": "Overview\n\nWe’re looking for a Senior Full-Stack Developer to lead new feature development and help shape our architecture as we scale. You’ll work primarily in Typescript, Next.js (App Router), and tRPC, building a performance application with React Server Components and a modern, end-to-end type-safe API. This role is ideal for someone who thrives in a startup environment, cares about developer experience, and has a passion for high-quality software.\n\nResponsibilities\n\n• Lead design and implementation of new features in our SaaS product.\n\n• Work across the stack: from database queries to API endpoints to UI/UX.\n\n• Write high-quality, type-safe, and maintainable code in Typescript.\n\n• Leverage modern React / Next.js patterns for performance and scalability.\n\n• Collaborate with product, stakeholders and other engineers to shape technical direction.\n\n• Mentor teammates and establish engineering best practices.\n\n• Contribute to CI/CD, testing, and performance monitoring. Requirements\n\n• Fluent in English, both written and spoken.\n\n• 5+ years of professional experience in full-stack or frontend development.\n\n• Strong proficiency in Typescript and modern React.\n\n• Hands-on experience with Next.js App Router (server components, layouts, streaming, caching).\n\n• Background in UI/UX design or working closely with designers.\n\n• Strong experience implementing complex, data-heavy views with Tailwind and component libraries (shadcn/ui, Mantine, etc).\n\n• Experience with tRPC or equivalent type-safe API frameworks.\n\n• Solid understanding of frontend performance, state management, and accessibility.\n\n• Experience working in SaaS products or startups.\n\n• Ability to design scalable systems and write clean, maintainable code.\n\n• Excellent communication skills and ability to work autonomously.\n\n### Requisitos\n\n##### Estudos\n\nEnsino Superior\n\n##### Idiomas\n\nInglês - Avançado\n\n### Valorizado\n\n##### Experiência profissional\n\nEntre 5 e 10 anos"
+    }
+  ]
+}

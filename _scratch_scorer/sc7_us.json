@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4472335036",
+      "title": "Senior Frontend Engineer (Voice AI startup)",
+      "company": "Jack",
+      "companyUrl": "https://www.linkedin.com/company/searchwithjack",
+      "location": "Redwood City, CA",
+      "date": "2026-11-09",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-voice-ai-startup-at-jack-4472335036"
+    },
+    {
+      "id": "4487784105",
+      "title": "Full Stack Engineer",
+      "company": "Protech Talent",
+      "companyUrl": "https://uk.linkedin.com/company/protech-talent",
+      "location": "New York City Metropolitan Area",
+      "date": "2026-11-05",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-protech-talent-4487784105"
+    },
+    {
+      "id": "4487534373",
+      "title": "Software Engineer",
+      "company": "Loud Solutions",
+      "companyUrl": "https://www.linkedin.com/company/loud-solutions",
+      "location": "San Francisco, CA",
+      "date": "2026-11-04",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-loud-solutions-4487534373"
+    },
+    {
+      "id": "4487012985",
+      "title": "Staff Software Engineer",
+      "company": "Epic Placements",
+      "companyUrl": "https://www.linkedin.com/company/epicplacements",
+      "location": "San Francisco, CA",
+      "date": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-epic-placements-4487012985"
+    },
+    {
+      "id": "4472202587",
+      "title": "Senior Software Engineer (Full Stack)",
+      "company": "Topstep",
+      "companyUrl": "https://www.linkedin.com/company/topstep",
+      "location": "United States",
+      "date": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-topstep-4472202587"
+    },
+    {
+      "id": "4471163946",
+      "title": "Software Engineer - New Grad",
+      "company": "SeatGeek",
+      "companyUrl": "https://www.linkedin.com/company/seatgeek",
+      "location": "New York, NY",
+      "date": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-seatgeek-4471163946"
+    },
+    {
+      "id": "4464067342",
+      "title": "Software Engineer III - Full-stack Developer with Anthropic Experience",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "location": "Columbus, OH",
+      "date": "2026-11-09",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-full-stack-developer-with-anthropic-experience-at-deloitte-4464067342"
+    },
+    {
+      "id": "4488419445",
+      "title": "Forward Deployed Engineer",
+      "company": "Talently",
+      "companyUrl": "https://www.linkedin.com/school/talentlytech/",
+      "location": "New York, NY",
+      "date": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-talently-4488419445"
+    },
+    {
+      "id": "4476315883",
+      "title": "Staff Software Engineer",
+      "company": "Talent Stack",
+      "companyUrl": "https://www.linkedin.com/company/talentstackrecruit",
+      "location": "San Francisco, CA",
+      "date": "2026-11-04",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-talent-stack-4476315883"
+    },
+    {
+      "id": "4464073369",
+      "title": "Software Engineer III - Full-stack Developer with Anthropic Experience",
+      "company": "Deloitte",
+      "companyUrl": "https://www.linkedin.com/company/deloitte",
+      "location": "Richmond, VA",
+      "date": "2026-11-09",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-full-stack-developer-with-anthropic-experience-at-deloitte-4464073369"
+    }
+  ]
+}

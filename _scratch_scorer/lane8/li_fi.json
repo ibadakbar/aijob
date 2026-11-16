@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486224882",
+      "title": "Senior Full Stack Developer",
+      "company": "Linear",
+      "companyUrl": "https://fi.linkedin.com/company/linearoy",
+      "location": "Helsinki, Uusimaa, Finland",
+      "date": "2026-11-06",
+      "url": "https://fi.linkedin.com/jobs/view/senior-full-stack-developer-at-linear-4486224882"
+    },
+    {
+      "id": "4487792538",
+      "title": "Senior Full Stack Developer – Cloud Native, kaupan toimiala",
+      "company": "CGI",
+      "companyUrl": "https://ca.linkedin.com/company/cgi",
+      "location": "Helsinki, Uusimaa, Finland",
+      "date": "2026-11-05",
+      "url": "https://fi.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-cloud-native-kaupan-toimiala-at-cgi-4487792538"
+    },
+    {
+      "id": "4454396726",
+      "title": "Senior Fullstack Engineer (Creative & Asset Library)",
+      "company": "Smartly",
+      "companyUrl": "https://fi.linkedin.com/company/smartly-io",
+      "location": "Helsinki, Uusimaa, Finland",
+      "date": "2026-11-08",
+      "url": "https://fi.linkedin.com/jobs/view/senior-fullstack-engineer-creative-asset-library-at-smartly-4454396726"
+    },
+    {
+      "id": "4480955628",
+      "title": "Senior Software Engineer (Autopsy)",
+      "company": "Smartly",
+      "companyUrl": "https://fi.linkedin.com/company/smartly-io",
+      "location": "Helsinki, Uusimaa, Finland",
+      "date": "2026-11-09",
+      "url": "https://fi.linkedin.com/jobs/view/senior-software-engineer-autopsy-at-smartly-4480955628"
+    },
+    {
+      "id": "4485823988",
+      "title": "Principal Engineer, Sokos.fi",
+      "company": "SOK",
+      "companyUrl": "https://fi.linkedin.com/company/sok",
+      "location": "Helsinki Metropolitan Area",
+      "date": "2026-11-05",
+      "url": "https://fi.linkedin.com/jobs/view/principal-engineer-sokos-fi-at-sok-4485823988"
+    },
+    {
+      "id": "4472781208",
+      "title": "AI Driven Full Stack Developer",
+      "company": "Aurora Live",
+      "companyUrl": "https://fi.linkedin.com/company/auroralive",
+      "location": "Finland",
+      "date": "2026-11-10",
+      "url": "https://fi.linkedin.com/jobs/view/ai-driven-full-stack-developer-at-aurora-live-4472781208"
+    },
+    {
+      "id": "4486383342",
+      "title": "Software Developer",
+      "company": "Allshares",
+      "companyUrl": "https://fi.linkedin.com/company/allshares-group",
+      "location": "Helsinki, Uusimaa, Finland",
+      "date": "2026-11-04",
+      "url": "https://fi.linkedin.com/jobs/view/software-developer-at-allshares-4486383342"
+    },
+    {
+      "id": "4487231605",
+      "title": "Full Stack Engineer",
+      "company": "Loihde",
+      "companyUrl": "https://fi.linkedin.com/company/loihdegroup",
+      "location": "Helsinki sub-region, Uusimaa, Finland",
+      "date": "2026-11-04",
+      "url": "https://fi.linkedin.com/jobs/view/full-stack-engineer-at-loihde-4487231605"
+    },
+    {
+      "id": "4486228758",
+      "title": "Full Stack kehittäjä",
+      "company": "Patria",
+      "companyUrl": "https://fi.linkedin.com/company/patria",
+      "location": "Tampere Metropolitan Area",
+      "date": "2026-11-06",
+      "url": "https://fi.linkedin.com/jobs/view/full-stack-kehitt%C3%A4j%C3%A4-at-patria-4486228758"
+    },
+    {
+      "id": "4489474206",
+      "title": "Senior Software Engineer - Digital Workplace",
+      "company": "Canonical",
+      "companyUrl": "https://uk.linkedin.com/company/canonical",
+      "location": "Helsinki, Uusimaa, Finland",
+      "date": "2026-11-10",
+      "url": "https://fi.linkedin.com/jobs/view/senior-software-engineer-digital-workplace-at-canonical-4489474206"
+    }
+  ]
+}

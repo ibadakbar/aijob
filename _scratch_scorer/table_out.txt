@@ -1,0 +1,15 @@
+count=18 with_email=0
+export=leads/exports/20261027-182714
+
+1	needs_review	ParetoLabs	Frontend Developer Intern	Zürich	apply URL only	fit=0.94	all=0.952	paretolabs-63d3999fdfbb	https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783
+2	needs_review	Anaplan	Principal Software Engineer - Full Stack - AI	York	apply URL only	fit=0.88	all=0.934	anaplan-e760f71e160c	https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812
+3	qualified	Learned	Web & Mobile Full Stack Developer	Utrecht, Utrecht, Nederland	apply URL only	fit=0.88	all=0.934	learned-8155c5227d84	https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136
+4	needs_review	Learned	Full Stack Developer	Utrecht, Utrecht, Nederland	apply URL only	fit=0.88	all=0.934	learned-f8dbe18b4981	https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079
+5	needs_review	BOTIMMO AG	Full Stack Developer & Tech Lead (m/w/d)	Kreuzlingen	apply URL only	fit=0.87	all=0.931	botimmo-ag-45540913faf4	https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007
+6	needs_review	Quantum	Lead Software Developer in Test	London	apply URL only	fit=0.71	all=0.883	quantum-5e88a1314571	https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979
+7	qualified	CM.com	Full Stack Developer (Onboarding & Enablement)	Breda, Noord-Brabant, Netherlands	apply URL only	fit=0.69	all=0.877	cm-com-23ce706ad4ba	https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093
+8	qualified	Auterion	Fullstack Web Developer	Zurich	apply URL only	fit=0.63	all=0.859	auterion-7834fbb2f2ce	https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552
+9	needs_review	scaleai	Software Engineer, Enterprise	London	apply URL only	fit=0.63	all=0.859	scaleai-99cb66456963	https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594
+10	needs_review	Zurich Soft Robotics GmbH	Lead Software Engineer	Zürich	apply URL only	fit=0.63	all=0.859	zurich-soft-robotics-gmb-0174eec45ff3	https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297
+11	needs_review	jetbrains	Software Developer  Java/ Node.JS (Web Development Team)	Berlin; Munich	apply URL only	fit=0.6	all=0.85	jetbrains-c3d7f062213a	https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048
+12	needs_review	Tether Operations Limited	Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)	Remote job	apply URL only	fit=0.6	all=0.85	tether-operations-limite-5a9ed92129cf	https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039

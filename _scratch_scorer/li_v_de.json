@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486095611",
+      "title": "Frontend Engineering Lead - Content",
+      "company": "trivago",
+      "companyUrl": "https://de.linkedin.com/company/trivagonv",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineering-lead-content-at-trivago-4486095611"
+    },
+    {
+      "id": "4462779819",
+      "title": "Staff/ Senior Full Stack Engineer (all genders)",
+      "company": "akeno",
+      "companyUrl": "https://de.linkedin.com/company/akeno-ai",
+      "location": "Hamburg, Hamburg, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/staff-senior-full-stack-engineer-all-genders-at-akeno-4462779819"
+    },
+    {
+      "id": "4479716119",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479716119"
+    },
+    {
+      "id": "4479883351",
+      "title": "Staff Software Engineer - Computer Graphics for the Web (WebGL/WebGPU) (F/M/D)",
+      "company": "NavVis",
+      "companyUrl": "https://de.linkedin.com/company/navvis",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/staff-software-engineer-computer-graphics-for-the-web-webgl-webgpu-f-m-d-at-navvis-4479883351"
+    },
+    {
+      "id": "4479598989",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479598989"
+    },
+    {
+      "id": "4486254230",
+      "title": "Senior Frontend Engineer (m/f/d) – Munich",
+      "company": "Impower GmbH",
+      "companyUrl": "https://de.linkedin.com/company/impower-gmbh",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/senior-frontend-engineer-m-f-d-%E2%80%93-munich-at-impower-gmbh-4486254230"
+    },
+    {
+      "id": "4449661448",
+      "title": "Senior Full Stack Software Engineer - Angular/Typescript/Python + Robotics Backend (F/M/D)",
+      "company": "NavVis",
+      "companyUrl": "https://de.linkedin.com/company/navvis",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-10-31",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-software-engineer-angular-typescript-python-%2B-robotics-backend-f-m-d-at-navvis-4449661448"
+    },
+    {
+      "id": "4485340196",
+      "title": "Software Engineer - Fullstack (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "companyUrl": "https://de.linkedin.com/company/reonic",
+      "location": "Augsburg, Bavaria, Germany",
+      "date": "2026-10-30",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-fullstack-ai-x-greentech-m-f-d-at-reonic-4485340196"
+    }
+  ]
+}

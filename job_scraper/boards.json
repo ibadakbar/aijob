@@ -1,0 +1,27 @@
+{
+  "_comment": "Curated public ATS board tokens for visa/relocation discovery. Prefer product companies that hire internationally into target geos. Add tokens only after a live 200 from the public API.",
+  "greenhouse": [
+    {"token": "stripe", "company": "Stripe", "notes": "Global; DE/UK/IE/US/AU offices"},
+    {"token": "shopify", "company": "Shopify", "notes": "CA/US/remote-friendly"},
+    {"token": "cloudflare", "company": "Cloudflare", "notes": "Global engineering"},
+    {"token": "datadog", "company": "Datadog", "notes": "EU/US"},
+    {"token": "gitlab", "company": "GitLab", "notes": "Remote-first"},
+    {"token": "canva", "company": "Canva", "notes": "AU/global"},
+    {"token": "atlassian", "company": "Atlassian", "notes": "AU/US"},
+    {"token": "xero", "company": "Xero", "notes": "AU/NZ/UK"},
+    {"token": "intercom", "company": "Intercom", "notes": "IE/US/UK"},
+    {"token": "miro", "company": "Miro", "notes": "EU/US"}
+  ],
+  "ashby": [
+    {"token": "notion", "company": "Notion", "notes": "US/remote"},
+    {"token": "ramp", "company": "Ramp", "notes": "US"},
+    {"token": "linear", "company": "Linear", "notes": "Remote"},
+    {"token": "vercel", "company": "Vercel", "notes": "Remote/US"},
+    {"token": "anthropic", "company": "Anthropic", "notes": "US/UK"}
+  ],
+  "lever": [
+    {"token": "spotify", "company": "Spotify", "notes": "SE/EU/US"},
+    {"token": "netflix", "company": "Netflix", "notes": "Global"},
+    {"token": "twilio", "company": "Twilio", "notes": "US/global"}
+  ]
+}

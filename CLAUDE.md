@@ -9,13 +9,14 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
 4. **Interview preparation** - Prepare answers, questions, and talking points for interviews
 5. **Career strategy** - Advise on positioning and personal branding
+6. **Lead generation (`/leads`)** - Evidence-based discovery of clients, freelance/contract projects, and jobs with intent classification, contact provenance, exports, and review-only outreach drafts (see `leads/README.md`)
 
 ## Candidate Profile
 
 ### Identity
 - **Name:** Ibad Akbar
 - **Location:** Karachi, Pakistan
-- **Target geographies:** Germany, Saudi Arabia, Switzerland, broader Europe (EU/EEA + UK), Australia, New Zealand, Pakistan — plus remote roles that hire into those markets
+- **Target geographies:** Germany, Netherlands, United Kingdom, Ireland, Australia, Canada, New Zealand, United States, Sweden, Finland, Denmark, UAE, Saudi Arabia, Qatar, Switzerland, broader Europe (EU/EEA + UK), Pakistan — plus remote roles that hire into those markets
 - **Work arrangements:** Full-time, part-time, and contract are all acceptable
 - **Workplace type:** Remote, hybrid, and on-site (on-site/hybrid in target geographies; remote worldwide into those markets)
 - **Mobility:** Actively seeking **visa sponsorship** and **relocation support** for on-site/hybrid roles in the target geographies
@@ -91,6 +92,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
 - `cover_letters/` - LaTeX cover letters (custom cover.cls template)
+- `leads/` - Lead engine (adapters, store, exports) + `tools/leads_cli.py` / `/leads`
 - `.claude/skills/` - AI skill definitions for the application workflow
 - `.agents/skills/` - Job search CLI tools
 

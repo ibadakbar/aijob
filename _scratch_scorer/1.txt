@@ -1,0 +1,22 @@
+﻿SpaceDev - Full Stack MERN Developer
+Full Stack MERN Developer
+Uruguay
+We are Hiring Fullstack Developers (All Levels)! Join one of Latin America's leading companies providing premium development services. We offer: Clients in the USA & Canada. Global teams working on challenging projects. A remote-first culture. Continuous growth opportunities. Innovative Web3 projects.
+
+What We are Looking For
+Fullstack Developers with experience in:
+- JavaScript/TypeScript: Strong and proven expertise in both languages.
+- MERN Stack: Proficient in technologies such as React.js, Node.js, and Nest.js.
+- Backend Development: Experience building robust APIs and services.
+- Databases: Hands-on experience with relational and non-relational databases.
+- React Native: A plus but not mandatory.
+
+Skills & Experience We Value
+- Self-Management & Commitment: Ability to work independently, prioritize tasks, and meet project goals.
+- Startup Agility: Previous experience working in fast-paced environments is a plus.
+- Remote Work Proficiency: Capable of collaborating effectively in a global remote-first team.
+- Blockchain & Web3: Familiarity with blockchain data and NFT ecosystems is a strong advantage.
+- English Proficiency: Strong communication skills to collaborate with technical and non-technical stakeholders.
+
+SpaceDev Perks
+20 vacation days + 3 extra days off per year. Access to Udemy courses. English classes. Work-life balance with flexible work culture. Special days off for birthdays. Team trips. Performance reviews. Remote-first culture with offices in Montevideo, Medellín, Buenos Aires, and coworking options globally.

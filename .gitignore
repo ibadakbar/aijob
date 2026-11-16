@@ -27,6 +27,8 @@ salary_data.json
 **/job_scraper/seen_jobs.json
 **/job_scraper/notion_sync.json
 **/job_scraper/*.md
+**/job_scraper/cache/**
+!**/job_scraper/cache/.gitkeep
 *_BehavioralReport.pdf
 linkedin_Profile.pdf
 
@@ -110,6 +112,14 @@ upskill/*.md
 # repo root normally - a plain rooted pattern is correct here, unlike the
 # **/-prefixed job_scraper/upskill rules above.
 company_research/*.json
+
+# Lead engine store + exports (contacts, outreach drafts, company names)
+leads/store/**
+!leads/store/.gitkeep
+leads/exports/**
+!leads/exports/.gitkeep
+**/leads/store/**
+**/leads/exports/**
 
 # Agent skills: track the source, ignore only deps and logs.
 # (A blanket `.agents/` ignore silently drops the job-search CLI skills from the repo.)

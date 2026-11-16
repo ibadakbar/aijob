@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4487142556",
+      "title": "AI Frontend Engineer",
+      "company": "Tech Rise",
+      "companyUrl": "https://nl.linkedin.com/company/techrisepeople",
+      "location": "Amsterdam Area",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/ai-frontend-engineer-at-tech-rise-4487142556"
+    },
+    {
+      "id": "4484056416",
+      "title": "Senior Front-End Engineer (React) - Personalization",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-10-27",
+      "url": "https://nl.linkedin.com/jobs/view/senior-front-end-engineer-react-personalization-at-picnic-technologies-4484056416"
+    },
+    {
+      "id": "4488849956",
+      "title": "Frontend Engineer — React & Next.js",
+      "company": "Nostrion",
+      "companyUrl": "https://nl.linkedin.com/company/nostrion",
+      "location": "Leusden, Utrecht, Netherlands",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-engineer-%E2%80%94-react-next-js-at-nostrion-4488849956"
+    },
+    {
+      "id": "4482284077",
+      "title": "Senior Full Stack Engineer",
+      "company": "NEP Group, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/nep-group-inc",
+      "location": "Hilversum, North Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-at-nep-group-inc-4482284077"
+    },
+    {
+      "id": "4449019321",
+      "title": "Front-End Engineer (React / React Native) – Store & Web",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-10-29",
+      "url": "https://nl.linkedin.com/jobs/view/front-end-engineer-react-react-native-%E2%80%93-store-web-at-picnic-technologies-4449019321"
+    },
+    {
+      "id": "4482277319",
+      "title": "Senior Full Stack Engineer",
+      "company": "NEP Europe",
+      "companyUrl": "https://www.linkedin.com/company/nep-europe",
+      "location": "Hilversum, North Holland, Netherlands",
+      "date": "2026-10-28",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-at-nep-europe-4482277319"
+    },
+    {
+      "id": "4486185733",
+      "title": "Full Stack Engineer",
+      "company": "Brainial",
+      "companyUrl": "https://nl.linkedin.com/company/brainial",
+      "location": "Utrecht, Netherlands",
+      "date": "2026-11-02",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-brainial-4486185733"
+    },
+    {
+      "id": "4488835979",
+      "title": "Full Stack Engineer",
+      "company": "Oakwell Hampton Group",
+      "companyUrl": "https://uk.linkedin.com/company/oakwell-hampton",
+      "location": "Delft, South Holland, Netherlands",
+      "date": "2026-11-09",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-oakwell-hampton-group-4488835979"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4477129823",
+      "title": "Medior / Senior Front-end Engineer",
+      "company": "iO",
+      "companyUrl": "https://be.linkedin.com/company/iodigital-com",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-10-29",
+      "url": "https://nl.linkedin.com/jobs/view/medior-senior-front-end-engineer-at-io-4477129823"
+    },
+    {
+      "id": "4449933057",
+      "title": "Senior Full-Stack React Developer",
+      "company": "iO",
+      "companyUrl": "https://be.linkedin.com/company/iodigital-com",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-10-31",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-react-developer-at-io-4449933057"
+    },
+    {
+      "id": "4485824245",
+      "title": "Senior Full Stack Developer (TypeScript / React / Node.js)",
+      "company": "Russell Tobin",
+      "companyUrl": "https://www.linkedin.com/company/russell-tobin-&-associates-llc",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-05",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-developer-typescript-react-node-js-at-russell-tobin-4485824245"
+    },
+    {
+      "id": "4486961881",
+      "title": "Fullstack Engineer (DRWN)",
+      "company": "Darwin Engineering",
+      "companyUrl": "https://uk.linkedin.com/company/darwin-engineering-1",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-06",
+      "url": "https://nl.linkedin.com/jobs/view/fullstack-engineer-drwn-at-darwin-engineering-4486961881"
+    },
+    {
+      "id": "4485080060",
+      "title": "Senior Front-end Developer (React/Vue & Design Systems) (Secondment)",
+      "company": "Morgan Black",
+      "companyUrl": "https://nl.linkedin.com/company/morgan-black",
+      "location": "South Holland, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/senior-front-end-developer-react-vue-design-systems-secondment-at-morgan-black-4485080060"
+    },
+    {
+      "id": "3915346103",
+      "title": "Freelancing at DEPT®",
+      "company": "DEPT®",
+      "companyUrl": "https://nl.linkedin.com/company/dept.global",
+      "location": "Veenendaal, Utrecht, Netherlands",
+      "date": "2026-10-27",
+      "url": "https://nl.linkedin.com/jobs/view/freelancing-at-dept%C2%AE-at-dept%C2%AE-3915346103"
+    },
+    {
+      "id": "3915345342",
+      "title": "Freelancing at DEPT®",
+      "company": "DEPT®",
+      "companyUrl": "https://nl.linkedin.com/company/dept.global",
+      "location": "Zwolle, Overijssel, Netherlands",
+      "date": "2026-11-07",
+      "url": "https://nl.linkedin.com/jobs/view/freelancing-at-dept%C2%AE-at-dept%C2%AE-3915345342"
+    },
+    {
+      "id": "4485325172",
+      "title": "Full stack-ontwikkelaar",
+      "company": "Starapple",
+      "companyUrl": "https://nl.linkedin.com/company/starapple",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-10-30",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-ontwikkelaar-at-starapple-4485325172"
+    },
+    {
+      "id": "4485538338",
+      "title": "Full Stack Engineer",
+      "company": "Russell Tobin",
+      "companyUrl": "https://www.linkedin.com/company/russell-tobin-&-associates-llc",
+      "location": "North Holland, Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-russell-tobin-4485538338"
+    },
+    {
+      "id": "4489193706",
+      "title": "Frontend TypeScript Engineer (AI Training)",
+      "company": "Alignerr",
+      "companyUrl": "https://www.linkedin.com/company/alignerr",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-10",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-typescript-engineer-ai-training-at-alignerr-4489193706"
+    }
+  ]
+}

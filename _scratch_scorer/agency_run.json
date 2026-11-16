@@ -1,0 +1,105 @@
+﻿{
+  "date": "2026-10-27",
+  "criteria": {
+    "lead_types": [
+      "client"
+    ],
+    "technologies": [
+      "next.js",
+      "react",
+      "javascript"
+    ],
+    "industries": [],
+    "geographies": [
+      "United Kingdom",
+      "United States",
+      "New Zealand",
+      "Australia",
+      "Germany",
+      "Canada",
+      "Europe"
+    ],
+    "workplace": [
+      "remote",
+      "hybrid",
+      "onsite"
+    ],
+    "budget_or_salary": null,
+    "limit": 15,
+    "freshness_days": 30,
+    "require_sponsorship": false,
+    "require_relocation": false,
+    "excluded_sources": [],
+    "excluded_companies": [],
+    "excluded_lead_ids": [],
+    "discovery_modes": [
+      "agency"
+    ],
+    "query_text": "next.js react javascript",
+    "raw_prompt": "Find 15 digital agencies in United States, Canada, United Kingdom, Australia, New Zealand, Germany, Europe seeking white-label or overflow React Next.js partners with published contact email"
+  },
+  "results": [],
+  "meta": {
+    "raw_count": 0,
+    "deduped_count": 0,
+    "returned": 0,
+    "errors": [],
+    "sources": {
+      "remotive": {
+        "count": 0,
+        "attempts": 1,
+        "url": "https://remotive.com/api/remote-jobs?category=software-dev&search=next.js+react+javascript&limit=45",
+        "raw_count": 10,
+        "attribution": "Source: Remotive (https://remotive.com). Link back to listing URLs.",
+        "legal_notice": "Legal warning - Hey, thanks for using Remotive's API, we appreciate it! Please note that API documentation and access is granted so that developers can share our jobs further. Please do not submit Remotive jobs to third Party websites, including but not limited to: Jooble, Neuvoo, Google Jobs, LinkedIn Jobs. Please link back to the URL found on Remotive AND mention Remotive as a source in order to Remotive to get traffic from your listing. If you don't do that, we'll terminate your API access, sorry! Jobs displayed are delayed by 24 hours, the goal being that jobs are attributed to Remotive on various platforms. Displaying our jobs in order to collect signups/email addresses to show a listing constitutes a breach of our terms of services. We offer a private, paid-for API, please email us at hello(at)remotive(dot)io for more information (starting budget is $5k/mo). Please find out terms of services on https://remotive.com/api-documentation. Please note that there is absolutely no need to request Remotive Job data too frequently. Typically, you only need to GET Remotive job data through this API a couple of times a day (we advise max. 4 times a day). Our data is not changing much faster than that anyway. Note that excessive requests will be blocked. Many thanks (Rodolphe & the Remotive team!)"
+      },
+      "arbeitnow": {
+        "count": 0,
+        "attempts": 1,
+        "attribution": "Source: Arbeitnow (https://www.arbeitnow.com).",
+        "pages_fetched": 2
+      },
+      "upwork": {
+        "stub": true,
+        "implemented": false,
+        "reason": "Upwork project search requires authenticated API / ToS-compliant access. Not scraped. Enable only with official API credentials and user approval."
+      },
+      "contra": {
+        "stub": true,
+        "implemented": false,
+        "reason": "No verified public feed for automated search; agent may use WebSearch for public posts only."
+      },
+      "wellfound": {
+        "stub": true,
+        "implemented": false,
+        "reason": "Same stub posture as job_scraper visa stubs � no permitted scrape."
+      },
+      "linkedin_posts": {
+        "stub": true,
+        "implemented": false,
+        "reason": "Do not scrape LinkedIn. Agent may use WebSearch snippets of public posts and record original URLs; never bypass login or CAPTCHA."
+      }
+    },
+    "persist": {},
+    "export": {},
+    "send_approved_default": false,
+    "incremental": {
+      "enabled": false,
+      "new": 0,
+      "changed": 0,
+      "unchanged": 0,
+      "fetch_skipped": []
+    },
+    "cache": {
+      "vacancy_hits": 0,
+      "company_hits": 0,
+      "ai_hits": 0
+    },
+    "qualified": 0,
+    "review_queue": 0,
+    "run_id": "20261027-132715-194001",
+    "run_status": "complete",
+    "failed_sources": {},
+    "resumed": false
+  }
+}

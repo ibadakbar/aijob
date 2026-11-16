@@ -15,7 +15,7 @@ framework_version: 1.1.1
 - **Status:** Employed — Full Stack Developer at Plai (Remote, United States)
 - **Constraints / search preferences:**
   - Based in Karachi, Pakistan
-  - **Target countries/regions:** Germany, Saudi Arabia, Switzerland, Europe (EU/EEA + UK), Australia, New Zealand, Pakistan
+  - **Target countries/regions:** Germany, Netherlands, United Kingdom, Ireland, Australia, Canada, New Zealand, United States, Sweden, Finland, Denmark, UAE, Saudi Arabia, Qatar, Switzerland, Europe (EU/EEA + UK), Pakistan
   - **Job types:** Full-time, part-time, contract
   - **Workplace type:** Remote, hybrid, on-site (all in scope when geography matches)
   - **Priority filters:** Visa sponsorship, relocation support (boost strongly when present)

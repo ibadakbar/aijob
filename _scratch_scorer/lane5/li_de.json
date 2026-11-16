@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4487140502",
+      "title": "Freelance Software Engineer",
+      "company": "HartleyCo",
+      "companyUrl": "https://uk.linkedin.com/company/hartleyco",
+      "location": "Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/freelance-software-engineer-at-hartleyco-4487140502"
+    },
+    {
+      "id": "4487142342",
+      "title": "(Senior) Full-Stack Engineer - Prototyping & Automatisierung (m/w/d)",
+      "company": "segmenta",
+      "companyUrl": "https://de.linkedin.com/company/segmenta-communications",
+      "location": "Hamburg, Hamburg, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-prototyping-automatisierung-m-w-d-at-segmenta-4487142342"
+    },
+    {
+      "id": "4489195664",
+      "title": "Frontend TypeScript Engineer (AI Training)",
+      "company": "Alignerr",
+      "companyUrl": "https://www.linkedin.com/company/alignerr",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-10",
+      "url": "https://de.linkedin.com/jobs/view/frontend-typescript-engineer-ai-training-at-alignerr-4489195664"
+    },
+    {
+      "id": "4461767469",
+      "title": "Senior Entwickler TypeScript / React | Full-Stack, Python, LLM, RAG‑Architektur | Inhouse (mwd)",
+      "company": "Vesterling AG",
+      "companyUrl": "https://de.linkedin.com/company/vesterling",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/senior-entwickler-typescript-react-full-stack-python-llm-rag%E2%80%91architektur-inhouse-mwd-at-vesterling-ag-4461767469"
+    },
+    {
+      "id": "4488885519",
+      "title": "Frontend-Entwickler (m/w/d) – TypeScript & React",
+      "company": "PONDUS Software GmbH",
+      "companyUrl": "https://de.linkedin.com/company/pondus-software-gmbh",
+      "location": "Hannover, Lower Saxony, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/frontend-entwickler-m-w-d-%E2%80%93-typescript-react-at-pondus-software-gmbh-4488885519"
+    },
+    {
+      "id": "4486361178",
+      "title": "Full-Stack & AI Engineer",
+      "company": "NOW GmbH",
+      "companyUrl": "https://de.linkedin.com/company/now-gmbh",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-ai-engineer-at-now-gmbh-4486361178"
+    },
+    {
+      "id": "4488614987",
+      "title": "(Senior) Fullstack Engineer (m/w/d)",
+      "company": "Interhyp Gruppe",
+      "companyUrl": "https://de.linkedin.com/company/interhypgruppe",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-10",
+      "url": "https://de.linkedin.com/jobs/view/senior-fullstack-engineer-m-w-d-at-interhyp-gruppe-4488614987"
+    },
+    {
+      "id": "4487923252",
+      "title": "(Junior) Frontend Engineer — Broker (m/f/x)",
+      "company": "Scalable Capital",
+      "companyUrl": "https://de.linkedin.com/company/scalable-capital",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/junior-frontend-engineer-%E2%80%94-broker-m-f-x-at-scalable-capital-4487923252"
+    },
+    {
+      "id": "4487140793",
+      "title": "Senior Fullstack Developer - Frontend Focus - Leipzig - 75k",
+      "company": "Next Ventures",
+      "companyUrl": "https://uk.linkedin.com/company/next-ventures",
+      "location": "Leipzig, Saxony, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/senior-fullstack-developer-frontend-focus-leipzig-75k-at-next-ventures-4487140793"
+    },
+    {
+      "id": "4487694204",
+      "title": "(Senior) Full-Stack Developer (m/w/d)",
+      "company": "GWH Digital GmbH",
+      "companyUrl": "https://de.linkedin.com/company/gwh-digital-gmbh",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-developer-m-w-d-at-gwh-digital-gmbh-4487694204"
+    }
+  ]
+}

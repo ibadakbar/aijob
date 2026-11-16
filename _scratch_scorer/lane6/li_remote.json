@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4475692681",
+      "title": "Senior Frontend Engineer - React.js",
+      "company": "Shift",
+      "companyUrl": "https://au.linkedin.com/company/shiftfinancialau",
+      "location": "North Sydney, New South Wales, Australia",
+      "date": "2026-11-02",
+      "url": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-react-js-at-shift-4475692681"
+    },
+    {
+      "id": "4484168071",
+      "title": "Software Engineer – Frontend",
+      "company": "Kaizen Global Technologies",
+      "companyUrl": "https://au.linkedin.com/company/kaizen-global-technologies",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-%E2%80%93-frontend-at-kaizen-global-technologies-4484168071"
+    },
+    {
+      "id": "4453059444",
+      "title": "Senior Software Engineer, Frontend - Web Platform",
+      "company": "Mitti by SafetyCulture",
+      "companyUrl": "https://au.linkedin.com/company/mittihq",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-frontend-web-platform-at-mitti-by-safetyculture-4453059444"
+    },
+    {
+      "id": "4486563290",
+      "title": "Frontend Developer - Next.js",
+      "company": "Kaizen Global Technologies",
+      "companyUrl": "https://au.linkedin.com/company/kaizen-global-technologies",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-05",
+      "url": "https://au.linkedin.com/jobs/view/frontend-developer-next-js-at-kaizen-global-technologies-4486563290"
+    },
+    {
+      "id": "4482862857",
+      "title": "Staff Software Engineer - Full Stack (React, Next.js, Node.js,.NET)",
+      "company": "Commonwealth Bank",
+      "companyUrl": "https://au.linkedin.com/company/commonwealthbank",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-11",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-full-stack-react-next-js-node-js-net-at-commonwealth-bank-4482862857"
+    },
+    {
+      "id": "4486458822",
+      "title": "Lead Frontend Engineer",
+      "company": "CORTO",
+      "companyUrl": "https://au.linkedin.com/company/docorto",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-02",
+      "url": "https://au.linkedin.com/jobs/view/lead-frontend-engineer-at-corto-4486458822"
+    },
+    {
+      "id": "4489690799",
+      "title": "Principal Software Engineer - TypeScript/React",
+      "company": "Objective Corporation",
+      "companyUrl": "https://au.linkedin.com/company/objective-corporation",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-11",
+      "url": "https://au.linkedin.com/jobs/view/principal-software-engineer-typescript-react-at-objective-corporation-4489690799"
+    },
+    {
+      "id": "4458285907",
+      "title": "Senior Front-End Engineer",
+      "company": "Fuse Energy",
+      "companyUrl": "https://uk.linkedin.com/company/fuseenergyhq",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-09",
+      "url": "https://ae.linkedin.com/jobs/view/senior-front-end-engineer-at-fuse-energy-4458285907"
+    },
+    {
+      "id": "4483537101",
+      "title": "Staff Software Engineer - Full Stack (React, Next.js, Node,)",
+      "company": "Commonwealth Bank",
+      "companyUrl": "https://au.linkedin.com/company/commonwealthbank",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-11",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-full-stack-react-next-js-node-at-commonwealth-bank-4483537101"
+    },
+    {
+      "id": "4487426556",
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "Blinq",
+      "companyUrl": "https://au.linkedin.com/company/blinq-me",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-11",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-blinq-4487426556"
+    }
+  ]
+}

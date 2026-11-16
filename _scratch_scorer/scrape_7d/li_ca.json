@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4489184441",
+      "title": "Junior Fullstack Engineer",
+      "company": "Quo",
+      "companyUrl": "https://www.linkedin.com/company/gowithquo",
+      "location": "Vancouver, British Columbia, Canada",
+      "date": "2026-11-10",
+      "url": "https://ca.linkedin.com/jobs/view/junior-fullstack-engineer-at-quo-4489184441"
+    },
+    {
+      "id": "4489186262",
+      "title": "Junior Fullstack Engineer",
+      "company": "Quo",
+      "companyUrl": "https://www.linkedin.com/company/gowithquo",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-10",
+      "url": "https://ca.linkedin.com/jobs/view/junior-fullstack-engineer-at-quo-4489186262"
+    },
+    {
+      "id": "4486863933",
+      "title": "Sr. Front End Engineer",
+      "company": "Knotch",
+      "companyUrl": "https://www.linkedin.com/company/knotch",
+      "location": "Canada",
+      "date": "2026-11-03",
+      "url": "https://ca.linkedin.com/jobs/view/sr-front-end-engineer-at-knotch-4486863933"
+    },
+    {
+      "id": "4467950414",
+      "title": "Senior Frontend Engineer",
+      "company": "Newfold Digital",
+      "companyUrl": "https://www.linkedin.com/company/newfold",
+      "location": "Nova Scotia, Canada",
+      "date": "2026-11-05",
+      "url": "https://ca.linkedin.com/jobs/view/senior-frontend-engineer-at-newfold-digital-4467950414"
+    },
+    {
+      "id": "4488306125",
+      "title": "Senior Software Engineer (Typescript / Frontend) - AI/ML",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-10",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-typescript-frontend-ai-ml-at-clickhouse-4488306125"
+    },
+    {
+      "id": "4479366955",
+      "title": "Senior Web Developer I",
+      "company": "Relay",
+      "companyUrl": "https://ca.linkedin.com/company/relayfinancial",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/senior-web-developer-i-at-relay-4479366955"
+    },
+    {
+      "id": "4470074146",
+      "title": "Staff Software Engineer",
+      "company": "BuildOps",
+      "companyUrl": "https://www.linkedin.com/company/buildops",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-at-buildops-4470074146"
+    },
+    {
+      "id": "4470073254",
+      "title": "Senior Software Developer",
+      "company": "Autodesk",
+      "companyUrl": "https://www.linkedin.com/company/autodesk",
+      "location": "Ontario, Canada",
+      "date": "2026-11-07",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-at-autodesk-4470073254"
+    },
+    {
+      "id": "4470078109",
+      "title": "Senior Software Developer",
+      "company": "Autodesk",
+      "companyUrl": "https://www.linkedin.com/company/autodesk",
+      "location": "Greater Vancouver Metropolitan Area",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-at-autodesk-4470078109"
+    },
+    {
+      "id": "4469795108",
+      "title": "Senior Software Engineer, Growth",
+      "company": "Mural",
+      "companyUrl": "https://www.linkedin.com/company/mural.co",
+      "location": "Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-growth-at-mural-4469795108"
+    }
+  ]
+}

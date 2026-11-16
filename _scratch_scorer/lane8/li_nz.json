@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4479962838",
+      "title": "Full Stack Engineer, Web & Martech",
+      "company": "Crimson Education",
+      "companyUrl": "https://nz.linkedin.com/company/crimsoneducation",
+      "location": "Wellington, Wellington, New Zealand",
+      "date": "2026-11-09",
+      "url": "https://nz.linkedin.com/jobs/view/full-stack-engineer-web-martech-at-crimson-education-4479962838"
+    },
+    {
+      "id": "4479958923",
+      "title": "Full Stack Engineer, Web & Martech",
+      "company": "Crimson Education",
+      "companyUrl": "https://nz.linkedin.com/company/crimsoneducation",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-09",
+      "url": "https://nz.linkedin.com/jobs/view/full-stack-engineer-web-martech-at-crimson-education-4479958923"
+    },
+    {
+      "id": "4487903794",
+      "title": "Senior Full Stack Engineer",
+      "company": "ikeGPS",
+      "companyUrl": "https://www.linkedin.com/company/ikegps",
+      "location": "Wellington, Wellington, New Zealand",
+      "date": "2026-11-09",
+      "url": "https://nz.linkedin.com/jobs/view/senior-full-stack-engineer-at-ikegps-4487903794"
+    },
+    {
+      "id": "4486956167",
+      "title": "Software Development Engineer (Front-End)",
+      "company": "Pushpay",
+      "companyUrl": "https://www.linkedin.com/company/pushpay-ltd",
+      "location": "Auckland, New Zealand",
+      "date": "2026-11-06",
+      "url": "https://nz.linkedin.com/jobs/view/software-development-engineer-front-end-at-pushpay-4486956167"
+    },
+    {
+      "id": "4488168818",
+      "title": "Principal Frontend Engineer",
+      "company": "Xe.com",
+      "companyUrl": "https://uk.linkedin.com/company/xecurrencyauthority",
+      "location": "Christchurch, Canterbury, New Zealand",
+      "date": "2026-11-06",
+      "url": "https://nz.linkedin.com/jobs/view/principal-frontend-engineer-at-xe-com-4488168818"
+    },
+    {
+      "id": "4474239180",
+      "title": "Senior Product Engineer",
+      "company": "Optimal",
+      "companyUrl": "https://nz.linkedin.com/company/optimal-workshop",
+      "location": "Christchurch, Canterbury, New Zealand",
+      "date": "2026-11-05",
+      "url": "https://nz.linkedin.com/jobs/view/senior-product-engineer-at-optimal-4474239180"
+    },
+    {
+      "id": "4408656276",
+      "title": "Lead Software Engineer - Product & Engineering",
+      "company": "Halter",
+      "companyUrl": "https://nz.linkedin.com/company/halter-limited",
+      "location": "Auckland, New Zealand",
+      "date": "2026-11-05",
+      "url": "https://nz.linkedin.com/jobs/view/lead-software-engineer-product-engineering-at-halter-4408656276"
+    },
+    {
+      "id": "4488090972",
+      "title": "Senior Software Engineer - B4B",
+      "company": "Serko",
+      "companyUrl": "https://nz.linkedin.com/company/serko-ltd",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-06",
+      "url": "https://nz.linkedin.com/jobs/view/senior-software-engineer-b4b-at-serko-4488090972"
+    },
+    {
+      "id": "4486106957",
+      "title": "Senior Developer",
+      "company": "Auckland University of Technology",
+      "companyUrl": "https://nz.linkedin.com/school/autuni/",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-09",
+      "url": "https://nz.linkedin.com/jobs/view/senior-developer-at-auckland-university-of-technology-4486106957"
+    },
+    {
+      "id": "4474217908",
+      "title": "Senior Product Engineer",
+      "company": "Optimal",
+      "companyUrl": "https://nz.linkedin.com/company/optimal-workshop",
+      "location": "Auckland, New Zealand",
+      "date": "2026-11-05",
+      "url": "https://nz.linkedin.com/jobs/view/senior-product-engineer-at-optimal-4474217908"
+    }
+  ]
+}

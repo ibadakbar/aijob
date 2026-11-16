@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486398139",
+      "title": "Senior Full Stack Engineer",
+      "company": "BorderPass",
+      "companyUrl": "https://ca.linkedin.com/company/borderpassai",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-04",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-at-borderpass-4486398139"
+    },
+    {
+      "id": "4479366955",
+      "title": "Senior Web Developer I",
+      "company": "Relay",
+      "companyUrl": "https://ca.linkedin.com/company/relayfinancial",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/senior-web-developer-i-at-relay-4479366955"
+    },
+    {
+      "id": "4470074146",
+      "title": "Staff Software Engineer",
+      "company": "BuildOps",
+      "companyUrl": "https://www.linkedin.com/company/buildops",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-at-buildops-4470074146"
+    },
+    {
+      "id": "4470427992",
+      "title": "Staff Software Engineer - Capital One Travel Tech - Full-stack",
+      "company": "Capital One",
+      "companyUrl": "https://www.linkedin.com/company/capital-one",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-03",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-capital-one-travel-tech-full-stack-at-capital-one-4470427992"
+    },
+    {
+      "id": "4487950671",
+      "title": "Software Developer",
+      "company": "BorderPass",
+      "companyUrl": "https://ca.linkedin.com/company/borderpassai",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-09",
+      "url": "https://ca.linkedin.com/jobs/view/software-developer-at-borderpass-4487950671"
+    },
+    {
+      "id": "4487776303",
+      "title": "Frontend Developer",
+      "company": "Hays",
+      "companyUrl": "https://uk.linkedin.com/company/hays",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/frontend-developer-at-hays-4487776303"
+    },
+    {
+      "id": "4459994940",
+      "title": "Staff Software Engineer",
+      "company": "Sony Interactive Entertainment",
+      "companyUrl": "https://www.linkedin.com/company/sony-interactive-entertainment-llc",
+      "location": "Waterloo, Ontario, Canada",
+      "date": "2026-11-07",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-at-sony-interactive-entertainment-4459994940"
+    },
+    {
+      "id": "4478102691",
+      "title": "Staff Engineer - WebStack (Localisation Infrastructure)",
+      "company": "OpenTable",
+      "companyUrl": "https://www.linkedin.com/company/opentable",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-03",
+      "url": "https://ca.linkedin.com/jobs/view/staff-engineer-webstack-localisation-infrastructure-at-opentable-4478102691"
+    },
+    {
+      "id": "4486314053",
+      "title": "Principal Engineer",
+      "company": "Thomson Reuters",
+      "companyUrl": "https://ca.linkedin.com/company/thomson-reuters",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-03",
+      "url": "https://ca.linkedin.com/jobs/view/principal-engineer-at-thomson-reuters-4486314053"
+    },
+    {
+      "id": "4487478108",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "CanadaVisa",
+      "companyUrl": "https://ca.linkedin.com/company/canadavisa",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-10",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-canadavisa-4487478108"
+    }
+  ]
+}

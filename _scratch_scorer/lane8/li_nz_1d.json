@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4471298156",
+      "title": "Senior Full Stack Engineer - Practice Engineering",
+      "company": "Xero",
+      "companyUrl": "https://nz.linkedin.com/company/xero",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-10",
+      "url": "https://nz.linkedin.com/jobs/view/senior-full-stack-engineer-practice-engineering-at-xero-4471298156"
+    },
+    {
+      "id": "4471278975",
+      "title": "Senior Full Stack Engineer - Practice Engineering",
+      "company": "Xero",
+      "companyUrl": "https://nz.linkedin.com/company/xero",
+      "location": "Wellington, Wellington, New Zealand",
+      "date": "2026-11-10",
+      "url": "https://nz.linkedin.com/jobs/view/senior-full-stack-engineer-practice-engineering-at-xero-4471278975"
+    },
+    {
+      "id": "4487830372",
+      "title": "Lead Engineer",
+      "company": "Arlo Training Management Software",
+      "companyUrl": "https://uk.linkedin.com/company/arlo",
+      "location": "Lower Hutt, Wellington, New Zealand",
+      "date": "2026-11-10",
+      "url": "https://nz.linkedin.com/jobs/view/lead-engineer-at-arlo-training-management-software-4487830372"
+    },
+    {
+      "id": "4487445304",
+      "title": "Staff Engineer",
+      "company": "IDEXX",
+      "companyUrl": "https://www.linkedin.com/company/idexx-laboratories",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-10",
+      "url": "https://nz.linkedin.com/jobs/view/staff-engineer-at-idexx-4487445304"
+    },
+    {
+      "id": "4488649653",
+      "title": "Senior Architect - Software Engineering",
+      "company": "Slalom",
+      "companyUrl": "https://www.linkedin.com/company/slalom-consulting",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-11",
+      "url": "https://nz.linkedin.com/jobs/view/senior-architect-software-engineering-at-slalom-4488649653"
+    },
+    {
+      "id": "4487879054",
+      "title": "Senior/Staff/Principal Engineer",
+      "company": "Canonical",
+      "companyUrl": "https://uk.linkedin.com/company/canonical",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-11",
+      "url": "https://nz.linkedin.com/jobs/view/senior-staff-principal-engineer-at-canonical-4487879054"
+    },
+    {
+      "id": "4488649481",
+      "title": "Junior Customer Service Automation Engineer New",
+      "company": "Les Mills Brasil 🇧🇷",
+      "companyUrl": "https://br.linkedin.com/company/les-mills-brasil-fitness",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-11",
+      "url": "https://nz.linkedin.com/jobs/view/junior-customer-service-automation-engineer%0Anew-at-les-mills-brasil-%F0%9F%87%A7%F0%9F%87%B7-4488649481"
+    },
+    {
+      "id": "4487854431",
+      "title": "Junior Customer Service Automation Engineer",
+      "company": "Les Mills International",
+      "companyUrl": "https://nz.linkedin.com/company/les-mills-international",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-10",
+      "url": "https://nz.linkedin.com/jobs/view/junior-customer-service-automation-engineer-at-les-mills-international-4487854431"
+    }
+  ]
+}

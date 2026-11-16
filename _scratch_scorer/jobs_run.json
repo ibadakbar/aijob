@@ -1,0 +1,2329 @@
+﻿{
+  "date": "2026-10-27",
+  "criteria": {
+    "lead_types": [
+      "contract",
+      "full_time"
+    ],
+    "technologies": [
+      "typescript",
+      "full-stack",
+      "next.js",
+      "react",
+      "javascript"
+    ],
+    "industries": [],
+    "geographies": [
+      "United Kingdom",
+      "United States",
+      "New Zealand",
+      "Australia",
+      "Germany",
+      "Canada",
+      "Europe",
+      "Remote"
+    ],
+    "workplace": [
+      "remote",
+      "hybrid"
+    ],
+    "budget_or_salary": null,
+    "limit": 20,
+    "freshness_days": 21,
+    "require_sponsorship": false,
+    "require_relocation": false,
+    "excluded_sources": [],
+    "excluded_companies": [],
+    "excluded_lead_ids": [],
+    "discovery_modes": [
+      "jobs"
+    ],
+    "query_text": "typescript full-stack next.js react javascript",
+    "raw_prompt": "Find 20 latest React Next.js TypeScript full-stack full-time or contract roles in United States, Canada, United Kingdom, Australia, New Zealand, Germany, Europe. Prefer remote or hybrid with clear hiring demand. Prefer leads with published email if any. Last 21 days."
+  },
+  "results": [
+    {
+      "id": "paretolabs-63d3999fdfbb",
+      "name": "ParetoLabs � Frontend Developer Intern",
+      "lead_type": "full_time",
+      "company": "ParetoLabs",
+      "title": "Frontend Developer Intern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Frontend Developer Intern",
+          "excerpt": "ParetoLabs is looking for a motivated and passionate Frontend Developer Intern with a love for building great user interfaces to join our growing team. As part of our dynamic team, you will build the interfaces people use to work with our AI-driven applications. You will gain ha�",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+          "published_date": "2026-10-24",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "javascript",
+        "next.js",
+        "react",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: javascript, next.js, react, typescript",
+        "requested tech: javascript, next.js, react, typescript",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+          "name": "ParetoLabs",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Z�rich",
+      "workplace": "unknown",
+      "country": "CH",
+      "published_date": "2026-10-24",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.94,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.952,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.94: profile skills: javascript, next.js, node, react, typescript; requested tech: javascript, next.js, react",
+          "freshness=1.00: published 3d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "746c6c17f9d46d846101",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+        "name": "ParetoLabs",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "anaplan-e760f71e160c",
+      "name": "Anaplan � Principal Software Engineer - Full Stack - AI",
+      "lead_type": "full_time",
+      "company": "Anaplan",
+      "title": "Principal Software Engineer - Full Stack - AI",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL; text contains an explicit hiring/project request (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Principal Software Engineer - Full Stack - AI",
+          "excerpt": "At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market. What unites Anaplanners across teams and geographies is ou�",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812",
+          "published_date": "2026-10-27",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full stack",
+        "full-stack",
+        "node.js",
+        "react",
+        "saas",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full stack, full-stack, node, node.js, react, saas",
+        "requested tech: full-stack, react, typescript",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812",
+          "name": "Anaplan",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "York",
+      "workplace": "unknown",
+      "country": null,
+      "published_date": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.88,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.934,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.88: profile skills: full stack, full-stack, node, node.js, react, saas; requested tech: react",
+          "freshness=1.00: published 0d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "6358946c6dd2d8cdb073",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812",
+        "name": "Anaplan",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-346812",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "learned-8155c5227d84",
+      "name": "Learned � Web & Mobile Full Stack Developer",
+      "lead_type": "full_time",
+      "company": "Learned",
+      "title": "Web & Mobile Full Stack Developer",
+      "url": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Web & Mobile Full Stack Developer",
+          "excerpt": "The mission Help build fair, engaged and high-performing teams. We believe everyone deserves a fair opportunity to develop and be rewarded for the value they bring. That�s why we build software that helps organizations set clear expectations, define what a role entails, assess p�",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+          "published_date": "2026-10-27",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full stack",
+        "mongodb",
+        "node.js",
+        "react",
+        "saas",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full stack, mongodb, node, node.js, react, saas",
+        "requested tech: react, typescript",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+          "name": "Learned",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Utrecht, Utrecht, Nederland",
+      "workplace": "unknown",
+      "country": "NL",
+      "published_date": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "status": "qualified",
+      "expired": false,
+      "risks": [],
+      "next_action": "Open Arbeitnow listing; apply only via official employer URL after review. Preferred path: official application_page (https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.88,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.934,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.88: profile skills: full stack, mongodb, node, node.js, react, saas; requested tech: react",
+          "freshness=1.00: published 0d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": {
+        "subject": "Application interest: Web & Mobile Full Stack Developer",
+        "email_body": "Dear Hiring Manager,\n\nI am writing about the Web & Mobile Full Stack Developer role at Learned. I am Ibad Akbar, a full-stack engineer focused on React, Next.js, TypeScript, and Node.js, currently shipping SaaS product work remotely.\n\nYour listing�s emphasis on full stack, mongodb, node.js, react aligns with work I do day to day. I would welcome the chance to share a tailored CV and discuss the role.\n\nKind regards,\nIbad Akbar",
+        "networking_message": "Hello � interested in the Web & Mobile Full Stack Developer opening at Learned. Full-stack React/Next/Node background; happy to connect.",
+        "service_proposal": "",
+        "call_to_action": "May I send a short CV tailored to this role?",
+        "personalization_facts": [
+          "Arbeitnow listing: Web & Mobile Full Stack Developer",
+          "Evidence dated 2026-10-27",
+          "Stack mentioned: full stack, mongodb, node.js, react, saas, typescript",
+          "Preferred contact path: application_form via application_page (https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136)"
+        ],
+        "application_message": "I am applying for Web & Mobile Full Stack Developer at Learned. Matching strengths: full stack, mongodb, node.js, react. Evidence reviewed: Arbeitnow listing: Web & Mobile Full Stack Developer.",
+        "recruiter_outreach": "Hi � reaching out about Web & Mobile Full Stack Developer at Learned. I am a full-stack engineer (React/Next.js/TypeScript/Node) open to remote/international roles. Happy to share materials if helpful.",
+        "partnership_pitch": "",
+        "send_approved": false
+      },
+      "confidence": 0.95,
+      "review_reason": "Explicit demand with auditable evidence above the confidence threshold.",
+      "content_hash": "45278f486102a1d28d1f",
+      "opportunity": {
+        "event_type": "none",
+        "summary": "",
+        "corroborating_signals": [],
+        "demand_proven": false,
+        "reason": "No demand-creating event detected in the public text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+        "name": "Learned",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/web-mobile-full-stack-developer-utrecht-168136",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "learned-f8dbe18b4981",
+      "name": "Learned � Full Stack Developer",
+      "lead_type": "full_time",
+      "company": "Learned",
+      "title": "Full Stack Developer",
+      "url": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Full Stack Developer",
+          "excerpt": "The mission Help build fair, engaged and high-performing teams. We believe everyone deserves a fair opportunity to develop and be rewarded for the value they bring. That's why we build software that helps organizations set clear expectations, define what a role entails, assess p�",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+          "published_date": "2026-10-27",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full stack",
+        "mongodb",
+        "node.js",
+        "react",
+        "saas",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full stack, mongodb, node, node.js, react, saas",
+        "requested tech: react, typescript",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+          "name": "Learned",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Utrecht, Utrecht, Nederland",
+      "workplace": "unknown",
+      "country": "NL",
+      "published_date": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.88,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.934,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.88: profile skills: full stack, mongodb, node, node.js, react, saas; requested tech: react",
+          "freshness=1.00: published 0d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "889d0be94ef0ad798260",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+        "name": "Learned",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.nl/jobs/companies/learned/full-stack-developer-utrecht-236079",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "botimmo-ag-45540913faf4",
+      "name": "BOTIMMO AG � Full Stack Developer & Tech Lead (m/w/d)",
+      "lead_type": "full_time",
+      "company": "BOTIMMO AG",
+      "title": "Full Stack Developer & Tech Lead (m/w/d)",
+      "url": "https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Full Stack Developer & Tech Lead (m/w/d)",
+          "excerpt": "Unsere Vision bei BOTTIMMO Immobilienmakler sollen ihr gesamtes Marketing mit unserer KI-gest�tzten Software eigenst�ndig erstellen, hochgradig automatisieren und datenbasiert steuern k�nnen. Wir sind seit acht Jahren am Markt, f�hlen uns aber noch immer wie ein junges Start-up �",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007",
+          "published_date": "2026-10-23",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full stack",
+        "node.js",
+        "saas",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full stack, node, node.js, saas, typescript",
+        "requested tech: typescript",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007",
+          "name": "BOTIMMO AG",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Kreuzlingen",
+      "workplace": "unknown",
+      "country": "US",
+      "published_date": "2026-10-23",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.87,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.931,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.87: profile skills: full stack, node, node.js, react, saas, typescript; requested tech: react",
+          "freshness=1.00: published 4d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "d2664559a4f134aa7e3f",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007",
+        "name": "BOTIMMO AG",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.ch/jobs/companies/botimmo-ag/full-stack-developer-tech-lead-kreuzlingen-10007",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "quantum-5e88a1314571",
+      "name": "Quantum � Lead Software Developer in Test",
+      "lead_type": "full_time",
+      "company": "Quantum",
+      "title": "Lead Software Developer in Test",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Lead Software Developer in Test",
+          "excerpt": "Our Company At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity. Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world�s most used digital comparison service, delivering val�",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979",
+          "published_date": "2026-10-27",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full-stack",
+        "javascript",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full-stack, javascript, typescript",
+        "requested tech: full-stack, javascript, typescript"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979",
+          "name": "Quantum",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "London",
+      "workplace": "unknown",
+      "country": "GB",
+      "published_date": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.71,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.883,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.71: profile skills: full-stack, javascript, node, react, typescript; requested tech: javascript, react",
+          "freshness=1.00: published 0d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "7e8c2b14d7dff09010b8",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979",
+        "name": "Quantum",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-software-developer-in-test-london-196979",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "cm-com-23ce706ad4ba",
+      "name": "CM.com � Full Stack Developer (Onboarding & Enablement)",
+      "lead_type": "full_time",
+      "company": "CM.com",
+      "title": "Full Stack Developer (Onboarding & Enablement)",
+      "url": "https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Full Stack Developer (Onboarding & Enablement)",
+          "excerpt": "We turn every customer interaction into an opportunity. We connect conversations, customer data and payments with AI Agents so that companies can deliver personal customer journeys at scale: both online and in person. �The entire customer journey. One platform� What we value Eve�",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093",
+          "published_date": "2026-10-27",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full stack",
+        "postgresql"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full stack, postgresql",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093",
+          "name": "CM.com",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Breda, Noord-Brabant, Netherlands",
+      "workplace": "unknown",
+      "country": "NL",
+      "published_date": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "status": "qualified",
+      "expired": false,
+      "risks": [],
+      "next_action": "Open Arbeitnow listing; apply only via official employer URL after review. Preferred path: official application_page (https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.69,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.877,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.69: profile skills: full stack, node, postgresql, react; requested tech: react",
+          "freshness=1.00: published 0d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": {
+        "subject": "Application interest: Full Stack Developer (Onboarding & Enablement)",
+        "email_body": "Dear Hiring Manager,\n\nI am writing about the Full Stack Developer (Onboarding & Enablement) role at CM.com. I am Ibad Akbar, a full-stack engineer focused on React, Next.js, TypeScript, and Node.js, currently shipping SaaS product work remotely.\n\nYour listing�s emphasis on full stack, postgresql aligns with work I do day to day. I would welcome the chance to share a tailored CV and discuss the role.\n\nKind regards,\nIbad Akbar",
+        "networking_message": "Hello � interested in the Full Stack Developer (Onboarding & Enablement) opening at CM.com. Full-stack React/Next/Node background; happy to connect.",
+        "service_proposal": "",
+        "call_to_action": "May I send a short CV tailored to this role?",
+        "personalization_facts": [
+          "Arbeitnow listing: Full Stack Developer (Onboarding & Enablement)",
+          "Evidence dated 2026-10-27",
+          "Stack mentioned: full stack, postgresql",
+          "Preferred contact path: application_form via application_page (https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093)"
+        ],
+        "application_message": "I am applying for Full Stack Developer (Onboarding & Enablement) at CM.com. Matching strengths: full stack, postgresql. Evidence reviewed: Arbeitnow listing: Full Stack Developer (Onboarding & Enablement).",
+        "recruiter_outreach": "Hi � reaching out about Full Stack Developer (Onboarding & Enablement) at CM.com. I am a full-stack engineer (React/Next.js/TypeScript/Node) open to remote/international roles. Happy to share materials if helpful.",
+        "partnership_pitch": "",
+        "send_approved": false
+      },
+      "confidence": 0.95,
+      "review_reason": "Explicit demand with auditable evidence above the confidence threshold.",
+      "content_hash": "73b94df94be81707b704",
+      "opportunity": {
+        "event_type": "none",
+        "summary": "",
+        "corroborating_signals": [],
+        "demand_proven": false,
+        "reason": "No demand-creating event detected in the public text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093",
+        "name": "CM.com",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.nl/jobs/companies/cmcom/full-stack-developer-onboarding-enablement-breda-468093",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "auterion-7834fbb2f2ce",
+      "name": "Auterion � Fullstack Web Developer",
+      "lead_type": "full_time",
+      "company": "Auterion",
+      "title": "Fullstack Web Developer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL; text contains an explicit hiring/project request (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Fullstack Web Developer",
+          "excerpt": "Overview We are looking for a hands-on Fullstack Web Developer to join our Web Apps team, in our Z�rich office. In this role you will have the opportunity to drive development of new features, have a say in architecture and design decisions and have real impact across all the te�",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552",
+          "published_date": "2026-10-27",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "fullstack",
+        "node.js",
+        "postgres",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: fullstack, node, node.js, typescript",
+        "requested tech: typescript"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552",
+          "name": "Auterion",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Zurich",
+      "workplace": "remote",
+      "country": "CH",
+      "published_date": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "status": "qualified",
+      "expired": false,
+      "risks": [],
+      "next_action": "Open Arbeitnow listing; apply only via official employer URL after review. Preferred path: official application_page (https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.63,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.859,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.63: profile skills: fullstack, node, node.js, react, typescript; requested tech: react",
+          "freshness=1.00: published 0d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": {
+        "subject": "Application interest: Fullstack Web Developer",
+        "email_body": "Dear Hiring Manager,\n\nI am writing about the Fullstack Web Developer role at Auterion. I am Ibad Akbar, a full-stack engineer focused on React, Next.js, TypeScript, and Node.js, currently shipping SaaS product work remotely.\n\nYour listing�s emphasis on fullstack, node.js, postgres, typescript aligns with work I do day to day. I would welcome the chance to share a tailored CV and discuss the role.\n\nKind regards,\nIbad Akbar",
+        "networking_message": "Hello � interested in the Fullstack Web Developer opening at Auterion. Full-stack React/Next/Node background; happy to connect.",
+        "service_proposal": "",
+        "call_to_action": "May I send a short CV tailored to this role?",
+        "personalization_facts": [
+          "Arbeitnow listing: Fullstack Web Developer",
+          "Evidence dated 2026-10-27",
+          "Stack mentioned: fullstack, node.js, postgres, typescript",
+          "Radar: Hiring for a technology matching the candidate stack (demand_proven=True)",
+          "Preferred contact path: application_form via application_page (https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552)"
+        ],
+        "application_message": "I am applying for Fullstack Web Developer at Auterion. Matching strengths: fullstack, node.js, postgres, typescript. Evidence reviewed: Arbeitnow listing: Fullstack Web Developer.",
+        "recruiter_outreach": "Hi � reaching out about Fullstack Web Developer at Auterion. I am a full-stack engineer (React/Next.js/TypeScript/Node) open to remote/international roles. Happy to share materials if helpful.",
+        "partnership_pitch": "",
+        "send_approved": false
+      },
+      "confidence": 1.0,
+      "review_reason": "Explicit demand with auditable evidence above the confidence threshold.",
+      "content_hash": "2da31317ddc6bd9e956b",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "explicit_hiring_or_project_request",
+          "stack_match_in_text"
+        ],
+        "demand_proven": true,
+        "reason": "Hiring for a technology matching the candidate stack, and the text also contains an explicit hiring/project request (explicit_hiring_or_project_request, stack_match_in_text)."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552",
+        "name": "Auterion",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-110552",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "scaleai-99cb66456963",
+      "name": "scaleai � Software Engineer, Enterprise",
+      "lead_type": "full_time",
+      "company": "scaleai",
+      "title": "Software Engineer, Enterprise",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Software Engineer, Enterprise",
+          "excerpt": "At Scale AI, we�re not just building AI tools�we�re pioneering the next era of enterprise AI. As businesses race to harness the power of Generative AI, Scale is at the forefront, delivering cutting-edge solutions that transform workflows, automate complex processes, and drive un�",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+          "published_date": "2026-10-26",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full-stack",
+        "postgresql",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full-stack, postgresql, typescript",
+        "requested tech: full-stack, typescript"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+          "name": "scaleai",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "London",
+      "workplace": "unknown",
+      "country": "GB",
+      "published_date": "2026-10-26",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.63,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.859,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.63: profile skills: full-stack, node, postgresql, react, typescript; requested tech: react",
+          "freshness=1.00: published 1d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "bd9e4c898f7d17d67da2",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+        "name": "scaleai",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-enterprise-london-314594",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "zurich-soft-robotics-gmb-0174eec45ff3",
+      "name": "Zurich Soft Robotics GmbH � Lead Software Engineer",
+      "lead_type": "full_time",
+      "company": "Zurich Soft Robotics GmbH",
+      "title": "Lead Software Engineer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL; text contains an explicit hiring/project request (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Lead Software Engineer",
+          "excerpt": "Building the intelligence behind Solskin Are you a driven person who wants to make buildings come alive? We are Zurich Soft Robotics (ZSR), a Zurich-based startup developing Solskin � a climate-adaptive solar facade. Solskin is not just a PV system or a shading system; it�s an i�",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+          "published_date": "2026-10-23",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full stack",
+        "postgresql",
+        "react",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full stack, postgresql, react, typescript",
+        "requested tech: react, typescript"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+          "name": "Zurich Soft Robotics GmbH",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Z�rich",
+      "workplace": "unknown",
+      "country": "CH",
+      "published_date": "2026-10-23",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.63,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.859,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.63: profile skills: full stack, node, postgresql, react, typescript; requested tech: react",
+          "freshness=1.00: published 4d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "f8439c2b538924eb3054",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+        "name": "Zurich Soft Robotics GmbH",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.ch/jobs/companies/zurich-soft-robotics-gmbh/lead-software-engineer-zurich-369297",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "jetbrains-c3d7f062213a",
+      "name": "jetbrains � Software Developer  Java/ Node.JS (Web Development Team)",
+      "lead_type": "full_time",
+      "company": "jetbrains",
+      "title": "Software Developer  Java/ Node.JS (Web Development Team)",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Software Developer  Java/ Node.JS (Web Development Team)",
+          "excerpt": "JetBrains creates professional tools that make developers more productive and help them focus on what matters. Our websites and web services are a core part of the JetBrains ecosystem. They connect us with users worldwide, power product distribution, support learning, and enable�",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048",
+          "published_date": "2026-10-24",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "node.js"
+      ],
+      "profile_match_reasons": [
+        "profile skills: node, node.js",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048",
+          "name": "jetbrains",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Berlin; Munich",
+      "workplace": "unknown",
+      "country": "DE",
+      "published_date": "2026-10-24",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.6,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.85,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.60: profile skills: node, node.js, react; requested tech: react",
+          "freshness=1.00: published 3d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "b145890d110e9fbb2705",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048",
+        "name": "jetbrains",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "verified_in_listing",
+          "confidence": 0.8,
+          "evidence": [
+            {
+              "excerpt": "d for you and your family Learning and development opportunities. Access to conferences, courses, and language classes. Relocation support. We help make your move as smooth and stress-free as possible. Language classes. Pick up the local language or sharpen",
+              "source_url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-101048",
+              "pattern": "relocation support"
+            }
+          ],
+          "relocation_support": true,
+          "verified_at": "2026-10-27",
+          "notes": "Explicit sponsorship/relocation language in the job listing."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "tether-operations-limite-5a9ed92129cf",
+      "name": "Tether Operations Limited � Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
+      "lead_type": "full_time",
+      "company": "Tether Operations Limited",
+      "title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL; text contains an explicit hiring/project request (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
+          "excerpt": "Join Tether and Shape the Future of Digital Finance At Tether, we�re not just building products, we�re pioneering a global financial revolution. Our cutting-edge solutions empower businesses�from exchanges and wallets to payment processors and ATMs�to seamlessly integrate reserv�",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039",
+          "published_date": "2026-10-27",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "node.js"
+      ],
+      "profile_match_reasons": [
+        "profile skills: node, node.js",
+        "core stack in title"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039",
+          "name": "Tether Operations Limited",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Remote job",
+      "workplace": "remote",
+      "country": null,
+      "published_date": "2026-10-27",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.6,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.85,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.60: profile skills: node, node.js, react; requested tech: react",
+          "freshness=1.00: published 0d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "3b581d338b458904af3f",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039",
+        "name": "Tether Operations Limited",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-edinburgh-115039",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "lemon-io-d89975fdeb5d",
+      "name": "Lemon.io � Senior React Full-stack Developer",
+      "lead_type": "full_time",
+      "company": "Lemon.io",
+      "title": "Senior React Full-stack Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+      "source": "remotive",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Remotive remote full time listing: Senior React Full-stack Developer",
+          "excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io � the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seni�",
+          "source_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+          "published_date": "2026-10-02",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full-stack",
+        "javascript",
+        "next.js",
+        "node.js",
+        "react",
+        "react.js",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full-stack, javascript, next.js, node, node.js, react",
+        "requested tech: full-stack, javascript, next.js, react, typescript",
+        "core stack in title"
+      ],
+      "recommended_service": "Full-stack product engineering with full-stack, javascript, next.js, node.js, react.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+          "name": "Lemon.io",
+          "title": "Application / project page",
+          "source_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Europe, USA, Canada, APAC",
+      "workplace": "remote",
+      "country": "CA",
+      "published_date": "2026-10-02",
+      "checked_date": "2026-10-27",
+      "status": "qualified",
+      "expired": false,
+      "risks": [
+        "Compensation not stated on listing"
+      ],
+      "next_action": "Review listing and apply via official Remotive URL (do not auto-send). Preferred path: official application_page (https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 1.0,
+        "contact_score": 0.7,
+        "freshness_score": 0.15,
+        "overall": 0.842,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=1.00: profile skills: full-stack, javascript, next.js, node, node.js, react; requested tech: javascript, next.js, react",
+          "freshness=0.15: stale (25d old)",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": {
+        "subject": "Application interest: Senior React Full-stack Developer",
+        "email_body": "Dear Hiring Manager,\n\nI am writing about the Senior React Full-stack Developer role at Lemon.io. I am Ibad Akbar, a full-stack engineer focused on React, Next.js, TypeScript, and Node.js, currently shipping SaaS product work remotely.\n\nYour listing�s emphasis on full-stack, javascript, next.js, node.js aligns with work I do day to day. I would welcome the chance to share a tailored CV and discuss the role.\n\nKind regards,\nIbad Akbar",
+        "networking_message": "Hello � interested in the Senior React Full-stack Developer opening at Lemon.io. Full-stack React/Next/Node background; happy to connect.",
+        "service_proposal": "",
+        "call_to_action": "May I send a short CV tailored to this role?",
+        "personalization_facts": [
+          "Remotive remote full time listing: Senior React Full-stack Developer",
+          "Evidence dated 2026-10-02",
+          "Stack mentioned: full-stack, javascript, next.js, node.js, react, react.js",
+          "Radar: Hiring for a technology matching the candidate stack (demand_proven=True)",
+          "Preferred contact path: application_form via application_page (https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133)"
+        ],
+        "application_message": "I am applying for Senior React Full-stack Developer at Lemon.io. Matching strengths: full-stack, javascript, next.js, node.js. Evidence reviewed: Remotive remote full time listing: Senior React Full-stack Developer.",
+        "recruiter_outreach": "Hi � reaching out about Senior React Full-stack Developer at Lemon.io. I am a full-stack engineer (React/Next.js/TypeScript/Node) open to remote/international roles. Happy to share materials if helpful.",
+        "partnership_pitch": "",
+        "send_approved": false
+      },
+      "confidence": 1.0,
+      "review_reason": "Explicit demand with auditable evidence above the confidence threshold.",
+      "content_hash": "b72eb7d3a4c7bb39241a",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "budget_or_compensation_stated",
+          "stack_match_in_text"
+        ],
+        "demand_proven": true,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: budget_or_compensation_stated, stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+        "name": "Lemon.io",
+        "title": "Application / project page",
+        "source_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "remotive_id": 2091133,
+        "job_type": "full_time",
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "the-exploration-company-a9073c3c6303",
+      "name": "The Exploration Company � Software Engineer � Mission Control Software",
+      "lead_type": "full_time",
+      "company": "The Exploration Company",
+      "title": "Software Engineer � Mission Control Software",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Software Engineer � Mission Control Software",
+          "excerpt": "Here at The Exploration Company, we are building spacecrafts for humanity. Join us as a Software Engineer � Mission Control Software, where you will develop mission-critical software that powers our integrated testing and mission operations. You will primarily work on our Missio�",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+          "published_date": "2026-10-24",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "javascript",
+        "react"
+      ],
+      "profile_match_reasons": [
+        "profile skills: javascript, react",
+        "requested tech: javascript, react"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+          "name": "The Exploration Company",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Munich, Germany",
+      "workplace": "unknown",
+      "country": "DE",
+      "published_date": "2026-10-24",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.53,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.829,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.53: profile skills: javascript, node, react; requested tech: javascript, react",
+          "freshness=1.00: published 3d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "782a7797fc5e4213768a",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+        "name": "The Exploration Company",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "verified_in_listing",
+          "confidence": 0.8,
+          "evidence": [
+            {
+              "excerpt": "based on race, religion, colour, national origin, gender, sexual orientation, age, marital status or disability status. Relocation assistance is provided for those willing to relocate including visa sponsorship where applicable. All offers are contingent upon t",
+              "source_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
+              "pattern": "relocation support"
+            }
+          ],
+          "relocation_support": true,
+          "verified_at": "2026-10-27",
+          "notes": "Explicit sponsorship/relocation language in the job listing."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "mitre-media-23cf65afe9f6",
+      "name": "Mitre Media � Tech Lead Full-Stack Rails Engineer",
+      "lead_type": "full_time",
+      "company": "Mitre Media",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "remotive",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Remotive remote full time listing: Tech Lead Full-Stack Rails Engineer",
+          "excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we�ve serv�",
+          "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+          "published_date": "2026-10-14",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "full-stack",
+        "javascript",
+        "postgresql",
+        "react",
+        "tailwind"
+      ],
+      "profile_match_reasons": [
+        "profile skills: full-stack, javascript, postgresql, react, tailwind",
+        "requested tech: full-stack, javascript, react"
+      ],
+      "recommended_service": "Full-stack product engineering with full-stack, javascript, postgresql, react, tailwind.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+          "name": "Mitre Media",
+          "title": "Application / project page",
+          "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": "$170k - $200k",
+      "location": "USA, Canada, USA timezones",
+      "workplace": "remote",
+      "country": "CA",
+      "published_date": "2026-10-14",
+      "checked_date": "2026-10-27",
+      "status": "qualified",
+      "expired": false,
+      "risks": [],
+      "next_action": "Review listing and apply via official Remotive URL (do not auto-send). Preferred path: official application_page (https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.71,
+        "contact_score": 0.7,
+        "freshness_score": 0.587,
+        "overall": 0.821,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.71: profile skills: full-stack, javascript, postgresql, react, tailwind; requested tech: javascript, react",
+          "freshness=0.59: published 13d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": {
+        "subject": "Application interest: Tech Lead Full-Stack Rails Engineer",
+        "email_body": "Dear Hiring Manager,\n\nI am writing about the Tech Lead Full-Stack Rails Engineer role at Mitre Media. I am Ibad Akbar, a full-stack engineer focused on React, Next.js, TypeScript, and Node.js, currently shipping SaaS product work remotely.\n\nYour listing�s emphasis on full-stack, javascript, postgresql, react aligns with work I do day to day. I would welcome the chance to share a tailored CV and discuss the role.\n\nKind regards,\nIbad Akbar",
+        "networking_message": "Hello � interested in the Tech Lead Full-Stack Rails Engineer opening at Mitre Media. Full-stack React/Next/Node background; happy to connect.",
+        "service_proposal": "",
+        "call_to_action": "May I send a short CV tailored to this role?",
+        "personalization_facts": [
+          "Remotive remote full time listing: Tech Lead Full-Stack Rails Engineer",
+          "Evidence dated 2026-10-14",
+          "Compensation stated as $170k - $200k",
+          "Stack mentioned: full-stack, javascript, postgresql, react, tailwind",
+          "Preferred contact path: application_form via application_page (https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746)"
+        ],
+        "application_message": "I am applying for Tech Lead Full-Stack Rails Engineer at Mitre Media. Matching strengths: full-stack, javascript, postgresql, react. Evidence reviewed: Remotive remote full time listing: Tech Lead Full-Stack Rails Engineer.",
+        "recruiter_outreach": "Hi � reaching out about Tech Lead Full-Stack Rails Engineer at Mitre Media. I am a full-stack engineer (React/Next.js/TypeScript/Node) open to remote/international roles. Happy to share materials if helpful.",
+        "partnership_pitch": "",
+        "send_approved": false
+      },
+      "confidence": 0.95,
+      "review_reason": "Explicit demand with auditable evidence above the confidence threshold.",
+      "content_hash": "71c16ac2f89543819091",
+      "opportunity": {
+        "event_type": "none",
+        "summary": "",
+        "corroborating_signals": [],
+        "demand_proven": false,
+        "reason": "No demand-creating event detected in the public text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+        "name": "Mitre Media",
+        "title": "Application / project page",
+        "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "remotive_id": 2069746,
+        "job_type": "full_time",
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "lemon-io-2d4654e965c2",
+      "name": "Lemon.io � Senior back-end Engineer",
+      "lead_type": "full_time",
+      "company": "Lemon.io",
+      "title": "Senior back-end Engineer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "source": "remotive",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Remotive remote full time listing: Senior back-end Engineer",
+          "excerpt": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe � no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on �",
+          "source_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+          "published_date": "2026-09-30",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "javascript",
+        "next.js",
+        "node.js",
+        "react",
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: javascript, next.js, node, node.js, react, typescript",
+        "requested tech: javascript, next.js, react, typescript"
+      ],
+      "recommended_service": "Full-stack product engineering with javascript, next.js, node.js, react, typescript.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+          "name": "Lemon.io",
+          "title": "Application / project page",
+          "source_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+      "workplace": "remote",
+      "country": "CH",
+      "published_date": "2026-09-30",
+      "checked_date": "2026-10-27",
+      "status": "qualified",
+      "expired": false,
+      "risks": [
+        "Compensation not stated on listing"
+      ],
+      "next_action": "Review listing and apply via official Remotive URL (do not auto-send). Preferred path: official application_page (https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.89,
+        "contact_score": 0.7,
+        "freshness_score": 0.15,
+        "overall": 0.809,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.89: profile skills: full-stack, javascript, next.js, node, node.js, react; requested tech: javascript, next.js, react",
+          "freshness=0.15: stale (27d old)",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": {
+        "subject": "Application interest: Senior back-end Engineer",
+        "email_body": "Dear Hiring Manager,\n\nI am writing about the Senior back-end Engineer role at Lemon.io. I am Ibad Akbar, a full-stack engineer focused on React, Next.js, TypeScript, and Node.js, currently shipping SaaS product work remotely.\n\nYour listing�s emphasis on javascript, next.js, node.js, react aligns with work I do day to day. I would welcome the chance to share a tailored CV and discuss the role.\n\nKind regards,\nIbad Akbar",
+        "networking_message": "Hello � interested in the Senior back-end Engineer opening at Lemon.io. Full-stack React/Next/Node background; happy to connect.",
+        "service_proposal": "",
+        "call_to_action": "May I send a short CV tailored to this role?",
+        "personalization_facts": [
+          "Remotive remote full time listing: Senior back-end Engineer",
+          "Evidence dated 2026-09-30",
+          "Stack mentioned: javascript, next.js, node.js, react, typescript",
+          "Preferred contact path: application_form via application_page (https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132)"
+        ],
+        "application_message": "I am applying for Senior back-end Engineer at Lemon.io. Matching strengths: javascript, next.js, node.js, react. Evidence reviewed: Remotive remote full time listing: Senior back-end Engineer.",
+        "recruiter_outreach": "Hi � reaching out about Senior back-end Engineer at Lemon.io. I am a full-stack engineer (React/Next.js/TypeScript/Node) open to remote/international roles. Happy to share materials if helpful.",
+        "partnership_pitch": "",
+        "send_approved": false
+      },
+      "confidence": 0.95,
+      "review_reason": "Explicit demand with auditable evidence above the confidence threshold.",
+      "content_hash": "e78321ba4e66b0502e74",
+      "opportunity": {
+        "event_type": "none",
+        "summary": "",
+        "corroborating_signals": [],
+        "demand_proven": false,
+        "reason": "No demand-creating event detected in the public text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+        "name": "Lemon.io",
+        "title": "Application / project page",
+        "source_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "remotive_id": 2091132,
+        "job_type": "full_time",
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "datadog-c8ba31957e1b",
+      "name": "Datadog � Senior Software Engineer - Incident Insights & Readiness",
+      "lead_type": "full_time",
+      "company": "Datadog",
+      "title": "Senior Software Engineer - Incident Insights & Readiness",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199",
+      "source": "arbeitnow",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL (typed as full_time)",
+      "evidence": [
+        {
+          "summary": "Arbeitnow listing: Senior Software Engineer - Incident Insights & Readiness",
+          "excerpt": "The Incident Insights & Readiness SRE team at Datadog fosters a resilient culture by using incidents as learning opportunities and catalysts for growth. Our users are Datadog engineers, and we build the software, tooling, and operational frameworks that help them prepare for, re�",
+          "source_url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199",
+          "published_date": "2026-10-26",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: typescript",
+        "requested tech: typescript"
+      ],
+      "recommended_service": "Product engineering (React/Next/Node) with sponsorship/relocation awareness.",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199",
+          "name": "Datadog",
+          "title": "Application / project page",
+          "source_url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": null,
+      "location": "Paris",
+      "workplace": "unknown",
+      "country": null,
+      "published_date": "2026-10-26",
+      "checked_date": "2026-10-27",
+      "status": "needs_review",
+      "expired": false,
+      "risks": [
+        "Opportunity radar: event without proven demand � keep as signal, not a qualified lead."
+      ],
+      "next_action": "Watch for a public hiring/project ask before outreach; funding alone is not enough. Preferred path: official application_page (https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.45,
+        "contact_score": 0.7,
+        "freshness_score": 1.0,
+        "overall": 0.805,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.45: profile skills: node, react, typescript; requested tech: react",
+          "freshness=1.00: published 1d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": null,
+      "confidence": 0.55,
+      "review_reason": "Opportunity radar found an event without corroborating demand � not auto-qualified.",
+      "content_hash": "6525bf90225ec8df39fd",
+      "opportunity": {
+        "event_type": "tech_hiring",
+        "summary": "Hiring for a technology matching the candidate stack",
+        "corroborating_signals": [
+          "stack_match_in_text"
+        ],
+        "demand_proven": false,
+        "reason": "Hiring for a technology matching the candidate stack. Corroboration: stack_match_in_text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199",
+        "name": "Datadog",
+        "title": "Application / project page",
+        "source_url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199",
+        "relevance": "Official application/contact form is available when a named recruiter contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "sponsorship": {
+          "classification": "possible",
+          "confidence": 0.55,
+          "evidence": [
+            {
+              "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+              "source_url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-169199",
+              "pattern": "arbeitnow visa_sponsorship filter"
+            }
+          ],
+          "relocation_support": null,
+          "verified_at": "2026-10-27",
+          "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+        },
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    },
+    {
+      "id": "askable-b2d5625837a6",
+      "name": "Askable � Software Engineer, AI Coding Tasks",
+      "lead_type": "contract",
+      "company": "Askable",
+      "title": "Software Engineer, AI Coding Tasks",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "source": "remotive",
+      "intent": "EXPLICIT_DEMAND",
+      "intent_explanation": "Active job listing with public application/project URL; text contains an explicit hiring/project request (typed as contract)",
+      "evidence": [
+        {
+          "summary": "Remotive remote contract listing: Software Engineer, AI Coding Tasks",
+          "excerpt": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: �",
+          "source_url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+          "published_date": "2026-10-17",
+          "checked_date": "2026-10-27"
+        }
+      ],
+      "technical_requirements": [
+        "typescript"
+      ],
+      "profile_match_reasons": [
+        "profile skills: typescript",
+        "requested tech: typescript"
+      ],
+      "recommended_service": "Contract/freelance delivery on typescript (SaaS UI, APIs, dashboards).",
+      "contacts": [
+        {
+          "channel_type": "application_page",
+          "value": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+          "name": "Askable",
+          "title": "Application / project page",
+          "source_url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+          "verification_status": "published_on_official_source",
+          "verification_method": "listing_url_from_source_api",
+          "date_checked": "2026-10-27",
+          "notes": "Official listing/application URL from the source feed."
+        }
+      ],
+      "budget_or_salary": "$1000 per task",
+      "location": "Worldwide",
+      "workplace": "remote",
+      "country": null,
+      "published_date": "2026-10-17",
+      "checked_date": "2026-10-27",
+      "status": "qualified",
+      "expired": false,
+      "risks": [],
+      "next_action": "Review listing and apply via official Remotive URL (do not auto-send). Preferred path: official application_page (https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158).",
+      "scores": {
+        "intent_score": 1.0,
+        "fit_score": 0.45,
+        "contact_score": 0.7,
+        "freshness_score": 0.683,
+        "overall": 0.757,
+        "reasons": [
+          "intent=EXPLICIT_DEMAND (1.00)",
+          "fit=0.45: profile skills: api, saas, typescript; requested tech: typescript",
+          "freshness=0.68: published 10d ago",
+          "contact=0.70: application/project page available"
+        ]
+      },
+      "outreach": {
+        "subject": "Typescript help for Askable",
+        "email_body": "Hi Askable team,\n\nI saw your public note about �Software Engineer, AI Coding Tasks� (2026-10-17). I am Ibad Akbar, a full-stack engineer (React/Next.js/TypeScript/Node) with experience shipping SaaS dashboards, APIs, and product UI.\n\nIf useful, I can help with: Contract/freelance delivery on typescript (SaaS UI, APIs, dashboards).. Happy to share relevant work from my portfolio and a short plan based on your brief � no obligation.\n\nBest regards,\nIbad Akbar",
+        "networking_message": "Hi � noticed your request for Software Engineer, AI Coding Tasks. I build SaaS/product work with typescript. Open to a short chat if you are still looking.",
+        "service_proposal": "Contract/freelance delivery on typescript (SaaS UI, APIs, dashboards).",
+        "call_to_action": "If this is still open, would a 15-minute call this week be useful?",
+        "personalization_facts": [
+          "Remotive remote contract listing: Software Engineer, AI Coding Tasks",
+          "Evidence dated 2026-10-17",
+          "Compensation stated as $1000 per task",
+          "Stack mentioned: typescript",
+          "Preferred contact path: application_form via application_page (https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158)"
+        ],
+        "application_message": "",
+        "recruiter_outreach": "",
+        "partnership_pitch": "",
+        "send_approved": false
+      },
+      "confidence": 0.95,
+      "review_reason": "Explicit demand with auditable evidence above the confidence threshold.",
+      "content_hash": "a2236eb5c4560c1d803b",
+      "opportunity": {
+        "event_type": "none",
+        "summary": "",
+        "corroborating_signals": [],
+        "demand_proven": false,
+        "reason": "No demand-creating event detected in the public text."
+      },
+      "partnership": {
+        "is_agency": false,
+        "partnership_fit": "none",
+        "pitch_angle": "",
+        "reasons": []
+      },
+      "preferred_contact": {
+        "role": "application_form",
+        "channel_type": "application_page",
+        "value": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+        "name": "Askable",
+        "title": "Application / project page",
+        "source_url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+        "relevance": "Official application/contact form is available when a named engineering manager contact was not published",
+        "avoid_reason": ""
+      },
+      "last_contact_date": null,
+      "next_followup_date": null,
+      "notes": "",
+      "outcome": "",
+      "raw": {
+        "remotive_id": 2091158,
+        "job_type": "contract",
+        "research_deferred": false,
+        "model_tier": "extract"
+      }
+    }
+  ],
+  "meta": {
+    "raw_count": 19,
+    "deduped_count": 18,
+    "returned": 18,
+    "errors": [],
+    "sources": {
+      "remotive": {
+        "count": 4,
+        "attempts": 1,
+        "url": "https://remotive.com/api/remote-jobs?category=software-dev&search=typescript+full-stack+next.js+react+javascript&limit=60",
+        "raw_count": 10,
+        "attribution": "Source: Remotive (https://remotive.com). Link back to listing URLs.",
+        "legal_notice": "Legal warning - Hey, thanks for using Remotive's API, we appreciate it! Please note that API documentation and access is granted so that developers can share our jobs further. Please do not submit Remotive jobs to third Party websites, including but not limited to: Jooble, Neuvoo, Google Jobs, LinkedIn Jobs. Please link back to the URL found on Remotive AND mention Remotive as a source in order to Remotive to get traffic from your listing. If you don't do that, we'll terminate your API access, sorry! Jobs displayed are delayed by 24 hours, the goal being that jobs are attributed to Remotive on various platforms. Displaying our jobs in order to collect signups/email addresses to show a listing constitutes a breach of our terms of services. We offer a private, paid-for API, please email us at hello(at)remotive(dot)io for more information (starting budget is $5k/mo). Please find out terms of services on https://remotive.com/api-documentation. Please note that there is absolutely no need to request Remotive Job data too frequently. Typically, you only need to GET Remotive job data through this API a couple of times a day (we advise max. 4 times a day). Our data is not changing much faster than that anyway. Note that excessive requests will be blocked. Many thanks (Rodolphe & the Remotive team!)"
+      },
+      "arbeitnow": {
+        "count": 15,
+        "attempts": 1,
+        "attribution": "Source: Arbeitnow (https://www.arbeitnow.com).",
+        "pages_fetched": 2
+      },
+      "upwork": {
+        "stub": true,
+        "implemented": false,
+        "reason": "Upwork project search requires authenticated API / ToS-compliant access. Not scraped. Enable only with official API credentials and user approval."
+      },
+      "contra": {
+        "stub": true,
+        "implemented": false,
+        "reason": "No verified public feed for automated search; agent may use WebSearch for public posts only."
+      },
+      "wellfound": {
+        "stub": true,
+        "implemented": false,
+        "reason": "Same stub posture as job_scraper visa stubs � no permitted scrape."
+      },
+      "linkedin_posts": {
+        "stub": true,
+        "implemented": false,
+        "reason": "Do not scrape LinkedIn. Agent may use WebSearch snippets of public posts and record original URLs; never bypass login or CAPTCHA."
+      }
+    },
+    "persist": {
+      "added": 0,
+      "updated": 18,
+      "total": 92
+    },
+    "export": {
+      "dir": "D:\\jobboard\\ai-job-search\\leads\\exports\\20261027-182714",
+      "report": "D:\\jobboard\\ai-job-search\\leads\\exports\\20261027-182714\\report.md",
+      "csv": "D:\\jobboard\\ai-job-search\\leads\\exports\\20261027-182714\\leads.csv",
+      "outreach": "D:\\jobboard\\ai-job-search\\leads\\exports\\20261027-182714\\outreach-drafts.md",
+      "meta": "D:\\jobboard\\ai-job-search\\leads\\exports\\20261027-182714\\sources-and-limitations.md",
+      "json": "D:\\jobboard\\ai-job-search\\leads\\exports\\20261027-182714\\leads.json"
+    },
+    "send_approved_default": false,
+    "incremental": {
+      "enabled": false,
+      "new": 18,
+      "changed": 0,
+      "unchanged": 0,
+      "fetch_skipped": []
+    },
+    "cache": {
+      "vacancy_hits": 17,
+      "company_hits": 0,
+      "ai_hits": 0
+    },
+    "qualified": 7,
+    "review_queue": 11,
+    "run_id": "20261027-132711-543930",
+    "run_status": "complete",
+    "failed_sources": {},
+    "resumed": false
+  }
+}

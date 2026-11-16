@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486095611",
+      "title": "Frontend Engineering Lead - Content",
+      "company": "trivago",
+      "companyUrl": "https://de.linkedin.com/company/trivagonv",
+      "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineering-lead-content-at-trivago-4486095611"
+    },
+    {
+      "id": "4479716119",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479716119"
+    },
+    {
+      "id": "4479598989",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479598989"
+    },
+    {
+      "id": "4479883351",
+      "title": "Staff Software Engineer - Computer Graphics for the Web (WebGL/WebGPU) (F/M/D)",
+      "company": "NavVis",
+      "companyUrl": "https://de.linkedin.com/company/navvis",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/staff-software-engineer-computer-graphics-for-the-web-webgl-webgpu-f-m-d-at-navvis-4479883351"
+    },
+    {
+      "id": "4486254230",
+      "title": "Senior Frontend Engineer (m/f/d) – Munich",
+      "company": "Impower GmbH",
+      "companyUrl": "https://de.linkedin.com/company/impower-gmbh",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/senior-frontend-engineer-m-f-d-%E2%80%93-munich-at-impower-gmbh-4486254230"
+    },
+    {
+      "id": "4462779819",
+      "title": "Staff/ Senior Full Stack Engineer (all genders)",
+      "company": "akeno",
+      "companyUrl": "https://de.linkedin.com/company/akeno-ai",
+      "location": "Hamburg, Hamburg, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/staff-senior-full-stack-engineer-all-genders-at-akeno-4462779819"
+    },
+    {
+      "id": "4488856553",
+      "title": "Full-Stack Software Engineer (F/M/D)",
+      "company": "NavVis",
+      "companyUrl": "https://de.linkedin.com/company/navvis",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-software-engineer-f-m-d-at-navvis-4488856553"
+    },
+    {
+      "id": "4470178923",
+      "title": "Principal Frontend Engineer - ZEOS Portal (all genders)",
+      "company": "Zalando",
+      "companyUrl": "https://de.linkedin.com/company/zalando",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-07",
+      "url": "https://de.linkedin.com/jobs/view/principal-frontend-engineer-zeos-portal-all-genders-at-zalando-4470178923"
+    },
+    {
+      "id": "4486520334",
+      "title": "Software Engineer",
+      "company": "Arrows",
+      "companyUrl": "https://uk.linkedin.com/company/arrows-group",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-at-arrows-4486520334"
+    },
+    {
+      "id": "4486688958",
+      "title": "Senior Fullstack Engineer (f/m/d) - Permanent employee, Full-time · Munich",
+      "company": "ticketbro",
+      "companyUrl": "https://de.linkedin.com/company/ticketbro",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-08",
+      "url": "https://de.linkedin.com/jobs/view/senior-fullstack-engineer-f-m-d-permanent-employee-full-time-%C2%B7-munich-at-ticketbro-4486688958"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿Push Operations - Full Stack Engineer II
+Engineering
+Canada - Pacific Time Zone - Remote, Full-time, Intermediate
+We are looking for a Full Stack Engineer II!
+The Company: Push is an all-in-one platform that helps businesses grow and scale their companies by simplifying HR, payroll, time tracking, and scheduling.
+Location: We are a remote-first company. We are considering eligible candidates for this role from any location across Canada with a sufficient time zone overlap with our Vancouver team.
+Job Duties:
+- Design, build, and maintain features across the full stack
+- Front-end: React/React Native web and mobile applications
+- Back-end: PHP (and related frameworks), Node.js, RESTful APIs, microservices
+- Data: database schemas, integrations, and optimization
+- Build mobile experiences with React Native
+Requirements:
+- 3–5 years of professional experience as a Full Stack Developer
+- Proficiency with JavaScript/TypeScript and modern frameworks (React, React Native, Node.js)
+- Proficiency with PHP or a related backend framework (Laravel, Symfony, or equivalent)
+- Strong understanding of RESTful APIs, microservices, and database systems (SQL/NoSQL)
+- Experience integrating frontends and mobile apps with back-end APIs
+- Familiarity with mobile-specific challenges (app store deployments, push notifications)
+- Solid grasp of testing and CI/CD pipelines
+- Experience with cloud platforms (AWS, GCP, or Azure) is an asset
+- Proficiency with modern AI-driven tools such as Claude Code
+Salary: $90,000 - $130,000 CAD annually

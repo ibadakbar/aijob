@@ -1,0 +1,732 @@
+﻿{
+  "meta": {
+    "count": 25,
+    "page": 1,
+    "total": 926
+  },
+  "results": [
+    {
+      "id": "senior-next-js-full-stack-developer-xa-security-ytcbyw4h",
+      "title": "Senior Next.js Full Stack Developer",
+      "company": "XA Security",
+      "company_slug": "xa-security",
+      "location": "Calgary, Canada",
+      "date": "2026-11-06",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159099513__7103?utm_campaign=publisher&utm_medium=api&geoID=847&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "api",
+        "data-modeling",
+        "nextjs",
+        "observability",
+        "postgresql",
+        "react",
+        "sql",
+        "supabase",
+        "typescript",
+        "webhooks"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-next-js-react-frontend-engineer-cubestech-ltd-r24preur",
+      "title": "Senior Next.js & React Frontend Engineer",
+      "company": "Cubestech Ltd",
+      "company_slug": "cubestech",
+      "location": "Glasgow, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__605430508__7082?utm_campaign=publisher&utm_medium=api&geoID=12335&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "nextjs",
+        "react"
+      ],
+      "description": null
+    },
+    {
+      "id": "full-stack-developer-react-next-js-learnformula-24ewfejq",
+      "title": "Full Stack Developer (React + Next.js)",
+      "company": "Learnformula",
+      "company_slug": "learnformula",
+      "location": null,
+      "date": "2026-11-09",
+      "url": "https://www.careers-page.com/learnformula/job/5WYYY6YR?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "aws",
+        "ci-cd",
+        "cloudfront",
+        "ec2",
+        "git",
+        "github",
+        "github-actions",
+        "infrastructure-as-code",
+        "ios",
+        "javascript",
+        "kotlin",
+        "lambda",
+        "mysql",
+        "nextjs",
+        "nodejs",
+        "postgresql",
+        "rdbms",
+        "rds",
+        "react",
+        "rest",
+        "s3",
+        "seo",
+        "stripe",
+        "swift",
+        "terraform",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-frontend-engineer-react-next-js-typescript-s-i-systems-ltd-fdl4iwo7",
+      "title": "Senior Frontend Engineer - React / Next.js / TypeScript",
+      "company": "S I Systems",
+      "company_slug": "s-i-systems",
+      "location": "Toronto, Canada",
+      "date": "2026-11-09",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__160240123__7103?utm_campaign=publisher&utm_medium=api&geoID=6225&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "aws",
+        "azure",
+        "cloud",
+        "gcp",
+        "nextjs",
+        "react",
+        "rest",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-react-next-js-engineer-ux-driven-frontend-archie-lun7qkdh",
+      "title": "Senior React/Next.js Engineer - UX-Driven Frontend",
+      "company": "Archie",
+      "company_slug": "archie",
+      "location": "Montréal, Canada",
+      "date": "2026-11-08",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159919403__7103?utm_campaign=publisher&utm_medium=api&geoID=3824&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "api",
+        "css",
+        "git",
+        "jest",
+        "nextjs",
+        "react",
+        "react-native",
+        "rest",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "full-stack-entwickler-in-next-js-remote-itze-bits-gmbh-jca2kvre",
+      "title": "Werkstudent*in: Full-Stack (Next.js) – Remote",
+      "company": "Itze-Bits GmbH",
+      "company_slug": "itze-bits",
+      "location": "Berlin",
+      "date": "2026-11-06",
+      "url": "https://www.arbeitnow.com/jobs/companies/itze-bits-gmbh/full-stack-entwicklerin-nextjs-remote-berlin-336824?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ai",
+        "claude-code",
+        "erp",
+        "nextjs",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "frontend-engineer-react-next-js-for-ecommerce-regional-recruitment-o7cusimv",
+      "title": "Frontend Engineer - React/Next.js for Ecommerce",
+      "company": "Regional Recruitment",
+      "company_slug": "regional-recruitment",
+      "location": "Manchester, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__606871212__7082?utm_campaign=publisher&utm_medium=api&geoID=19285&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ecommerce",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-frontend-engineer-react-next-js-hybrid-trager-gerustbau-gmbh-co-kg-mwmq6lem",
+      "title": "Senior Frontend Engineer - React/Next.js, Hybrid",
+      "company": "Träger Gerüstbau GmbH & Co. KG",
+      "company_slug": "trager-gerustbau",
+      "location": "Liverpool, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__604393797__7082?utm_campaign=publisher&utm_medium=api&geoID=413&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "accessibility",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "frontend-engineer-react-next-js-adaptable-design-co-sweoxyam",
+      "title": "Frontend Engineer (React/Next.js)",
+      "company": "Adaptable Design Co",
+      "company_slug": "adaptable-design",
+      "location": "Birmingham, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__604416942__7082?utm_campaign=publisher&utm_medium=api&geoID=835&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "css",
+        "figma",
+        "git",
+        "html",
+        "integration-testing",
+        "javascript",
+        "nextjs",
+        "react",
+        "seo",
+        "typescript",
+        "vercel",
+        "wordpress"
+      ],
+      "description": null
+    },
+    {
+      "id": "full-stack-web-developer-next-js-electronic-arts-ea-fm6z5npv",
+      "title": "Full Stack Web Developer Next.js",
+      "company": "Electronic Arts (EA)",
+      "company_slug": "electronic-arts-ea",
+      "location": "Vancouver, Canada",
+      "date": "2026-11-04",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__157576743__7103?utm_campaign=publisher&utm_medium=api&geoID=6399&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "agile",
+        "api",
+        "authentication",
+        "ci-cd",
+        "contentful",
+        "git",
+        "graphql",
+        "javascript",
+        "nestjs",
+        "nextjs",
+        "nodejs",
+        "react",
+        "rest",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-front-end-developer-react-js-next-js-ca-aleia-3wvxyti5",
+      "title": "Senior Front-End Developer (React.js/Next/js) CA",
+      "company": "ALEIA",
+      "company_slug": "aleia",
+      "location": "Montréal, Canada",
+      "date": "2026-11-08",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159971712__7103?utm_campaign=publisher&utm_medium=api&geoID=3824&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "api",
+        "css",
+        "html",
+        "javascript",
+        "nextjs",
+        "react",
+        "rest",
+        "typescript",
+        "wordpress"
+      ],
+      "description": null
+    },
+    {
+      "id": "hybrid-full-stack-engineer-typescript-next-js-sagacity-e73zuxma",
+      "title": "Hybrid Full-Stack Engineer: TypeScript/Next.js",
+      "company": "Sagacity",
+      "company_slug": "sagacity",
+      "location": "London, United Kingdom",
+      "date": "2026-11-08",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__613372037__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "api",
+        "databricks",
+        "nextjs",
+        "sql",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-full-stack-developer-ii-next-js-typescript-loblaw-j3pusz5r",
+      "title": "Senior Full Stack Developer II — Next.js & TypeScript",
+      "company": "Loblaw",
+      "company_slug": "loblaw",
+      "location": "Brampton, Canada",
+      "date": "2026-11-07",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159701185__7103?utm_campaign=publisher&utm_medium=api&geoID=676&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "nextjs",
+        "sql",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-frontend-full-stack-engineer-react-next-js-aws-the-hr-ally-hjz7nhq7",
+      "title": "Senior Frontend & Full-Stack Engineer | React/Next.js & AWS",
+      "company": "The HR Ally",
+      "company_slug": "the-hr-ally",
+      "location": "Melbourne, Australia",
+      "date": "2026-11-06",
+      "url": "https://au.whatjobs.com/pub_api__cpl__131778231__7084?utm_campaign=publisher&utm_medium=api&geoID=1558&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "aws",
+        "ci-cd",
+        "cloud",
+        "github",
+        "github-actions",
+        "nextjs",
+        "react"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-full-stack-engineer-react-next-js-node-js-oracle-sweent-s6fg32vr",
+      "title": "Senior Full-Stack Engineer (React / Next.js / Node.js + Oracle)",
+      "company": "Sweent",
+      "company_slug": "sweent",
+      "location": "United States",
+      "date": "2026-11-06",
+      "url": "https://www.whatjobs.com/pub_api__cpl__3249422271__7065?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "accessibility",
+        "active-directory",
+        "api",
+        "authentication",
+        "ci-cd",
+        "cypress",
+        "docker",
+        "gitlab",
+        "jest",
+        "kubernetes",
+        "ldap",
+        "nextjs",
+        "nodejs",
+        "oracle",
+        "php",
+        "plsql",
+        "react",
+        "rest",
+        "sql",
+        "typescript",
+        "vpn",
+        "wcag"
+      ],
+      "description": null
+    },
+    {
+      "id": "staff-full-stack-engineer-react-next-js-cloud-platforms-commonwealth-bank-kqqjqmzf",
+      "title": "Staff Full-Stack Engineer - React/Next.js, Cloud Platforms",
+      "company": "Commonwealth Bank",
+      "company_slug": "commonwealth-bank",
+      "location": "Melbourne, Australia",
+      "date": "2026-11-04",
+      "url": "https://au.whatjobs.com/pub_api__cpl__130951952__7084?utm_campaign=publisher&utm_medium=api&geoID=1558&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "frontend-data-viz-engineer-react-ts-next-js-amsterdam-startup-atlas-bgykd2pk",
+      "title": "Frontend Data Viz Engineer (React/TS/Next.js) - Amsterdam",
+      "company": "Startup Atlas",
+      "company_slug": "startup-atlas",
+      "location": "Netherlands",
+      "date": "2026-11-04",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__177383224__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "nl"
+      ],
+      "skills": [
+        "cloud",
+        "polars"
+      ],
+      "description": null
+    },
+    {
+      "id": "react-developer-react-next-js-net-c-wpf-mandatory-techclub-inc-lgl3hngy",
+      "title": "React Developer (React, Next.js, .Net/C# & WPF mandatory)",
+      "company": "TechClub Inc",
+      "company_slug": "techclub",
+      "location": "New York, United States",
+      "date": "2026-11-06",
+      "url": "https://www.whatjobs.com/pub_api__cpl__3251738684__7065?utm_campaign=publisher&utm_medium=api&geoID=35&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "api",
+        "bitbucket",
+        "ci-cd",
+        "csharp",
+        "css",
+        "dotnet",
+        "git",
+        "graphql",
+        "grpc",
+        "html",
+        "javascript",
+        "nextjs",
+        "react",
+        "rest",
+        "typescript",
+        "version-control",
+        "websockets",
+        "wpf"
+      ],
+      "description": null
+    },
+    {
+      "id": "principal-software-engineer-full-stack-react-next-js-node-js-net-commonwealth-bank-of-australia-zf55t6hz",
+      "title": "Principal Software Engineer - Full Stack (React, Next.Js, Node.Js, .Net)",
+      "company": "Commonwealth Bank Of Australia",
+      "company_slug": "commonwealth-bank-of-australia",
+      "location": "New South Wales, Australia",
+      "date": "2026-11-10",
+      "url": "https://www.adzuna.com.au/details/5959192875?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "ai",
+        "cloud",
+        "dotnet",
+        "nextjs",
+        "nodejs",
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "hybrid-full-stack-developer-react-next-js-node-js-presidio-it-recruitment-qc6qhoxd",
+      "title": "Hybrid Full-Stack Developer: React, Next.js & Node.js",
+      "company": "Presidio IT Recruitment",
+      "company_slug": "presidio-it-recruitment",
+      "location": "Dublin, Ireland",
+      "date": "2026-11-08",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__6380553__7127?utm_campaign=publisher&utm_medium=api&geoID=253&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "ie"
+      ],
+      "skills": [
+        "cloud",
+        "nextjs",
+        "nodejs",
+        "nosql",
+        "react",
+        "redis",
+        "sql",
+        "wireframing"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-front-end-software-developer-next-js-react-typescript-remote-cor7738-corriculo-ltd-5dst4ia7",
+      "title": "Senior Front End Software Developer, Next.js, React, TypeScript, Remote, COR7738",
+      "company": "Corriculo Ltd",
+      "company_slug": "corriculo",
+      "location": "Manchester, Greater Manchester",
+      "date": "2026-11-06",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5955853735?se=3A8jaUHa8RGVXdr0_II61w&utm_medium=api&v=E9356F4D40087B9F5D69A3720A8AE45E7D59B37D&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-front-end-software-developer-next-js-react-typescript-remote-cor7738-corriculo-ltd-fift377p",
+      "title": "Senior Front End Software Developer, Next.js, React, TypeScript, Remote, COR7738",
+      "company": "Corriculo Ltd",
+      "company_slug": "corriculo",
+      "location": "Manchester",
+      "date": "2026-11-06",
+      "url": "https://www.reed.co.uk/jobs/senior-front-end-software-developer-nextjs-react-typescript-remote-cor7738/57538285?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "agile",
+        "aws",
+        "ci-cd",
+        "containerization",
+        "devops",
+        "kubernetes",
+        "nextjs",
+        "react",
+        "terraform",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "typescript-frontend-entwickler-m-w-d-ferchau-gmbh-niederlassung-rostock-wsfd2qmk",
+      "title": "TypeScript Frontend Entwickler (m/w/d)",
+      "company": "FERCHAU GmbH Niederlassung Rostock",
+      "company_slug": "ferchau-gmbh-niederlassung-rostock",
+      "location": "Rostock, MECKLENBURG_VORPOMMERN, DEUTSCHLAND",
+      "date": "2026-11-05",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-526873_JB5291629-S?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "ci-cd",
+        "git",
+        "networking",
+        "react",
+        "rest",
+        "typescript",
+        "vue",
+        "websockets"
+      ],
+      "description": null
+    },
+    {
+      "id": "react-fullstack-engineer-with-graphql-and-hasura-exp-magicforce-jgqnmphw",
+      "title": "React Fullstack engineer with GraphQL and Hasura exp.",
+      "company": "Magicforce",
+      "company_slug": "magicforce",
+      "location": "Irving, TX, USA",
+      "date": "2026-11-09",
+      "url": "https://eappstech.oorwin.com/careers/index.html?utm_source=freehire.me#/job/details/46a3b7adbdcb3c7efd6c2b728190c9d6141ad20e",
+      "work_mode": "onsite",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "agile",
+        "ai",
+        "api",
+        "api-security",
+        "authentication",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "databricks",
+        "distributed-systems",
+        "event-driven-architecture",
+        "git",
+        "graphql",
+        "java",
+        "javascript",
+        "kafka",
+        "llm",
+        "microservices",
+        "nestjs",
+        "nodejs",
+        "observability",
+        "postgresql",
+        "python",
+        "rbac",
+        "react",
+        "root-cause-analysis",
+        "storybook",
+        "typescript",
+        "workflow-orchestration"
+      ],
+      "description": null
+    },
+    {
+      "id": "react-full-stack-software-engineer-manulife-john-hancock-vsvqz23w",
+      "title": "React Full Stack Software Engineer",
+      "company": "Manulife/John Hancock",
+      "company_slug": "manulife-john-hancock",
+      "location": "Ontario, Canada",
+      "date": "2026-11-08",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__159874678__7103?utm_campaign=publisher&utm_medium=api&geoID=1&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "agile",
+        "api",
+        "ci-cd",
+        "css",
+        "devops",
+        "express",
+        "html",
+        "javascript",
+        "nodejs",
+        "prototyping",
+        "react",
+        "redux"
+      ],
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486229266",
+      "title": "React Developer",
+      "company": "SThree",
+      "companyUrl": "https://uk.linkedin.com/company/sthree-plc",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/react-developer-at-sthree-4486229266"
+    },
+    {
+      "id": "4488842915",
+      "title": "Front-End Developer (React + Typescript)",
+      "company": "iO Associates",
+      "companyUrl": "https://uk.linkedin.com/company/ioassociates",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/front-end-developer-react-%2B-typescript-at-io-associates-4488842915"
+    },
+    {
+      "id": "4486843738",
+      "title": "Senior Front End Developer - AG Grid",
+      "company": "Grid Dynamics",
+      "companyUrl": "https://www.linkedin.com/company/grid-dynamics",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-03",
+      "url": "https://uk.linkedin.com/jobs/view/senior-front-end-developer-ag-grid-at-grid-dynamics-4486843738"
+    },
+    {
+      "id": "4486228311",
+      "title": "Frontend Developer",
+      "company": "SThree",
+      "companyUrl": "https://uk.linkedin.com/company/sthree-plc",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-developer-at-sthree-4486228311"
+    },
+    {
+      "id": "4484671884",
+      "title": "Developer",
+      "company": "Synergize Consulting",
+      "companyUrl": "https://uk.linkedin.com/company/synergize-consulting-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-03",
+      "url": "https://uk.linkedin.com/jobs/view/developer-at-synergize-consulting-4484671884"
+    },
+    {
+      "id": "4484643830",
+      "title": "UI Engineer (Embedded Domain)",
+      "company": "Randstad Digital UK",
+      "companyUrl": "https://uk.linkedin.com/company/randstad-digital-uk",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-03",
+      "url": "https://uk.linkedin.com/jobs/view/ui-engineer-embedded-domain-at-randstad-digital-uk-4484643830"
+    },
+    {
+      "id": "4486964534",
+      "title": "Full Stack Engineer",
+      "company": "Auro Recruitment Group",
+      "companyUrl": "https://www.linkedin.com/company/auro-recruitment-group",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-06",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-at-auro-recruitment-group-4486964534"
+    },
+    {
+      "id": "4486236185",
+      "title": "Senior Web Developer",
+      "company": "Quant Capital",
+      "companyUrl": "https://uk.linkedin.com/company/quant-capital-consulting",
+      "location": "City Of London, England, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/senior-web-developer-at-quant-capital-4486236185"
+    },
+    {
+      "id": "4487154230",
+      "title": "Senior Frontend Developer",
+      "company": "Salt",
+      "companyUrl": "https://uk.linkedin.com/company/salt",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/senior-frontend-developer-at-salt-4487154230"
+    },
+    {
+      "id": "4487777100",
+      "title": "Senior Frontend Engineer/UI Architect – AEM & Generative AI",
+      "company": "Vallum Associates",
+      "companyUrl": "https://uk.linkedin.com/company/vallum-associates-limited",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-05",
+      "url": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-ui-architect-%E2%80%93-aem-generative-ai-at-vallum-associates-4487777100"
+    }
+  ]
+}

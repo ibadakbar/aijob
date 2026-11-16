@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4482911930",
+      "title": "Lead Engineer - Front End (React)",
+      "company": "Xero",
+      "companyUrl": "https://nz.linkedin.com/company/xero",
+      "location": "Wellington, Wellington, New Zealand",
+      "date": "2026-10-26",
+      "url": "https://nz.linkedin.com/jobs/view/lead-engineer-front-end-react-at-xero-4482911930"
+    },
+    {
+      "id": "4482932031",
+      "title": "Lead Engineer - Front End (React)",
+      "company": "Xero",
+      "companyUrl": "https://nz.linkedin.com/company/xero",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-10-26",
+      "url": "https://nz.linkedin.com/jobs/view/lead-engineer-front-end-react-at-xero-4482932031"
+    },
+    {
+      "id": "4486027658",
+      "title": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security",
+      "company": "Binance",
+      "companyUrl": "https://www.linkedin.com/company/binance",
+      "location": "New Zealand",
+      "date": "2026-11-03",
+      "url": "https://nz.linkedin.com/jobs/view/full-stack-engineer-web-frontend-oriented-%E2%80%94-ai-facial-recognition-identity-security-at-binance-4486027658"
+    },
+    {
+      "id": "4459398212",
+      "title": "Senior Frontend Engineer",
+      "company": "Tribe Group",
+      "companyUrl": "https://nz.linkedin.com/company/tribe-new-zealand-limited",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-10-30",
+      "url": "https://nz.linkedin.com/jobs/view/senior-frontend-engineer-at-tribe-group-4459398212"
+    },
+    {
+      "id": "4484273498",
+      "title": "Software Engineer - Serko.ai",
+      "company": "Serko",
+      "companyUrl": "https://nz.linkedin.com/company/serko-ltd",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-10-27",
+      "url": "https://nz.linkedin.com/jobs/view/software-engineer-serko-ai-at-serko-4484273498"
+    },
+    {
+      "id": "4434045198",
+      "title": "Senior Front-End Software Engineer",
+      "company": "accesso",
+      "companyUrl": "https://www.linkedin.com/company/accesso",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-03",
+      "url": "https://nz.linkedin.com/jobs/view/senior-front-end-software-engineer-at-accesso-4434045198"
+    },
+    {
+      "id": "4486956167",
+      "title": "Software Development Engineer (Front-End)",
+      "company": "Pushpay",
+      "companyUrl": "https://www.linkedin.com/company/pushpay-ltd",
+      "location": "Auckland, New Zealand",
+      "date": "2026-11-06",
+      "url": "https://nz.linkedin.com/jobs/view/software-development-engineer-front-end-at-pushpay-4486956167"
+    },
+    {
+      "id": "4485997682",
+      "title": "Senior Engineer - Serko.ai",
+      "company": "Serko",
+      "companyUrl": "https://nz.linkedin.com/company/serko-ltd",
+      "location": "Auckland, Auckland, New Zealand",
+      "date": "2026-11-01",
+      "url": "https://nz.linkedin.com/jobs/view/senior-engineer-serko-ai-at-serko-4485997682"
+    }
+  ]
+}

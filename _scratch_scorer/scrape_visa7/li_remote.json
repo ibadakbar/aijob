@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485821943",
+      "title": "Senior Product Engineer (TS/NodeJS/Vue)",
+      "company": "n8n",
+      "companyUrl": "https://de.linkedin.com/company/n8n",
+      "location": "Tanzania",
+      "date": "2026-11-05",
+      "url": "https://tz.linkedin.com/jobs/view/senior-product-engineer-ts-nodejs-vue-at-n8n-4485821943"
+    },
+    {
+      "id": "4449819598",
+      "title": "Software Engineer, Expansion (all levels)",
+      "company": "Render",
+      "companyUrl": "https://www.linkedin.com/company/renderco",
+      "location": "Canada",
+      "date": "2026-11-05",
+      "url": "https://ca.linkedin.com/jobs/view/software-engineer-expansion-all-levels-at-render-4449819598"
+    },
+    {
+      "id": "4470078541",
+      "title": "Senior Software Engineer",
+      "company": "Agave",
+      "companyUrl": "https://www.linkedin.com/company/agave-ai",
+      "location": "San Francisco, CA",
+      "date": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-agave-4470078541"
+    },
+    {
+      "id": "4432904003",
+      "title": "Product, Platform & Enterprise Full Stack Sr/Staff Software Engineer",
+      "company": "BNSF Railway",
+      "companyUrl": "https://www.linkedin.com/company/bnsf-railway",
+      "location": "United States",
+      "date": "2026-11-03",
+      "url": "https://www.linkedin.com/jobs/view/product-platform-enterprise-full-stack-sr-staff-software-engineer-at-bnsf-railway-4432904003"
+    },
+    {
+      "id": "4489458064",
+      "title": "Staff Full-Stack Engineer (Director IC) - Partner Experience",
+      "company": "Capital One",
+      "companyUrl": "https://www.linkedin.com/company/capital-one",
+      "location": "Chicago, IL",
+      "date": "2026-11-10",
+      "url": "https://www.linkedin.com/jobs/view/staff-full-stack-engineer-director-ic-partner-experience-at-capital-one-4489458064"
+    },
+    {
+      "id": "4489449280",
+      "title": "Staff Full-Stack Engineer (Director IC) - Partner Experience",
+      "company": "Capital One",
+      "companyUrl": "https://www.linkedin.com/company/capital-one",
+      "location": "Deerfield, IL",
+      "date": "2026-11-10",
+      "url": "https://www.linkedin.com/jobs/view/staff-full-stack-engineer-director-ic-partner-experience-at-capital-one-4489449280"
+    },
+    {
+      "id": "4487722669",
+      "title": "Growth Engineer (Full-Stack)",
+      "company": "Zaapi",
+      "companyUrl": "https://sg.linkedin.com/company/zaapi-official",
+      "location": "Bangkok, Bangkok City, Thailand",
+      "date": "2026-11-05",
+      "url": "https://th.linkedin.com/jobs/view/growth-engineer-full-stack-at-zaapi-4487722669"
+    },
+    {
+      "id": "4487128879",
+      "title": "Senior Full-Stack Engineer (React/Python) - Fully Remote - £110k-£120k",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "United Kingdom",
+      "date": "2026-11-09",
+      "url": "https://uk.linkedin.com/jobs/view/senior-full-stack-engineer-react-python-fully-remote-%C2%A3110k-%C2%A3120k-at-oliver-bernard-4487128879"
+    },
+    {
+      "id": "4484675489",
+      "title": "Software Engineer",
+      "company": "Socium - Teams Done Differently",
+      "companyUrl": "https://uk.linkedin.com/company/socium-teams-done-differently",
+      "location": "Philippines",
+      "date": "2026-11-04",
+      "url": "https://ph.linkedin.com/jobs/view/software-engineer-at-socium-teams-done-differently-4484675489"
+    },
+    {
+      "id": "4290145549",
+      "title": "Senior / Staff Product Engineer",
+      "company": "Radar",
+      "companyUrl": "https://www.linkedin.com/company/radarlabs",
+      "location": "New York, NY",
+      "date": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-product-engineer-at-radar-4290145549"
+    }
+  ]
+}

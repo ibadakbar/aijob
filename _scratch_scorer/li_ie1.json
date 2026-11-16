@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486279541",
+      "title": "Senior Full-Stack Engineer - AWS Cloud Native",
+      "company": "G MASS Consulting",
+      "companyUrl": "https://uk.linkedin.com/company/g-mass-consulting",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-aws-cloud-native-at-g-mass-consulting-4486279541"
+    },
+    {
+      "id": "4488131371",
+      "title": "Full Stack Engineer",
+      "company": "Archer Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/archer",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-archer-recruitment-4488131371"
+    },
+    {
+      "id": "4486290044",
+      "title": "Solutions Architect",
+      "company": "Test Triangle",
+      "companyUrl": "https://ie.linkedin.com/company/test-triangle",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/solutions-architect-at-test-triangle-4486290044"
+    },
+    {
+      "id": "4486622819",
+      "title": "Senior Solutions Architect | Hybrid, Cloud & Enterprise Design",
+      "company": "Test Triangle",
+      "companyUrl": "https://ie.linkedin.com/company/test-triangle",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-07",
+      "url": "https://ie.linkedin.com/jobs/view/senior-solutions-architect-hybrid-cloud-enterprise-design-at-test-triangle-4486622819"
+    },
+    {
+      "id": "4488187234",
+      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Ireland | Remote",
+      "company": "Grafana Labs",
+      "companyUrl": "https://www.linkedin.com/company/grafana-labs",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-database-observability-grafana-cloud-ireland-remote-at-grafana-labs-4488187234"
+    },
+    {
+      "id": "4488172980",
+      "title": "AI Engineer | €500-€600 Daily",
+      "company": "Archer Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/archer",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/ai-engineer-%E2%82%AC500-%E2%82%AC600-daily-at-archer-recruitment-4488172980"
+    },
+    {
+      "id": "4488151600",
+      "title": "AI Full Stack Engineer",
+      "company": "Wyndham Hotels & Resorts",
+      "companyUrl": "https://www.linkedin.com/company/wyndhamhotels",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/ai-full-stack-engineer-at-wyndham-hotels-resorts-4488151600"
+    },
+    {
+      "id": "4486283300",
+      "title": "Customer Success Manager",
+      "company": "Meili",
+      "companyUrl": "https://ie.linkedin.com/company/meilitravel",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-06",
+      "url": "https://ie.linkedin.com/jobs/view/customer-success-manager-at-meili-4486283300"
+    }
+  ]
+}

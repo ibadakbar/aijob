@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4483438312",
+      "title": "Fullstackutvecklare",
+      "company": "Oral Care AB",
+      "companyUrl": "https://se.linkedin.com/company/oral-care-ab",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/fullstackutvecklare-at-oral-care-ab-4483438312"
+    },
+    {
+      "id": "4486132388",
+      "title": "Senior frontendutvecklare React, Knockout.js och PiranhaCMS, Uppsala",
+      "company": "Thurne Consulting",
+      "companyUrl": "https://www.linkedin.com/company/thurne-consulting",
+      "location": "Uppsala, Uppsala County, Sweden",
+      "date": "2026-11-02",
+      "url": "https://se.linkedin.com/jobs/view/senior-frontendutvecklare-react-knockout-js-och-piranhacms-uppsala-at-thurne-consulting-4486132388"
+    },
+    {
+      "id": "4487274676",
+      "title": "Utvecklare till framtidens uppkopplade lösningar",
+      "company": "Friday",
+      "companyUrl": "https://se.linkedin.com/company/friday-tech-recruitment",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-04",
+      "url": "https://se.linkedin.com/jobs/view/utvecklare-till-framtidens-uppkopplade-l%C3%B6sningar-at-friday-4487274676"
+    },
+    {
+      "id": "4485485084",
+      "title": "Java Full Stack Developer",
+      "company": "Ampstek",
+      "companyUrl": "https://www.linkedin.com/company/ampstek",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-02",
+      "url": "https://se.linkedin.com/jobs/view/java-full-stack-developer-at-ampstek-4485485084"
+    },
+    {
+      "id": "4487772478",
+      "title": "Java Full Stack Developer – Spring Boot, React & Cloud",
+      "company": "Hadron Talent -Hadronfinsys",
+      "companyUrl": "https://ch.linkedin.com/company/hadronfinsys",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/java-full-stack-developer-%E2%80%93-spring-boot-react-cloud-at-hadron-talent-hadronfinsys-4487772478"
+    },
+    {
+      "id": "4400917755",
+      "title": "Konsult, underkonsult? in med cv",
+      "company": "SolidX AB (publ)",
+      "companyUrl": "https://se.linkedin.com/company/solidx",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/konsult-underkonsult%3F-in-med-cv-at-solidx-ab-publ-4400917755"
+    },
+    {
+      "id": "4485831775",
+      "title": "IT-utvecklare",
+      "company": "University of Gothenburg",
+      "companyUrl": "https://se.linkedin.com/school/university-of-gothenburg/",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/it-utvecklare-at-university-of-gothenburg-4485831775"
+    },
+    {
+      "id": "4485487040",
+      "title": ".NET / Fullstack (Angular)",
+      "company": "Ampstek",
+      "companyUrl": "https://www.linkedin.com/company/ampstek",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-02",
+      "url": "https://se.linkedin.com/jobs/view/net-fullstack-angular-at-ampstek-4485487040"
+    },
+    {
+      "id": "4486904423",
+      "title": "Fullstack Software Engineer",
+      "company": "OneLab",
+      "companyUrl": "https://se.linkedin.com/company/onelabse",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-software-engineer-at-onelab-4486904423"
+    },
+    {
+      "id": "4485817994",
+      "title": "Full Stack Engineer",
+      "company": "OneLab",
+      "companyUrl": "https://se.linkedin.com/company/onelabse",
+      "location": "Greater Stockholm Metropolitan Area",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-engineer-at-onelab-4485817994"
+    }
+  ]
+}

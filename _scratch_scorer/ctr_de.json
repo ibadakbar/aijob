@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4487140502",
+      "title": "Freelance Software Engineer",
+      "company": "HartleyCo",
+      "companyUrl": "https://uk.linkedin.com/company/hartleyco",
+      "location": "Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/freelance-software-engineer-at-hartleyco-4487140502"
+    },
+    {
+      "id": "4487142342",
+      "title": "(Senior) Full-Stack Engineer - Prototyping & Automatisierung (m/w/d)",
+      "company": "segmenta",
+      "companyUrl": "https://de.linkedin.com/company/segmenta-communications",
+      "location": "Hamburg, Hamburg, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-prototyping-automatisierung-m-w-d-at-segmenta-4487142342"
+    },
+    {
+      "id": "4489195664",
+      "title": "Frontend TypeScript Engineer (AI Training)",
+      "company": "Alignerr",
+      "companyUrl": "https://www.linkedin.com/company/alignerr",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-10",
+      "url": "https://de.linkedin.com/jobs/view/frontend-typescript-engineer-ai-training-at-alignerr-4489195664"
+    },
+    {
+      "id": "4476669423",
+      "title": "Full Stack Engineer Kotlin & React (Maternity Cover) / Lounge by Zalando (all genders)",
+      "company": "Zalando",
+      "companyUrl": "https://de.linkedin.com/company/zalando",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-engineer-kotlin-react-maternity-cover-lounge-by-zalando-all-genders-at-zalando-4476669423"
+    },
+    {
+      "id": "4461767469",
+      "title": "Senior Entwickler TypeScript / React | Full-Stack, Python, LLM, RAG‑Architektur | Inhouse (mwd)",
+      "company": "Vesterling AG",
+      "companyUrl": "https://de.linkedin.com/company/vesterling",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/senior-entwickler-typescript-react-full-stack-python-llm-rag%E2%80%91architektur-inhouse-mwd-at-vesterling-ag-4461767469"
+    },
+    {
+      "id": "4488885519",
+      "title": "Frontend-Entwickler (m/w/d) – TypeScript & React",
+      "company": "PONDUS Software GmbH",
+      "companyUrl": "https://de.linkedin.com/company/pondus-software-gmbh",
+      "location": "Hannover, Lower Saxony, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/frontend-entwickler-m-w-d-%E2%80%93-typescript-react-at-pondus-software-gmbh-4488885519"
+    },
+    {
+      "id": "4486361178",
+      "title": "Full-Stack & AI Engineer",
+      "company": "NOW GmbH",
+      "companyUrl": "https://de.linkedin.com/company/now-gmbh",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-ai-engineer-at-now-gmbh-4486361178"
+    },
+    {
+      "id": "4486850835",
+      "title": "Product Designer",
+      "company": "Greenda",
+      "companyUrl": "https://de.linkedin.com/company/greenda",
+      "location": "Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/product-designer-at-greenda-4486850835"
+    },
+    {
+      "id": "4457712249",
+      "title": "Praktikant Full-Stack Webentwicklung mit KI (w/m/x)",
+      "company": "BMW Group",
+      "companyUrl": "https://de.linkedin.com/company/bmw-group",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/praktikant-full-stack-webentwicklung-mit-ki-w-m-x-at-bmw-group-4457712249"
+    },
+    {
+      "id": "4485847733",
+      "title": "Senior Fullstack Entwickler - AI & Digital Platforms (m/w/d)",
+      "company": "SCHWAPe Holding AG",
+      "companyUrl": "https://ch.linkedin.com/company/schwape-group",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/senior-fullstack-entwickler-ai-digital-platforms-m-w-d-at-schwape-holding-ag-4485847733"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4484683520",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "companyUrl": "https://www.linkedin.com/company/kake",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-03",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4484683520"
+    },
+    {
+      "id": "4462779819",
+      "title": "Staff/ Senior Full Stack Engineer (all genders)",
+      "company": "akeno",
+      "companyUrl": "https://de.linkedin.com/company/akeno-ai",
+      "location": "Hamburg, Hamburg, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/staff-senior-full-stack-engineer-all-genders-at-akeno-4462779819"
+    },
+    {
+      "id": "4487142342",
+      "title": "(Senior) Full-Stack Engineer - Prototyping & Automatisierung (m/w/d)",
+      "company": "segmenta",
+      "companyUrl": "https://de.linkedin.com/company/segmenta-communications",
+      "location": "Hamburg, Hamburg, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-prototyping-automatisierung-m-w-d-at-segmenta-4487142342"
+    },
+    {
+      "id": "4488170356",
+      "title": "Senior Software Engineer (TypeScript, Next.js / Node.js) (m/f/x)",
+      "company": "Atolls",
+      "companyUrl": "https://de.linkedin.com/company/atolls",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-typescript-next-js-node-js-m-f-x-at-atolls-4488170356"
+    },
+    {
+      "id": "4485841088",
+      "title": "Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.js - 100% Remote",
+      "company": "Fast Rocket GmbH",
+      "companyUrl": "https://de.linkedin.com/company/fast-rocket-gmbh",
+      "location": "Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-softwareentwickler-m-w-d-react-next-js-oder-angular-%2B-nest-js-node-js-100%25-remote-at-fast-rocket-gmbh-4485841088"
+    },
+    {
+      "id": "4488164592",
+      "title": "Senior Software Engineer (TypeScript, Next.js / Node.js) (m/f/x)",
+      "company": "Atolls",
+      "companyUrl": "https://de.linkedin.com/company/atolls",
+      "location": "Berlin, Germany",
+      "date": "2026-11-06",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-typescript-next-js-node-js-m-f-x-at-atolls-4488164592"
+    },
+    {
+      "id": "4488856553",
+      "title": "Full-Stack Software Engineer (F/M/D)",
+      "company": "NavVis",
+      "companyUrl": "https://de.linkedin.com/company/navvis",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-software-engineer-f-m-d-at-navvis-4488856553"
+    },
+    {
+      "id": "4485847733",
+      "title": "Senior Fullstack Entwickler - AI & Digital Platforms (m/w/d)",
+      "company": "SCHWAPe Holding AG",
+      "companyUrl": "https://ch.linkedin.com/company/schwape-group",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/senior-fullstack-entwickler-ai-digital-platforms-m-w-d-at-schwape-holding-ag-4485847733"
+    },
+    {
+      "id": "4487694204",
+      "title": "(Senior) Full-Stack Developer (m/w/d)",
+      "company": "GWH Digital GmbH",
+      "companyUrl": "https://de.linkedin.com/company/gwh-digital-gmbh",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "date": "2026-11-09",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-developer-m-w-d-at-gwh-digital-gmbh-4487694204"
+    },
+    {
+      "id": "4372462916",
+      "title": "Forward Deployed Engineer - German Speaking",
+      "company": "HappyRobot",
+      "companyUrl": "https://www.linkedin.com/company/happyrobot",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-04",
+      "url": "https://de.linkedin.com/jobs/view/forward-deployed-engineer-german-speaking-at-happyrobot-4372462916"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4486398139",
+      "title": "Senior Full Stack Engineer",
+      "company": "BorderPass",
+      "companyUrl": "https://ca.linkedin.com/company/borderpassai",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-04",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-at-borderpass-4486398139"
+    },
+    {
+      "id": "4470427992",
+      "title": "Staff Software Engineer - Capital One Travel Tech - Full-stack",
+      "company": "Capital One",
+      "companyUrl": "https://www.linkedin.com/company/capital-one",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-03",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-capital-one-travel-tech-full-stack-at-capital-one-4470427992"
+    },
+    {
+      "id": "4449819598",
+      "title": "Software Engineer, Expansion (all levels)",
+      "company": "Render",
+      "companyUrl": "https://www.linkedin.com/company/renderco",
+      "location": "Canada",
+      "date": "2026-11-05",
+      "url": "https://ca.linkedin.com/jobs/view/software-engineer-expansion-all-levels-at-render-4449819598"
+    },
+    {
+      "id": "4470073254",
+      "title": "Senior Software Developer",
+      "company": "Autodesk",
+      "companyUrl": "https://www.linkedin.com/company/autodesk",
+      "location": "Ontario, Canada",
+      "date": "2026-11-07",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-at-autodesk-4470073254"
+    },
+    {
+      "id": "4471016344",
+      "title": "Senior Software Developer",
+      "company": "Autodesk",
+      "companyUrl": "https://www.linkedin.com/company/autodesk",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-09",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-at-autodesk-4471016344"
+    },
+    {
+      "id": "4486511791",
+      "title": "Développeur ou développeuse full stack senior",
+      "company": "ChallengeU",
+      "companyUrl": "https://ca.linkedin.com/company/challengeu",
+      "location": "Montreal, Quebec, Canada",
+      "date": "2026-11-05",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-ou-d%C3%A9veloppeuse-full-stack-senior-at-challengeu-4486511791"
+    },
+    {
+      "id": "4480577126",
+      "title": "Software Developer (hybrid)",
+      "company": "Cisco",
+      "companyUrl": "https://www.linkedin.com/company/cisco",
+      "location": "Vancouver, British Columbia, Canada",
+      "date": "2026-11-07",
+      "url": "https://ca.linkedin.com/jobs/view/software-developer-hybrid-at-cisco-4480577126"
+    },
+    {
+      "id": "4478402630",
+      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
+      "company": "Cohere",
+      "companyUrl": "https://ca.linkedin.com/company/cohere-ai",
+      "location": "Ottawa, Ontario, Canada",
+      "date": "2026-11-04",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-cohere-dashboard-at-cohere-4478402630"
+    },
+    {
+      "id": "4470074146",
+      "title": "Staff Software Engineer",
+      "company": "BuildOps",
+      "companyUrl": "https://www.linkedin.com/company/buildops",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-at-buildops-4470074146"
+    },
+    {
+      "id": "4480559332",
+      "title": "Senior Full Stack Developer",
+      "company": "VOSKER",
+      "companyUrl": "https://ca.linkedin.com/company/vosker",
+      "location": "Montreal, Quebec, Canada",
+      "date": "2026-11-07",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-developer-at-vosker-4480559332"
+    }
+  ]
+}

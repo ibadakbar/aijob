@@ -1,0 +1,723 @@
+﻿{
+  "meta": {
+    "count": 20,
+    "page": 1,
+    "total": 340
+  },
+  "results": [
+    {
+      "id": "senior-react-typescript-bi-sql-developer-remote-lever-inc-7mjdlptn",
+      "title": "Senior React + TypeScript BI/SQL Developer (Remote)",
+      "company": "Lever, Inc.",
+      "company_slug": "lever",
+      "location": "Ciudad de Mendoza, Argentina",
+      "date": "2026-11-08",
+      "url": "https://ar.whatjobs.com/pub_api__cpl__35948383__7080?utm_campaign=publisher&utm_medium=api&geoID=6516&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ar"
+      ],
+      "skills": [
+        "powerbi",
+        "sql",
+        "sql-server"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-react-typescript-developer-remote-work-ref-305653-bairesdev-g3zrbw7c",
+      "title": "Senior React + Typescript Developer - Remote Work | Ref#305653",
+      "company": "Bairesdev",
+      "company_slug": "bairesdev",
+      "location": "Ciudad de Mendoza, Argentina",
+      "date": "2026-11-08",
+      "url": "https://ar.whatjobs.com/pub_api__cpl__35559363__7080?utm_campaign=publisher&utm_medium=api&geoID=6516&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ar"
+      ],
+      "skills": [
+        "acceptance-criteria",
+        "ai",
+        "android",
+        "api",
+        "automation",
+        "aws",
+        "azure",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "cypress",
+        "devops",
+        "gcp",
+        "ios",
+        "jest",
+        "react",
+        "react-native",
+        "react-testing-library",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-react-typescript-developer-remote-flexible-hours-bairesdev-czkvw3qi",
+      "title": "Senior React & Typescript Developer — Remote, Flexible Hours",
+      "company": "Bairesdev",
+      "company_slug": "bairesdev",
+      "location": "Neuquén, Argentina",
+      "date": "2026-11-08",
+      "url": "https://ar.whatjobs.com/pub_api__cpl__35611871__7080?utm_campaign=publisher&utm_medium=api&geoID=2946&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ar"
+      ],
+      "skills": [
+        "acceptance-criteria",
+        "accessibility",
+        "agentic-ai",
+        "ai",
+        "android",
+        "api",
+        "api-design",
+        "automation",
+        "azure",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "cloud-native",
+        "css",
+        "docker",
+        "fastapi",
+        "fastify",
+        "fintech",
+        "gcp",
+        "github",
+        "github-copilot",
+        "ios",
+        "llm",
+        "nodejs",
+        "openapi",
+        "openid",
+        "postgresql",
+        "prototyping",
+        "python",
+        "react",
+        "react-native",
+        "rest",
+        "sql",
+        "storybook",
+        "tailwind",
+        "typescript",
+        "vite",
+        "vitest",
+        "webpack"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-react-typescript-developer-remote-work-ref-307858-bairesdev-6n2loiom",
+      "title": "Senior React + TypeScript Developer - Remote Work | REF#307858",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": "Brazil",
+      "date": "2026-11-07",
+      "url": "https://br.whatjobs.com/pub_api__cpl__466111933__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "aws",
+        "aws-bedrock",
+        "containerization",
+        "docker",
+        "infrastructure-as-code",
+        "nodejs",
+        "postgresql",
+        "react",
+        "redux",
+        "rest",
+        "sql",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "remote-react-typescript-developer-flexible-hours-bairesdev-tale4k7u",
+      "title": "Remote React & TypeScript Developer | Flexible Hours",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": "Atlantico, Colombia",
+      "date": "2026-11-07",
+      "url": "https://co.whatjobs.com/pub_api__cpl__46641630__7093?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "co"
+      ],
+      "skills": [
+        "api",
+        "clean-architecture",
+        "react",
+        "rest",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "remote-react-frontend-developer-typescript-flexible-hours-bairesdev-zau6eqng",
+      "title": "Remote React Frontend Developer (TypeScript) | Flexible Hours",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": "Colombia",
+      "date": "2026-11-06",
+      "url": "https://co.whatjobs.com/pub_api__cpl__46633109__7093?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "co"
+      ],
+      "skills": [
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "full-stack-developer-react-typescript-sql-ai-first-product-studio-remote-latam-atomic-remote-jobs-6ji6g7pe",
+      "title": "Full-Stack Developer (React + Typescript + Sql) | Ai-First Product Studio | Remote (Latam)",
+      "company": "Atomic - Remote Jobs",
+      "company_slug": "atomic-remote-jobs",
+      "location": "Neuquén, Argentina",
+      "date": "2026-11-08",
+      "url": "https://ar.whatjobs.com/pub_api__cpl__35531112__7080?utm_campaign=publisher&utm_medium=api&geoID=2946&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "ar"
+      ],
+      "skills": [
+        "acceptance-criteria",
+        "agentic-ai",
+        "ai",
+        "api",
+        "automation",
+        "aws",
+        "azure",
+        "bigquery",
+        "claude-code",
+        "css",
+        "fastapi",
+        "fhir",
+        "fintech",
+        "gcp",
+        "github",
+        "github-copilot",
+        "hipaa",
+        "hl7",
+        "llm",
+        "prototyping",
+        "pydantic",
+        "python",
+        "react",
+        "sql",
+        "sqlalchemy",
+        "storybook",
+        "tailwind",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "front-end-engineer-react-typescript-limeup-rfkigwoz",
+      "title": "Front-end Engineer (React / TypeScript)",
+      "company": "Limeup",
+      "company_slug": "limeup",
+      "location": "Europe",
+      "date": "2026-11-06",
+      "url": "https://djinni.co/jobs/857110-front-end-engineer-react-typescript/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "claude-code",
+        "cloud",
+        "data-visualization",
+        "fintech",
+        "jest",
+        "react",
+        "react-testing-library",
+        "rest",
+        "saas",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "technical-support-engineer-typescript-react-pcs942-hire-overseas-puj3atcl",
+      "title": "Technical Support Engineer (TypeScript/React) (PCS942)",
+      "company": "Hire Overseas",
+      "company_slug": "hire-overseas",
+      "location": "Johannesburg, Gauteng, South Africa; Cape Town, Western Cape, South Africa; Pretoria, Gauteng, South Africa; Mexico City, Mexico City, Mexico; San Salvador, San Salvador Department, El Salvador; São Paulo, São Paulo, Brazil",
+      "date": "2026-11-04",
+      "url": "https://apply.workable.com/j/EDFE3A520C?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "africa",
+        "latam"
+      ],
+      "countries": [
+        "br",
+        "mx",
+        "sv",
+        "za"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "authentication",
+        "automation",
+        "aws",
+        "cdk",
+        "clickhouse",
+        "cloud",
+        "cloudflare",
+        "github",
+        "infrastructure-as-code",
+        "llm",
+        "postgresql",
+        "pre-sales",
+        "react",
+        "redis",
+        "tailwind",
+        "terraform",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "vks-mobile-software-engineer-react-native-typescript-softwaremind-cpbmfwia",
+      "title": "[VKS] Mobile Software Engineer (React Native/TypeScript)",
+      "company": "softwaremind",
+      "company_slug": "software-mind",
+      "location": "Bucharest, Bucharest, ro",
+      "date": "2026-11-05",
+      "url": "https://jobs.smartrecruiters.com/SoftwareMind/744000159904620--vks-mobile-software-engineer-react-native-typescript-?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "ro"
+      ],
+      "skills": [
+        "ab-testing",
+        "accessibility",
+        "agile",
+        "firebase",
+        "react",
+        "react-native",
+        "redux",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "vks-front-end-software-engineer-react-typescript-softwaremind-rie7prtq",
+      "title": "[VKS] Front-end Software Engineer (React/TypeScript)",
+      "company": "softwaremind",
+      "company_slug": "software-mind",
+      "location": "Bucharest, Bucharest, ro",
+      "date": "2026-11-05",
+      "url": "https://jobs.smartrecruiters.com/SoftwareMind/744000159905409--vks-front-end-software-engineer-react-typescript-?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "ro"
+      ],
+      "skills": [
+        "ab-testing",
+        "accessibility",
+        "agile",
+        "css",
+        "cypress",
+        "gitlab",
+        "graphql",
+        "html",
+        "javascript",
+        "jest",
+        "nodejs",
+        "react",
+        "typescript",
+        "vitest",
+        "zustand"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-frontend-razrabotchik-react-typescript-izigeit-hdj4mpwc",
+      "title": "Senior Frontend-разработчик (React, TypeScript)",
+      "company": "Изигейт",
+      "company_slug": "izigeit",
+      "location": "Санкт-Петербург",
+      "date": "2026-11-09",
+      "url": "https://hh.ru/vacancy/139284503?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "ru"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "fullstack-razrabotchik-typescript-react-flutter-zelenaia-knopka-3sqh5c2u",
+      "title": "Fullstack-разработчик (TypeScript, React, Flutter)",
+      "company": "Зеленая кнопка",
+      "company_slug": "zelenaia-knopka",
+      "location": "Москва",
+      "date": "2026-11-09",
+      "url": "https://hh.ru/vacancy/139254689?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "cis"
+      ],
+      "countries": [
+        "ru"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "senior-fullstack-engineer-react-typescript-node-flylance-od7nitmw",
+      "title": "Senior Fullstack Engineer (React, TypeScript, Node)",
+      "company": "Flylance",
+      "company_slug": "flylance",
+      "location": "San José, CR",
+      "date": "2026-11-04",
+      "url": "https://careers.flylance.com/jobs/732277-senior-fullstack-engineer-react-typescript-node?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cr"
+      ],
+      "skills": [
+        "amplitude",
+        "analytics",
+        "api",
+        "api-design",
+        "argocd",
+        "aws",
+        "ci-cd",
+        "cloudwatch",
+        "data-engineering",
+        "distributed-systems",
+        "docker",
+        "elt",
+        "etl",
+        "event-driven-architecture",
+        "express",
+        "fastify",
+        "graphql",
+        "grpc",
+        "helm",
+        "iam",
+        "infrastructure-as-code",
+        "kafka",
+        "kubernetes",
+        "lambda",
+        "microservices",
+        "nestjs",
+        "nextjs",
+        "nodejs",
+        "observability",
+        "postgresql",
+        "rabbitmq",
+        "rds",
+        "react",
+        "react-native",
+        "redis",
+        "s3",
+        "sql",
+        "sqs",
+        "terraform",
+        "typescript",
+        "webhooks"
+      ],
+      "description": null
+    },
+    {
+      "id": "full-stack-software-engineer-react-typescript-node-js-insi-or4stxx2",
+      "title": "Full stack software engineer (react, typescript & node.js)",
+      "company": "Insi",
+      "company_slug": "insi",
+      "location": "Brazil",
+      "date": "2026-11-10",
+      "url": "https://br.whatjobs.com/pub_api__cpl__466045771__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "api",
+        "aws",
+        "ci-cd",
+        "css",
+        "datadog",
+        "docker",
+        "ecommerce",
+        "eks",
+        "git",
+        "github",
+        "github-actions",
+        "graphql",
+        "helm",
+        "javascript",
+        "jest",
+        "kubernetes",
+        "nodejs",
+        "playwright",
+        "postgresql",
+        "rdbms",
+        "rds",
+        "react",
+        "redis",
+        "sql",
+        "tailwind",
+        "typescript",
+        "version-control",
+        "vitest"
+      ],
+      "description": null
+    },
+    {
+      "id": "principal-engineer-full-stack-typescript-node-js-react-cloud-hook-lktczdrp",
+      "title": "Principal Engineer  -- Full-Stack TypeScript (Node.js, React, Cloud)",
+      "company": "Hook",
+      "company_slug": "hook",
+      "location": "Remote",
+      "date": "2026-11-07",
+      "url": "https://job-boards.greenhouse.io/hook/jobs/8922828002?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [],
+      "countries": [],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "automation",
+        "aws",
+        "bash",
+        "cdk",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "cloud-run",
+        "css",
+        "docker",
+        "dynamodb",
+        "ecs",
+        "express",
+        "fargate",
+        "fastify",
+        "figma",
+        "firestore",
+        "gcp",
+        "github",
+        "github-actions",
+        "graphql",
+        "iam",
+        "infrastructure-as-code",
+        "javascript",
+        "jest",
+        "lambda",
+        "llm",
+        "mongodb",
+        "nestjs",
+        "nextjs",
+        "nodejs",
+        "npm",
+        "observability",
+        "playwright",
+        "postgresql",
+        "pulumi",
+        "python",
+        "rdbms",
+        "rds",
+        "react",
+        "s3",
+        "secrets-management",
+        "serverless",
+        "sns",
+        "sql",
+        "sqs",
+        "terraform",
+        "typescript",
+        "vercel",
+        "vite",
+        "vitest"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-front-end-engineer-react-typescript-jobgether-mhwo6k73",
+      "title": "Senior Front-End Engineer React, Typescript",
+      "company": "Jobgether",
+      "company_slug": "jobgether",
+      "location": "India",
+      "date": "2026-11-06",
+      "url": "https://jobs.lever.co/jobgether/0ccb0588-20ab-4f91-b108-8b770667a7ac?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac",
+        "latam",
+        "north_america"
+      ],
+      "countries": [
+        "br",
+        "ca",
+        "in"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "css",
+        "gdpr",
+        "git",
+        "llm",
+        "react",
+        "typescript",
+        "vite"
+      ],
+      "description": null
+    },
+    {
+      "id": "front-end-engineer-react-typescript-helpware-mb5u76ax",
+      "title": "Senior Front-End Engineer React, Typescript",
+      "company": "Helpware",
+      "company_slug": "helpware",
+      "location": "Мексика",
+      "date": "2026-11-05",
+      "url": "https://helpware-inc.breezy.hr/p/c8682bdf427e-senior-front-end-engineer-react-typescript?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "mx"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "css",
+        "git",
+        "llm",
+        "react",
+        "typescript",
+        "vite"
+      ],
+      "description": null
+    },
+    {
+      "id": "software-engineer-react-node-typescript-ai-coding-tools-jobgether-rqsplwwu",
+      "title": "Software Engineer - React, Node, TypeScript & AI Coding Tools",
+      "company": "Jobgether",
+      "company_slug": "jobgether",
+      "location": "Canada",
+      "date": "2026-11-04",
+      "url": "https://jobs.lever.co/jobgether/6e4f9320-9e7b-4d4a-9659-b579337dd9d7?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "automation",
+        "cad",
+        "ci-cd",
+        "claude-code",
+        "gdpr",
+        "git",
+        "github",
+        "github-copilot",
+        "javascript",
+        "nodejs",
+        "npm",
+        "react",
+        "redux",
+        "test-automation",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "lead-full-stack-developer-ai-agents-react-typescript-express-puppeteer-businessmentor-com-ptqv64db",
+      "title": "Lead Full-Stack Developer, AI Agents (React/TypeScript/Express/Puppeteer)",
+      "company": "BusinessMentor.com",
+      "company_slug": "businessmentor-com",
+      "location": "Brazil",
+      "date": "2026-11-09",
+      "url": "https://br.whatjobs.com/pub_api__cpl__466222226__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "ai",
+        "aws",
+        "ec2",
+        "express",
+        "lead-generation",
+        "nodejs",
+        "openai",
+        "postgresql",
+        "puppeteer",
+        "react",
+        "sqlite",
+        "typescript",
+        "vite"
+      ],
+      "description": null
+    }
+  ]
+}

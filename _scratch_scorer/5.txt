@@ -1,0 +1,16 @@
+﻿weSource Management Consultancy Firm - Full Stack Engineering Lead - 100% Remote - Nightshift - Up to 230k
+We are seeking an experienced Lead Full-Stack Engineer to guide our engineering team in the ongoing development and evolution of our platform. Strong background in React, TypeScript, and Python. Lead a talented team while making significant technical contributions to a sophisticated platform used by marketing professionals.
+Required Skills & Experience:
+- 5+ years full-stack development with at least 2 years in a leadership role, managing others in project work and career progression
+- Expert knowledge of React, TypeScript, and modern JavaScript practices
+- Strong proficiency in Python and related frameworks (Flask, FastAPI, or similar)
+- Experience with SQL databases, ORM (SQLAlchemy), and GraphQL (Apollo Client and Python-based servers)
+- Proficiency with UI component libraries (particularly Mantine or similar)
+- Experience with form management in complex React applications
+- Strong understanding of state management patterns, testing frameworks, and deployment strategies
+- Experience with build systems, module bundlers, and CI/CD pipelines
+- Excellent verbal and written communication skills in English
+- Ability to collaborate synchronously during core hours (10:00 AM - 6:00 PM US Eastern Time)
+- Experience leading technical teams and mentoring junior developers
+Preferred: advertising technology or marketing analytics; budget/financial data systems; monorepos; data visualization; accessibility; real-time data; ISO 27001/SOC2
+Responsibilities: Lead full-stack engineers; Design React/TypeScript frontend with Mantine; Python backend GraphQL; technical decision-making; mentoring; performance optimization

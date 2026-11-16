@@ -17,3 +17,5 @@ To prevent duplication and configuration drift across different AI agent framewo
    - Do not duplicate these rules or specifications. Treat `.claude/` files as the single source of truth.
 3. **Portal Search Skills:**
    - Job-portal search CLIs live under [.agents/skills/](.agents/skills/) in the portable Agent Skills format (with a `SKILL.md` per portal). Codex and Antigravity discover these automatically; the `/scrape` workflow in [.claude/skills/job-scraper/](.claude/skills/job-scraper/) orchestrates them.
+4. **Lead Engine (`/leads`):**
+   - Client / freelance / contract / job lead discovery lives under [leads/](leads/) with CLI [tools/leads_cli.py](tools/leads_cli.py). Spec: [.claude/commands/leads.md](.claude/commands/leads.md) and [.claude/skills/lead-engine/](.claude/skills/lead-engine/). Does not replace `/scrape` or `/apply`.

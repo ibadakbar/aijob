@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485464340",
+      "title": "Portal Front-End Developer",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Switzerland",
+      "date": "2026-11-02",
+      "url": "https://ch.linkedin.com/jobs/view/portal-front-end-developer-at-jobgether-4485464340"
+    },
+    {
+      "id": "4486197091",
+      "title": "Senior Full-stack Developer (C# & React)",
+      "company": "Elize Partners",
+      "companyUrl": "https://ch.linkedin.com/company/elize-partners-ag",
+      "location": "Zurich, Switzerland",
+      "date": "2026-11-02",
+      "url": "https://ch.linkedin.com/jobs/view/senior-full-stack-developer-c%23-react-at-elize-partners-4486197091"
+    },
+    {
+      "id": "4485827817",
+      "title": "Senior Software Engineer (Contract)",
+      "company": "adesso Schweiz AG",
+      "companyUrl": "https://ch.linkedin.com/company/adesso-schweiz-ag",
+      "location": "Berne, Switzerland",
+      "date": "2026-11-05",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-contract-at-adesso-schweiz-ag-4485827817"
+    },
+    {
+      "id": "4486348823",
+      "title": "Product Designer",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Switzerland",
+      "date": "2026-11-04",
+      "url": "https://ch.linkedin.com/jobs/view/product-designer-at-jobgether-4486348823"
+    },
+    {
+      "id": "4480016667",
+      "title": "ESG Digitalization Intern – Software & Data Engineering",
+      "company": "Sika",
+      "companyUrl": "https://ch.linkedin.com/company/sika",
+      "location": "Zurich, Zurich, Switzerland",
+      "date": "2026-11-05",
+      "url": "https://ch.linkedin.com/jobs/view/esg-digitalization-intern-%E2%80%93-software-data-engineering-at-sika-4480016667"
+    },
+    {
+      "id": "4488158027",
+      "title": "Stage Développeur Angular/Java (H/F)",
+      "company": "SQLI",
+      "companyUrl": "https://fr.linkedin.com/company/sqli",
+      "location": "Lausanne, Vaud, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-angular-java-h-f-at-sqli-4488158027"
+    },
+    {
+      "id": "4488133623",
+      "title": "Digital Campaign Manager - Gaming (Freelancer, Fixed-Term)",
+      "company": "FIFA",
+      "companyUrl": "https://ch.linkedin.com/company/fifa",
+      "location": "Zurich, Zurich, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/digital-campaign-manager-gaming-freelancer-fixed-term-at-fifa-4488133623"
+    },
+    {
+      "id": "4486247504",
+      "title": "Software Engineer for CERNBox (IT-SD-GSS-2026-174-GRAP)",
+      "company": "CERN",
+      "companyUrl": "https://ch.linkedin.com/company/cern",
+      "location": "Geneva, Geneva, Switzerland",
+      "date": "2026-11-06",
+      "url": "https://ch.linkedin.com/jobs/view/software-engineer-for-cernbox-it-sd-gss-2026-174-grap-at-cern-4486247504"
+    },
+    {
+      "id": "4487243159",
+      "title": "Ingénieur Full Stack",
+      "company": "EMPICA",
+      "companyUrl": "https://ch.linkedin.com/company/empica-s%C3%A0rl",
+      "location": "Geneva, Geneva, Switzerland",
+      "date": "2026-11-05",
+      "url": "https://ch.linkedin.com/jobs/view/ing%C3%A9nieur-full-stack-at-empica-4487243159"
+    },
+    {
+      "id": "4484679414",
+      "title": "Junior Solutions Engineer 100%",
+      "company": "AMINI",
+      "companyUrl": "https://ch.linkedin.com/company/amini",
+      "location": "Zurich, Zurich, Switzerland",
+      "date": "2026-11-03",
+      "url": "https://ch.linkedin.com/jobs/view/junior-solutions-engineer-100%25-at-amini-4484679414"
+    }
+  ]
+}

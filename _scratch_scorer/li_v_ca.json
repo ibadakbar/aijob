@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4474825700",
+      "title": "Senior Software Engineer",
+      "company": "Clarity (formerly Hiive)",
+      "companyUrl": "https://ca.linkedin.com/company/clarity",
+      "location": "Greater Vancouver Metropolitan Area",
+      "date": "2026-10-30",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-at-clarity-formerly-hiive-4474825700"
+    },
+    {
+      "id": "4485151617",
+      "title": "Staff Software Engineer, Frontend",
+      "company": "Harvey",
+      "companyUrl": "https://www.linkedin.com/company/harvey-ai",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-10-31",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-frontend-at-harvey-4485151617"
+    },
+    {
+      "id": "4474633481",
+      "title": "Senior Full-Stack Engineer, NimbleRx",
+      "company": "Swoop",
+      "companyUrl": "https://www.linkedin.com/company/swoop",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-10-30",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-nimblerx-at-swoop-4474633481"
+    },
+    {
+      "id": "4486398139",
+      "title": "Senior Full Stack Engineer",
+      "company": "BorderPass",
+      "companyUrl": "https://ca.linkedin.com/company/borderpassai",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-04",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-at-borderpass-4486398139"
+    },
+    {
+      "id": "4470074146",
+      "title": "Staff Software Engineer",
+      "company": "BuildOps",
+      "companyUrl": "https://www.linkedin.com/company/buildops",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/staff-software-engineer-at-buildops-4470074146"
+    },
+    {
+      "id": "4485349949",
+      "title": "Staff Frontend Engineer",
+      "company": "Forma.ai",
+      "companyUrl": "https://ca.linkedin.com/company/forma-ai",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-10-31",
+      "url": "https://ca.linkedin.com/jobs/view/staff-frontend-engineer-at-forma-ai-4485349949"
+    },
+    {
+      "id": "4429475133",
+      "title": "Lead Software Engineer",
+      "company": "Validere",
+      "companyUrl": "https://ca.linkedin.com/company/validere",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-10-29",
+      "url": "https://ca.linkedin.com/jobs/view/lead-software-engineer-at-validere-4429475133"
+    },
+    {
+      "id": "4479366955",
+      "title": "Senior Web Developer I",
+      "company": "Relay",
+      "companyUrl": "https://ca.linkedin.com/company/relayfinancial",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-06",
+      "url": "https://ca.linkedin.com/jobs/view/senior-web-developer-i-at-relay-4479366955"
+    }
+  ]
+}

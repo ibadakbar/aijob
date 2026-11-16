@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4482740609",
+      "title": "AI-utvecklare",
+      "company": "Martin & Servera",
+      "companyUrl": "https://se.linkedin.com/company/martin-&-servera",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/ai-utvecklare-at-martin-servera-4482740609"
+    },
+    {
+      "id": "4478609135",
+      "title": "Senior Full Stack Developer (Java, React, typescript) | Gothenburg",
+      "company": "Infosys",
+      "companyUrl": "https://in.linkedin.com/company/infosys",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/senior-full-stack-developer-java-react-typescript-gothenburg-at-infosys-4478609135"
+    },
+    {
+      "id": "4451730900",
+      "title": "Senior Fullstack AI Developer (Python/React)",
+      "company": "Filed",
+      "companyUrl": "https://www.linkedin.com/company/filedhq",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/senior-fullstack-ai-developer-python-react-at-filed-4451730900"
+    },
+    {
+      "id": "4478606039",
+      "title": "AI-utvecklare till Martin & Servera",
+      "company": "Wise IT",
+      "companyUrl": "https://se.linkedin.com/company/wise-it-se",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/ai-utvecklare-till-martin-servera-at-wise-it-4478606039"
+    },
+    {
+      "id": "4481565895",
+      "title": "Senior Full Stack Engineer",
+      "company": "Epidemic Sound",
+      "companyUrl": "https://se.linkedin.com/company/epidemic-sound",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/senior-full-stack-engineer-at-epidemic-sound-4481565895"
+    },
+    {
+      "id": "4487866195",
+      "title": "Frontend Engineer",
+      "company": "Legora",
+      "companyUrl": "https://se.linkedin.com/company/wearelegora",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-11",
+      "url": "https://se.linkedin.com/jobs/view/frontend-engineer-at-legora-4487866195"
+    },
+    {
+      "id": "4488315674",
+      "title": "Full-Stack Software Engineer, Lund",
+      "company": "Axis Communications",
+      "companyUrl": "https://se.linkedin.com/company/axis-communications",
+      "location": "Lund, Skåne County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/full-stack-software-engineer-lund-at-axis-communications-4488315674"
+    },
+    {
+      "id": "4489628935",
+      "title": "Senior Software Engineer - Digital Workplace",
+      "company": "Canonical",
+      "companyUrl": "https://uk.linkedin.com/company/canonical",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/senior-software-engineer-digital-workplace-at-canonical-4489628935"
+    },
+    {
+      "id": "4474259663",
+      "title": "Senior Fullstack Engineer",
+      "company": "Benifex",
+      "companyUrl": "https://uk.linkedin.com/company/benifex",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/senior-fullstack-engineer-at-benifex-4474259663"
+    },
+    {
+      "id": "4488326358",
+      "title": "Erfarna systemutvecklare till Nexer – Frontend, Backend & Fullstack",
+      "company": "Nexer Group",
+      "companyUrl": "https://se.linkedin.com/company/nexer-group",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/erfarna-systemutvecklare-till-nexer-%E2%80%93-frontend-backend-fullstack-at-nexer-group-4488326358"
+    }
+  ]
+}
