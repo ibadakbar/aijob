@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "count": 6,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4490344857",
+      "title": "Senior React Developer 12month Contract",
+      "company": "Vantage",
+      "companyUrl": "https://ie.linkedin.com/company/vantage-resources-ltd-",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/senior-react-developer-12month-contract-at-vantage-4490344857"
+    },
+    {
+      "id": "4473152403",
+      "title": "FS Technology Consulting - Modern Engineering - Software Engineer - Senior Consultant - Dublin",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/fs-technology-consulting-modern-engineering-software-engineer-senior-consultant-dublin-at-ey-4473152403"
+    },
+    {
+      "id": "4454133406",
+      "title": "UKI Technology Consulting - AI & Data - AI Lab - Full-Stack Engineer - Agentic AI Platform, Manager",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/uki-technology-consulting-ai-data-ai-lab-full-stack-engineer-agentic-ai-platform-manager-at-ey-4454133406"
+    },
+    {
+      "id": "4491166690",
+      "title": "Software Engineer",
+      "company": "Adamantine Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/adamantine-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-17",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-at-adamantine-recruitment-4491166690"
+    },
+    {
+      "id": "4488386292",
+      "title": "Product Software Engineer - Frontend (Brightflag)",
+      "company": "Wolters Kluwer",
+      "companyUrl": "https://nl.linkedin.com/company/wolters-kluwer",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-10",
+      "url": "https://ie.linkedin.com/jobs/view/product-software-engineer-frontend-brightflag-at-wolters-kluwer-4488386292"
+    },
+    {
+      "id": "4492910928",
+      "title": "Product Software Engineer - Frontend",
+      "company": "Brightflag",
+      "companyUrl": "https://www.linkedin.com/company/brightflag",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-20",
+      "url": "https://ie.linkedin.com/jobs/view/product-software-engineer-frontend-at-brightflag-4492910928"
+    }
+  ]
+}

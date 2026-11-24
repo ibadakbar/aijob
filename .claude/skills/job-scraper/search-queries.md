@@ -4,7 +4,7 @@
 
 ## Installed portal CLIs (primary for `/scrape`)
 
-`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Enabled by default for this profile: `linkedin-search` and `freehire-search`. Danish demos (Jobindex, Jobbank, Jobdanmark, Jobnet) stay **disabled** as HTML scrapers — Denmark is still a **target geography** via LinkedIn, freehire, and `tools/visa_discover.py` (Arbeitnow / ATS boards).
+`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Enabled by default for this profile: `linkedin-search`, `freehire-search`, and `seek-search` (AU/NZ SEEK URLs via freehire index). Danish demos (Jobindex, Jobbank, Jobdanmark, Jobnet) stay **disabled** as HTML scrapers — Denmark is still a **target geography** via LinkedIn, freehire, and `tools/visa_discover.py` (Arbeitnow / ATS boards).
 
 Also run **`python tools/visa_discover.py`** (Step 1d) for Arbeitnow visa-filtered jobs + curated Greenhouse/Ashby/Lever boards. Source research: `visa-sources.md`.
 
@@ -17,6 +17,7 @@ The `site:` query templates below are the **WebSearch fallback**.
 Primary:
 - **linkedin.com/jobs** — `linkedin-search` CLI; location filters for the target geography checklist below + Remote
 - **freehire.me** — `freehire-search` CLI (tech/SaaS; `--country` when supported)
+- **seek.com.au / seek.co.nz** — `seek-search` CLI (`--site au|nz|both`); SEEK HTML is Cloudflare-blocked, so this filters freehire’s SEEK-hosted URLs. Still Path A/B gate after (many AU/NZ-only remotes)
 - **visa discovery engine** — Arbeitnow (`visa_sponsorship=true`) + curated ATS boards in `job_scraper/boards.json`
 
 Secondary (WebSearch fallback):
@@ -26,9 +27,13 @@ Secondary (WebSearch fallback):
 
 Search and keep: **full-time**, **part-time**, **contract**. Tag employment type in scrape notes; do not drop PT or contract by default.
 
-## Workplace types (all in scope)
+## Workplace types (remote + visa path only)
 
-Search and keep: **remote**, **hybrid**, **on-site**. Prefer remote/hybrid when ranking notes are close; do not drop hybrid or remote by default. For LinkedIn CLI runs, rotate `--remote remote`, `--remote hybrid`, and on-site (no remote filter or `--remote onsite`) across target locations.
+**Keep: fully remote only.** Skip **hybrid** and **on-site** unless the user overrides.
+
+A remote keep also needs **visa sponsorship** (literal in listing) and/or **remote-international** (worldwide / from anywhere / overseas applicants). Country-only remote without that path = drop.
+
+For LinkedIn CLI runs: use `--remote remote` only — do not rotate hybrid/onsite.
 
 ## Mobility boosters (prefer / boost in ranking notes)
 
@@ -82,10 +87,10 @@ site:linkedin.com/jobs "Full Stack" Firebase OR Supabase (Germany OR Switzerland
 ## Location Filter
 
 When evaluating results:
-- **Ideal:** Target country on-site/hybrid **with visa sponsorship and/or relocation support**; or remote roles that explicitly hire internationally / from Pakistan into those markets
-- **Acceptable:** Pakistan (Karachi local / hybrid / remote); remote worldwide English roles compatible with Karachi timezone overlap; target-geo roles that are FT, PT, or contract without sponsorship mentioned (FLAG sponsorship gap)
-- **Borderline:** On-site in a non-listed country that still offers sponsorship — discuss with candidate
-- **Too far / FAIL:** Strict on-site outside target geographies with no remote option and no visa/relocation path; roles requiring undeclared working languages (e.g. German-only, Arabic-only)
+- **Ideal:** Fully remote + visa sponsorship and/or remote-international (hires overseas / from Pakistan into target markets)
+- **Acceptable:** Fully remote worldwide English roles compatible with Karachi timezone overlap when overseas hire is explicit
+- **FAIL:** Onsite; hybrid; country-only remote with no overseas path; local work-rights / citizenship-only; undeclared required working languages (e.g. German-only, Arabic-only)
+- **Override:** User may re-enable onsite/hybrid visa+relocate in plain language for a single run
 
 **Target geography checklist:** Germany · Netherlands · United Kingdom · Ireland · Australia · Canada · New Zealand · United States · Sweden · Finland · Denmark · UAE · Saudi Arabia · Qatar · Switzerland · Pakistan · broader EU/EEA when sponsorship/remote is clear
 

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4488251183",
+      "title": "Software Engineer (Nodejs & Reactjs)",
+      "company": "Wiley",
+      "companyUrl": "https://www.linkedin.com/company/john-wiley-and-sons",
+      "location": "Amman, Amman, Jordan",
+      "date": "2026-11-11",
+      "url": "https://jo.linkedin.com/jobs/view/software-engineer-nodejs-reactjs-at-wiley-4488251183"
+    },
+    {
+      "id": "4493714844",
+      "title": "Full Stack Engineer",
+      "company": "Merit Tutoring",
+      "companyUrl": "https://www.linkedin.com/company/merit-tutoring",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-merit-tutoring-4493714844"
+    },
+    {
+      "id": "4490311105",
+      "title": "Staff Software Engineer - Full Stack (React, Next.js, Node,)",
+      "company": "Commonwealth Bank",
+      "companyUrl": "https://au.linkedin.com/company/commonwealthbank",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-12",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-full-stack-react-next-js-node-at-commonwealth-bank-4490311105"
+    },
+    {
+      "id": "4471974363",
+      "title": "Staff Software Engineer",
+      "company": "GitHub",
+      "companyUrl": "https://www.linkedin.com/company/github",
+      "location": "United States",
+      "date": "2026-11-12",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-github-4471974363"
+    },
+    {
+      "id": "4489690799",
+      "title": "Principal Software Engineer - TypeScript/React",
+      "company": "Objective Corporation",
+      "companyUrl": "https://au.linkedin.com/company/objective-corporation",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-11",
+      "url": "https://au.linkedin.com/jobs/view/principal-software-engineer-typescript-react-at-objective-corporation-4489690799"
+    },
+    {
+      "id": "4487496418",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "companyUrl": "https://www.linkedin.com/company/kake",
+      "location": "South Africa",
+      "date": "2026-11-10",
+      "url": "https://za.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4487496418"
+    },
+    {
+      "id": "4490303393",
+      "title": "Staff Software Engineer - Full Stack (React, Next.js, Node,)",
+      "company": "Commonwealth Bank",
+      "companyUrl": "https://au.linkedin.com/company/commonwealthbank",
+      "location": "Eveleigh, New South Wales, Australia",
+      "date": "2026-11-12",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-full-stack-react-next-js-node-at-commonwealth-bank-4490303393"
+    },
+    {
+      "id": "4483132539",
+      "title": "Senior Software Engineer",
+      "company": "BioRender",
+      "companyUrl": "https://ca.linkedin.com/company/biorender",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-14",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-at-biorender-4483132539"
+    },
+    {
+      "id": "4491446448",
+      "title": "SR Software Engineer (TypeScript, Node.js, and React.js) - Indaiatuba/SP",
+      "company": "John Deere",
+      "companyUrl": "https://www.linkedin.com/company/john-deere",
+      "location": "Indaiatuba, São Paulo, Brazil",
+      "date": "2026-11-17",
+      "url": "https://br.linkedin.com/jobs/view/sr-software-engineer-typescript-node-js-and-react-js-indaiatuba-sp-at-john-deere-4491446448"
+    },
+    {
+      "id": "4490891651",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "companyUrl": "https://www.linkedin.com/company/kake",
+      "location": "Vancouver, British Columbia, Canada",
+      "date": "2026-11-18",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4490891651"
+    }
+  ]
+}

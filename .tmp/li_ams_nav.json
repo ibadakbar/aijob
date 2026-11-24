@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4490903157",
+      "title": "Full Stack Engineer",
+      "company": "Searchability®",
+      "companyUrl": "https://uk.linkedin.com/company/searchability",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-16",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-searchability%C2%AE-4490903157"
+    },
+    {
+      "id": "4490729742",
+      "title": "Full Stack Engineer",
+      "company": "Searchability®",
+      "companyUrl": "https://uk.linkedin.com/company/searchability",
+      "location": "Netherlands",
+      "date": "2026-11-13",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-searchability%C2%AE-4490729742"
+    },
+    {
+      "id": "4490757143",
+      "title": "Full-stack Developer (AI-first)",
+      "company": "Fortus Vastgoedfondsen",
+      "companyUrl": "https://nl.linkedin.com/company/fortus-vastgoedfondsen",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-13",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-developer-ai-first-at-fortus-vastgoedfondsen-4490757143"
+    },
+    {
+      "id": "4491131842",
+      "title": "Senior Full Stack Engineer - ClickStack",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-engineer-clickstack-at-clickhouse-4491131842"
+    },
+    {
+      "id": "4418158996",
+      "title": "Software Engineer",
+      "company": "Teero",
+      "companyUrl": "https://www.linkedin.com/company/teerodental",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-12",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-at-teero-4418158996"
+    },
+    {
+      "id": "4489203022",
+      "title": "Fullstack Developer – Taplio & TweetHunter",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Netherlands",
+      "date": "2026-11-12",
+      "url": "https://nl.linkedin.com/jobs/view/fullstack-developer-%E2%80%93-taplio-tweethunter-at-jobgether-4489203022"
+    },
+    {
+      "id": "4489977667",
+      "title": "AI Native Software Engineer",
+      "company": "Quatt",
+      "companyUrl": "https://nl.linkedin.com/company/quatt-heat",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-11",
+      "url": "https://nl.linkedin.com/jobs/view/ai-native-software-engineer-at-quatt-4489977667"
+    },
+    {
+      "id": "4354768030",
+      "title": "Lead/Staff Full Stack Engineer, AI Platform & Agents",
+      "company": "Wolters Kluwer",
+      "companyUrl": "https://nl.linkedin.com/company/wolters-kluwer",
+      "location": "Alphen aan den Rijn, South Holland, Netherlands",
+      "date": "2026-11-11",
+      "url": "https://nl.linkedin.com/jobs/view/lead-staff-full-stack-engineer-ai-platform-agents-at-wolters-kluwer-4354768030"
+    },
+    {
+      "id": "4485605250",
+      "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
+      "company": "Doctolib",
+      "companyUrl": "https://fr.linkedin.com/company/doctolib",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-12",
+      "url": "https://nl.linkedin.com/jobs/view/senior-fullstack-engineer-java-react-x-f-m-at-doctolib-4485605250"
+    },
+    {
+      "id": "4488538174",
+      "title": "Senior Full-Stack Product Engineer (Startup, SaaS, Amsterdam)",
+      "company": "SOUS",
+      "companyUrl": "https://www.linkedin.com/company/poweredbysous",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-12",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-product-engineer-startup-saas-amsterdam-at-sous-4488538174"
+    }
+  ]
+}

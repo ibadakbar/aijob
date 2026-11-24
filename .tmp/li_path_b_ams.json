@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4484056416",
+      "title": "Senior Front-End Engineer (React) - Personalization",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/senior-front-end-engineer-react-personalization-at-picnic-technologies-4484056416"
+    },
+    {
+      "id": "4449019321",
+      "title": "Front-End Engineer (React / React Native) – Store & Web",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-19",
+      "url": "https://nl.linkedin.com/jobs/view/front-end-engineer-react-react-native-%E2%80%93-store-web-at-picnic-technologies-4449019321"
+    },
+    {
+      "id": "4489980067",
+      "title": "Senior Frontend Developer",
+      "company": "Sopra Steria",
+      "companyUrl": "https://fr.linkedin.com/company/soprasteria",
+      "location": "Nieuwegein, Utrecht, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/senior-frontend-developer-at-sopra-steria-4489980067"
+    },
+    {
+      "id": "4485605250",
+      "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
+      "company": "Doctolib",
+      "companyUrl": "https://fr.linkedin.com/company/doctolib",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-12",
+      "url": "https://nl.linkedin.com/jobs/view/senior-fullstack-engineer-java-react-x-f-m-at-doctolib-4485605250"
+    },
+    {
+      "id": "4493657919",
+      "title": "Full Stack Engineer",
+      "company": "Talk360",
+      "companyUrl": "https://nl.linkedin.com/company/talk360",
+      "location": "Amsterdam Area",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-talk360-4493657919"
+    },
+    {
+      "id": "4464790928",
+      "title": "Software Engineer - Talent Tooling",
+      "company": "Optiver",
+      "companyUrl": "https://nl.linkedin.com/company/optiver",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-talent-tooling-at-optiver-4464790928"
+    },
+    {
+      "id": "4484742310",
+      "title": "Staff Software Engineer",
+      "company": "ServiceNow",
+      "companyUrl": "https://www.linkedin.com/company/servicenow",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/staff-software-engineer-at-servicenow-4484742310"
+    },
+    {
+      "id": "4493626191",
+      "title": "Frontend React Developer",
+      "company": "Codefield",
+      "companyUrl": "https://nl.linkedin.com/company/codefield",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-react-developer-at-codefield-4493626191"
+    },
+    {
+      "id": "4489482455",
+      "title": "Full stack-ontwikkelaar",
+      "company": "Starapple",
+      "companyUrl": "https://nl.linkedin.com/company/starapple",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-10",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-ontwikkelaar-at-starapple-4489482455"
+    },
+    {
+      "id": "4449933055",
+      "title": "Senior Full-Stack React Developer",
+      "company": "iO",
+      "companyUrl": "https://be.linkedin.com/company/iodigital-com",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-21",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-react-developer-at-io-4449933055"
+    }
+  ]
+}

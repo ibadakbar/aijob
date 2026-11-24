@@ -1,0 +1,15 @@
+{
+  "id": "4492140473",
+  "title": "Full Stack Engineer",
+  "company": "Staff Connect UAE",
+  "companyUrl": "https://ae.linkedin.com/company/staffconnect-uae",
+  "location": "Dubai, United Arab Emirates",
+  "date": null,
+  "url": "https://www.linkedin.com/jobs/view/4492140473",
+  "description": "Job Title: Senior Full Stack Developer\nJob Location: Dubai\nWe are seeking a senior full stack developer to build secure, accessible digital services. The role centers on React and single-page applications, with full stack delivery and working familiarity with Microsoft Dynamics 365 Customer Engagement (CRM).\n\nKey responsibilities\n* Build and maintain responsive React applications using TypeScript or JavaScript, reusable components, and well-structured frontend code.\n* Develop well-designed APIs and backend services that support reliable, secure digital experiences.\n* Integrate applications with Microsoft Dynamics CRM and other services using appropriate APIs and authentication patterns.\n* Turn requirements into technical designs, estimate work, and deliver maintainable features with clear documentation.\n* Apply accessibility, performance, security, testing, code review, and monitoring practices throughout delivery.\n* Guide technical decisions and mentor developers while collaborating with product, design, and CRM teams.\n\nRequired experience\n* Strong experience delivering production web applications with React, TypeScript or JavaScript, HTML, CSS, and single-page application patterns.\n* Hands-on backend development and API design experience, including REST, data access, integration, and automated testing.\n* Familiarity with Dynamics 365 Customer Engagement or Dynamics CRM, Dataverse concepts, and CRM API integration.\n* Familiarity with AI-assisted development using coding agents such as Claude Code, Codex, or equivalent tools, including reviewing and validating generated code.\n* Experience with secure development, source control, CI/CD, troubleshooting, and performance optimization.\n* Ability to own complex work, explain technical trade-offs, and collaborate effectively across disciplines.\nAdditional experience\nExperience with .NET and C#, Azure, Microsoft Entra ID, design systems, or accessibility standards is an advantage.",
+  "seniority": "Mid-Senior level",
+  "employmentType": "Full-time",
+  "jobFunction": null,
+  "industries": "Staffing and Recruiting",
+  "isActive": true
+}

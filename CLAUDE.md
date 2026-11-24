@@ -18,8 +18,10 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Location:** Karachi, Pakistan
 - **Target geographies:** Germany, Netherlands, United Kingdom, Ireland, Australia, Canada, New Zealand, United States, Sweden, Finland, Denmark, UAE, Saudi Arabia, Qatar, Switzerland, broader Europe (EU/EEA + UK), Pakistan — plus remote roles that hire into those markets
 - **Work arrangements:** Full-time, part-time, and contract are all acceptable
-- **Workplace type:** Remote, hybrid, and on-site (on-site/hybrid in target geographies; remote worldwide into those markets)
-- **Mobility:** Actively seeking **visa sponsorship** and **relocation support** for on-site/hybrid roles in the target geographies
+- **Workplace type:** Prefer **fully remote**. **Onsite or hybrid allowed only** when the listing literally offers **visa sponsorship** and/or **relocation** (into a target geo). Without sponsorship/relocation → remote only
+- **Mobility / hire path:**
+  - Remote: keep when **visa sponsorship** (remote hire) and/or **remote-international** (worldwide / from anywhere / overseas). Country-only remote without overseas hire language = skip
+  - Onsite / hybrid: keep **only** with quoted **will sponsor / visa sponsorship / relocation support** into target geos — otherwise drop
 - **Languages:**
   | Language | Level |
   |----------|-------|
@@ -85,7 +87,8 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - Startups building real-time or marketplace products
 
 ### Deal-breakers
-- On-site only outside the target geographies with **no** visa sponsorship / relocation path and no remote option
+- **Onsite** or **hybrid** with **no** visa sponsorship and **no** relocation support
+- Remote that is country-only (e.g. remote AU/UK/CA only) with **no** overseas / international hire or remote visa-sponsorship path
 - Unpaid long "trial" periods framed as employment
 - Roles whose primary language requirement is a language not on your Languages table (German/Arabic as a *required* working language = FAIL unless you add that language later)
 

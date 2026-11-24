@@ -1,0 +1,74 @@
+[
+    {
+        "location":  "London, United Kingdom",
+        "source":  "websearch",
+        "company":  "Frontier Health",
+        "portal":  "ashby",
+        "date":  "2026-11-18",
+        "title":  "Forward Deployed Engineer",
+        "url":  "https://jobs.ashbyhq.com/frontier-health/665f23d1-ae6e-4695-b989-3b59fed88903"
+    },
+    {
+        "location":  "London, United Kingdom",
+        "source":  "websearch",
+        "company":  "Riplo",
+        "portal":  "ashby",
+        "date":  "2026-11-18",
+        "title":  "Founding Engineer (Product)",
+        "url":  "https://jobs.ashbyhq.com/riplo/81ad71b9-1f8f-4e06-9391-4dd65dc85042"
+    },
+    {
+        "location":  "Amsterdam, Netherlands",
+        "source":  "websearch",
+        "company":  "Flexport",
+        "portal":  "greenhouse",
+        "date":  "2026-11-18",
+        "title":  "Senior Applied AI Engineer, Autonomous Supply Chains",
+        "url":  "https://job-boards.greenhouse.io/flexport/jobs/8141246"
+    },
+    {
+        "location":  "Amsterdam, Netherlands",
+        "source":  "websearch",
+        "company":  "Flexport",
+        "portal":  "flexport",
+        "date":  "2026-11-18",
+        "title":  "Senior Software Engineer, DevEx",
+        "url":  "https://amsterdam-engineering.flexport.com/jobs/senior-software-engineer-platform/"
+    },
+    {
+        "location":  "Remote",
+        "source":  "websearch",
+        "company":  "swerl.dev",
+        "portal":  "company",
+        "date":  "2026-11-18",
+        "title":  "Frontend Engineer",
+        "url":  "https://swerl.dev/jobs/frontend-engineer"
+    },
+    {
+        "location":  "Munich, Germany",
+        "source":  "websearch",
+        "company":  "Sitefire",
+        "portal":  "needle",
+        "date":  "2026-11-18",
+        "title":  "Founding Product Engineer",
+        "url":  "https://jobs.needle.so/sitefire/07457def-a74f-41b4-bbc4-87f8dc18be1e"
+    },
+    {
+        "location":  "London, United Kingdom",
+        "source":  "websearch",
+        "company":  "Borderless",
+        "portal":  "teamtailor",
+        "date":  "2026-11-18",
+        "title":  "Senior Software Engineer",
+        "url":  "https://careers.getborderless.co.uk/jobs/7370306-full-stack-software-engineer"
+    },
+    {
+        "location":  "Amsterdam, Netherlands",
+        "source":  "websearch",
+        "company":  "Fidamy",
+        "portal":  "ashby",
+        "date":  "2026-11-18",
+        "title":  "Senior Software Engineer",
+        "url":  "https://jobs.ashbyhq.com/fidamy/6d176022-56e0-4cdd-819e-ea31909ea290"
+    }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Full-Stack Developer",
+    "company": "Carman",
+    "url": "https://carman.world/en/careers/fullstack",
+    "location": "Remote (Worldwide)",
+    "posted_date": null,
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "employer-careers",
+    "source": "websearch",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Frontend engineer (Next.js)",
+    "company": "WN Social",
+    "url": "https://wnsocial.com/careers",
+    "location": "Remote \u00b7 Worldwide",
+    "posted_date": null,
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "portal": "employer-careers",
+    "source": "websearch",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Senior Frontend Engineer",
+    "company": "PancakeSwap",
+    "url": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer",
+    "location": "Remote (any timezone)",
+    "posted_date": null,
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "portal": "employer-careers",
+    "source": "websearch",
+    "first_seen": "2026-11-18"
+  }
+]

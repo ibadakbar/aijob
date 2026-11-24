@@ -1,0 +1,509 @@
+[
+  {
+    "title": "Sr. Software Engineer (PHP + React/Typescript)",
+    "company": "Bloomerang",
+    "location": "Remote, USA",
+    "url": "https://grnh.se/riitd0dk5us",
+    "date": "2026-11-10",
+    "id": "in-82e79e0732940e93",
+    "portal": "visa-jobspy",
+    "source": "cli",
+    "description": "At Bloomerang, we believe change happens on purpose. We champion the power and potential of nonprofits, igniting next-level impact with the team and technology built for purpose. Our powerful giving platform and stellar support enable tens of thousands of nonprofits to raise more, recruit more, and retain more, fueling maximum impact and raising the bar on what's possible for the nonprofit sector. That's why, even as the nonprofit sector sees declines in giving, Bloomerang customers raise more year over year. We're also in the business of creating thriving employees. Join a mission-driven culture built on our core values of Simplify, Care and Act. We know our people are the key to our success, and we're proud to be home to some of the most innovative and skilled individuals in the workforce today. Come feel invigorated and unstoppable with us! **The Role** As a Senior Full-Stack Software Engineer on the Events & Auctions team, you'll help build the tools nonprofits use to run galas, auctions, and live fundraising events. You'll take a problem from \"what do our customers need?\" all the way to working software in production: the React interface, the PHP behind it, and the data underneath. The work leans heavier toward the frontend than the backend, and you'll work alongside Product, QA, and fellow engineers to deliver a complete solution rather than handing work across a stack boundary. The problems we work on are rarely fully specified. We're looking for someone who can make progress with 70% of the picture, state their assumptions, and keep moving; who sees work through to done, including the tests, the rollout, and the follow-up; and who makes the people around them better. AI tools are part of how our team builds software every day, and we expect you to use them well and keep learning as they change. **What You Will Do** * **Own solutions end to end.** Shape the approach, build the UI, write the PHP services and APIs, design the data changes, test it, and ship it ",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "oyees living in Indianapolis, IN are welcome to work from our company headquarters. We do not offer Visa sponsorship or relocation assistance at this time. **Accommodations** Applicants who require accommodations may contact careers@bloomerang.com to request an",
+          "source_url": "https://grnh.se/riitd0dk5us",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.94,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.9,
+    "path": "A"
+  },
+  {
+    "title": "Sr. Software Engineer (Payments)",
+    "company": "Bloomerang",
+    "location": "Remote, USA",
+    "url": "https://grnh.se/4sghpt825us",
+    "date": "2026-11-11",
+    "id": "in-57608bb7d84acff5",
+    "portal": "visa-jobspy",
+    "source": "cli",
+    "description": "At Bloomerang, we believe change happens on purpose. We champion the power and potential of nonprofits, igniting next-level impact with the team and technology built for purpose. Our powerful giving platform and stellar support enable tens of thousands of nonprofits to raise more, recruit more, and retain more, fueling maximum impact and raising the bar on what's possible for the nonprofit sector. That's why, even as the nonprofit sector sees declines in giving, Bloomerang customers raise more year over year. We're also in the business of creating thriving employees. Join a mission-driven culture built on our core values of Simplify, Care and Act. We know our people are the key to our success, and we're proud to be home to some of the most innovative and skilled individuals in the workforce today. Come feel invigorated and unstoppable with us! ### **The Role** As a Senior Software Engineer at Bloomerang, you'll be a hands-on engineer and a key driver of technical success on your team. You'll design, build, and ship production software that helps nonprofits raise the money that powers their missions. Agentic AI tools are part of how we build every day, across the whole delivery lifecycle, and how we work keeps changing as those tools do. You'll join Paid in Dreams, the team that owns payments at Bloomerang. In payments, reliability and security can't be compromised. A bug here can mean a donation that didn't go through or money that didn't land where it should. Stripe is our primary processor, and the work covers processor integrations, webhooks, and the donor-facing experiences built on top of them. We're looking for a pragmatic engineer who sees the bigger picture. You understand how a change ripples across systems, products, and the people who use them. You find the real problem before reaching for a solution, and you know when something needs rigor and when good enough is fine. You bring ideas without assuming you have all the answers, and you're curious about th",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "oyees living in Indianapolis, IN are welcome to work from our company headquarters. We do not offer Visa sponsorship or relocation assistance at this time. **Accommodations** Applicants who require accommodations may contact careers@bloomerang.com to request an",
+          "source_url": "https://grnh.se/4sghpt825us",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.8845,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.67,
+    "path": "A"
+  },
+  {
+    "title": "Remote Lead Software Engineer for a Healthcare Company",
+    "company": "Pearl",
+    "location": "United States",
+    "url": "https://apply.workable.com/j/FFF7D110FA",
+    "date": "2026-11-04",
+    "id": "FFF7D110FA",
+    "portal": "visa-workable",
+    "source": "cli",
+    "description": "Work From Anywhere in the US (New York or Houston preferred, relocation assistance available) Work Schedule: US Timezone (EST/CT) | Overlap with US business hours About Pearl Talent Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed by companies like OpenAI, a16z, and Founders Fund. Hear why we exist, what we believe in, and who we’re building for: Watch here: https://www.loom.com/share/863b8e426e6d48309aa8f4ea4c1c94cd About the Client A seed-stage US healthcare technology company is building a system to redistribute unused medications to patients who cannot afford them. It is looking for a Founding Senior Full-Stack Engineer to build the products that increase the supply of donated medications. The company runs a pharmacist-led process that recertifies donated medications for safe reuse. The team is 8 people across two continents. Large health plan contracts are signed or pending, so the company is close to moving from proof of concept to scaled execution. About the Role This is a hands-on individual contributor role. You will work directly with the Head of Technology and the CEO, building across a Python/Django and PostgreSQL backend, a React frontend, and AWS infrastructure. Your first project is a donation management platform that lets major health systems donate medications without the current email-based process. Success means health systems donate through the platform instead of email, and the supply of donated medications grows as a result. Remote team members travel to Houston quarterly and to New York for onboarding. Core Responsibilities Product Development Build the first donation management platform for health systems, replacing the current email-based process Own new products for healthcare providers, health systems, and medication supply operations Turn 50-state compliance rules, multi-state transfers, and expiration tra",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "Work From Anywhere in the US (New York or Houston preferred, relocation assistance available) Work Schedule: US Timezone (EST/CT) | Overlap with US business hours About Pearl Talent Pearl works with the",
+          "source_url": "https://apply.workable.com/j/FFF7D110FA",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.8315,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.59,
+    "path": "A"
+  },
+  {
+    "title": "Full-Stack Developer Senior",
+    "company": "Bosch",
+    "location": "Timișoara, TM, ro",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161229649",
+    "date": "2026-11-12",
+    "id": "744000161229649",
+    "portal": "visa-smartrecruiters",
+    "source": "cli",
+    "description": "About Bosch Service Solutions in Timișoara Bosch Service Solutions is a leading service provider of enterprise and IT solutions. It designs and provides best-in-class services , including software-based solutions, consulting and management, AI, automation and customer experience . We’re on a mission to exceed customer expectations and continually elevate industry standards. Our colleagues contribute to this mission through their commitment, in an environment where diversity is valued and where everyone can bring their own contribution. Our promise to our colleagues is rock-solid: we grow together, we enjoy our work, and inspire each other. Join us and see the difference. Work LikeABosch About Us We develop digital platforms, web applications, and intelligent software solutions that support users and business processes across the Bosch Group. As part of an entrepreneurial and globally operating team, we combine modern software engineering, cloud-native technologies, user-centric design, and AI capabilities to create innovative products with real business impact. Our products range from scalable business platforms and workflow applications to digital marketplaces, collaboration tools, and customer-facing solutions used across a variety of business domains. We are continuously expanding our portfolio and looking for talented engineers who enjoy building high-quality software end-to-end and shaping the next generation of digital solutions. Your Mission You will help shape the next generation of digital products by designing and developing scalable web applications, digital services, platform capabilities, and AI-powered solutions. From architecture and software engineering to user experience and system integration, you will contribute to products used across the Bosch Group. Your Responsibilities Plan, develop, and operate modern web platforms, digital services, and software products Build scalable frontend and backend applications using modern technologies and engineer",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "ndidates to us through our program: Recommend Bosch. For certain positions, we will honor you with an attractive bonus; Relocation package - If you’re being recruited from more than 50 km away, we provide a standard relocation package of 2500 RON (conditions",
+          "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161229649",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "RO",
+    "workplace": "unknown",
+    "rank_overall": 0.785,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.9,
+    "path": "A"
+  },
+  {
+    "title": "Senior Vue Developer",
+    "company": "Lemon.io",
+    "location": "Worldwide Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+    "date": "2026-11-05",
+    "id": "1137688",
+    "portal": "visa-remoteok",
+    "source": "cli",
+    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Vue Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the clientâs team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the teamâs hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who weâre looking for Senior Vue.js & Nuxt.js Developers: 4+ years of software development experience 4+ years of experience with Vue.js 2+ years of experience with Nuxt.js & JavaScript Experience with Typescript is a must Senior Vue.js & PHP Developers: 4+ years of software development experience 3+ years of experience with Vue.js & 3+ years with PHP Experience with Laravel is a must Senior Vue.js & Node.js Developers: 4+ years of software development experience 3+ years of experience with Vue.js & 3+ years with Node.js Experience with Nuxt.js is a must Senior Vue.js & .NET Developers: 5+ years of software development experience 3+ years of experience with Vue.js & 5+ years with .NET OR 5+ years of experience with Vue.js & 3+ years with .NET Experience with Typescript is a must Senior Vue.",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "& C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers fr",
+          "source_url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+          "pattern": "visa assistance"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.768,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.58,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Claims",
+    "location": "Worldwide Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+    "date": "2026-11-04",
+    "id": "1137685",
+    "portal": "visa-remoteok",
+    "source": "cli",
+    "description": "ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CET About Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its evidence, as structured data that models and agents can query. We're a startup and run as Subnet 111 on Bittensor. Since our mainnet launch on 28 August 2026, an open competition of miners has processed more than 10,000 papers, and every record was checked by our validator before it entered the dataset. The competition keeps raising the bar: miners keep finding ways to beat our own reference pipeline, and every win becomes part of the standard the whole network is scored against. The team Claims was founded by two professors of economics and a senior engineer. Philipp Koellinger , CEO, is a professor of economics and an experienced entrepreneur: founder of DeSci Labs and the DeSci Foundation, and co-builder of SciWeave with Ogban. Christian Roessler , co-founder, is a professor of economics and game theorist. He designs the incentive mechanism that makes the miner competition work. Ogban Ugot , engineering, is a senior backend and machine learning engineer. He built SciWeave, the Claims miner, validator and data pipeline, and you will work with him every day. You would be the fourth person on the team and our second engineer. Our culture We are a fully remote team spread across Europe, Africa and the US West Coast. We have a flat hierarchy and move fast towards clearly defined goals. We think deep, don't shy away from difficult problems or conversations, and we ship relentlessly. The code you will write will run on a live network within your first weeks, and you own real things from day one. We are an AI-native company and expect you to be an AI-native Soft",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.618,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.83,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer, Security, Stablecoin",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3",
+    "date": "2026-11-09",
+    "id": "d1183b00-6590-4fe4-a585-28d84e578fe3",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT RAMP Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. ABOUT THE ROLE Ramp is, at its core, a fintech company. Our financial infrastructure enables us to issue cards, move money globally, and manage treasury flows for our customers. Stablecoins are emerging as a critical lever to make these flows faster, cheaper, and more accessible. We are looking for a Software Engineer to join our engineering team with a dedicated focus on stablecoin-based payment and treasury systems. In this role, you will act as both a technical owner and multiplier: working on core stablecoin services, ensuring secure and reliable integrations with external partners, and guiding Ramp’s evolution toward next-generation fintech solutions. Our ideal candidate combines deep curiosity about eventually consistent distributed systems with strong financial infrastructure experience, thrives in highly regulated and mission-critical environments, and has a passion for diving into new problem spaces. WHAT YOU'LL DO - Help build & scale Ramp’s stablecoin-based payment and treasury infrastructure - Partner with external providers and intern",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "g + bonding) or 8 weeks (bonding only) at 100% pay - Pet insurance - In-office perks: lunch, snacks, drinks, and more - Relocation expense coverage to NYC or SF (if needed) CANADA - Group medical, dental, and vision coverage through Sun Life - Life,",
+          "source_url": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3",
+          "pattern": "relocation (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.618,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.43,
+    "path": "A"
+  },
+  {
+    "title": "Lead Forward Deployed Software Engineer",
+    "company": "Flink",
+    "location": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+    "date": "2026-11-18",
+    "id": "lead-forward-deployed-software-engineer-zurich-212901",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Flink Robotics is a fast-paced startup, out of ETH Zürich's Computational Robotics Lab, building autonomous robots that can handle any item - including ones they’ve never seen before. We're revolutionising material handling, from stacking boxes to sorting parcels and unloading goods. We're looking for a Lead Forward Deployed Software Engineer who loves debugging systems and turning real-world data into working software. You'll be out with our field team at customer sites, owning the adaptation and troubleshooting of our autonomy stack as it meets the conditions of each deployment. Who you are Eager to join a VC-backed startup and take real ownership from the start Passionate about robotics: from perception and motion to autonomy and control An experienced problem-solver who can make decisions under ambiguity and mentor others as the team grows Proactive, curious and a clear communicator (fluent English, additional languages are a plus) Ready to travel around 50% of the time, to get the best performance out of our deployed robots What you bring 5+ years of professional experience and a degree in maths, computer science, or a related field Experience deploying C++ code in production Self motivated, and thriving in entrepreneurial environments (startups, professional services, big tech) Proven experience diagnosing and resolving complex system issues in short turnaround cycles Low-ego collaboration; people love working with you What you'll do Optimise robot performance after installation and ensure smooth customer handover Quality control and deploy incremental and major software upgrades across robot fleet Define and own the remote supervision process Guide and filter feedback from customers to the product teams Build out and manage the forward deployed software engineering team Why join An ambitious team building a product with huge potential Cutting-edge robotics problems, with direct, high-stakes customer impact Competitive salary, equity, and top-tier gear Based i",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Swiss/EU citizen, existing Swiss work permit, or a degree from a Swiss university; able to work in Switzerland without visa sponsorship Find Jobs in Switzerland on Arbeitnow",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "visa sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "s/EU citizen, existing Swiss work permit, or a degree from a Swiss university; able to work in Switzerland without visa sponsorship Find Jobs in Switzerland on Arbeitnow",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "de Apply now if you're ready to push boundaries and help shape the future of robotics! Swiss/EU citizen, existing Swiss work permit, or a degree from a Swiss university; able to work in Switzerland without visa sponsorship Find Jobs in Switzerland on",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "work permit (unqualified)"
+        },
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "CH",
+    "workplace": "unknown",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35,
+    "path": "A"
+  },
+  {
+    "title": "Sr. Full-Stack Software Engineer",
+    "company": "ELITEBRAIN",
+    "location": "Pembroke Pines, FL, USA",
+    "url": "https://jobs.smartrecruiters.com/ELITEBRAIN/744000161156218-sr-full-stack-software-engineer",
+    "date": "2026-11-11",
+    "id": "in-69765ac5a2f62d3e",
+    "portal": "visa-jobspy",
+    "source": "cli",
+    "description": "**Company Description** Our client is a technology organization working on advanced artificial intelligence initiatives that leverage real-world software engineering expertise to improve the capabilities of next-generation AI systems. The organization engages experienced software engineers to contribute to projects involving software development, technical problem-solving, debugging, system architecture, and code evaluation across multiple programming languages and technologies. For this project, our client is seeking **Senior Full-Stack Software Engineers** with strong hands-on experience in both front-end and back-end development to support AI training through complex coding challenges, code reviews, and technical assessments. **CONFISA Group** is supporting the recruitment of qualified professionals worldwide for this fully remote, project-based opportunity. **Job Description** Our client is seeking highly skilled **Senior Full-Stack Software Engineers** to contribute to an advanced artificial intelligence training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation. This is a **fully remote, global opportunity** for experienced engineers with strong hands-on expertise across both front-end and back-end technologies. Selected professionals will create, solve, review, and validate complex software engineering tasks designed to improve the coding and problem-solving capabilities of advanced AI systems. The role also involves translating complete software implementations between programming languages, evaluating technical solutions, and ensuring high standards of software quality. Key Responsibilities * Develop, modify, debug, and optimize front-end and back-end application components. * Design and implement user-facing features, supporting services, APIs, and data models. * Analyze and troubleshoot application behavior across browsers, front-end frameworks, backend services, databases, and external ",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.75,
+    "path": "A"
+  },
+  {
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Proxify AB",
+    "location": "Worldwide Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
+    "date": null,
+    "id": "",
+    "portal": "visa-weworkremotely",
+    "source": "cli",
+    "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English Nice-to-have: Located in CET timezone (+/- 3 hours). Database Architecture knowledge. Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify. To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5\n\nFully remote / work from anywhere (We Work Remotely listing).",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": "SE",
+    "workplace": "remote",
+    "rank_overall": 0.6075,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.9,
+    "path": "A"
+  },
+  {
+    "title": "Senior Backend Developer (Node.js / Nest.js)",
+    "company": "Proxify AB",
+    "location": "Worldwide Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+    "date": null,
+    "id": "",
+    "portal": "visa-weworkremotely",
+    "source": "cli",
+    "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference. What we’re looking for: 5+ years with Node.js and 3+ past years with Nest.js Strong expertise in Node.js and Nest.js frameworks. Proven experience building REST and/or GraphQL APIs. Strong knowledge of JavaScript (ES6+) and TypeScript. Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB). Familiarity with authentication/authorization mechanisms (JWT, OAuth2). Experience with unit/integration testing (e.g., Jest, Mocha). Proficiency with Git and version control workflows. Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. Nice to Have: Experience with cloud platforms (AWS, Azure, GCP). Familiarity with CI/CD pipelines and DevOps practices. Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka). Experience with Docker and containerized applications. Knowledge of microservices and serverless architectures. Responsibilities: Design and develop robust, scalable, and secure backend applications using Node.js and Nest.js. Implement RESTful APIs, GraphQL endpoints, and microservices architectures. Optimize application performance, scalability, and maintainability. Integrate with databases (SQL/NoSQL) and external services via APIs. Ensure code quality, security, and compliance with industry standards. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": "SE",
+    "workplace": "remote",
+    "rank_overall": 0.6075,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.9,
+    "path": "A"
+  },
+  {
+    "title": "Frontend / UI Engineer REMOTE",
+    "company": "ELITEBRAIN",
+    "location": "Pembroke Pines, FL, USA",
+    "url": "https://jobs.smartrecruiters.com/ELITEBRAIN/744000159993068-frontend-ui-engineer-remote",
+    "date": "2026-11-06",
+    "id": "in-6ff4017a04d8c006",
+    "portal": "visa-jobspy",
+    "source": "cli",
+    "description": "**Company Description** Our client is a technology-driven organization working on advanced artificial intelligence initiatives that require high-quality software engineering expertise. The company collaborates with experienced frontend engineers, UI developers, and technical contributors to design, implement, and evaluate complex coding tasks based on real-world visual interfaces and application workflows. Through flexible, project-based remote opportunities, our client engages skilled professionals worldwide to contribute their technical expertise to AI-related development and evaluation projects. The organization values strong engineering practices, verifiable open-source contributions, technical accuracy, and the ability to deliver objectively measurable results. **Job Description** **Position Overview** Our client is seeking experienced Frontend / UI Engineers to contribute to advanced AI-related software engineering projects. This fully remote, project-based opportunity focuses on transforming visual materials—including screenshots, UI mockups, diagrams, and screen recordings—into challenging, technically accurate coding tasks with clearly defined and objectively verifiable success criteria. Selected professionals will leverage their expertise in frontend development, user interface engineering, and debugging to create realistic technical challenges, develop working reference implementations, and evaluate the quality of tasks produced by other contributors. **Key Responsibilities** * Design complex, multi-step frontend coding tasks based on screenshots, UI mockups, diagrams, and videos of real application workflows. * Translate visual requirements into precise technical specifications and expected application behavior. * Identify relevant source code, components, files, and artifacts required to complete each task. * Establish objective, reproducible success criteria to verify the correctness of completed coding assignments. * Develop functional reference imple",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.5865,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.74,
+    "path": "A"
+  },
+  {
+    "title": "Senior Software Engineer â Kubernetes Control Plane",
+    "company": "Buoyant",
+    "location": "Worldwide Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
+    "date": "2026-11-09",
+    "id": "1137713",
+    "portal": "visa-remoteok",
+    "source": "cli",
+    "description": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ... Please mention the word **FECILITOUS** and tag RMzkuNTMuMjI1LjIzMA== when applying to show you read the job post completely (#RMzkuNTMuMjI1LjIzMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\nWork from anywhere / worldwide remote (RemoteOK listing).",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.45,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.35,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer - AI Tooling",
+    "company": "Supabase",
+    "location": "Remote, Global",
+    "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
+    "date": "2026-11-10",
+    "id": "0055f731-cffa-4c74-9c00-8abfa579873d",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We’re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse. You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. WHAT YOU’LL BE RESPONSIBLE FOR - Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant. - Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production. - Drive an eval-first approach: build and improve evals, instrumentation and feedback loops, measure tools against a no-tool baseline, and help define the quality KPIs and gates that stop regressions shipping. - Understand how customers and agents actually use what we ship, and turn that into improvements to our tooling, interfaces and documentation. - Design how documentation and prod",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.446,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.51,
+    "path": "A"
+  },
+  {
+    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "company": "Affirm",
+    "location": "Worldwide Remote",
+    "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+    "date": null,
+    "id": "",
+    "portal": "visa-weworkremotely",
+    "source": "cli",
+    "description": "Headquarters: Remote Poland At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm’s Revenue organization. As a Senior Analyst, Revenue Analytics, you’ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement. You’ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure. What you'll do Develop dbt data models, dashboards, metrics, and automation processes for the revenue field team and revenue analysts Build and maintain critical reporting data models that power external merchant reporting Build the semantic, metadata, and context layers that allow AI systems to accurately understand Revenue data, metrics, and business definitions Partner with Business Systems, engineering, and business stakeholders to translate requirements into durable, well-tested data products Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows) Develop processes, governance, and foundations to scale the impact of analytics within Revenue. What we look for 3+ years of work experience in an analytics engineering or business intelligence role Strong working knowledge of SQL, dbt, Python, data modeling, and data visualization Hands-on experience with BI tools (Sigma/Looker/Tableau), Databricks, and cloud data warehouses (Snowflake) Understanding of the data found",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.4355,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.58,
+    "path": "A"
+  },
+  {
+    "title": "Senior Agentic AI Engineer NDA",
+    "company": "GT",
+    "location": "Warsaw",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+    "date": "2026-11-09",
+    "id": "1137710",
+    "portal": "visa-remoteok",
+    "source": "cli",
+    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. Â GTâs mission is to connect the worldâs best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of the client, GT is looking for a Senior Agentic AI Engineer who is interested in solving complex matching and search problems at scale, applying ML and algorithms to hundreds of millions of real-world data records. Â About the Client Our client is a leading global management consultancy known for tackling some of the worldâs most complex business challenges. With a focus on strategy, transformation, and performance improvement, the firm partners with major organizations across industries to drive lasting impact. Recognized consistently as a top workplace, it combines deep industry expertise with a collaborative, innovative culture. Its centralized European hub plays a key role in supporting operations across the EMEA region, ensuring excellence and efficiency at scale. Â About the Project & Role We are looking for a Senior AI Engineer to help design, build, and evolve an AI-powered conversational analytics platform that enables businesses to explore their data, generate insights and visualizations, and make data-driven decisions. The product helps users analyze promotional performance, answer complex analytical questions, build charts and tables, and generate evidence-based recommendations using LLMs, agentic workflows, and governed client data. The team is developing a scalable, secure, and extensible agentic AI framework that can be customized for different clients and integrated with other products through standards such as Model Context Protocol (MCP). The existing solution is built on LangChain, with plans to evolve and migrate the framework. This is a hands-on engineering role with a significant architecture and system design component. You will work across the entire agentic AI lifecycle, from designing agent workf",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": "NL",
+    "workplace": "remote",
+    "rank_overall": 0.4185,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.26,
+    "path": "A"
+  },
+  {
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "location": "Worldwide Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "date": "2026-11-05",
+    "id": "1137691",
+    "portal": "visa-remoteok",
+    "source": "cli",
+    "description": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses. Our system identifies business opportunities through market signals, validates ideas with live ad tests, builds and launches software products, and brings in human experts wherever agents fall short. That loop already runs end to end: from idea to launched product to first revenue. Over the next 12 months, our focus is on reliability, throughput, and self-improvement, making every launch better than the last. About the role We're looking for a hands-on AI Engineer to take ownership of the architecture and development of our autonomous agent system. You'll lead the technical direction of the platform, building multi-agent orchestration systems, self-improving agent harnesses, and AI-powered backend services. This is a highly technical leadership role that combines architectural decision-making with hands-on engineering. You'll be expected to ship production code, make key technical decisions, improve agent behavior in production, and help establish the engineering standards as the company scales. Responsibilities Own the system architecture and make key technical decisions across the platform. Design and build multi-agent systems and orchestration infrastructure that take products from idea to launch. Develop self-improving agent harnesses, including feedback loops, evaluation systems, and memory. Build and maintain AI-powered backend services on top of LLM APIs such as Anthropic, OpenAI, and Gemini. Write production code, particularly around agent runtime and orchestration. Debug and improve AI behavior in production through prompt engineering, structured outputs, retries, and fallbacks. Break down complex technic",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.4145,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.42,
+    "path": "A"
+  },
+  {
+    "title": "UI Developer",
+    "company": "RainFocus",
+    "location": "Any State",
+    "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+    "date": "2026-11-08",
+    "id": "1137704",
+    "portal": "visa-remoteok",
+    "source": "cli",
+    "description": "RainFocus, one of the most innovative software companies, is in search of an exceptional Jr. UI Developer. About RainFocus RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience, streamline event operations, and accelerate marketing results. We are well-funded, growing fast, and building a company that is changing the market â it will be challenging, fun and exciting. About the Role As a Jr. UI Developer, you will be an essential part of our team, assisting in the implementation of stunning, user-friendly web applications. Working alongside experienced developers, you will use HTML, CSS, and modern JavaScript to help translate designs into high-quality web experiences for our events and platforms. This position is ideal for an early-career developer who is passionate about visually-focused development, eager to learn best practices in CSS and JavaScript, and excited to collaborate within a supportive team environment. You will gain hands-on experience with branding, workflows, and enterprise-grade software development. \\n How you will contribute: Assist in developing, updating, and maintaining UI components and branding with a strong focus on design and responsiveness. Collaborate closely with senior developers, designers, and Product Management to learn processes and deliver quality work. Write clean, maintainable HTML, CSS (using SASS and utility classes), and basic JavaScript (including exposure to React and Svelte). Help troubleshoot, debug, and fix styling issues or UI-related bugs across different browsers and devices. Participate in code reviews to receive feedback, learn RainFocus coding standards",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.3585,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.26,
+    "path": "A"
+  }
+]

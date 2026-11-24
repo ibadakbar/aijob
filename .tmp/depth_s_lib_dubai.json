@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "count": 6,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4493652049",
+      "title": "Full Stack Engineer",
+      "company": "edari",
+      "companyUrl": "https://ae.linkedin.com/company/edari-one",
+      "location": "Dubai, United Arab Emirates",
+      "date": "2026-11-23",
+      "url": "https://ae.linkedin.com/jobs/view/full-stack-engineer-at-edari-4493652049"
+    },
+    {
+      "id": "4490467375",
+      "title": "Front end developer - NAS Neuron",
+      "company": "The Cigna Group",
+      "companyUrl": "https://www.linkedin.com/company/the-cigna-group",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-17",
+      "url": "https://ae.linkedin.com/jobs/view/front-end-developer-nas-neuron-at-the-cigna-group-4490467375"
+    },
+    {
+      "id": "4493206197",
+      "title": "Member of Technical Staff (UAE)",
+      "company": "Ode with Anthropic",
+      "companyUrl": "https://www.linkedin.com/company/odeai",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-20",
+      "url": "https://ae.linkedin.com/jobs/view/member-of-technical-staff-uae-at-ode-with-anthropic-4493206197"
+    },
+    {
+      "id": "4474557154",
+      "title": "AI Full-Stack Engineer Graduate (Corporate Service System - Frontend) - 2027 Start",
+      "company": "ByteDance",
+      "companyUrl": "https://cn.linkedin.com/company/bytedance",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-14",
+      "url": "https://ae.linkedin.com/jobs/view/ai-full-stack-engineer-graduate-corporate-service-system-frontend-2027-start-at-bytedance-4474557154"
+    },
+    {
+      "id": "4487496003",
+      "title": "Senior Digital Solutions Engineer",
+      "company": "Kerzner International",
+      "companyUrl": "https://ae.linkedin.com/company/kerzner-international",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-10",
+      "url": "https://ae.linkedin.com/jobs/view/senior-digital-solutions-engineer-at-kerzner-international-4487496003"
+    },
+    {
+      "id": "4492903528",
+      "title": "Staff Engineer",
+      "company": "Nameless Ventures",
+      "companyUrl": "https://ae.linkedin.com/company/nameless-ventures-mena",
+      "location": "Dubai, United Arab Emirates",
+      "date": "2026-11-20",
+      "url": "https://ae.linkedin.com/jobs/view/staff-engineer-at-nameless-ventures-4492903528"
+    }
+  ]
+}

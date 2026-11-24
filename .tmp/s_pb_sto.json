@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485005227",
+      "title": "Founding Engineer",
+      "company": "Solace Care",
+      "companyUrl": "https://se.linkedin.com/company/solacecare",
+      "location": "Greater Stockholm Metropolitan Area",
+      "date": "2026-11-04",
+      "url": "https://se.linkedin.com/jobs/view/founding-engineer-at-solace-care-4485005227"
+    },
+    {
+      "id": "4447053263",
+      "title": "Senior Frontend Engineer (React)",
+      "company": "Ubiquiti Inc.",
+      "companyUrl": "https://www.linkedin.com/company/ubiquiti-",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-16",
+      "url": "https://se.linkedin.com/jobs/view/senior-frontend-engineer-react-at-ubiquiti-inc-4447053263"
+    },
+    {
+      "id": "4486904423",
+      "title": "Fullstack Software Engineer",
+      "company": "OneLab",
+      "companyUrl": "https://se.linkedin.com/company/onelabse",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-05",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-software-engineer-at-onelab-4486904423"
+    },
+    {
+      "id": "4490443118",
+      "title": "Fullstackutvecklare - frontend till Skandia i Stockholm",
+      "company": "Skandia",
+      "companyUrl": "https://se.linkedin.com/company/skandia",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-16",
+      "url": "https://se.linkedin.com/jobs/view/fullstackutvecklare-frontend-till-skandia-i-stockholm-at-skandia-4490443118"
+    },
+    {
+      "id": "4481565895",
+      "title": "Senior Full Stack Engineer",
+      "company": "Epidemic Sound",
+      "companyUrl": "https://se.linkedin.com/company/epidemic-sound",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-10",
+      "url": "https://se.linkedin.com/jobs/view/senior-full-stack-engineer-at-epidemic-sound-4481565895"
+    },
+    {
+      "id": "4491146661",
+      "title": "Fullstackutvecklare - frontend till Skandia i Stockholm",
+      "company": "Skandia",
+      "companyUrl": "https://se.linkedin.com/company/skandia",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-17",
+      "url": "https://se.linkedin.com/jobs/view/fullstackutvecklare-frontend-till-skandia-i-stockholm-at-skandia-4491146661"
+    },
+    {
+      "id": "4488154042",
+      "title": "Fullstackutvecklare med frontendfokus",
+      "company": "Knightec Group",
+      "companyUrl": "https://www.linkedin.com/company/knightecgroup",
+      "location": "Solna, Stockholm County, Sweden",
+      "date": "2026-11-06",
+      "url": "https://se.linkedin.com/jobs/view/fullstackutvecklare-med-frontendfokus-at-knightec-group-4488154042"
+    },
+    {
+      "id": "4483628424",
+      "title": "Fullstack AI Engineer - AI Lab",
+      "company": "Viaplay Group",
+      "companyUrl": "https://se.linkedin.com/company/viaplaygroup",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-17",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-ai-engineer-ai-lab-at-viaplay-group-4483628424"
+    }
+  ]
+}

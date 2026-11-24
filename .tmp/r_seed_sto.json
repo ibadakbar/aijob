@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4447053263",
+      "title": "Senior Frontend Engineer (React)",
+      "company": "Ubiquiti Inc.",
+      "companyUrl": "https://www.linkedin.com/company/ubiquiti-",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-16",
+      "url": "https://se.linkedin.com/jobs/view/senior-frontend-engineer-react-at-ubiquiti-inc-4447053263"
+    },
+    {
+      "id": "4484034276",
+      "title": "Software Engineer - Web & App (Fullstack)",
+      "company": "Qliro",
+      "companyUrl": "https://se.linkedin.com/company/qliro",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-17",
+      "url": "https://se.linkedin.com/jobs/view/software-engineer-web-app-fullstack-at-qliro-4484034276"
+    },
+    {
+      "id": "4488509011",
+      "title": "Frontend Developer",
+      "company": "Nordplay Group",
+      "companyUrl": "https://mt.linkedin.com/company/nordplay-group",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-12",
+      "url": "https://se.linkedin.com/jobs/view/frontend-developer-at-nordplay-group-4488509011"
+    },
+    {
+      "id": "4434892034",
+      "title": "Fullstack Engineer - Product Engineering",
+      "company": "Legora",
+      "companyUrl": "https://se.linkedin.com/company/wearelegora",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-14",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-engineer-product-engineering-at-legora-4434892034"
+    },
+    {
+      "id": "4443271872",
+      "title": "Fullstack AI Developer (Python/React)",
+      "company": "Filed",
+      "companyUrl": "https://www.linkedin.com/company/filedhq",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-14",
+      "url": "https://se.linkedin.com/jobs/view/fullstack-ai-developer-python-react-at-filed-4443271872"
+    },
+    {
+      "id": "4491146661",
+      "title": "Fullstackutvecklare - frontend till Skandia i Stockholm",
+      "company": "Skandia",
+      "companyUrl": "https://se.linkedin.com/company/skandia",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-17",
+      "url": "https://se.linkedin.com/jobs/view/fullstackutvecklare-frontend-till-skandia-i-stockholm-at-skandia-4491146661"
+    },
+    {
+      "id": "4491011598",
+      "title": "Experienced Frontend Engineer",
+      "company": "Truesec",
+      "companyUrl": "https://se.linkedin.com/company/truesec",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-14",
+      "url": "https://se.linkedin.com/jobs/view/experienced-frontend-engineer-at-truesec-4491011598"
+    },
+    {
+      "id": "4490443118",
+      "title": "Fullstackutvecklare - frontend till Skandia i Stockholm",
+      "company": "Skandia",
+      "companyUrl": "https://se.linkedin.com/company/skandia",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-16",
+      "url": "https://se.linkedin.com/jobs/view/fullstackutvecklare-frontend-till-skandia-i-stockholm-at-skandia-4490443118"
+    }
+  ]
+}

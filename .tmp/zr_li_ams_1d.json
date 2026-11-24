@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "count": 4,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4493657919",
+      "title": "Full Stack Engineer",
+      "company": "Talk360",
+      "companyUrl": "https://nl.linkedin.com/company/talk360",
+      "location": "Amsterdam Area",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-talk360-4493657919"
+    },
+    {
+      "id": "4494000055",
+      "title": "Software Engineer II: Autonomous Supply Chains",
+      "company": "Flexport",
+      "companyUrl": "https://www.linkedin.com/company/flexport",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-ii-autonomous-supply-chains-at-flexport-4494000055"
+    },
+    {
+      "id": "4484742310",
+      "title": "Staff Software Engineer",
+      "company": "ServiceNow",
+      "companyUrl": "https://www.linkedin.com/company/servicenow",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/staff-software-engineer-at-servicenow-4484742310"
+    },
+    {
+      "id": "4492690468",
+      "title": "Full Stack Engineer",
+      "company": "edenity.",
+      "companyUrl": "https://uk.linkedin.com/company/edenity-talent",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-24",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-edenity-4492690468"
+    }
+  ]
+}

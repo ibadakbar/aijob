@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "count": 4,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4492670886",
+      "title": "Full-Stack Developer – Medical Device Software (m/f/d) – funded by the EXIST start-up grant",
+      "company": "Ynone",
+      "companyUrl": "https://de.linkedin.com/company/ynone",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-24",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-medical-device-software-m-f-d-%E2%80%93-funded-by-the-exist-start-up-grant-at-ynone-4492670886"
+    },
+    {
+      "id": "4492395725",
+      "title": "Full-Stack Developer (m/f/d)",
+      "company": "Würth Cloud Services GmbH",
+      "companyUrl": "https://de.linkedin.com/company/w%C3%BCrth-cloud-services-gmbh",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-23",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-developer-m-f-d-at-w%C3%BCrth-cloud-services-gmbh-4492395725"
+    },
+    {
+      "id": "4493626496",
+      "title": "Senior Full-Stack Engineer",
+      "company": "E-Solutions",
+      "companyUrl": "https://www.linkedin.com/company/e-solutions-global",
+      "location": "Berlin, Germany",
+      "date": "2026-11-23",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-at-e-solutions-4493626496"
+    },
+    {
+      "id": "4449393488",
+      "title": "Senior Full-Stack Engineer - Data Intelligence Applications (m/f/d)",
+      "company": "Statista",
+      "companyUrl": "https://de.linkedin.com/company/statista",
+      "location": "Berlin, Germany",
+      "date": "2026-11-23",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-data-intelligence-applications-m-f-d-at-statista-4449393488"
+    }
+  ]
+}

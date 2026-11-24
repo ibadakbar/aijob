@@ -1,0 +1,3 @@
+# Optional board-volume pack (JobSpy / Indeed / LinkedIn / Glassdoor)
+# Install:  python -m pip install -r job_scraper/requirements-volume.txt
+python-jobspy>=1.1.0

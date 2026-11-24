@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4490344857",
+      "title": "Senior React Developer 12month Contract",
+      "company": "Vantage",
+      "companyUrl": "https://ie.linkedin.com/company/vantage-resources-ltd-",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/senior-react-developer-12month-contract-at-vantage-4490344857"
+    },
+    {
+      "id": "4473152403",
+      "title": "FS Technology Consulting - Modern Engineering - Software Engineer - Senior Consultant - Dublin",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/fs-technology-consulting-modern-engineering-software-engineer-senior-consultant-dublin-at-ey-4473152403"
+    },
+    {
+      "id": "4454133406",
+      "title": "UKI Technology Consulting - AI & Data - AI Lab - Full-Stack Engineer - Agentic AI Platform, Manager",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/uki-technology-consulting-ai-data-ai-lab-full-stack-engineer-agentic-ai-platform-manager-at-ey-4454133406"
+    },
+    {
+      "id": "4491166690",
+      "title": "Software Engineer",
+      "company": "Adamantine Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/adamantine-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-17",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-at-adamantine-recruitment-4491166690"
+    },
+    {
+      "id": "4490344866",
+      "title": "Full Stack Engineer with AI",
+      "company": "Realtime Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/realtime-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-with-ai-at-realtime-recruitment-4490344866"
+    },
+    {
+      "id": "4491065560",
+      "title": "UI Engineer",
+      "company": "Optum",
+      "companyUrl": "https://www.linkedin.com/company/optum",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/ui-engineer-at-optum-4491065560"
+    },
+    {
+      "id": "4490365813",
+      "title": "Full Stack Engineer",
+      "company": "ICT Services",
+      "companyUrl": "https://ie.linkedin.com/company/ict-services-ltd",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-ict-services-4490365813"
+    },
+    {
+      "id": "4491831001",
+      "title": "Full Stack Engineer",
+      "company": "Fruition Group Ireland",
+      "companyUrl": "https://ie.linkedin.com/company/fruitiongroupire",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-18",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-fruition-group-ireland-4491831001"
+    }
+  ]
+}

@@ -21,7 +21,7 @@ Examples of valid user input (any of these is enough):
 - `/leads review`
 - `/leads outreach lemon-io-d89975fdeb5d`
 
-If `$ARGUMENTS` is empty **or** is a vague “find leads / worldwide / warm / deep / authentic” request: **do not ask a clarifying question** — run the **Depth Intelligence World path** using `leads/preferences.md`.
+If `$ARGUMENTS` is empty **or** is a vague “find leads / best leads / today’s / worldwide / warm / deep / authentic” request: **do not ask a clarifying question** — run **Best Leads Mode** from `leads/preferences.md` + Daily Best Leads in `leads/PROMPT_PACK.md` (not a same-day O→S stack).
 
 ### Load defaults
 Read once:
@@ -37,8 +37,14 @@ Apply preferences unless the user overrides them in the prompt.
 
 | If the user mentions… | You do… |
 |----------------------|---------|
-| *(empty)* / find leads / today’s leads / worldwide / warm / deep / authentic / Depth | **Depth Intelligence World path** |
-| Depth A / B / C / D | Exact prompt from `PROMPT_PACK.md` |
+| *(empty)* / find leads / best leads / today’s leads / worldwide / warm / deep / authentic | **Best Leads Mode** (`preferences.md` + Daily Best Leads prompt) |
+| Depth / Depth A–S | Exact Depth from `PROMPT_PACK.md` |
+| Depth A / B / C / D / E–O | Exact prompt from `PROMPT_PACK.md` |
+| listings finished / boards dry / Demand Graph / more powerful leads | **Depth O Demand Graph** (`PROMPT_PACK.md`) — non-board buyer + vertical hunt |
+| visa / relocation / onsite / hybrid / sponsored mobility | **Depth P Sponsored Mobility** — remote-first; onsite/hybrid only with visa or relocation quote |
+| sponsor hubs / Path B primary / hub cities / after Depth P | **Depth Q Sponsor Hub Cities** — Path B–primary dual-proof in hub cities (`PROMPT_PACK.md`) |
+| navigator / listings empty / agent not finding / search better / after Depth Q dry | **Depth R Listing Navigator** — company→ATS→contact ladder (`PROMPT_PACK.md`) |
+| more parameters / find more listings / Depth S / parametric / multi-ATS / after Depth R dry | **Depth S Parametric Board Sweep** — multi-query + multi-ATS matrix (`PROMPT_PACK.md`) |
 | jobs / contract / hiring / Remotive / Arbeitnow / vacancy | **Jobs path** (still tier-sort; no recycle dump) |
 | email / emails / phone / contact / directly contact / cold email | **Direct-contact path** |
 | agency / white-label / partnership / overflow | **Agency path** |
@@ -50,6 +56,9 @@ Apply preferences unless the user overrides them in the prompt.
 | outreach + id | **Outreach path** |
 | outcome / status + id | **Outcome path** |
 | followup | **Follow-up path** |
+| convert / backlog / after Depth S dry | **Convert Day** (`PROMPT_PACK.md`) — `/apply`/`/outcome` backlog + optional Sponsor-Watch; no discovery / no Depth T |
+| zero-repeat / no repeats / same listings again / worldwide keeps repeating | **Zero-Repeat Worldwide** (`PROMPT_PACK.md`) — `scrape_state candidates` gate; empty NEW OK |
+| after zero-repeat dry / next strategy / fresh minutes | Convert leftover same day → **Fresh Minutes Zero-Repeat** next morning; no Depth T |
 | apply / CV / cover letter + URL | Hand off to `/apply <url>` |
 
 Default when unclear: **World Leads path**.
@@ -67,30 +76,30 @@ Default when unclear: **World Leads path**.
 
 ---
 
-## World Leads path = DEPTH INTELLIGENCE (default)
+## World Leads path = BEST LEADS MODE (default)
 
-Run when the user wants leads without a narrow filter, or says deep / authentic / warm / today’s leads. Goal: **few authentic active buyers** — not a Remotive/YC dump.
+Run when the user wants leads without a narrow filter, or says best / deep / authentic / warm / today’s leads. Goal: **3–8 authentic hireable rows** — not a Remotive/YC dump and not a same-day O→S spiral.
 
-1. Read `leads/preferences.md` Depth rules + recycle list. Expand stack/geos. Prefer posted **≤7 days** (≤3 ideal). Cap table at **3–8**.
-2. **Primary discovery (do this first):**
-   - WebSearch + WebFetch: company `/careers` `/jobs` `/contact` for React/Next/TS in target geos; keep only **still open** natural listings.
-   - LinkedIn CLI: low volume, last 7 days, freelance/contract + visa/relocation — named human only.
-   - `python tools/visa_discover.py --format scrape --limit 40 --scrape-hits <temp>/visa_hits.json` — keep `verified_in_listing` only.
-3. **Adapters = seeds only** (skip if recycle-heavy):
+1. Read `leads/preferences.md` **Best Leads Mode** + recycle. Expand stack/geos. Path A ≤10d; Path B ≤14d; undated still-open → Tier C OK. Cap **3–8** (+ ≤2 salvage if NEW empty).
+2. **Primary discovery (do this first — paste Daily Best Leads from `PROMPT_PACK.md`):**
+   - `python tools/visa_discover.py --path-ab --since 14d --new-only --limit 40` (or paste cmd if user forbids Python) — keep `verified_in_listing` only.
+   - LinkedIn CLI: Path A Remote `--jobage-minutes 2880` + `--jobage 7` (cap 8); Path B 2–3 hubs `--jobage 14` + visa/reloc (cap 8). Drop agencies.
+   - WebSearch/WebFetch owned ATS + company `/careers` `/contact` — Path A/B quote required.
+3. Contact ladder on every elig-pass. **Phone optional.** Email only if literal.
+4. **Adapters = seeds only** if Best Leads thin:
 
 ```bash
 python tools/leads_cli.py discover --prompt "<expanded worldwide React/Next/TS>" --sources greenhouse,ashby,lever,arbeitnow --mode jobs --yes --format summary
 ```
 
-Use Remotive / ycombinator only if Depth dry; never as the main table when ≥40% hit recycle.
-4. Enrich every keep: WebFetch company Contact/Careers for **literal** email/phone; quote URL. No invent.
+Use Remotive / ycombinator only if Best Leads dry; never as the main table when ≥40% hit recycle.
 5. Dedup vs recycle + tracker; drop language/visa deal-breakers; demote Tier D.
-6. Present **Tier A/B first** (max 8), optional short Tier C:
+6. Present **Tier A/B first**, then Tier C (max 3 when A+B thin), then salvage if NEW empty:
 
-| # | Tier | Company | Role | Geo | Email? | Phone? | Proof URL | Next |
-|---|------|---------|------|-----|--------|---------|-----------|------|
+| # | Tier | Company | Role | Path | Geo | Email? | Phone? | Proof URL | Next |
+|---|------|---------|------|------|-----|--------|---------|-----------|------|
 
-7. Export if useful. One question: number → **outreach** / **apply** / **skip**. If dry: say boards saturated + point to Depth A–D in `leads/PROMPT_PACK.md`.
+7. One question: number → **outreach** / **apply** / **skip**. If dry + salvage empty → **one** Depth R (not full O→S). After R+S dry → **Convert Day** only. Reminder: `/outcome` after applies.
 
 ---
 
@@ -135,13 +144,13 @@ Radar: only actionable when `demand_proven=true` (else needs_review). YC: founde
 
 ## After every discover (checklist)
 
-- [ ] Depth Intelligence World path used when request was vague / deep / authentic
-- [ ] Company-site / LinkedIn / visa_discover before Remotive/YC dump
-- [ ] Preferences geos/stack + recycle applied; max 3–8 authentic ≤7d
-- [ ] Tier A/B shown first; Tier D not sold as warm
+- [ ] Best Leads Mode used when request was vague / best / today’s / deep / authentic
+- [ ] visa_discover + LinkedIn 48h/hubs + owned ATS before Remotive/YC dump
+- [ ] Preferences geos/stack + recycle; max 3–8 (+ salvage ≤2 if empty); Path A ≤10d / Path B ≤14d
+- [ ] Tier A/B first; Tier C ≤3 when thin; Tier D not sold as warm; phone optional
 - [ ] Email?/Phone?/Proof URL marked honestly (published only)
-- [ ] No invented contacts
-- [ ] One next action + export folder (or honest “dry / saturated”)
+- [ ] No invented contacts; no same-day O→S stack on vague find-leads
+- [ ] One next action + `/outcome` reminder (or honest “dry / saturated”)
 
 ## Stop conditions
 

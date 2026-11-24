@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4481749403",
+      "title": "Senior Frontend Engineer",
+      "company": "Level AI",
+      "companyUrl": "https://www.linkedin.com/company/level-ai",
+      "location": "Noida, Uttar Pradesh, India",
+      "date": "2026-11-11",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-level-ai-4481749403"
+    },
+    {
+      "id": "4482858588",
+      "title": "Senior Software Engineer (Frontend - React)",
+      "company": "Impact Analytics",
+      "companyUrl": "https://www.linkedin.com/company/impactanalytics",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "2026-11-13",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-at-impact-analytics-4482858588"
+    },
+    {
+      "id": "4491413226",
+      "title": "Frontend Engineer",
+      "company": "Evlo AI",
+      "companyUrl": "https://www.linkedin.com/company/evlo-ai",
+      "location": "Atlanta, GA",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/frontend-engineer-at-evlo-ai-4491413226"
+    },
+    {
+      "id": "4491406401",
+      "title": "Frontend Engineer",
+      "company": "Evlo AI",
+      "companyUrl": "https://www.linkedin.com/company/evlo-ai",
+      "location": "Seattle, WA",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/frontend-engineer-at-evlo-ai-4491406401"
+    },
+    {
+      "id": "4442891784",
+      "title": "Frontend Software Engineer",
+      "company": "Outset",
+      "companyUrl": "https://www.linkedin.com/company/outset-ai",
+      "location": "San Francisco, CA",
+      "date": "2026-11-12",
+      "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-outset-4442891784"
+    },
+    {
+      "id": "4490290501",
+      "title": "Frontend UI Engineer – AI & Private Markets (India - Remote)",
+      "company": "DwellFi",
+      "companyUrl": "https://www.linkedin.com/company/dwellfi",
+      "location": "India",
+      "date": "2026-11-16",
+      "url": "https://in.linkedin.com/jobs/view/frontend-ui-engineer-%E2%80%93-ai-private-markets-india-remote-at-dwellfi-4490290501"
+    },
+    {
+      "id": "4450305340",
+      "title": "Staff Software Engineer, Web Frontend — Platform Services",
+      "company": "TeamViewer",
+      "companyUrl": "https://de.linkedin.com/company/teamviewer",
+      "location": "Ioannina, Epirus, Greece",
+      "date": "2026-11-14",
+      "url": "https://gr.linkedin.com/jobs/view/staff-software-engineer-web-frontend-%E2%80%94-platform-services-at-teamviewer-4450305340"
+    },
+    {
+      "id": "4490752501",
+      "title": "Software Engineer",
+      "company": "PayPal",
+      "companyUrl": "https://www.linkedin.com/company/paypal",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "2026-11-13",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-paypal-4490752501"
+    },
+    {
+      "id": "4490460854",
+      "title": "Senior Consultant - Tech Consulting - FS - CNS - TC - React Developer - Noida",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Noida, Uttar Pradesh, India",
+      "date": "2026-11-17",
+      "url": "https://in.linkedin.com/jobs/view/senior-consultant-tech-consulting-fs-cns-tc-react-developer-noida-at-ey-4490460854"
+    },
+    {
+      "id": "4491470183",
+      "title": "Staff React Front End Software Engineer",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Brazil",
+      "date": "2026-11-18",
+      "url": "https://br.linkedin.com/jobs/view/staff-react-front-end-software-engineer-at-jobgether-4491470183"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4491825447",
+      "title": "Full Stack Software Engineer - Postgres",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-18",
+      "url": "https://ca.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491825447"
+    },
+    {
+      "id": "4489524886",
+      "title": "Junior Software Engineer",
+      "company": "CSC Generation",
+      "companyUrl": "https://www.linkedin.com/company/csc-generation",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-13",
+      "url": "https://ca.linkedin.com/jobs/view/junior-software-engineer-at-csc-generation-4489524886"
+    },
+    {
+      "id": "4489278145",
+      "title": "Front End Engineer",
+      "company": "Kablamo",
+      "companyUrl": "https://au.linkedin.com/company/kablamo-pty-ltd",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-12",
+      "url": "https://ca.linkedin.com/jobs/view/front-end-engineer-at-kablamo-4489278145"
+    },
+    {
+      "id": "4483132539",
+      "title": "Senior Software Engineer",
+      "company": "BioRender",
+      "companyUrl": "https://ca.linkedin.com/company/biorender",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-14",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-at-biorender-4483132539"
+    },
+    {
+      "id": "4481154524",
+      "title": "Frontend Engineer, Growth & Agents",
+      "company": "EvenUp",
+      "companyUrl": "https://www.linkedin.com/company/evenup",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-12",
+      "url": "https://ca.linkedin.com/jobs/view/frontend-engineer-growth-agents-at-evenup-4481154524"
+    },
+    {
+      "id": "4474508642",
+      "title": "Frontend Software Developer",
+      "company": "Corpay",
+      "companyUrl": "https://www.linkedin.com/company/corpay",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-13",
+      "url": "https://ca.linkedin.com/jobs/view/frontend-software-developer-at-corpay-4474508642"
+    },
+    {
+      "id": "4491142543",
+      "title": "Senior Full Stack Engineer - ClickStack",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-17",
+      "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-engineer-clickstack-at-clickhouse-4491142543"
+    },
+    {
+      "id": "4456650204",
+      "title": "Senior Software Engineer, Frontend (App Experience)",
+      "company": "Affirm",
+      "companyUrl": "https://www.linkedin.com/company/affirm",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-16",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-frontend-app-experience-at-affirm-4456650204"
+    }
+  ]
+}

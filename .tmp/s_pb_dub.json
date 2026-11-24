@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4490344857",
+      "title": "Senior React Developer 12month Contract",
+      "company": "Vantage",
+      "companyUrl": "https://ie.linkedin.com/company/vantage-resources-ltd-",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/senior-react-developer-12month-contract-at-vantage-4490344857"
+    },
+    {
+      "id": "4487731978",
+      "title": "Full stack developer (Javascript 1 year day contract rate North Dublin",
+      "company": "Presidio IT Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/presidio-it-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-developer-javascript-1-year-day-contract-rate-north-dublin-at-presidio-it-recruitment-4487731978"
+    },
+    {
+      "id": "4483817261",
+      "title": "React Engineer",
+      "company": "Air Apps",
+      "companyUrl": "https://www.linkedin.com/company/airapps",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/react-engineer-at-air-apps-4483817261"
+    },
+    {
+      "id": "4473152403",
+      "title": "FS Technology Consulting - Modern Engineering - Software Engineer - Senior Consultant - Dublin",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/fs-technology-consulting-modern-engineering-software-engineer-senior-consultant-dublin-at-ey-4473152403"
+    },
+    {
+      "id": "4454133406",
+      "title": "UKI Technology Consulting - AI & Data - AI Lab - Full-Stack Engineer - Agentic AI Platform, Manager",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/uki-technology-consulting-ai-data-ai-lab-full-stack-engineer-agentic-ai-platform-manager-at-ey-4454133406"
+    },
+    {
+      "id": "4487789482",
+      "title": "Full Stack Engineer - Java & React",
+      "company": "Vantage",
+      "companyUrl": "https://ie.linkedin.com/company/vantage-resources-ltd-",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-05",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-java-react-at-vantage-4487789482"
+    },
+    {
+      "id": "4490344866",
+      "title": "Full Stack Engineer with AI",
+      "company": "Realtime Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/realtime-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-with-ai-at-realtime-recruitment-4490344866"
+    },
+    {
+      "id": "4491166690",
+      "title": "Software Engineer",
+      "company": "Adamantine Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/adamantine-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-17",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-at-adamantine-recruitment-4491166690"
+    }
+  ]
+}

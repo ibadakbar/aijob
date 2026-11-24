@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4490365813",
+      "title": "Full Stack Engineer",
+      "company": "ICT Services",
+      "companyUrl": "https://ie.linkedin.com/company/ict-services-ltd",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-ict-services-4490365813"
+    },
+    {
+      "id": "4491166690",
+      "title": "Software Engineer",
+      "company": "Adamantine Recruitment",
+      "companyUrl": "https://ie.linkedin.com/company/adamantine-recruitment",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-17",
+      "url": "https://ie.linkedin.com/jobs/view/software-engineer-at-adamantine-recruitment-4491166690"
+    },
+    {
+      "id": "4454133406",
+      "title": "UKI Technology Consulting - AI & Data - AI Lab - Full-Stack Engineer - Agentic AI Platform, Manager",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/uki-technology-consulting-ai-data-ai-lab-full-stack-engineer-agentic-ai-platform-manager-at-ey-4454133406"
+    },
+    {
+      "id": "4474373332",
+      "title": "Full-Stack Engineer",
+      "company": "ElevenLabs",
+      "companyUrl": "https://uk.linkedin.com/company/elevenlabs",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-elevenlabs-4474373332"
+    },
+    {
+      "id": "4490280165",
+      "title": "Full Stack Engineer",
+      "company": "Fruition Group Ireland",
+      "companyUrl": "https://ie.linkedin.com/company/fruitiongroupire",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-16",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-engineer-at-fruition-group-ireland-4490280165"
+    },
+    {
+      "id": "4490271741",
+      "title": "Fullstack Developer",
+      "company": "Oliver James",
+      "companyUrl": "https://uk.linkedin.com/company/oliver-james-",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-16",
+      "url": "https://ie.linkedin.com/jobs/view/fullstack-developer-at-oliver-james-4490271741"
+    },
+    {
+      "id": "4473152403",
+      "title": "FS Technology Consulting - Modern Engineering - Software Engineer - Senior Consultant - Dublin",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Dublin 2, County Dublin, Ireland",
+      "date": "2026-11-14",
+      "url": "https://ie.linkedin.com/jobs/view/fs-technology-consulting-modern-engineering-software-engineer-senior-consultant-dublin-at-ey-4473152403"
+    },
+    {
+      "id": "4490745238",
+      "title": "Software Development Engineer II",
+      "company": "Cpl",
+      "companyUrl": "https://ie.linkedin.com/company/cpl",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-13",
+      "url": "https://ie.linkedin.com/jobs/view/software-development-engineer-ii-at-cpl-4490745238"
+    },
+    {
+      "id": "4491813229",
+      "title": "Full Stack Developer",
+      "company": "Infinity Quest",
+      "companyUrl": "https://uk.linkedin.com/company/infinityquest",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-18",
+      "url": "https://ie.linkedin.com/jobs/view/full-stack-developer-at-infinity-quest-4491813229"
+    },
+    {
+      "id": "4465024283",
+      "title": "Lead Software Engineer (Python, AWS, AI/ML)",
+      "company": "Ellucian",
+      "companyUrl": "https://www.linkedin.com/company/ellucian",
+      "location": "Dublin 4, County Dublin, Ireland",
+      "date": "2026-11-12",
+      "url": "https://ie.linkedin.com/jobs/view/lead-software-engineer-python-aws-ai-ml-at-ellucian-4465024283"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4491821008",
+      "title": "Senior Product Manager- Lakehouse",
+      "company": "Cloudera",
+      "companyUrl": "https://www.linkedin.com/company/cloudera",
+      "location": "Greater Kolkata Area",
+      "date": "2026-11-18",
+      "url": "https://in.linkedin.com/jobs/view/senior-product-manager-lakehouse-at-cloudera-4491821008"
+    },
+    {
+      "id": "4454548297",
+      "title": "Staff Product Manager, Connect",
+      "company": "Stripe",
+      "companyUrl": "https://www.linkedin.com/company/stripe",
+      "location": "Seattle, WA",
+      "date": "2026-11-18",
+      "url": "https://www.linkedin.com/jobs/view/staff-product-manager-connect-at-stripe-4454548297"
+    },
+    {
+      "id": "4454552288",
+      "title": "Staff Product Manager, Stripe Tax",
+      "company": "Stripe",
+      "companyUrl": "https://www.linkedin.com/company/stripe",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-18",
+      "url": "https://ie.linkedin.com/jobs/view/staff-product-manager-stripe-tax-at-stripe-4454552288"
+    },
+    {
+      "id": "4490180183",
+      "title": "Senior Product Manager, Enterprise Solutions",
+      "company": "HUB24 Limited",
+      "companyUrl": "https://au.linkedin.com/company/hub-24",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-17",
+      "url": "https://au.linkedin.com/jobs/view/senior-product-manager-enterprise-solutions-at-hub24-limited-4490180183"
+    },
+    {
+      "id": "4491747809",
+      "title": "Senior Product Manager, Platform",
+      "company": "Vectra AI",
+      "companyUrl": "https://www.linkedin.com/company/vectra_ai",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-17",
+      "url": "https://ie.linkedin.com/jobs/view/senior-product-manager-platform-at-vectra-ai-4491747809"
+    },
+    {
+      "id": "4472983957",
+      "title": "Confluent - Senior Product Manager, Cloud Networking",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "location": "Armonk, NY",
+      "date": "2026-11-15",
+      "url": "https://www.linkedin.com/jobs/view/confluent-senior-product-manager-cloud-networking-at-ibm-4472983957"
+    },
+    {
+      "id": "4490485328",
+      "title": "Lead Principal Product Manager",
+      "company": "Oracle",
+      "companyUrl": "https://www.linkedin.com/company/oracle",
+      "location": "Singapore",
+      "date": "2026-11-17",
+      "url": "https://sg.linkedin.com/jobs/view/lead-principal-product-manager-at-oracle-4490485328"
+    },
+    {
+      "id": "4483761272",
+      "title": "Sr Lead Product Manager",
+      "company": "PayPal",
+      "companyUrl": "https://www.linkedin.com/company/paypal",
+      "location": "Chicago, IL",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/sr-lead-product-manager-at-paypal-4483761272"
+    },
+    {
+      "id": "4472996340",
+      "title": "Confluent - Senior Product Manager, Cloud Networking",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "location": "Rochester, MN",
+      "date": "2026-11-15",
+      "url": "https://www.linkedin.com/jobs/view/confluent-senior-product-manager-cloud-networking-at-ibm-4472996340"
+    },
+    {
+      "id": "4490467172",
+      "title": "Principal Product Manager",
+      "company": "Workday",
+      "companyUrl": "https://www.linkedin.com/company/workday",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-17",
+      "url": "https://ie.linkedin.com/jobs/view/principal-product-manager-at-workday-4490467172"
+    }
+  ]
+}

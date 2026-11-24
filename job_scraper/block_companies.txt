@@ -1,0 +1,38 @@
+# Companies already applied / shown — drop ALL titles when --new-only
+# One company name per line. Used by job_scraper.engine.freshness.load_blocked_companies
+Catawiki
+Inspira Financial
+Samsara
+Manex AI
+Manex AI GmbH
+Mistral.ai
+Mistral
+Wise
+Pleo
+Mammoth-AI
+CoLab Software
+League
+Bosch
+PRG Pakistan
+Nubank
+Axle Careers
+Render
+Dawn Technology
+Yooli
+WelcomeHome Software
+Renaissance Learning
+Secure Privacy
+A.Team
+Dropbox
+1KOMMA5
+CloudPSO
+EHB Technologies
+Supabase
+EY
+S&P Global
+Anthropic
+Keyhole Software
+Shield
+H2O.ai
+Leap Tools Inc.
+10Pearls

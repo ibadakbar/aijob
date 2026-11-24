@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4492602544",
+      "title": "Chief Technology Officer",
+      "company": "...",
+      "companyUrl": null,
+      "location": "Alat, Baku Ekonomic Zone, Azerbaijan",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4492602544"
+    },
+    {
+      "id": "4493795539",
+      "title": "Middle Frontend Engineer",
+      "company": "NodeShift",
+      "companyUrl": "https://ae.linkedin.com/company/nodeshift",
+      "location": "India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/middle-frontend-engineer-at-nodeshift-4493795539"
+    },
+    {
+      "id": "4421844936",
+      "title": "Member of Technical Staff, Product Engineering",
+      "company": "GC AI",
+      "companyUrl": "https://www.linkedin.com/company/gc-ai",
+      "location": "United States",
+      "date": "2026-11-22",
+      "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-product-engineering-at-gc-ai-4421844936"
+    },
+    {
+      "id": "4493714844",
+      "title": "Full Stack Engineer",
+      "company": "Merit Tutoring",
+      "companyUrl": "https://www.linkedin.com/company/merit-tutoring",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-merit-tutoring-4493714844"
+    },
+    {
+      "id": "4494332192",
+      "title": "Staff Platform & AI Infrastructure Engineer",
+      "company": "Crimson Education",
+      "companyUrl": "https://nz.linkedin.com/company/crimsoneducation",
+      "location": "Shanghai, Shanghai, China",
+      "date": "2026-11-24",
+      "url": "https://cn.linkedin.com/jobs/view/staff-platform-ai-infrastructure-engineer-at-crimson-education-4494332192"
+    },
+    {
+      "id": "4421855865",
+      "title": "Member of Technical Staff, Product Engineering",
+      "company": "GC AI",
+      "companyUrl": "https://www.linkedin.com/company/gc-ai",
+      "location": "Canada",
+      "date": "2026-11-23",
+      "url": "https://ca.linkedin.com/jobs/view/member-of-technical-staff-product-engineering-at-gc-ai-4421855865"
+    },
+    {
+      "id": "4320296324",
+      "title": "Software Engineer - Full Stack",
+      "company": "Figma",
+      "companyUrl": "https://www.linkedin.com/company/figma",
+      "location": "United States",
+      "date": "2026-11-22",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-figma-4320296324"
+    },
+    {
+      "id": "4437064470",
+      "title": "Senior Software Engineer - Frontend - Consumer",
+      "company": "Kraken",
+      "companyUrl": "https://www.linkedin.com/company/krakenfx",
+      "location": "Hungary",
+      "date": "2026-11-22",
+      "url": "https://hu.linkedin.com/jobs/view/senior-software-engineer-frontend-consumer-at-kraken-4437064470"
+    },
+    {
+      "id": "4437075077",
+      "title": "Senior Software Engineer - Frontend - Consumer",
+      "company": "Kraken",
+      "companyUrl": "https://www.linkedin.com/company/krakenfx",
+      "location": "Mexico",
+      "date": "2026-11-21",
+      "url": "https://mx.linkedin.com/jobs/view/senior-software-engineer-frontend-consumer-at-kraken-4437075077"
+    },
+    {
+      "id": "4494326469",
+      "title": "Staff Platform & AI Infrastructure Engineer",
+      "company": "Crimson Education",
+      "companyUrl": "https://nz.linkedin.com/company/crimsoneducation",
+      "location": "China",
+      "date": "2026-11-24",
+      "url": "https://cn.linkedin.com/jobs/view/staff-platform-ai-infrastructure-engineer-at-crimson-education-4494326469"
+    }
+  ]
+}

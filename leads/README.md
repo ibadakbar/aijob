@@ -2,7 +2,16 @@
 
 Evidence-based client, freelance, contract, and job-lead discovery. Complements `/scrape` (job boards) with intent classification, contact provenance, outreach drafts, and export — without sending any messages.
 
-**World Leads (default for `/leads` / “find leads”):** sweeps Remotive + Arbeitnow + curated ATS + Y Combinator, ranks **Tier A** (published email) → **B** (founder LinkedIn) → **C** (apply URL), and demotes cold marketplace / no-demand rows. Honest claim: public adapters + enrichment — not every website on earth.
+**Best Leads (default for `/leads` / “find leads” / “best leads”):** `visa_discover` + LinkedIn 48h/7d + owned ATS + contact ladder. Ranks **Tier A** (published email) → **B** (founder LinkedIn) → **C** (apply URL). Phone optional. Salvage ≤2 if NEW would be empty. Remotive/YC are seeds only. Depth O→S only after Best Leads is dry — not stacked in one vague run.
+
+## How to use correctly (daily)
+
+1. **Morning:** `/leads` or `/leads best leads` — expect 3–8 rows or honest dry + salvage/near-miss.
+2. **Act:** reply with a number → `/apply <url>` or ask for outreach draft (never auto-send).
+3. **Close the loop:** `/outcome` after apply / reject / no-reply so recycle learns.
+4. **If dry once:** run **one** `/leads Depth R` **or** wait and try again later — do **not** paste O→S the same morning.
+5. **Depth S** only when you say `more parameters` / `Depth S` after R.
+6. **After S dry:** `/leads convert` — backlog + Sponsor-Watch only. Next calendar day → `/leads` again or Fresh Minutes.
 
 ## Quick start
 

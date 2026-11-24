@@ -17,9 +17,9 @@ framework_version: 1.1.1
   - Based in Karachi, Pakistan
   - **Target countries/regions:** Germany, Netherlands, United Kingdom, Ireland, Australia, Canada, New Zealand, United States, Sweden, Finland, Denmark, UAE, Saudi Arabia, Qatar, Switzerland, Europe (EU/EEA + UK), Pakistan
   - **Job types:** Full-time, part-time, contract
-  - **Workplace type:** Remote, hybrid, on-site (all in scope when geography matches)
-  - **Priority filters:** Visa sponsorship, relocation support (boost strongly when present)
-  - Remote / hybrid roles that hire candidates in/from those markets are in scope
+  - **Workplace type:** Prefer fully remote. Onsite/hybrid **only if** listing quotes visa sponsorship and/or relocation into a target geo; otherwise remote only
+  - **Priority filters:** (A) Remote + visa sponsorship and/or remote-international (worldwide / overseas). (B) Onsite/hybrid + will-sponsor / relocation. Country-only remote without overseas path = skip
+  - Onsite / hybrid **without** sponsorship or relocation = skip
 - **Experience framing:** 5+ years (honest to timeline from 2021)
 
 ### Languages

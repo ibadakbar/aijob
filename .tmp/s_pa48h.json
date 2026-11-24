@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4443301579",
+      "title": "Senior ReactJS Developer",
+      "company": "BAE Systems Digital Intelligence",
+      "companyUrl": "https://uk.linkedin.com/company/baesystemsdigital",
+      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "date": "2026-11-17",
+      "url": "https://my.linkedin.com/jobs/view/senior-reactjs-developer-at-bae-systems-digital-intelligence-4443301579"
+    },
+    {
+      "id": "4491587480",
+      "title": "Frontend Developer",
+      "company": "Bump",
+      "companyUrl": "https://www.linkedin.com/company/bumpitup",
+      "location": "Ottawa, Ontario, Canada",
+      "date": "2026-11-17",
+      "url": "https://ca.linkedin.com/jobs/view/frontend-developer-at-bump-4491587480"
+    },
+    {
+      "id": "4483224852",
+      "title": "Software Engineer, Frontend - Economy",
+      "company": "Roblox",
+      "companyUrl": "https://www.linkedin.com/company/roblox",
+      "location": "San Mateo, CA",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-economy-at-roblox-4483224852"
+    },
+    {
+      "id": "4491406401",
+      "title": "Frontend Engineer",
+      "company": "Evlo AI",
+      "companyUrl": "https://www.linkedin.com/company/evlo-ai",
+      "location": "Seattle, WA",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/frontend-engineer-at-evlo-ai-4491406401"
+    },
+    {
+      "id": "4491515092",
+      "title": "Junior Frontend Developer (React.js / Next.js)",
+      "company": "IZIVAR",
+      "companyUrl": "https://in.linkedin.com/company/izivar",
+      "location": "Tiruvannamalai, Tamil Nadu, India",
+      "date": "2026-11-16",
+      "url": "https://in.linkedin.com/jobs/view/junior-frontend-developer-react-js-next-js-at-izivar-4491515092"
+    },
+    {
+      "id": "4490497712",
+      "title": "Junior React Engineer - Montreal - Up to $145,000 CAD Starting Base + Exceptional Bonuses/Benefits",
+      "company": "Hunter Bond",
+      "companyUrl": "https://uk.linkedin.com/company/hunter-bond",
+      "location": "Montreal, Quebec, Canada",
+      "date": "2026-11-17",
+      "url": "https://ca.linkedin.com/jobs/view/junior-react-engineer-montreal-up-to-%24145-000-cad-starting-base-%2B-exceptional-bonuses-benefits-at-hunter-bond-4490497712"
+    },
+    {
+      "id": "4491566771",
+      "title": "Senior Frontend Engineer",
+      "company": "Luminance",
+      "companyUrl": "https://uk.linkedin.com/company/luminancetech",
+      "location": "Cambridge, England, United Kingdom",
+      "date": "2026-11-17",
+      "url": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-at-luminance-4491566771"
+    },
+    {
+      "id": "4489727822",
+      "title": "Senior Frontend Developer",
+      "company": "Scaleway",
+      "companyUrl": "https://fr.linkedin.com/company/scaleway",
+      "location": "Paris, Île-de-France, France",
+      "date": "2026-11-16",
+      "url": "https://fr.linkedin.com/jobs/view/senior-frontend-developer-at-scaleway-4489727822"
+    },
+    {
+      "id": "4483551851",
+      "title": "React.JS Developer",
+      "company": "Capco",
+      "companyUrl": "https://uk.linkedin.com/company/capco",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "2026-11-17",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-capco-4483551851"
+    },
+    {
+      "id": "4447053263",
+      "title": "Senior Frontend Engineer (React)",
+      "company": "Ubiquiti Inc.",
+      "companyUrl": "https://www.linkedin.com/company/ubiquiti-",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-16",
+      "url": "https://se.linkedin.com/jobs/view/senior-frontend-engineer-react-at-ubiquiti-inc-4447053263"
+    }
+  ]
+}

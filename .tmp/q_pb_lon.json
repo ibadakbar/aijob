@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4480716181",
+      "title": "Frontend Engineering Lead",
+      "company": "Omnea",
+      "companyUrl": "https://uk.linkedin.com/company/omnea",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-16",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-engineering-lead-at-omnea-4480716181"
+    },
+    {
+      "id": "4490006529",
+      "title": "Frontend Design Engineer",
+      "company": "Acquired Talent Ltd.",
+      "companyUrl": "https://uk.linkedin.com/company/acquired-talent-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-11",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-design-engineer-at-acquired-talent-ltd-4490006529"
+    },
+    {
+      "id": "4490453954",
+      "title": "Staff Product Engineer (Frontend-Leaning)",
+      "company": "Tenth Revolution Group",
+      "companyUrl": "https://uk.linkedin.com/company/tenthrevolution",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-17",
+      "url": "https://uk.linkedin.com/jobs/view/staff-product-engineer-frontend-leaning-at-tenth-revolution-group-4490453954"
+    },
+    {
+      "id": "4482410422",
+      "title": "Front-End Developer",
+      "company": "European Bioinformatics Institute | EMBL-EBI",
+      "companyUrl": "https://uk.linkedin.com/company/ebi",
+      "location": "England, United Kingdom",
+      "date": "2026-11-12",
+      "url": "https://uk.linkedin.com/jobs/view/front-end-developer-at-european-bioinformatics-institute-embl-ebi-4482410422"
+    },
+    {
+      "id": "4489870443",
+      "title": "UI Lead Software Engineer - React / TypeScript - Digital Markets Execution Technology (DMET)",
+      "company": "Archer",
+      "companyUrl": "https://uk.linkedin.com/company/meet-archer",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-14",
+      "url": "https://uk.linkedin.com/jobs/view/ui-lead-software-engineer-react-typescript-digital-markets-execution-technology-dmet-at-archer-4489870443"
+    },
+    {
+      "id": "4490807286",
+      "title": "React Engineer - London - Up to £180,000 Starting Base + Exceptional Bonuses/Benefits",
+      "company": "Hunter Bond",
+      "companyUrl": "https://uk.linkedin.com/company/hunter-bond",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-17",
+      "url": "https://uk.linkedin.com/jobs/view/react-engineer-london-up-to-%C2%A3180-000-starting-base-%2B-exceptional-bonuses-benefits-at-hunter-bond-4490807286"
+    },
+    {
+      "id": "4489964759",
+      "title": "Product Engineer",
+      "company": "STRATOS Technologies",
+      "companyUrl": "https://uk.linkedin.com/company/stratos-technologies-ltd",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-11",
+      "url": "https://uk.linkedin.com/jobs/view/product-engineer-at-stratos-technologies-4489964759"
+    },
+    {
+      "id": "4491580850",
+      "title": "Front End Design Engineer",
+      "company": "Seamflow",
+      "companyUrl": "https://uk.linkedin.com/company/seamflow",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-17",
+      "url": "https://uk.linkedin.com/jobs/view/front-end-design-engineer-at-seamflow-4491580850"
+    }
+  ]
+}

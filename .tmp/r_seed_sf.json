@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4442891784",
+      "title": "Frontend Software Engineer",
+      "company": "Outset",
+      "companyUrl": "https://www.linkedin.com/company/outset-ai",
+      "location": "San Francisco, CA",
+      "date": "2026-11-12",
+      "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-outset-4442891784"
+    },
+    {
+      "id": "4466319321",
+      "title": "Frontend Engineer, Ads",
+      "company": "Reddit, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/reddit-com",
+      "location": "San Francisco, CA",
+      "date": "2026-11-15",
+      "url": "https://www.linkedin.com/jobs/view/frontend-engineer-ads-at-reddit-inc-4466319321"
+    },
+    {
+      "id": "4491814908",
+      "title": "Full Stack Software Engineer - Postgres",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "San Francisco, CA",
+      "date": "2026-11-18",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491814908"
+    },
+    {
+      "id": "4446272962",
+      "title": "Frontend Software Engineer Graduate (Ads Interface) - 2027 Start",
+      "company": "TikTok",
+      "companyUrl": "https://www.linkedin.com/company/tiktok",
+      "location": "San Jose, CA",
+      "date": "2026-11-13",
+      "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-graduate-ads-interface-2027-start-at-tiktok-4446272962"
+    },
+    {
+      "id": "4485528803",
+      "title": "Front End Engineer",
+      "company": "Gametime",
+      "companyUrl": "https://www.linkedin.com/company/gametime-united",
+      "location": "San Francisco, CA",
+      "date": "2026-11-12",
+      "url": "https://www.linkedin.com/jobs/view/front-end-engineer-at-gametime-4485528803"
+    },
+    {
+      "id": "4458193015",
+      "title": "Full Stack Software Engineer",
+      "company": "Atlassian",
+      "companyUrl": "https://au.linkedin.com/company/atlassian",
+      "location": "San Francisco, CA",
+      "date": "2026-11-18",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-atlassian-4458193015"
+    },
+    {
+      "id": "4491108486",
+      "title": "Staff Software Engineer, Frontend/Web App",
+      "company": "Beacon AI",
+      "companyUrl": "https://www.linkedin.com/company/beacon-ai",
+      "location": "San Carlos, CA",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-frontend-web-app-at-beacon-ai-4491108486"
+    },
+    {
+      "id": "4475559973",
+      "title": "Member of Technical Staff, Frontend",
+      "company": "Coram AI",
+      "companyUrl": "https://www.linkedin.com/company/coram-ai",
+      "location": "Sunnyvale, CA",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-frontend-at-coram-ai-4475559973"
+    }
+  ]
+}

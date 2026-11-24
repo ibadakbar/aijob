@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4475692681",
+      "title": "Senior Frontend Engineer - React.js",
+      "company": "Shift",
+      "companyUrl": "https://au.linkedin.com/company/shiftfinancialau",
+      "location": "North Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-react-js-at-shift-4475692681"
+    },
+    {
+      "id": "4493772920",
+      "title": "ReactJS Developer",
+      "company": "Letitbex AI",
+      "companyUrl": "https://www.linkedin.com/company/letitbexai",
+      "location": "Hyderabad, Telangana, India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-letitbex-ai-4493772920"
+    },
+    {
+      "id": "4494331081",
+      "title": "React Software Engineer",
+      "company": "Agile Actors",
+      "companyUrl": "https://gr.linkedin.com/company/agile-actors",
+      "location": "Athens, Attiki, Greece",
+      "date": "2026-11-24",
+      "url": "https://gr.linkedin.com/jobs/view/react-software-engineer-at-agile-actors-4494331081"
+    },
+    {
+      "id": "4494323882",
+      "title": "React and GCP",
+      "company": "Cognizant",
+      "companyUrl": "https://www.linkedin.com/company/cognizant",
+      "location": "Chennai, Tamil Nadu, India",
+      "date": "2026-11-24",
+      "url": "https://in.linkedin.com/jobs/view/react-and-gcp-at-cognizant-4494323882"
+    },
+    {
+      "id": "4493995682",
+      "title": "Frontend Engineer (React / TypeScript)",
+      "company": "Money Forward India",
+      "companyUrl": "https://in.linkedin.com/company/money-forward-india",
+      "location": "Chennai, Tamil Nadu, India",
+      "date": "2026-11-24",
+      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-react-typescript-at-money-forward-india-4493995682"
+    },
+    {
+      "id": "4493795539",
+      "title": "Middle Frontend Engineer",
+      "company": "NodeShift",
+      "companyUrl": "https://ae.linkedin.com/company/nodeshift",
+      "location": "India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/middle-frontend-engineer-at-nodeshift-4493795539"
+    },
+    {
+      "id": "4492163804",
+      "title": "Senior Frontend Engineer",
+      "company": "Jack",
+      "companyUrl": "https://www.linkedin.com/company/searchwithjack",
+      "location": "Redwood City, CA",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-at-jack-4492163804"
+    },
+    {
+      "id": "4493608700",
+      "title": "Principal Frontend Engineer - React and TypeScript experience is required",
+      "company": "SonicWall",
+      "companyUrl": "https://www.linkedin.com/company/sonicwall",
+      "location": "Pune Division, Maharashtra, India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/principal-frontend-engineer-react-and-typescript-experience-is-required-at-sonicwall-4493608700"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "count": 6,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4485209162",
+      "title": "Front End Product Engineer",
+      "company": "Instrumental Inc.",
+      "companyUrl": "https://www.linkedin.com/company/instrumental-inc.",
+      "location": "Palo Alto, CA",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/front-end-product-engineer-at-instrumental-inc-4485209162"
+    },
+    {
+      "id": "4492619963",
+      "title": "Product Engineer",
+      "company": "011h",
+      "companyUrl": "https://es.linkedin.com/company/011h",
+      "location": "Barcelona, Catalonia, Spain",
+      "date": "2026-11-23",
+      "url": "https://es.linkedin.com/jobs/view/product-engineer-at-011h-4492619963"
+    },
+    {
+      "id": "4492619666",
+      "title": "Product Engineer",
+      "company": "Fonzi AI",
+      "companyUrl": "https://www.linkedin.com/company/fonziai",
+      "location": "San Francisco Bay Area",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/product-engineer-at-fonzi-ai-4492619666"
+    },
+    {
+      "id": "4492600855",
+      "title": "Front End / Full Stack Engineer",
+      "company": "Moment",
+      "companyUrl": "https://www.linkedin.com/company/moment-markets",
+      "location": "New York, NY",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/front-end-full-stack-engineer-at-moment-4492600855"
+    },
+    {
+      "id": "4492617698",
+      "title": "Product Engineer",
+      "company": "Fonzi AI",
+      "companyUrl": "https://www.linkedin.com/company/fonziai",
+      "location": "New York City Metropolitan Area",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/product-engineer-at-fonzi-ai-4492617698"
+    },
+    {
+      "id": "4488076641",
+      "title": "Software Engineer - Full Stack, Officer",
+      "company": "State Street",
+      "companyUrl": "https://www.linkedin.com/company/state-street",
+      "location": "Burlington, MA",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-officer-at-state-street-4488076641"
+    }
+  ]
+}

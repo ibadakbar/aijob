@@ -1,0 +1,400 @@
+[
+  {
+    "title": "Frontend Engineer",
+    "company": "Catawiki",
+    "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+    "date": "2026-11-20",
+    "location": "Amsterdam",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "days per week. At this time, we are only considering candidates who are already based in the Netherlands . As a result, relocation support is not available for this position . We can, however, provide visa transfer from current Dutch employer . In Return You",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "path": "A",
+    "sponsorship_score": 1.0,
+    "skill_score": 1.0,
+    "rank_overall": 1.0,
+    "workplace": "unknown",
+    "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most po"
+  },
+  {
+    "title": "Frontend Engineer (f/m/d)",
+    "company": "Manex AI GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+    "date": "2026-11-22",
+    "location": "Munich",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "path": "B",
+    "sponsorship_score": 1.0,
+    "skill_score": 0.74,
+    "rank_overall": 0.909,
+    "workplace": "unknown",
+    "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspe"
+  },
+  {
+    "title": "Product Engineer - Frontend focus (f/m/d)",
+    "company": "Manex AI GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+    "date": "2026-11-19",
+    "location": "Munich",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "path": "B",
+    "sponsorship_score": 1.0,
+    "skill_score": 0.74,
+    "rank_overall": 0.909,
+    "workplace": "unknown",
+    "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspe"
+  },
+  {
+    "title": "Senior Software Engineer, Consumer Revenue",
+    "company": "Discord",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+    "date": "2026-11-12",
+    "location": "San Francisco Bay Area",
+    "portal": "visa-greenhouse",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "isco Bay Area (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma counties). Relocation assistance may be available. For this role, there is no formal requirement to work from the office. The base salary range for this",
+          "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "path": "B",
+    "sponsorship_score": 1.0,
+    "skill_score": 0.51,
+    "rank_overall": 0.8035,
+    "workplace": "unknown",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there\u2019s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We're looking for talented Senior Software Engineers to join our Consumer Revenue squads, the teams at the heart of premium experi"
+  },
+  {
+    "title": "Senior Software Engineer I - Servicing Platform",
+    "company": "Wise",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+    "date": "2026-11-19",
+    "location": "London, gb",
+    "portal": "visa-smartrecruiters",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "mpliance Experience in messaging systems such as Kafka is a plus. We are currently only considering local candidates as relocation support is not provided. For local candidates we are able to support transfer of visa sponsorship Interested? Find out more: Ho",
+          "source_url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "path": "B",
+    "sponsorship_score": 1.0,
+    "skill_score": 0.35,
+    "rank_overall": 0.7725,
+    "workplace": "unknown",
+    "description": "Wise is a global technology company, building the best way to move and manage the world\u2019s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money. As part of our team, you will be helping us create an entirely new network for the world's money. For everyone, everywhere. More about our mission and what we offer . Ab"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "company": "Pleo",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+    "date": "2026-11-23",
+    "location": "London",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "path": "A",
+    "sponsorship_score": 0.55,
+    "skill_score": 0.67,
+    "rank_overall": 0.727,
+    "workplace": "unknown",
+    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than you\u2019d expect\u2019, and living by that mantra has been the secret to our success over the last 10 years. N"
+  },
+  {
+    "title": "Full Stack Developer Senior- Manufacturing Co-intelligence",
+    "company": "Bosch",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163168614",
+    "date": "2026-11-23",
+    "location": "Timi\u0219oara, TM, ro",
+    "portal": "visa-smartrecruiters",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "ndidates to us through our program: Recommend Bosch. For certain positions, we will honor you with an attractive bonus; Relocation package - If you\u2019re being recruited from more than 50 km away, we provide a standard relocation package of 2500 RON (conditions",
+          "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000163168614",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "path": "A",
+    "sponsorship_score": 1.0,
+    "skill_score": 0.66,
+    "rank_overall": 0.701,
+    "workplace": "unknown",
+    "description": "About Bosch Service Solutions in Timi\u0219oara Bosch Service Solutions is a leading service provider of enterprise and IT solutions. It designs and provides best-in-class services , including software-based solutions, consulting and management, AI, automation and customer experience . We\u2019re on a mission to exceed customer expectations and continually elevate industry standards. Our colleagues contribute to this mission through their commitment, in an environment where diversity is valued and where e"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Axle Careers",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/software-engineer-london-35788",
+    "date": "2026-11-24",
+    "location": "London",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/software-engineer-london-35788",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "path": "A",
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51,
+    "rank_overall": 0.671,
+    "workplace": "unknown",
+    "description": "At Axle Energy, we\u2019re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control hundreds of thousands of energy assets. We\u2019re building in a legacy industry and moving gigawatt-hours of electrons in the real world, but we operate at lightning speed, and we\u2019re growing the team to meet customer demand. We\u2019re proud to be s"
+  },
+  {
+    "title": "Software Engineer, Platform Security (All Levels)",
+    "company": "Render",
+    "url": "https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+    "date": "2026-11-24",
+    "location": "Remote: United States",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "s for remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+          "pattern": "visa sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+          "pattern": "sponsorship (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "path": "A",
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51,
+    "rank_overall": 0.671,
+    "workplace": "remote",
+    "description": "At Render, we\u2019re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms\u2014so teams can ship fast, scale reliably, and focus on their product, not infrastructure. Unlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experience with persistent compute, dynamic autoscaling, bu"
+  },
+  {
+    "title": "Software Engineer, Application Security (all levels)",
+    "company": "Render",
+    "url": "https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+    "date": "2026-11-20",
+    "location": "SF or Remote (US/Canada)",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "s for remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+          "pattern": "visa sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+          "pattern": "sponsorship (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "path": "A",
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51,
+    "rank_overall": 0.671,
+    "workplace": "remote",
+    "description": "At Render, we\u2019re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms\u2014so teams can ship fast, scale reliably, and focus on their product, not infrastructure. Unlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experience with persistent compute, dynamic autoscaling, bu"
+  },
+  {
+    "title": "Backend Software Developer",
+    "company": "Dawn Technology",
+    "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+    "date": "2026-11-20",
+    "location": "Werken op afstand",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "path": "A",
+    "sponsorship_score": 0.55,
+    "skill_score": 0.67,
+    "rank_overall": 0.667,
+    "workplace": "remote",
+    "description": "Backend Software Developer \u2013 Maatwerk Software met Impact Wij weten dat wat op het eerste gezicht eenvoudig lijkt, vaak complexer is dan men denkt. En wij begrijpen dat technologie geen barri\u00e8re mag zijn, maar juist de verbinding naar een bestendige maatschappij. Bij Dawn Technology bouwen we niet zomaar digitale oplossingen. We ontwikkelen hoogwaardige maatwerk software die het leven van mensen verrijkt. Binnen onze Smart Devices afdeling bouwen we apps die impact maken. Van media apps voor bed"
+  },
+  {
+    "title": "Software Engineer - Interfaces Backend",
+    "company": "Supabase",
+    "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+    "date": "2026-11-23",
+    "location": "Remote, Global",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "path": "A",
+    "sponsorship_score": 0.15,
+    "skill_score": 0.67,
+    "rank_overall": 0.527,
+    "workplace": "remote",
+    "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We\u2019re looking for a Software Engineer to join Supabase\u2019s Interfaces group and help run the backend services behind our developer tools, starting with postgres-meta: the open-source service that runs SQL again"
+  },
+  {
+    "title": "Software Engineer - Postgres Tooling",
+    "company": "Supabase",
+    "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+    "date": "2026-11-19",
+    "location": "Remote, Global",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "path": "A",
+    "sponsorship_score": 0.15,
+    "skill_score": 0.51,
+    "rank_overall": 0.471,
+    "workplace": "remote",
+    "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We\u2019re looking for a Software Engineer, Postgres Tooling to join our CLI team and help build the open-source tools developers use to change their Postgres schemas safely. You\u2019ll join as a co-maintainer of pg-d"
+  },
+  {
+    "title": "Software Engineer - AI Tooling",
+    "company": "Supabase",
+    "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
+    "date": "2026-11-10",
+    "location": "Remote, Global",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "path": "A",
+    "sponsorship_score": 0.15,
+    "skill_score": 0.51,
+    "rank_overall": 0.446,
+    "workplace": "remote",
+    "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We\u2019re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent ski"
+  }
+]

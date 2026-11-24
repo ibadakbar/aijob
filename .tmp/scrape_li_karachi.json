@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4492623859",
+      "title": "Senior Consultants, Full Stack Developer, FAAS, Rapid Innovation, Pakistan",
+      "company": "EY",
+      "companyUrl": "https://uk.linkedin.com/company/ernstandyoung",
+      "location": "Karachi Division, Sindh, Pakistan",
+      "date": "2026-11-23",
+      "url": "https://pk.linkedin.com/jobs/view/senior-consultants-full-stack-developer-faas-rapid-innovation-pakistan-at-ey-4492623859"
+    },
+    {
+      "id": "4492448334",
+      "title": "Full-Stack Developer - Web & AI Automation",
+      "company": "HBOX Digital Pakistan",
+      "companyUrl": "https://pk.linkedin.com/company/hbox-digital-headquarters",
+      "location": "Karachi Division, Sindh, Pakistan",
+      "date": "2026-11-19",
+      "url": "https://pk.linkedin.com/jobs/view/full-stack-developer-web-ai-automation-at-hbox-digital-pakistan-4492448334"
+    },
+    {
+      "id": "4492581487",
+      "title": "Technical Web Growth Engineer",
+      "company": "Bykea",
+      "companyUrl": "https://pk.linkedin.com/company/bykea",
+      "location": "Karāchi, Sindh, Pakistan",
+      "date": "2026-11-20",
+      "url": "https://pk.linkedin.com/jobs/view/technical-web-growth-engineer-at-bykea-4492581487"
+    },
+    {
+      "id": "4492586914",
+      "title": "Tech - Tech Lead (PK)",
+      "company": "Clearoute",
+      "companyUrl": "https://ca.linkedin.com/company/clearoute",
+      "location": "Karāchi, Sindh, Pakistan",
+      "date": "2026-11-20",
+      "url": "https://pk.linkedin.com/jobs/view/tech-tech-lead-pk-at-clearoute-4492586914"
+    },
+    {
+      "id": "4492437619",
+      "title": "React Native Mobile App Developer",
+      "company": "HBOX Digital Pakistan",
+      "companyUrl": "https://pk.linkedin.com/company/hbox-digital-headquarters",
+      "location": "Karachi Division, Sindh, Pakistan",
+      "date": "2026-11-19",
+      "url": "https://pk.linkedin.com/jobs/view/react-native-mobile-app-developer-at-hbox-digital-pakistan-4492437619"
+    },
+    {
+      "id": "4490597157",
+      "title": "Product Engineer",
+      "company": "Beam AI",
+      "companyUrl": "https://www.linkedin.com/company/beam-ai",
+      "location": "Karāchi, Sindh, Pakistan",
+      "date": "2026-11-13",
+      "url": "https://pk.linkedin.com/jobs/view/product-engineer-at-beam-ai-4490597157"
+    },
+    {
+      "id": "4487875086",
+      "title": "Senior/Staff/Principal Engineer",
+      "company": "Canonical",
+      "companyUrl": "https://uk.linkedin.com/company/canonical",
+      "location": "Karāchi, Sindh, Pakistan",
+      "date": "2026-11-11",
+      "url": "https://pk.linkedin.com/jobs/view/senior-staff-principal-engineer-at-canonical-4487875086"
+    },
+    {
+      "id": "4318354760",
+      "title": "Full Stack Developer",
+      "company": "ibex",
+      "companyUrl": "https://www.linkedin.com/company/ibex-global",
+      "location": "Karāchi, Sindh, Pakistan",
+      "date": "2026-11-16",
+      "url": "https://pk.linkedin.com/jobs/view/full-stack-developer-at-ibex-4318354760"
+    }
+  ]
+}

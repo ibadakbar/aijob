@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4483822065",
+      "title": "Web Developer",
+      "company": "Cohere",
+      "companyUrl": "https://ca.linkedin.com/company/cohere-ai",
+      "location": "Vancouver, British Columbia, Canada",
+      "date": "2026-11-18",
+      "url": "https://ca.linkedin.com/jobs/view/web-developer-at-cohere-4483822065"
+    },
+    {
+      "id": "4483813647",
+      "title": "Web Developer",
+      "company": "Cohere",
+      "companyUrl": "https://ca.linkedin.com/company/cohere-ai",
+      "location": "Ottawa, Ontario, Canada",
+      "date": "2026-11-18",
+      "url": "https://ca.linkedin.com/jobs/view/web-developer-at-cohere-4483813647"
+    },
+    {
+      "id": "4443301579",
+      "title": "Senior ReactJS Developer",
+      "company": "BAE Systems Digital Intelligence",
+      "companyUrl": "https://uk.linkedin.com/company/baesystemsdigital",
+      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "date": "2026-11-17",
+      "url": "https://my.linkedin.com/jobs/view/senior-reactjs-developer-at-bae-systems-digital-intelligence-4443301579"
+    },
+    {
+      "id": "4450305340",
+      "title": "Staff Software Engineer, Web Frontend — Platform Services",
+      "company": "TeamViewer",
+      "companyUrl": "https://de.linkedin.com/company/teamviewer",
+      "location": "Ioannina, Epirus, Greece",
+      "date": "2026-11-14",
+      "url": "https://gr.linkedin.com/jobs/view/staff-software-engineer-web-frontend-%E2%80%94-platform-services-at-teamviewer-4450305340"
+    },
+    {
+      "id": "4482858588",
+      "title": "Senior Software Engineer (Frontend - React)",
+      "company": "Impact Analytics",
+      "companyUrl": "https://www.linkedin.com/company/impactanalytics",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "2026-11-13",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-at-impact-analytics-4482858588"
+    },
+    {
+      "id": "4454703438",
+      "title": "Software Engineer II",
+      "company": "Chegg India",
+      "companyUrl": "https://in.linkedin.com/company/cheggindia",
+      "location": "Delhi, Delhi, India",
+      "date": "2026-11-18",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-chegg-india-4454703438"
+    },
+    {
+      "id": "4481749403",
+      "title": "Senior Frontend Engineer",
+      "company": "Level AI",
+      "companyUrl": "https://www.linkedin.com/company/level-ai",
+      "location": "Noida, Uttar Pradesh, India",
+      "date": "2026-11-11",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-level-ai-4481749403"
+    },
+    {
+      "id": "4488501770",
+      "title": "Software Developer - Confluent",
+      "company": "IBM",
+      "companyUrl": "https://www.linkedin.com/company/ibm",
+      "location": "Bengaluru, Karnataka, India",
+      "date": "2026-11-12",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-confluent-at-ibm-4488501770"
+    },
+    {
+      "id": "4483140291",
+      "title": "Staff Frontend Engineer",
+      "company": "ServiceNow",
+      "companyUrl": "https://www.linkedin.com/company/servicenow",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "date": "2026-11-16",
+      "url": "https://il.linkedin.com/jobs/view/staff-frontend-engineer-at-servicenow-4483140291"
+    },
+    {
+      "id": "4475692681",
+      "title": "Senior Frontend Engineer - React.js",
+      "company": "Shift",
+      "companyUrl": "https://au.linkedin.com/company/shiftfinancialau",
+      "location": "North Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-react-js-at-shift-4475692681"
+    }
+  ]
+}

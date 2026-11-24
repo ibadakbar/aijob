@@ -1,0 +1,54 @@
+[
+    {
+        "url":  "https://job-boards.greenhouse.io/flexport/jobs/8141246",
+        "source":  "websearch",
+        "status":  "new",
+        "first_seen":  "2026-11-18",
+        "portal":  "greenhouse",
+        "posted_date":  null,
+        "fit":  "high",
+        "company":  "Flexport",
+        "location":  "Amsterdam, Netherlands",
+        "deadline":  null,
+        "title":  "Senior Applied AI Engineer, Autonomous Supply Chains"
+    },
+    {
+        "url":  "https://jobs.ashbyhq.com/riplo/81ad71b9-1f8f-4e06-9391-4dd65dc85042",
+        "source":  "websearch",
+        "status":  "new",
+        "first_seen":  "2026-11-18",
+        "portal":  "ashby",
+        "posted_date":  null,
+        "fit":  "high",
+        "company":  "Riplo",
+        "location":  "London, United Kingdom",
+        "deadline":  null,
+        "title":  "Founding Engineer (Product)"
+    },
+    {
+        "url":  "https://jobs.ashbyhq.com/frontier-health/665f23d1-ae6e-4695-b989-3b59fed88903",
+        "source":  "websearch",
+        "status":  "new",
+        "first_seen":  "2026-11-18",
+        "portal":  "ashby",
+        "posted_date":  null,
+        "fit":  "medium",
+        "company":  "Frontier Health",
+        "location":  "London, United Kingdom",
+        "deadline":  null,
+        "title":  "Forward Deployed Engineer"
+    },
+    {
+        "url":  "https://jobs.needle.so/sitefire/07457def-a74f-41b4-bbc4-87f8dc18be1e",
+        "source":  "websearch",
+        "status":  "new",
+        "first_seen":  "2026-11-18",
+        "portal":  "needle",
+        "posted_date":  null,
+        "fit":  "high",
+        "company":  "Sitefire",
+        "location":  "Munich, Germany",
+        "deadline":  null,
+        "title":  "Founding Product Engineer"
+    }
+]

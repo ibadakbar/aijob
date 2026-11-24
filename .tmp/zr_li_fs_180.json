@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "count": 6,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4494319274",
+      "title": "Full Stack Engineer",
+      "company": "Teertham",
+      "companyUrl": "https://in.linkedin.com/company/teertham.co.in",
+      "location": "Delhi, India",
+      "date": "2026-11-24",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-teertham-4494319274"
+    },
+    {
+      "id": "4494311570",
+      "title": "Lead Software Engineer (AI & Integrations) | Remote, Full-Time",
+      "company": "PA Logistics Group",
+      "companyUrl": null,
+      "location": "Pakistan",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4494311570"
+    },
+    {
+      "id": "4471534748",
+      "title": "Senior Software Engineer | TypeScript & AI | Paris",
+      "company": "Tracklab",
+      "companyUrl": "https://fr.linkedin.com/company/tracklabco",
+      "location": "Paris, Île-de-France, France",
+      "date": "2026-11-24",
+      "url": "https://fr.linkedin.com/jobs/view/senior-software-engineer-typescript-ai-paris-at-tracklab-4471534748"
+    },
+    {
+      "id": "4492686350",
+      "title": "Full Stack Engineer ($140K- 300K)",
+      "company": "CodeRound AI",
+      "companyUrl": "https://in.linkedin.com/company/coderoundai",
+      "location": "San Francisco Bay Area",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-%24140k-300k-at-coderound-ai-4492686350"
+    },
+    {
+      "id": "4492688449",
+      "title": "Staff Engineer",
+      "company": "Accelerant",
+      "companyUrl": "https://www.linkedin.com/company/accelerant-holdings",
+      "location": "Munich, Bavaria, Germany",
+      "date": "2026-11-24",
+      "url": "https://de.linkedin.com/jobs/view/staff-engineer-at-accelerant-4492688449"
+    },
+    {
+      "id": "4494313668",
+      "title": "Desarrollador/a Full-Stack Senior (Node.js, TypeScript, React) | Scale-up | 60–80 K€",
+      "company": "Joppy",
+      "companyUrl": "https://es.linkedin.com/company/joppyme",
+      "location": "Greater Madrid Metropolitan Area",
+      "date": "2026-11-24",
+      "url": "https://es.linkedin.com/jobs/view/desarrollador-a-full-stack-senior-node-js-typescript-react-scale-up-60%E2%80%9380-k%E2%82%AC-at-joppy-4494313668"
+    }
+  ]
+}

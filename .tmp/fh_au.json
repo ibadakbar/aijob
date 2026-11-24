@@ -1,0 +1,455 @@
+﻿{
+  "meta": {
+    "count": 15,
+    "page": 1,
+    "total": 1303
+  },
+  "results": [
+    {
+      "id": "react-developer-talent-kv7ujbyn",
+      "title": "React Developer",
+      "company": "Talent",
+      "company_slug": "talent",
+      "location": "Canberra, Australian Capital Territory, Australia",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4494097866/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "ai",
+        "api",
+        "ci-cd",
+        "cloud",
+        "cloud-native",
+        "react",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "- **Build modern React and TypeScript applications using AI-assisted engineering workflows**\n- **Multiple opportunities | 12-month contract + 12-month extension option**\n- **Australian Citizenship required | Ability to obtain Baseline clearance**\n\nJoin a multidisciplinary digital delivery team developing accessible, secure and user-centred web applications within a large-scale enterprise environment.\n\nThis is a hands-on frontend engineering role with a strong emphasis on AI-assisted software development. You'll combine your expertise in React and TypeScript with modern AI development tools to accelerate delivery while maintaining ownership of code quality, security, accessibility and technical outcomes.\n\n**The Role**\n\nWorking closely with designers, business analysts, architects and backend developers, you'll contribute to the development and ongoing improvement of modern digital applications.\n\nYour responsibilities will include:\n\n- Developing, testing and maintaining modern web applications using React and TypeScript\n- Leveraging AI-assisted development tools throughout implementation, testing, debugging and documentation\n- Developing reusable components, enhancing design systems and integrating frontend applications with backend services\n- Ensuring applications meet accessibility, security, performance and maintainability standards\n- Contributing to code reviews, automated testing, CI/CD processes and continuous improvement of engineering practices\n\n**About You**\n\nWe're particularly interested in:\n\n- Strong hands-on frontend development experience using React and TypeScript\n- Strong understanding of component-based architecture, state management, API integration and responsive UI development\n- Demonstrated experience incorporating AI-assisted development tools into day-to-day software engineering workflows\n- Ability to effectively direct, review, validate and refine AI-generated code, backed by strong software engineering fundamentals\n- Experience delivering accessible digital applications and applying inclusive design principles throughout development\n- Experience with source control, automated testing, CI/CD pipelines and modern software delivery practices\n- Strong communication and collaboration skills within multidisciplinary delivery teams\n- Experience with agentic development tools, specification-driven development, component libraries or cloud-native platforms would be highly regarded\n\n**Why Consider the Opportunity?**\n\nThis is an opportunity to work within an engineering environment where AI-assisted development is a core part of how software is delivered, rather than an optional productivity tool.\n\nYou'll have the opportunity to further develop your capabilities across emerging AI engineering workflows while remaining hands-on with React and TypeScript, applying these approaches to complex enterprise applications where accessibility, security and code quality remain essential.\n\n**Interested?**\n\nClick APPLY to send through your resume. If your experience aligns, I'll be in touch to talk you through the opportunity, provide further context on the role and working environment, and discuss the submission process and next steps.\n\nFor a confidential discussion, contact Jaela Smith at Talent International on 0480 806 146 or jaela.smith@talentinternational.com.\n\nFor over 30 years Talent has been redefining the contracting experience with industry leading support, exclusive contractor benefits & a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career"
+    },
+    {
+      "id": "react-native-developer-renaissance-infosystems-6etjsn2v",
+      "title": "React Native Developer",
+      "company": "Renaissance InfoSystems",
+      "company_slug": "renaissance-infosystems",
+      "location": "Sydney, New South Wales",
+      "date": "2026-11-24",
+      "url": "https://www.jobleads.com/au/job/react-native-developer--sydney--e71ea751cf6fab896d3354e7a7a729dae?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "css",
+        "html",
+        "ios",
+        "mobx",
+        "react",
+        "react-native",
+        "redux",
+        "rest",
+        "zustand"
+      ],
+      "description": "Renaissance Info Systems is seeking a React Native Developer to design, build, and maintain mobile apps for Android and iOS in a Sydney-based contract role.\n\nIdeal candidates have 6+ years in mobile development, strong React Native skills, and experience with REST APIs and modern state management tools. The position is based in Sydney, Australia, and offers a contract engagement with ongoing project work.\n\nDesign, develop, and maintain mobile applications using React Native for Android and iOS platforms. Build reusable components and scalable mobile application architectures. Integrate RESTful APIs and third-party services into mobile applications. Implement state management using Redux, Context API, or other state management libraries. 5+ years of experience in mobile application development. Strong hands-on experience with React Native. Experience developing applications for both Android and iOS. Strong understanding of React.js, Functional Components, Hooks, and Context API. Experience with Redux, Redux Toolkit, MobX, or Zustand. Hands-on experience integrating REST APIs and third-party APIs. Knowledge of HTML5, CSS3, and responsive design principles."
+    },
+    {
+      "id": "react-native-developer-ampstek-yhf4z3ye",
+      "title": "React Native developer",
+      "company": "Ampstek",
+      "company_slug": "ampstek",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4493592299/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "android",
+        "ios",
+        "react",
+        "react-native"
+      ],
+      "description": "We are looking for a skilled React Native Developer to build, maintain, and scale cross-platform mobile applications for iOS and Android. You will work closely with product managers, UI/UX designers, and backend engineers to turn product requirements into responsive, reliable mobile experiences."
+    },
+    {
+      "id": "react-frontend-engineer-for-digital-portal-ui-taskverse-rruhm7jf",
+      "title": "React Frontend Engineer for Digital Portal UI",
+      "company": "TaskVerse",
+      "company_slug": "taskverse",
+      "location": ",",
+      "date": "2026-11-18",
+      "url": "https://www.jobleads.com/au/job/react-frontend-engineer-for-digital-portal-ui--australia--efc92388d0ee3aa8ed7aba99ba7d55d7e?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "api",
+        "graphql",
+        "react",
+        "redux"
+      ],
+      "description": "XPT Software Australia Pty is seeking a Frontend Developer with strong React experience to design, build, and maintain user-facing applications. You will work on a digital portal using modern frontend technologies and NABX components, contributing to identity verification, lifecycle workflows, and data retrieval.\n\nYou will collaborate with designers, engineers, and stakeholders to deliver accessible, responsive experiences, applying best practices for performance, security, and maintainability.\n\nDesign, develop, test, and maintain frontend apps using React and NABX components. Build responsive, accessible interfaces following NAB UI/UX standards. Integrate backend services via REST/GraphQL APIs and manage state with Redux or Context API. Identify performance issues, ensure security and maintainability, participate in code reviews. Professional experience building frontend apps with React, including functional components and hooks. Experience with design systems or component libraries, including NABX components. Familiar with REST or GraphQL APIs and client-side data handling."
+    },
+    {
+      "id": "react-native-developer-ios-android-ampstek-kj6virdi",
+      "title": "React Native Developer (iOS / Android)",
+      "company": "Ampstek",
+      "company_slug": "ampstek",
+      "location": "Australia",
+      "date": "2026-11-17",
+      "url": "https://www.linkedin.com/jobs/view/4487989911/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "agile",
+        "android",
+        "api",
+        "authentication",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cli",
+        "cloud",
+        "firebase",
+        "git",
+        "ios",
+        "java",
+        "javascript",
+        "jest",
+        "kotlin",
+        "objective-c",
+        "react",
+        "react-native",
+        "redux",
+        "rest",
+        "scrum",
+        "swift",
+        "typescript"
+      ],
+      "description": "Hi\n\n**Role: React Native Developer (iOS / Android)**\n\n**Location: Australia**\n\n**Employment Type: Contract**\n\n**Job Description**\n\nWe are looking for an experienced React Native Developer to design, develop, and maintain mobile applications for iOS and Android platforms. The candidate should have strong hands-on experience in React Native, JavaScript, TypeScript, and mobile application development.\n\n**Key Responsibilities**\n\n- Develop and maintain cross-platform mobile applications using React Native.\n- Build and implement user-friendly interfaces for iOS and Android applications.\n- Integrate REST APIs, third-party services, and backend systems.\n- Develop reusable components and maintain scalable application architecture.\n- Work with native mobile functionalities and platform-specific integrations.\n- Troubleshoot, debug, and optimise application performance.\n- Implement application security, authentication, and data storage.\n- Collaborate with designers, backend developers, and QA teams.\n- Manage application testing, releases, and deployments to Apple App Store and Google Play Store.\n\n**Required Technical Skills**\n\n- Strong hands-on experience in React Native.\n- Proficiency in JavaScript and TypeScript.\n- Experience in iOS and Android mobile application development.\n- Good knowledge of React.js, Redux, and state management.\n- Experience with REST APIs and third-party integrations.\n- Knowledge of Swift, Objective-C, Kotlin, or Java.\n- Experience with Git and CI/CD pipelines.\n- Understanding of mobile application architecture and performance optimisation.\n\nDesirable Skills\n\n- Experience with Expo and React Native CLI.\n- Knowledge of Firebase and push notifications.\n- Experience with AWS or Azure cloud services.\n- Knowledge of Jest and Detox testing frameworks.\n- Experience working in Agile/Scrum environments.\n\nExperience & Qualifications\n\n- 5+ years of overall software development experience.\n- Minimum 3 years of React Native development experience.\n- Experience delivering production-level mobile applications for iOS and Android.\n- Strong problem-solving and communication skills.\n- Candidates based in Australia with valid working rights preferred.\n\n**Regards**\n\n**James**\n\n**Lead APAC Recruiter | Amsptek LLC**\n\n**Email: James@ampstek.com**"
+    },
+    {
+      "id": "react-net-software-developer-flexible-work-growth-main-group-yxwfbzgz",
+      "title": "React & .NET Software Developer — Flexible Work & Growth",
+      "company": "Main-Group",
+      "company_slug": "main-group",
+      "location": "Sydney, New South Wales",
+      "date": "2026-11-16",
+      "url": "https://www.jobleads.com/au/job/react-net-software-developer-flexible-work-growth--sydney--e5a0c2a964d937018386f9f9e2a652c42?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "agile",
+        "css",
+        "dotnet",
+        "html",
+        "javascript",
+        "react",
+        "sdlc",
+        "typescript"
+      ],
+      "description": "Main-group in Sydney is seeking a Software Developer (React & .NET) to design, develop, and maintain cutting-edge software solutions from our Revesby office. You will work with a collaborative team to build robust applications using React and .NET in a fast-paced environment.\n\nYou will contribute to the full SDLC, write clean code, and stay current with industry trends while enjoying a supportive culture, competitive salary, and growth opportunities.\n\nDesign, develop, and deploy software using React and .NET. Collaborate with cross-functional teams to translate requirements. Write clean, maintainable code following best practices. Participate in planning, testing, deployment. Stay up-to-date with industry trends. Provide support and troubleshooting for existing applications. 2+ years of React development experience. Experience with React and .NET technologies. Strong understanding of software design principles. Proficiency in JavaScript, TypeScript, HTML, and CSS. Experience with agile methodologies. Excellent problem-solving and communication skills. Ability to work collaboratively in a team environment. Competitive salary Bonus opportunities Flexible work arrangements Career development Health & wellness programs"
+    },
+    {
+      "id": "react-native-developer-new-world-management-es6mxvbk",
+      "title": "React Native Developer",
+      "company": "New World Management",
+      "company_slug": "new-world-management",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-11",
+      "url": "https://www.careers-page.com/new-world-management/job/V6748YXR?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "entra-id",
+        "git",
+        "ios",
+        "react",
+        "react-native",
+        "test-automation",
+        "version-control"
+      ],
+      "description": "## React Native Developer\n\n**Three month contract | Sydney**\n\nWe are seeking an experienced React Native Developer for a three month contract in Sydney. You'll help build and enhance a mobile application, with a focus on reliable iOS delivery, secure access and dependable performance when users are offline.\n\nThis is a hands on development role for someone comfortable working across mobile development, integrations, data synchronisation and automated testing.\n\n### What you'll do\n\n- Develop and maintain mobile applications using React Native\n- Prepare and deploy applications to iOS platforms\n- Integrate single sign on using Microsoft Entra ID\n- Build complex integrations and background jobs for data synchronisation\n- Support app functionality when users are offline\n- Implement and maintain CI and CD pipelines\n- Use Git for version control and collaborative development\n- Build and maintain automated tests for mobile applications\n- Work with the wider team to deliver a stable, well tested solution\n\n### What you'll bring\n\n- Demonstrated React Native development experience\n- Experience deploying applications to iOS platforms\n- Practical experience integrating Microsoft Entra ID single sign on\n- Experience building integrations and background jobs for data synchronisation\n- Knowledge of offline mobile application design\n- Experience with CI and CD pipelines and Git\n- Experience implementing automated testing for mobile applications\n\n### Contract details\n\n- Initial three month contract\n- Based in Sydney\n\nIf you have the mobile development experience to deliver a reliable app across online and offline use, we'd be keen to hear from you."
+    },
+    {
+      "id": "senior-react-native-developer-sydney-contract-renaissance-infosystems-7flzj52j",
+      "title": "Senior React Native Developer - Sydney Contract",
+      "company": "Renaissance InfoSystems",
+      "company_slug": "renaissance-infosystems",
+      "location": "Sydney, New South Wales",
+      "date": "2026-11-24",
+      "url": "https://www.jobleads.com/au/job/senior-react-native-developer-sydney-contract--sydney--e829b7623bc45071aa5c7a13f54e72972?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "css",
+        "html",
+        "ios",
+        "mobx",
+        "react",
+        "react-native",
+        "redux",
+        "rest",
+        "zustand"
+      ],
+      "description": "Renaissance Info Systems is seeking a React Native Developer to design, build, and maintain mobile apps for Android and iOS in a Sydney-based contract role.\n\nIdeal candidates have 6+ years in mobile development, strong React Native skills, and experience with REST APIs and modern state management tools. The position is based in Sydney, Australia, and offers a contract engagement with ongoing project work.\n\nDesign, develop, and maintain mobile applications using React Native for Android and iOS platforms. Build reusable components and scalable mobile application architectures. Integrate RESTful APIs and third-party services into mobile applications. Implement state management using Redux, Context API, or other state management libraries. 5+ years of experience in mobile application development. Strong hands-on experience with React Native. Experience developing applications for both Android and iOS. Strong understanding of React.js, Functional Components, Hooks, and Context API. Experience with Redux, Redux Toolkit, MobX, or Zustand. Hands-on experience integrating REST APIs and third-party APIs. Knowledge of HTML5, CSS3, and responsive design principles."
+    },
+    {
+      "id": "senior-react-developer-peoplebank-5zng6oub",
+      "title": "Senior React Developer",
+      "company": "Peoplebank",
+      "company_slug": "peoplebank",
+      "location": "Sydney NSW",
+      "date": "2026-11-24",
+      "url": "https://www.seek.com.au/job/96086439?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "accessibility",
+        "ai",
+        "api",
+        "ci-cd",
+        "git",
+        "react",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "Salary: Competitive daily rate\n\nWe are seeking experienced **Senior React Developer** to join a high profile digital delivery team, contributing to the development of modern, secure and user-focused applications within a government environment.\n\nThe Opportunity In this role, you will play a key part in building and enhancing contemporary digital solutions using React, TypeScript and emerging AI-assisted development technologies.Working alongside cross-functional teams, you will help shape quality user experiences, drive frontend engineering standards and leverage AI tools to improve development efficiency, code quality and delivery outcomes.\n\n**Key Responsibilities**\n\n- Design, develop and maintain scalable web applications using React, TypeScript and modern frontend technologies.\n- Build responsive, accessible and intuitive user interfaces that meet business and user requirements.\n- Work closely with architects, designers, business analysts and backend engineers to deliver integrated digital solutions.\n- Incorporate AI-powered development tools into coding, testing, debugging and documentation workflows.\n- Develop reusable components and contribute to shared UI libraries and design systems.\n- Participate in technical reviews, automated testing and CI/CD activities.\n- Ensure applications meet security, accessibility, performance and maintainability standards.\n- Identify opportunities to improve engineering practices, development processes and delivery outcomes.\n\n**Essential Skills**\n\n- Strong commercial experience building modern applications with **React and TypeScript**.\n- Excellent understanding of frontend architecture, component design, state management, API integration and responsive development.\n- Practical experience implementing accessibility and inclusive design principles in digital products.\n- Familiarity with Git-based source control, automated testing and CI/CD pipelines.\n- Proven ability to integrate AI-assisted coding and software engineering tools into everyday development activities.\n- Strong problem-solving skills, with the ability to review and validate AI-generated outputs and maintain ownership of technical quality.\n- Excellent communication and stakeholder engagement skills, with experience working in collaborative delivery teams.\n\nIf this sounds like you, please APPLY for a confidential discussion.\n\n**Peoplebank** and **Leaders IT** are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you."
+    },
+    {
+      "id": "senior-react-ai-developer-recruitment-hive-wsi5p7tl",
+      "title": "Senior React AI Developer",
+      "company": "Recruitment Hive",
+      "company_slug": "recruitment-hive",
+      "location": "Canberra ACT",
+      "date": "2026-11-24",
+      "url": "https://www.seek.com.au/job/96081042?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "ai",
+        "ci-cd",
+        "hive",
+        "react",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "Salary: $120 - $140 per hour including super\n\n- **12 + 12-month contract | EL1 equivalent**\n- **Baseline Security Clearance required**\n- **QLD, ACT, VIC, NSW - Some Work from Home Available**\n- **React | TypeScript | AI-Assisted / Frontend Development | Agentic AI Tools**\n\nOur client, a Commonwealth Government organisation whose focus is to provide support to Australian's living with disability, are seeking the experience of a **Senior React AI Developer**\n\n**Duties of the Senior React AI Developer**\n\n- Develop, test and maintain modern web applications using React, TypeScript and contemporary frontend engineering practices;\n- Utilise AI-assisted software development tools to accelerate implementation, testing, troubleshooting, documentation and delivery activities;\n- Participate in code reviews, testing activities, CI/CD processes and continuous improvement initiatives;\n- Support the development and ongoing enhancement of reusable components, design systems and shared frontend capabilities.\n\n**Skills and Experience Required**\n\n- Demonstrated experience developing modern web applications;\n- Demonstrated experience delivering accessible digital services and applying accessibility standards and inclusive design principles throughout the software development lifecycle;\n- Experience working with source control, automated testing, CI/CD pipelines and modern software development practices;\n- Demonstrated experience effectively leveraging contemporary AI-assisted software engineering tools.\n\n**Desirable Criteria**\n\n- Experience delivering applications using modern frontend ecosystems and tooling;\n- Experience working with specification-driven or AI-augmented software development approaches;\n- Experience using agentic development tools and modern AI-assisted development workflows;\n- Experience working within government, regulated or highly governed delivery environments.\n\n**How to Apply**\n\nFor a copy of the full job description, including the application instructions please get in touch with **Jess P** at the Recruitment Hive by clicking the *Quick Apply* button. Alternatively, you can reach **Jess P** on (02) 6299 1006 to discuss further.\n\n**Please note, applications close on Tuesday, 01 December 2026 - 11:00am, Canberra time**\n\nRecruitment Hive welcome late applications to be considered for future opportunities\n\n**Job ID JP 681808 | LH-08645**\n\n**We Value Diversity**\n\n*The Recruitment Hive is a proud Equal Opportunity Employer. We recognise the value of diverse perspectives and experience and are committed to an inclusive workplace where everyone feels valued and respected for who they are. We encourage people with disability, indigenous, veterans and people of all backgrounds and abilities to express their interest in this role.*"
+    },
+    {
+      "id": "senior-react-native-developer-mobile-apps-nityo-infotech-vzrya2se",
+      "title": "Senior React Native Developer – Mobile Apps",
+      "company": "Nityo Infotech",
+      "company_slug": "nityo-infotech",
+      "location": "Brisbane, Queensland, Australia",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4493704394/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "ai",
+        "analytics",
+        "android",
+        "api",
+        "authentication",
+        "aws",
+        "azure",
+        "azure-devops",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "confluence",
+        "devops",
+        "entra-id",
+        "fastlane",
+        "firebase",
+        "git",
+        "github",
+        "github-actions",
+        "github-copilot",
+        "graphql",
+        "ios",
+        "javascript",
+        "jest",
+        "jira",
+        "kotlin",
+        "react",
+        "react-native",
+        "redux",
+        "scrum",
+        "sentry",
+        "serverless",
+        "swift",
+        "typescript",
+        "user-stories",
+        "xcode",
+        "zustand"
+      ],
+      "description": "**Role summary:** Technical anchor for the mobile squad onsite. Builds and ships high-quality Android and iOS apps in React Native, works directly with client product owners, and guides the offshore developer and tester.\n\n**Key responsibilities**\n\n- Design, build and maintain cross-platform features in React Native for Android and iOS\n- Turn client requirements into technical designs, estimates, and user stories with the product owner\n- Lead code reviews, set coding standards and mentor the offshore team\n- Integrate with REST/GraphQL APIs, authentication, push notifications, analytics, and device features\n- Own app performance, accessibility, security, and stability (crash-free rate, app size, start-up time)\n- Manage builds and releases to the Apple App Store and Google Play\n\n**Core skills**\n\n- React Native, JavaScript/TypeScript, React hooks, state management (Redux, Zustand or similar)\n- Native modules and bridging; working knowledge of Swift/Kotlin, Xcode and Android Studio\n- Unit and component testing (Jest, React Native Testing Library)\n- Mobile UI/UX patterns, offline storage, deep linking, responsive layouts\n\n**Modern engineering baseline**\n\n- **Cloud:** working knowledge of AWS or Azure services used by mobile back ends (API gateways, serverless functions, storage, identity e.g., Cognito/Entra ID); Firebase\n- **Dev tools:** Git and branching strategies, Jira/Confluence, debugging and profiling tools (Flipper, React DevTools, Xcode Instruments)\n- **AI dev tools:** hands-on use of AI coding assistants (GitHub Copilot, Claude Code, Cursor or similar) for code generation, refactoring, test writing, and review, with sound judgement on quality and security of AI output\n- **DevOps:** mobile CI/CD (GitHub Actions, Azure DevOps, Bitrise or Codemagic), Fastlane, code signing, OTA updates (Expo EAS / CodePush), crash monitoring (Sentry, Crashlytics)\n\n**Nice to have:** Expo, insurance or financial-services apps, Agile/Scrum leadership, experience working with offshore teams\n\n**Soft skills:** strong client communication, ownership, and the ability to coach others"
+    },
+    {
+      "id": "senior-react-native-developer-ampstek-zmn56ew2",
+      "title": "Senior React Native Developer",
+      "company": "Ampstek",
+      "company_slug": "ampstek",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4493559916/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "authentication",
+        "ios",
+        "javascript",
+        "react",
+        "react-native",
+        "rest",
+        "typescript"
+      ],
+      "description": "**Position: React Native Developer**\n\n**Location: Sydney**\n\n**Contract: 12+ Months and Extendable**\n\nJob Summary\n\nWe are looking for an experienced React Native Developer to design, develop, and maintain high-quality mobile applications for iOS and Android platforms. The ideal candidate should have strong hands-on experience in React Native, JavaScript/TypeScript, mobile application architecture, API integrations, and performance optimization.\n\nKey Responsibilities\n\nDesign, develop, and maintain cross-platform mobile applications using React Native.\n\nBuild reusable components and libraries for future use.\n\nDevelop responsive and user-friendly mobile interfaces.\n\nIntegrate REST APIs and third-party services.\n\nCollaborate with UI/UX designers, backend developers, and product teams.\n\nOptimize applications for performance, scalability, and reliability.\n\nTroubleshoot and resolve application issues and bugs.\n\nImplement secure authentication and data management.\n\nParticipate in code reviews, testing, and deployment activities.\n\nPublish and maintain applications on Google Play Store and Apple App Store."
+    },
+    {
+      "id": "staff-react-web-engineer-platform-ui-lead-cba-n2jku2av",
+      "title": "Staff React Web Engineer – Platform & UI Lead",
+      "company": "Cba",
+      "company_slug": "cba",
+      "location": "The Rocks, Sydney",
+      "date": "2026-11-22",
+      "url": "https://www.adzuna.com.au/details/5974771175?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "cloud",
+        "cloud-native",
+        "react"
+      ],
+      "description": "CommSec is seeking a Staff Software Engineer to lead front-end delivery with a strong React focus and own outcomes for the web experiences used by investors daily. You will mentor engineers, shape architecture, and collaborate with product/design to deliver robust, scalable digital platforms across the web stack. This senior role requires hands-on leadership, cloud-native mindset, and commitment to engineering excellence and customer impact. J-18808-Ljbffr"
+    },
+    {
+      "id": "lead-react-frontend-engineer-scalable-web-apps-commonwealth-bank-y5cn67ob",
+      "title": "Lead React Frontend Engineer — Scalable Web Apps",
+      "company": "Commonwealth Bank",
+      "company_slug": "commonwealth-bank",
+      "location": "The Rocks, Sydney",
+      "date": "2026-11-22",
+      "url": "https://www.adzuna.com.au/details/5974771106?utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "ci-cd",
+        "observability",
+        "react"
+      ],
+      "description": "Commonwealth Bank's CommSec Digital & Customer Crew is seeking a Staff Software Engineer with a senior full-stack focus and deep React expertise to modernise web applications used by investors. You will lead hands-on development, shape architecture decisions and mentor engineers across the team, delivering robust end-to-end solutions. You will work with product, design and engineering to create scalable, accessible experiences and to drive CI/CD, observability and performance improvements acros…"
+    },
+    {
+      "id": "senior-react-native-resource-ampstek-muphigff",
+      "title": "Senior React Native Resource",
+      "company": "Ampstek",
+      "company_slug": "ampstek",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-20",
+      "url": "https://www.linkedin.com/jobs/view/4492575184/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "authentication",
+        "git",
+        "ios",
+        "javascript",
+        "react",
+        "react-native",
+        "redux",
+        "rest",
+        "typescript",
+        "version-control"
+      ],
+      "description": "Job Description – Senior React Native Developer\n\nJob Title: Senior React Native Developer\n\nRole Overview:\n\nWe are looking for an experienced Senior React Native Developer responsible for designing, developing, and maintaining high-quality mobile applications for iOS and Android platforms. The ideal candidate should have strong hands-on experience with React Native, JavaScript/TypeScript, mobile application development, and API integrations.\n\nKey Responsibilities:\n\n\\- Design, develop, and maintain cross-platform mobile applications using React Native.\n\n\\- Build reusable components and scalable mobile application architecture.\n\n\\- Develop responsive and user-friendly interfaces for iOS and Android.\n\n\\- Integrate REST APIs and third-party services.\n\n\\- Work with state management libraries such as Redux, Redux Toolkit, or Context API.\n\n\\- Optimize application performance, responsiveness, and reliability.\n\n\\- Debug, troubleshoot, and resolve application issues.\n\n\\- Implement authentication, push notifications, and secure data handling.\n\n\\- Collaborate with UI/UX designers, backend developers, and QA teams.\n\n\\- Participate in code reviews, testing, and deployment processes.\n\n\\- Publish and maintain applications on Google Play Store and Apple App Store.\n\nMandatory Technical Skills:\n\n\\- Strong hands-on experience in React Native.\n\n\\- JavaScript (ES6+) and TypeScript.\n\n\\- React.js fundamentals.\n\n\\- Redux / Redux Toolkit.\n\n\\- REST API integration.\n\n\\- iOS and Android mobile application development.\n\n\\- Git and version control.\n\n\\- Mobile application debugging and performance optimization."
+    }
+  ]
+}

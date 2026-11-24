@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "count": 20,
+    "page": 1,
+    "total": 43359
+  },
+  "results": [
+    {
+      "id": "full-stack-developer-java-spring-boot-angular-full-remote-agap2-italia-24suk6ho",
+      "title": "Full Stack Developer (Java / Spring Boot & Angular) – Full Remote",
+      "company": "agap2 Italia",
+      "company_slug": "agap2-italia",
+      "location": "Rome, Latium, Italy",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492632054/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "it"
+      ],
+      "skills": [
+        "agile",
+        "angular",
+        "api",
+        "automation",
+        "css",
+        "html",
+        "java",
+        "rest",
+        "spring",
+        "typescript"
+      ],
+      "description": "**Chi siamo**\n\nEntra in AGAP2 Italia: lavorerai in un contesto internazionale e collaborativo, con progetti in diversi settori e opportunità di contribuire a iniziative ingegneristiche e IT sfidanti. Parte del Gruppo MoOngy, AGAP2 è presente sul mercato europeo in 14 paesi con servizi di consulenza ingegneristica e IT. Dal 2018, agap2 Italia opera sul territorio nazionale nei seguenti settori: Automotive, Aerospace, Industrial Automation, Energy, Oil & Gas, Betting & Gaming, Fashion & Luxury, Finance, Healthcare.\n\n**Il Ruolo**\n\nPer un importante progetto evolutivo in ambito Pubblica Amministrazione focalizzato sullo sviluppo di piattaforme gestionali, cerchiamo uno Sviluppatore Full Stack (livello Middle / Senior). La risorsa entrerà a far parte di un team strutturato contribuendo attivamente allo sviluppo sia lato backend che frontend.\n\n**Cosa farai**\n\n- Progettare, sviluppare e manutenere funzionalità end-to-end su applicativi gestionali complessi per il settore della Pubblica Amministrazione.\n- Sviluppare servizi backend scalabili e API RESTful utilizzando Java e il framework Spring Boot.\n- Realizzare e ottimizzare interfacce utente moderne, responsive e performanti tramite framework Angular.\n- Garantire la qualità del codice, l'affidabilità delle integrazioni e il rispetto delle best practice di sviluppo software.\n- Collaborare quotidianamente in modalità agile con il team tecnico e gli stakeholder di progetto.\n\n**Requisiti richiesti**\n\n- **Esperienza:** Seniority di livello Middle o Senior nello sviluppo Full Stack su architetture web enterprise.\n- **Competenze Backend:** Solida padronanza di **Java** e del framework **Spring Boot**.\n- **Competenze Frontend:** Comprovata esperienza nello sviluppo con **Angular** (TypeScript, HTML5, CSS3).\n- **Sede di lavoro:** Full Remote (100% da remoto su territorio italiano).\n\n**Offerta e Inquadramento**\n\n*La retribuzione annua lorda per questo ruolo è compresa tra 30.000 EUR e 45.000 EUR. La posizione è inquadrata nell’ambito del CCNL del Commercio e Terziario applicato dalla nostra società. Il posizionamento all'interno del range sarà definito in base alle competenze tecniche, all'esperienza specifica nel ruolo e agli esiti del processo di selezione, secondo criteri oggettivi e predefiniti. In presenza di profili con caratteristiche eccezionali rispetto al range indicato, una revisione potrà essere valutata previa approvazione interna. Oltre all'assunzione diretta, per questa posizione valutiamo positivamente anche collaborazioni in regime di libera professione (Partita IVA), con tariffa economica da concordare in base alla reale seniority del profilo.*"
+    },
+    {
+      "id": "full-stack-developer-java-angular-react-adentis-italia-dpcjczpt",
+      "title": "Full Stack developer (Java/ Angular/ React)",
+      "company": "ADENTIS Italia",
+      "company_slug": "adentis-italia",
+      "location": "Vimodrone, Lombardy, Italy",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492629036/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "it"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "angular",
+        "api",
+        "ci-cd",
+        "css",
+        "devops",
+        "docker",
+        "git",
+        "html",
+        "java",
+        "javascript",
+        "kafka",
+        "kubernetes",
+        "mqtt",
+        "mvc",
+        "nats",
+        "nosql",
+        "rabbitmq",
+        "react",
+        "rest",
+        "scrum",
+        "spring",
+        "typescript"
+      ],
+      "description": "**CHI SIAMO**\n\n**ADENTIS Italia** è un gruppo europeo di consulenza ingegneristica e operativa facente parte del Gruppo MoOngy.\n\nPresente in 14 paesi europei con oltre 8.500 dipendenti, abbiamo aperto, da quattro anni, la prima sede italiana a Milano e, vista la continua crescita, stiamo rafforzando e ampliando il nostro team con persone che condividano gli stessi valori della nostra società: AMBIZIONE, DINAMISMO e VOGLIA DI METTERSI IN GIOCO, il tutto in una realtà in continua evoluzione, nella quale le relazioni umane sono sempre al primo posto.\n\nRuolo: **Full Stack developer (Java/ Angular/ React)**\n\nLuogo: **Vimodrone**\n\nModalità: **ibrido**\n\n**IL TUO RUOLO**\n\nSiamo alla ricerca di un/una **Full Stack developer (Java/ Angular/ React)** con esperienza nello sviluppo di applicazioni moderne, scalabili e orientate ai microservizi. La figura entrerà a far parte di un team tecnico dinamico occupandosi dell’analisi, progettazione e sviluppo di soluzioni enterprise ad alte prestazioni.\n\n**Responsabilità principali:**\n\n- Progettare e sviluppare applicazioni backend utilizzando le ultime versioni di Java.\n- Realizzare servizi REST e architetture a microservizi con framework Spring.\n- Sviluppare interfacce web moderne e responsive utilizzando React e Angular.\n- Integrare sistemi di messaggistica e comunicazione asincrona come NATS o tecnologie equivalenti.\n- Collaborare con team cross-funzionali seguendo metodologie Agile/Scrum.\n- Garantire qualità del codice tramite testing, code review e best practice di sviluppo.\n- Contribuire all’evoluzione architetturale delle piattaforme software.\n\n**Requisiti tecnici**\n\n- Esperienza di almeno **4 anni** con **Java** (ultime versioni)\n- Esperienza consolidata con:\n\n**Spring Boot**\n\n**Spring MVC**\n\n**Spring Security**\n\n**API REST**\n\n- Esperienza nello sviluppo frontend con:\n\nReact\n\nAngular\n\nHTML5, CSS3, TypeScript, JavaScript\n\n- Conoscenza di sistemi di messaggistica/event streaming come:\n\nNATS\n\nKafka\n\nRabbitMQ\n\nMQTT o equivalenti\n\n- Familiarità con architetture microservizi e sistemi distribuiti.\n- Esperienza con database relazionali e NoSQL.\n- Conoscenza di Git, CI/CD e strumenti DevOps.\n- Gradita esperienza con Docker e Kubernetes.\n\n**Cosa offriamo**\n\n- Contratto a tempo indeterminato o collaborazione in partita iva.\n- Percorsi di formazione continua su hard e soft skill.\n- Piano di crescita professionale strutturato.\n- Coinvolgimento in progetti innovativi ad alto contenuto tecnologico.\n\nLa retribuzione annua lorda per questo ruolo è compresa tra **30.000** EUR e **35.000** EUR.\n\nLa posizione è inquadrata nell’ambito del CCNL del Commercio e Terziario applicato dalla nostra società*.*\n\n*Il posizionamento all'interno del range sarà definito in base alle competenze tecniche, all'esperienza specifica nel ruolo e agli esiti del processo di selezione, secondo criteri oggettivi e predefiniti. In presenza di profili con caratteristiche eccezionali rispetto al range indicato, una revisione potrà essere valutata previa approvazione interna.*\n\n**The world needs you**\n\n**ADENTIS Italia** è un equal opportunities employer: crediamo che tutte le forme di diversità siano fonte di arricchimento reciproco. Ci impegniamo a garantire un ambiente di lavoro inclusivo, nel quale ogni singola risorsa possa apportare un valore unico alla nostra realtà. Pertanto, accogliamo candidature senza distinzione di età, genere, nazionalità, disabilità, orientamento sessuale, religione o stato civile.\n\nInoltre, teniamo fede ai nostri impegni prestando attenzione alle risorse appartenenti alle categorie protette ai sensi degli articoli 1 e 18 della Legge 68/99.\n\n*I dati personali saranno trattati in conformità alle disposizioni contenute nel regolamento UE 2016/679.*"
+    },
+    {
+      "id": "full-stack-developer-12limes-gmbh-devjobs-gxgovair",
+      "title": "Full-Stack Developer @ 12Limes GmbH",
+      "company": "DEVjobs",
+      "company_slug": "devjobs",
+      "location": "Emmendingen, Baden-Württemberg, Germany",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4494323380/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "api-design",
+        "aws",
+        "claude-code",
+        "cloud",
+        "github",
+        "github-copilot",
+        "mysql",
+        "nuxt",
+        "php",
+        "typescript",
+        "vue"
+      ],
+      "description": "**Full-Stack Developer @ 12Limes GmbH**\n\n💾 **Job Technologies**\n\n- Claude\n- Cursor\n- GitHub Copilot\n- MySQL\n- Vue.js\n- AWS\n- TypeScript\n- PHP\n- Nuxt\n\n👥 **Your role in the team**\n\n**Let's Build Something Great Together.**\n\nJoin 12Limes as a Full-Stack Developer with a strong backend focus. Build scalable systems and modern web applications in a flexible, remote-first team.\n\nWe're looking for an independent problem-solver who takes ownership and uses modern tools—including AI—to build reliable software.\n\n**What You'll Do**\n\n- Build and improve modern web applications and digital platforms.\n- Develop scalable backend systems and APIs, working across the stack when needed.\n- Design and optimize database structures and queries.\n- Help shape software architecture and development practices.\n- Improve application performance, security, and scalability.\n- Use modern tools and AI-assisted workflows to work efficiently.\n- Collaborate remotely, communicate clearly, and take ownership of your work.\n\n🌟 **Our expectations of you**\n\nQualifications\n\n- Familiarity with AWS and cloud infrastructure is a strong advantage.\n- A good understanding of APIs, web technologies, and software architecture.\n- The ability to work across the full stack when needed.\n- A proactive, independent mindset and strong problem-solving skills.\n- Fluent English is required, both written and spoken.\n- German is a plus, but not required.\n\nQualifications\n\n- Solid web development experience with a strong backend focus.\n- Experience with PHP and TypeScript is highly preferred.\n- Experience with AI tools such as Cursor, Claude Code, or GitHub Copilot — or an interest in learning.\n\n🎁 **What we offer**\n\n- 100% remote work from wherever you're most productive.\n- Real Ownership Shape the solutions you build and make a meaningful impact.\n- Modern Technologies & AI-Driven Workflows Explore a versatile tech stack and AI-assisted development.\n- Flexibility & Independence We value results, initiative, and clear communication over micromanagement.\n- Interesting Challenges Build backend systems, data-driven applications, and interactive web experiences.\n\n🎉 **Benefits**\n\n*Work-Life-Integration*\n\n- ⏰ Flexible Working Hours\n- 🏠 Home Office\n\n💡 **Topics that you deal with on the job**\n\n- Cloud Computing\n- Web Performance\n- AI\n- Architecture\n- API Design\n\n📍 **Job Locations**\n\n- Stockert 8 79312 Emmendingen Germany\n\n🏢 **This is your employer**\n\n**12Limes GmbH**\n\n📍 Emmendingen"
+    },
+    {
+      "id": "full-stack-developer-medical-device-software-m-f-d-funded-by-the-exist-start-up-grant-ynone-46xuzzyu",
+      "title": "Full-Stack Developer – Medical Device Software (m/f/d) – funded by the EXIST start-up grant",
+      "company": "Ynone",
+      "company_slug": "ynone",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492670886/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ai",
+        "android",
+        "api",
+        "aws",
+        "cloud",
+        "gdpr",
+        "ios",
+        "machine-learning",
+        "postgresql",
+        "python",
+        "react",
+        "react-native",
+        "typescript"
+      ],
+      "description": "**After this autumn, Ynone pitched at Web Summit in Lisbon (selected among 105 startups in the Impact category) and at Frontiers Health in Berlin, and presented at the smartXhealth Summit in Freiburg. Now we're growing the team.**\n\nAt Ynone, we're building a digital companion app for people living with lymphoedema. Patients organise their daily therapy (routine, measurements, compression, reminders) and bring structured reports to their doctor's appointments. Our AI assistant Ida answers self-management questions in five languages.\n\nNext comes Ynone Scan: smartphone-based limb measurement for arms and legs, to be clinically validated and certified as a medical device (MDR Class IIa).\n\nWe work with Charité, the Földiklinik and Uniklinik Bonn, and are part of the Vision Health Pioneers incubator.\n\n**💡 THE OPPORTUNITY**\n\nWe're applying for the EXIST start-up grant (EXIST-Gründungsstipendium) with Charité as our mentor, with a planned start in April 2027. We're looking for a full-stack developer to join our EXIST team.\n\n→ 12 months of EXIST stipend (€2,500/month with a university degree, €3,000 with a PhD, plus €150 per child)\n\n→ The chance to build a medical device from day one, with real impact for patients\n\n→ A long-term role in the company after the funding period\n\n**🛠 YOUR ROLE**\n\n• Build the native app for iOS and Android together with our CTO, integrating Ynone Scan and Ida\n\n• Develop frontend and backend features, from the user interface to APIs and database (AWS)\n\n• Work in a software life cycle according to IEC 62304, with clean code, tests and documentation\n\n• Help make data protection and security (GDPR) the foundation of the platform\n\n• Contribute to technical documentation for the MDR certification path\n\n• Support the clinical validation study with Charité and turn feedback from patients and doctors into product improvements\n\n✅ WHAT YOU BRING\n\n• Full-stack development experience, ideally with React Native, TypeScript and Python\n\n• Experience with databases and cloud services (e.g. PostgreSQL, AWS) is a plus\n\n• A genuine interest in medical technology and digital health\n\n• Fluent English; German (at least B1) is a plus\n\n• The drive to work full time in a start-up with social impact\n\n🌱 NO MDR EXPERIENCE YET? APPLY ANYWAY\n\nYou don't need to be a regulatory expert. What matters is your motivation to work on a medical device and, ideally, a first experience in medtech or healthcare: an internship, a thesis, a university or side project. We'll build the regulatory know-how together, with dedicated coaching from the EXIST budget and support from our clinical and incubator network.\n\n**🎓 EXIST ELIGIBILITY**\n\n• University degree (Bachelor's, Master's or PhD) obtained no more than 5 years ago, or at least 50% of your studies completed\n\n• Full-time commitment for 12 months, starting April 2027\n\n• Based in Berlin\n\n**📅 TIMELINE**\n\nWe want to finalise the team by 14 December 2026, so please reach out as soon as possible: send me a DM or write to marasorrentino@ynone.eu.\n\n**👥 THE TEAM**\n\nMara Sorrentino (Founder, Lead Product Design & Business, and caregiver), Claudio Cortese (CTO) and Prajjwal Yadav (Founding ML Engineer), supported by specialists in lymphology.\n\nKnow someone who fits? Please share or tag them 🙏\n\nwww.ynone.eu\n\n#FullStack #Hiring #EXIST #MedTech #DigitalHealth #MDR #IEC62304 #Berlin #Startup #Lymphedema"
+    },
+    {
+      "id": "full-stack-data-engineer-save-the-children-australia-lirnthqz",
+      "title": "Full Stack Data Engineer",
+      "company": "Save the Children Australia",
+      "company_slug": "save-the-children-australia",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4493994262/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "analytics",
+        "automation",
+        "ci-cd",
+        "cloud",
+        "data-modeling",
+        "data-science",
+        "dataops",
+        "dbt",
+        "git",
+        "infrastructure-as-code",
+        "lakehouse",
+        "machine-learning",
+        "microsoft-fabric",
+        "powerbi",
+        "predictive-analytics",
+        "python",
+        "sql",
+        "version-control"
+      ],
+      "description": "***At Save the Children Australia, we’re not just crunching numbers, we’re using data to change lives. Every platform we improve, solution we build, and insight we enable helps deliver programs that protect, educate and empower children across Australia and the Pacific.***\n\n***We’re looking for a Full Stack Data Engineer who is equal parts builder, problem-solver and innovator. Someone who wants their code to do more than power products. Here, you’ll help build the data, knowledge and AI foundations that power purpose.***\n\n**What you’ll be doing:**\n\nIn this full time, permanent role, ideally based in our Melbourne head office\\*, you’ll work as a part of our Technology team in Melbourne to help us create lasting change for children everywhere.\n\nYou’ll be lending your skills in the following areas:\n\n- **Pipeline wizardry:** Design scalable, maintainable, **metadata-driven** and automated data solutions that make future-you proud.\n- **Engineering discipline:** Bring **Git, CI/CD, testing** and software engineering **best practices** to our platforms and workflows because hacky scripts won’t cut it.\n- **Stakeholder whisperer:** Work with people across the organisation to turn messy requirements into clear, testable specifications and **elegant,** maintainable solutions that simply work.\n- **Analytics enabler:** Build and evolve analytical assets, **semantic models** and reusable data products that support reporting, insights and decision-making.\n- **Data guardian:** Keep our data **secure, compliant and trustworthy**, using automated, code-driven controls. Protecting sensitive information is part of protecting children.\n- **Future shaper:** Help evolve our data, knowledge and AI capabilities, including the central registries and metadata that people and AI agents rely on, so we’re ready for the opportunities and challenges ahead.\n- **Human in the loop:** Work with AI coding agents as part of how we build: specify, direct and review the work, and keep the tests, guardrails and separate environments that make changes safe to ship.\n- **Ops ninja:** Promote **DataOps principles**, automation, agility and reliability everywhere you can.\n- **Integration smarts:** Design and maintain clean integrations and databases that just work.\n\n**About you:**\n\nYou care about quality code, but you also care about **impact**. You enjoy solving complex problems through thoughtful engineering, automation and good architecture. You’re curious about how data, AI and software engineering can be combined to create systems that are scalable, maintainable and genuinely useful. Most importantly, you’re motivated by knowing that your work helps create better outcomes for children.\n\n**Must-haves:**\n\n- Around five years or more as a code-focused data engineer, building efficient, maintainable pipelines in **Python** and SQL. Strong engineers proficient in other languages and keen to learn Python will also be considered.\n- Solid understanding of **data modelling**, and a genuine interest in abstraction, architecture and reducing complexity through reusable patterns.\n- Strong software engineering fundamentals, including testing, version control, code review and CI/CD.\n- Strong analytical and logical thinking, with the ability to follow and reason about complex ideas quickly.\n- Collaborative, able to explain technical ideas in plain **language** and take end-to-end ownership of outcomes across business and technical stakeholders.\n- Bring curiosity, humility, and a learning mindset, asking questions, embracing feedback, and adopting new ways of working, including AI-assisted engineering, while keeping ownership of architecture, quality and outcomes.\n\n**Bonus points for:**\n\n- Experience with dbt.\n- Experience with **Microsoft Fabric** or other modern cloud data platforms, including lakehouse architecture.\n- Experience with metadata-driven pipelines.\n- Experience developing reports, dashboards, visualisations, semantic models or analytical products (e.g. Power BI or similar).\n- Exposure to DataOps, platform engineering or infrastructure-as-code approaches, including environment design, automated deployment of changes and automated data tests within pipelines.\n- Interest in metadata, knowledge architecture, semantics, open standards or machine-readable systems.\n- Interest or experience in **data science,** machine learning, advanced analytics, **predictive analytics** or AI engineering.\n\n**A place to belong:**\n\nWe see and celebrate the unique value you bring to our organisation, and offer a range of rewards for your effort, including:\n\n- Opportunity to work on additional projects to enable you to stretch and feel connected to programs in a different way.\n- A modern, up to date working space, or the opportunity to work from home (WFH), or both!\n- Support for workplace wellness, including access to our free, confidential Employee Wellbeing Program.\n- Celebrate and feel supported in your diversity. We’ve established internal networks to support our diverse workforce, foster inclusion and allow you to bring your whole self to work (if that’s what you want!) (Pride@Save, Parents and Carers@Save, Mental Wellness Alliance, Disability@Save, First Nations Advisory Committee).\n- Full salary packaging benefits (please visit: www.salarypackagingplus.com.au to see how much this benefit could mean to you!)\n- Extra leave to use in a range of ways to ensure you’re able to perform at your optimum.\n\nFor more information about our employee benefits or a career at Save, visit our **Careers Page**: https://www.savethechildren.org.au/about-us/careers/\n\n**Does this sound like the place for you?**\n\nWe’d love to hear from you. Submit your cover letter and resume below.\n\n*We strongly encourage Aboriginal and Torres Strait Islander candidates to apply.*\n\nApplications close **COB Monday 7 December 2027**\n\nView the **Position Description** attached below or visit: https://www.savethechildren.org.au/about-us/careers/#jobs and search for this opportunity.\n\n*\\*We understand the need for work-life balance. We've advertised this role as full time permanent, but if you're looking for something different, please let us know. We offer flexible hours, remote working, and individual flexibility plans to ensure we’re providing you a personalised career.*\n\n*We have tested our application process with diverse groups in mind, with the intent to ensure it's straightforward and accessible for all to apply. Diversity and inclusion are fundamental to our culture and improve our ability to reach our most vulnerable client groups. But we also know there is no one-size fits-all when it comes to recruitment - so if we didn’t quite hit the mark for you, please let us know at people.culture@savethechildren.org.au. We’re dedicated to ensuring Save the Children Australia is a place where everyone can feel supported – no matter your race, ethnicity, gender, age, disability, sexuality, neurodiversity, culture and beliefs.*\n\n*Save the Children Australia is a child-safe organisation. All employees are required to undergo a National Police Check, a Working with Children Check, and sign our Child Safeguarding Policy and Code of Conduct. We also support the Inter-Agency Misconduct Disclosure Scheme.*\n\n*Save the Children is committed to providing and maintaining a safe working environment for its employees and client groups, consistent with our obligations under OH&S legislation.*\n\n*If you are having any issues with uploading your application for this role, please contact people.culture@savethechildren.org.au for further support.*"
+    },
+    {
+      "id": "full-stack-engineer-java-ivega-global-dwxdv2sf",
+      "title": "Full Stack Engineer - Java",
+      "company": "iVEGA Global",
+      "company_slug": "ivega-global",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4493611695/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "api",
+        "api-design",
+        "api-security",
+        "authentication",
+        "automation",
+        "chatgpt",
+        "ci-cd",
+        "docker",
+        "git",
+        "github",
+        "github-copilot",
+        "gradle",
+        "java",
+        "jenkins",
+        "jwt",
+        "maven",
+        "microservices",
+        "microsoft-copilot",
+        "react",
+        "rest",
+        "sonarqube",
+        "tls"
+      ],
+      "description": "**Required Skills:**\n\n- Strong Java back-end development experience covering design, coding, REST and microservices integration, debugging, and production support.\n- Hands-on React.js front-end development of reusable, responsive, and maintainable components.\n- Proven full-stack ownership across user interface, services, APIs, and database integration layers.\n- Understanding of **REST API** design principles and best practices.\n- Experience with microservices architecture and API integration patterns.\n- Experience of API security concepts JWT, TLS, and authentication/authorisation mechanisms.\n- Hands-on CI/CD experience with pipeline setup and automation using tools such as Git, Jenkins, Maven or Gradle, SonarQube, and Docker.\n- Experience with automated build, test, and deployment processes, branching strategies, and release management.\n- Payment's or banking domain delivery experience, including application workflows, integration touchpoints, defect resolution, and release support.\n- Proven ability to lead development teams and coordinate with cross-functional stakeholders on Agile end-to-end delivery.\n- Basic understanding of AI-assisted development tools (e.g., GitHub Copilot, Microsoft Copilot, ChatGPT, or similar).\n- Ability to use AI tools responsibly to improve productivity, code quality, documentation, and delivery outcomes."
+    },
+    {
+      "id": "full-stack-developer-resource-hub-consulting-mnpgzz6m",
+      "title": "Full Stack Developer",
+      "company": "Resource Hub Consulting",
+      "company_slug": "resource-hub-consulting",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492672435/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "agile",
+        "api",
+        "authentication",
+        "bootstrap",
+        "ci-cd",
+        "cloud",
+        "css",
+        "devops",
+        "express",
+        "html",
+        "javascript",
+        "jwt",
+        "microservices",
+        "mongodb",
+        "mysql",
+        "nodejs",
+        "nosql",
+        "oauth",
+        "postgresql",
+        "react",
+        "redux",
+        "rest",
+        "sql",
+        "tailwind",
+        "typescript"
+      ],
+      "description": "Full Stack Developer - Upto 550 AUD/day - Sydney, Australia - HYBRID\n\n**Job Summary**\n\n- Looking for 10+ years of Exp. We are seeking an experienced Senior Full Stack Developer with 8+ years of hands-on experience in designing, developing, and maintaining scalable web applications using React.js and Node.js. The ideal candidate should possess strong expertise in modern JavaScript frameworks, microservices architecture, cloud platforms, RESTful APIs, and database technologies. The candidate will be responsible for delivering high-quality solutions, mentoring team members, and collaborating with cross-functional teams in an Agile environment.\n\n**Key Responsibilities**\n\n- Design, develop, and maintain scalable web applications using React.js, Node.js, and TypeScript.\n- Build reusable, maintainable, and high-performance UI components.\n- Develop and consume RESTful APIs and microservices.\n- Design and implement secure backend services using Node.js and Express.js.\n- Optimize application performance, scalability, and responsiveness.\n- Work with SQL and NoSQL databases including MySQL, PostgreSQL, and MongoDB.\n- Integrate third-party APIs and external services.\n- Collaborate with Product Owners, Business Analysts, QA teams, and Architects.\n- Participate in code reviews and enforce coding standards.\n- Implement DevOps and CI/CD best practices.\n- Troubleshoot production issues and provide L3 support when required.\n- Mentor junior developers and contribute to technical decision-making.\n\n**Required Skills**\n\n**Frontend**\n\n- React.js\n- Redux / Redux Toolkit\n- JavaScript (ES6+)\n- TypeScript\n- HTML5, CSS3\n- Responsive Web Design\n- Bootstrap / Material UI / Tailwind CSS\n\n**Backend**\n\n- Node.js\n- Express.js\n- REST API Development\n- Authentication & Authorization (JWT, OAuth)"
+    },
+    {
+      "id": "full-time-overnights-occasional-day-shifts-pediatric-rns-lpns-princeton-craighomecare-pin5s5il",
+      "title": "Full Time Overnights & Occasional Day Shifts | Pediatric RNs/LPNs | Princeton",
+      "company": "craighomecare",
+      "company_slug": "craighomecare",
+      "location": "Princeton MN",
+      "date": "2026-11-24",
+      "url": "https://apply.clearcompany.com/craighomecare?jobId=512c9aa5-c6d0-2c7e-ab94-c245db29b9ec&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": "**Small Patients. Big Impact.**\n\nAt **Pediatric Home Service (PHS)**, we exist so kids can be kids. For more than 35 years, we've helped children with medical complexities receive the care they need where they thrive most: at home.\n\nAs a PHS nurse, you're more than a caregiver. You're a trusted part of a child's world. You'll be there for the everyday moments, milestones, victories, and challenges that matter most, helping children stay where they belong: surrounded by family, comfort, and the life they deserve.\n\n**One nurse. One patient. A relationship that lasts years, not days.**\n\n**Position Details**\n\n- **Location: Princeton, MN (55371)**\n- **Hours: 12-hour shifts**\n  \n  - **Days:**\n    \n    - **Every other** Saturday\n  - **Overnights:**\n    \n    - **Every** Monday &\n    - **Every other** Tuesday, Thursday, Friday & Saturdays\n- **Client Specifics:** 12-years old with a g-tube\n\n**What You'll Do**\n\n- Provide skilled nursing care in home and school settings\n- Assess and monitor your patient's condition and communicate changes with the care team\n- Administer medications, treatments, and prescribed therapies\n- Provide trach, ventilator, airway, and G-tube care as needed\n- Maintain accurate documentation and support families through education\n- Follow individualized care plans and maintain a safe care environment\n\n**Why Nurses Choose PHS**\n\nHere, you'll find something different: meaningful relationships, complex pediatric care, and a team that supports you every step of the way.\n\n- No Pediatric Home Care Experience Required: Build confidence through hands-on education, patient-specific training, simulation-based learning where available, and 24/7 clinical support.\n- 100% Pediatric Focus: Every patient, every shift, every skill is dedicated to caring for children.\n- Grow Your Clinical Expertise: Strengthen your skills while caring for medically complex patients.\n- Build Lasting Connections: Follow your patients' journeys and celebrate milestones alongside their families.\n- Meaningful Work Without the Rush: Focus on quality, one-on-one care instead of juggling multiple patient assignments.\n- Flexibility That Fits Your Life: Choose scheduling opportunities that work with your life.\n\n**Benefits**\n\nWe want you to feel supported both at work and outside of it. Benefits may include:\n\n- Generous PTO for full-time employees\n- Comprehensive Medical, Dental & Vision Insurance\n- 401(k) Matching\n- Tuition Reimbursement\n- Professional Development & Learning Opportunities\n- Flexible Scheduling\n- Company-Paid Life Insurance\n- A supportive environment where your work directly impacts children and families\n\n**Earn More for Select Shifts**\n\nYour flexibility makes a difference, and we believe it should be rewarded.\n\n- Weekday Nights (Mon–Fri): +$1/hour\n- Weekend Nights (Sat–Sun): +$2/hour\n- Weekend Days (Sat–Sun): +$1/hour\n\n**Pay Range**\n\nYou bring the skill and compassion that make one-on-one pediatric care possible. We’re committed to recognizing the experience and expertise you bring to our families.\n\n- **LPN: $25.00 – $31.00/hour**\n- **RN: $35.00 – $41.00/hour**\n\n**Starting pay is based on license, relevant experience, and qualifications.**\n\n**Your Work Changes Lives**\n\nMost organizations talk about making a difference. At PHS, you can see it.\n\nYou see it in a child sleeping in their own bed instead of a hospital room. In a family enjoying dinner together. In milestones reached because someone showed up with both skill and compassion. **That someone could be you.**\n\n**Apply today and discover why nurses choose Pediatric Home Service to build meaningful careers and make a lasting impact.**\n\n**Follow Us**\n\n- Facebook: Pediatric Home Service Careers - Minnesota\n- Instagram: @PHSKidsHomeCare\n\n**About Us**\n\nPediatric Home Service (PHS): Since 1990, PHS has helped medically complex children thrive at home, school, and in their communities through high-quality pediatric nursing and DME services.\n\n*Pediatric Home Service is an equal opportunity employer; we are committed to affirmative action and equal employment opportunities for all regardless of protected veteran status, race, color, creed, religion, national origin, sex, sexual orientation or identity, disability, age, marital status, familial status, membership or activity in a local human rights commission, or status with regard to public assistance.*"
+    },
+    {
+      "id": "full-time-overnights-occasional-day-shifts-pediatric-rns-lpns-princeton-pediatrichomeservicenursing-ok6mvjbc",
+      "title": "Full Time Overnights & Occasional Day Shifts | Pediatric RNs/LPNs | Princeton",
+      "company": "pediatrichomeservicenursing",
+      "company_slug": "pediatrichomeservicenursing",
+      "location": "Princeton MN",
+      "date": "2026-11-24",
+      "url": "https://apply.clearcompany.com/pediatrichomeservicenursing?jobId=512c9aa5-c6d0-2c7e-ab94-c245db29b9ec&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": "**Small Patients. Big Impact.**\n\nAt **Pediatric Home Service (PHS)**, we exist so kids can be kids. For more than 35 years, we've helped children with medical complexities receive the care they need where they thrive most: at home.\n\nAs a PHS nurse, you're more than a caregiver. You're a trusted part of a child's world. You'll be there for the everyday moments, milestones, victories, and challenges that matter most, helping children stay where they belong: surrounded by family, comfort, and the life they deserve.\n\n**One nurse. One patient. A relationship that lasts years, not days.**\n\n**Position Details**\n\n- **Location: Princeton, MN (55371)**\n- **Hours: 12-hour shifts**\n  \n  - **Days:**\n    \n    - **Every other** Saturday\n  - **Overnights:**\n    \n    - **Every** Monday &\n    - **Every other** Tuesday, Thursday, Friday & Saturdays\n- **Client Specifics:** 12-years old with a g-tube\n\n**What You'll Do**\n\n- Provide skilled nursing care in home and school settings\n- Assess and monitor your patient's condition and communicate changes with the care team\n- Administer medications, treatments, and prescribed therapies\n- Provide trach, ventilator, airway, and G-tube care as needed\n- Maintain accurate documentation and support families through education\n- Follow individualized care plans and maintain a safe care environment\n\n**Why Nurses Choose PHS**\n\nHere, you'll find something different: meaningful relationships, complex pediatric care, and a team that supports you every step of the way.\n\n- No Pediatric Home Care Experience Required: Build confidence through hands-on education, patient-specific training, simulation-based learning where available, and 24/7 clinical support.\n- 100% Pediatric Focus: Every patient, every shift, every skill is dedicated to caring for children.\n- Grow Your Clinical Expertise: Strengthen your skills while caring for medically complex patients.\n- Build Lasting Connections: Follow your patients' journeys and celebrate milestones alongside their families.\n- Meaningful Work Without the Rush: Focus on quality, one-on-one care instead of juggling multiple patient assignments.\n- Flexibility That Fits Your Life: Choose scheduling opportunities that work with your life.\n\n**Benefits**\n\nWe want you to feel supported both at work and outside of it. Benefits may include:\n\n- Generous PTO for full-time employees\n- Comprehensive Medical, Dental & Vision Insurance\n- 401(k) Matching\n- Tuition Reimbursement\n- Professional Development & Learning Opportunities\n- Flexible Scheduling\n- Company-Paid Life Insurance\n- A supportive environment where your work directly impacts children and families\n\n**Earn More for Select Shifts**\n\nYour flexibility makes a difference, and we believe it should be rewarded.\n\n- Weekday Nights (Mon–Fri): +$1/hour\n- Weekend Nights (Sat–Sun): +$2/hour\n- Weekend Days (Sat–Sun): +$1/hour\n\n**Pay Range**\n\nYou bring the skill and compassion that make one-on-one pediatric care possible. We’re committed to recognizing the experience and expertise you bring to our families.\n\n- **LPN: $25.00 – $31.00/hour**\n- **RN: $35.00 – $41.00/hour**\n\n**Starting pay is based on license, relevant experience, and qualifications.**\n\n**Your Work Changes Lives**\n\nMost organizations talk about making a difference. At PHS, you can see it.\n\nYou see it in a child sleeping in their own bed instead of a hospital room. In a family enjoying dinner together. In milestones reached because someone showed up with both skill and compassion. **That someone could be you.**\n\n**Apply today and discover why nurses choose Pediatric Home Service to build meaningful careers and make a lasting impact.**\n\n**Follow Us**\n\n- Facebook: Pediatric Home Service Careers - Minnesota\n- Instagram: @PHSKidsHomeCare\n\n**About Us**\n\nPediatric Home Service (PHS): Since 1990, PHS has helped medically complex children thrive at home, school, and in their communities through high-quality pediatric nursing and DME services.\n\n*Pediatric Home Service is an equal opportunity employer; we are committed to affirmative action and equal employment opportunities for all regardless of protected veteran status, race, color, creed, religion, national origin, sex, sexual orientation or identity, disability, age, marital status, familial status, membership or activity in a local human rights commission, or status with regard to public assistance.*"
+    },
+    {
+      "id": "full-time-overnights-occasional-day-shifts-pediatric-rns-lpns-princeton-pediatrichomeservice-jtrvtiuy",
+      "title": "Full Time Overnights & Occasional Day Shifts | Pediatric RNs/LPNs | Princeton",
+      "company": "pediatrichomeservice",
+      "company_slug": "pediatrichomeservice",
+      "location": "Princeton MN",
+      "date": "2026-11-24",
+      "url": "https://apply.clearcompany.com/pediatrichomeservice?jobId=512c9aa5-c6d0-2c7e-ab94-c245db29b9ec&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": "**Small Patients. Big Impact.**\n\nAt **Pediatric Home Service (PHS)**, we exist so kids can be kids. For more than 35 years, we've helped children with medical complexities receive the care they need where they thrive most: at home.\n\nAs a PHS nurse, you're more than a caregiver. You're a trusted part of a child's world. You'll be there for the everyday moments, milestones, victories, and challenges that matter most, helping children stay where they belong: surrounded by family, comfort, and the life they deserve.\n\n**One nurse. One patient. A relationship that lasts years, not days.**\n\n**Position Details**\n\n- **Location: Princeton, MN (55371)**\n- **Hours: 12-hour shifts**\n  \n  - **Days:**\n    \n    - **Every other** Saturday\n  - **Overnights:**\n    \n    - **Every** Monday &\n    - **Every other** Tuesday, Thursday, Friday & Saturdays\n- **Client Specifics:** 12-years old with a g-tube\n\n**What You'll Do**\n\n- Provide skilled nursing care in home and school settings\n- Assess and monitor your patient's condition and communicate changes with the care team\n- Administer medications, treatments, and prescribed therapies\n- Provide trach, ventilator, airway, and G-tube care as needed\n- Maintain accurate documentation and support families through education\n- Follow individualized care plans and maintain a safe care environment\n\n**Why Nurses Choose PHS**\n\nHere, you'll find something different: meaningful relationships, complex pediatric care, and a team that supports you every step of the way.\n\n- No Pediatric Home Care Experience Required: Build confidence through hands-on education, patient-specific training, simulation-based learning where available, and 24/7 clinical support.\n- 100% Pediatric Focus: Every patient, every shift, every skill is dedicated to caring for children.\n- Grow Your Clinical Expertise: Strengthen your skills while caring for medically complex patients.\n- Build Lasting Connections: Follow your patients' journeys and celebrate milestones alongside their families.\n- Meaningful Work Without the Rush: Focus on quality, one-on-one care instead of juggling multiple patient assignments.\n- Flexibility That Fits Your Life: Choose scheduling opportunities that work with your life.\n\n**Benefits**\n\nWe want you to feel supported both at work and outside of it. Benefits may include:\n\n- Generous PTO for full-time employees\n- Comprehensive Medical, Dental & Vision Insurance\n- 401(k) Matching\n- Tuition Reimbursement\n- Professional Development & Learning Opportunities\n- Flexible Scheduling\n- Company-Paid Life Insurance\n- A supportive environment where your work directly impacts children and families\n\n**Earn More for Select Shifts**\n\nYour flexibility makes a difference, and we believe it should be rewarded.\n\n- Weekday Nights (Mon–Fri): +$1/hour\n- Weekend Nights (Sat–Sun): +$2/hour\n- Weekend Days (Sat–Sun): +$1/hour\n\n**Pay Range**\n\nYou bring the skill and compassion that make one-on-one pediatric care possible. We’re committed to recognizing the experience and expertise you bring to our families.\n\n- **LPN: $25.00 – $31.00/hour**\n- **RN: $35.00 – $41.00/hour**\n\n**Starting pay is based on license, relevant experience, and qualifications.**\n\n**Your Work Changes Lives**\n\nMost organizations talk about making a difference. At PHS, you can see it.\n\nYou see it in a child sleeping in their own bed instead of a hospital room. In a family enjoying dinner together. In milestones reached because someone showed up with both skill and compassion. **That someone could be you.**\n\n**Apply today and discover why nurses choose Pediatric Home Service to build meaningful careers and make a lasting impact.**\n\n**Follow Us**\n\n- Facebook: Pediatric Home Service Careers - Minnesota\n- Instagram: @PHSKidsHomeCare\n\n**About Us**\n\nPediatric Home Service (PHS): Since 1990, PHS has helped medically complex children thrive at home, school, and in their communities through high-quality pediatric nursing and DME services.\n\n*Pediatric Home Service is an equal opportunity employer; we are committed to affirmative action and equal employment opportunities for all regardless of protected veteran status, race, color, creed, religion, national origin, sex, sexual orientation or identity, disability, age, marital status, familial status, membership or activity in a local human rights commission, or status with regard to public assistance.*"
+    },
+    {
+      "id": "full-stack-engineer-utopia-pakistan-vghzujuh",
+      "title": "Full Stack Engineer",
+      "company": "Utopia Pakistan",
+      "company_slug": "utopia-pakistan",
+      "location": "Karachi Division, Sindh, Pakistan",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492674869/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "pk"
+      ],
+      "skills": [
+        "api",
+        "aws",
+        "ci-cd",
+        "distributed-systems",
+        "docker",
+        "ecommerce",
+        "erp",
+        "event-driven-architecture",
+        "git",
+        "hibernate",
+        "integration-testing",
+        "inventory-management",
+        "java",
+        "javascript",
+        "jpa",
+        "junit",
+        "mockito",
+        "mysql",
+        "postgresql",
+        "rdbms",
+        "react",
+        "rest",
+        "spring",
+        "sql",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "**About the Role**\n\nUtopia Brands is looking for an experienced Lead Full-Stack Engineer with strong backend expertise to lead the development of enterprise applications supporting our global e-commerce operations. The ideal candidate will have hands-on experience with Java, Spring Boot, database architecture, and REST APIs, along with the ability to guide\n\nengineering teams and deliver scalable, high-performance software solutions.\n\n**Key Responsibilities**\n\nLead the design, development, and delivery of enterprise software applications using Java and Spring Boot.\n\nDesign scalable backend architectures, RESTful APIs, and complex business workflows.\n\nGuide and mentor Full-Stack and Associate Engineers, ensuring quality and consistency in development.\n\nManage database design, SQL optimization, data integrity, and performance improvements.\n\nOversee frontend integration and development using React and JavaScript/TypeScript.\n\nEstablish automated testing standards, code review practices, and CI/CD quality gates.\n\nCoordinate technical planning, task allocation, effort estimation, and project delivery.\n\nManage integrations with internal systems and external e-commerce marketplaces.\n\nTroubleshoot production issues and drive improvements in application performance, reliability, and security.\n\n**Requirements**\n\nBachelor's degree in Computer Science, Software Engineering, or a related field.\n\n7+ years of professional software development experience, with strong backend expertise.\n\nAt least 2 years of experience in technical leadership, mentoring, or engineering team coordination.\n\nAdvanced proficiency in Java and Spring Boot.\n\nStrong experience with REST APIs, enterprise application architecture, and relational databases (MySQL/PostgreSQL).\n\nPractical experience with React, JavaScript, or TypeScript.\n\nStrong understanding of SQL optimization, JPA/Hibernate, and transaction management.\n\nExperience with JUnit, Mockito, integration testing, and automated regression testing.\n\nFamiliarity with AWS, Docker, Git, and CI/CD pipelines.\n\nExcellent problem-solving, communication, and technical leadership skills.\n\n**Preferred Experience**\n\nExperience developing ERP, WMS, OMS, inventory management, or procurement systems.\n\nExposure to Amazon, Walmart, and TikTok Shop marketplace APIs.\n\nExperience with distributed systems, event-driven architecture, and application monitoring."
+    },
+    {
+      "id": "full-stack-engineer-ledgebrook-57hcdkmy",
+      "title": "Full Stack Engineer - Tiger",
+      "company": "Ledgebrook",
+      "company_slug": "ledgebrook",
+      "location": "Remote - US or Canada",
+      "date": "2026-11-24",
+      "url": "https://www.comeet.com/jobs/ledgebrook/D9.006/full-stack-engineer---tiger/15.078?jr_id=6afdf344758942b6422b5d91&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca",
+        "us"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "angular",
+        "api",
+        "aws",
+        "bootstrap",
+        "ci-cd",
+        "containerization",
+        "css",
+        "docker",
+        "github",
+        "github-actions",
+        "html",
+        "javascript",
+        "jenkins",
+        "kubernetes",
+        "llm",
+        "nodejs",
+        "python",
+        "react",
+        "rest",
+        "scss",
+        "typescript"
+      ],
+      "description": "Ledgebrook is an AI-native specialty insurance platform. When a business needs coverage that is custom and complex, its broker comes to us, and our underwriters give them an answer, often in hours rather than weeks.\n\nWe built our technology from scratch, with AI in it from the first line of code. The technology helps price the risk; the underwriter uses their judgment to decide. There are always two hands on the wheel.\n\nWe are insurance industry insiders, and we eat our own cooking: Ledgebrook writes the policy and shares the risk through our own carrier, Ledgebrook Specialty, rated A- (Excellent) by AM Best. We work exclusively through wholesale brokers.\n\nOur vision: to make the wheels of insurance spin faster.\n\nAt Ledgebrook, everything we do is driven by our culture: Care, Strive, Thrive Together. To succeed in modernizing the industry, we must first succeed in changing the way we do business. Talent density is our north star—fewer, better people working together as one. To that end we’ve replaced all individual incentives with generous equity packages—we play as a team, we win as a team. Everyone benefits handsomely from Ledgebrook’s success.\n\n### About the Role\n\nWe’re looking for a talented Full Stack Software Engineer to help us solve the complex, technical challenges of a changing insurance landscape. The ideal candidate loves to build, communicates well with team members , and is motivated by a less bureaucracy. This person will be a key member of our engineering team, with direct ownership of many parts of the stack.\n\n**What you’ll do**\n\n- Collaborate with product managers, designers, and other engineers to develop new features and enhance existing applications.\n- Design and implement frontend and backend components using JavaScript (Node.js) and Python.\n- Develop RESTful APIs and integrate with third-party services as needed.\n- Write clean, maintainable, and efficient code following best practices and coding standards.\n- Implement automated tests and ensure high code quality through code reviews and continuous integration.\n- Optimize application performance and scalability to handle growing user demands.\n- Dive into using and building LLMs (Large Language Models) to enhance our underwriters' productivity.\n- Debug production issues using the latest tooling.\n- Help set the direction of the small but growing engineering team.\n\n### About you\n\nHere at Ledgebrook we are passionate about creating a team that is on a continuous learning journey and that shares our excitement about building a company from the ground up. Some of the characteristics we hold dear are:\n\n- A passion to deliver a world-class customer service experience to both internal and external customers\n- Intellectual curiosity and a desire to innovate processes/procedures versus being satisfied with the status quo\n- A desire to continue learning whatever your career stage\n- Agile prioritization skills coupled with a keen sense of urgency that seeks to balance getting it right versus getting it done right now\n- A strong drive and desire to win together as a high-performing team\n- A moral compass to “do the right thing, period”, we have zero tolerance for toxic behaviors.\n\n### Requirements\n\n**Must haves**\n\n- 3+ years of experience with the full stack development\n- Ability to facilitate and gather business requirements and come up with scalable engineering solutions\n- Strong ability to design data models based on business domain use cases\n- Proven ability to write code for the future, with a strong focus on maintainability and testability\n- Familiarity with CI/CD tools using Github Actions, AWS Code Pipelines, Jenkins, or other\n- Strong verbal and written communication skills, organizational and time management skills\n- Demonstrated ability to effectively prioritize and manage multiple tasks/projects simultaneously per the objectives/goals of the organization and execute to deadlines\n\n**Nice to haves**\n\n- Prior startup experience\n- Experience with Python, JavaScript\n- Experience solving insurance industry / domain related challenges\n- Experience in web technologies and frameworks (JS/TS, HTML, CSS/SCSS, Angular, React, Bootstrap, Node.js)\n- Familiarity with containerization and orchestration technologies (e.g., Docker, Kubernetes).\n\n### Benefits\n\n- Full remote flexibility and asynchronous work culture\n- Unlimited PTO and fully paid sick leave\n- Comprehensive health benefits, including medical, dental, and vision coverage, plus HSA and FSA options\n- Additional financial protection and retirement benefits, including a 401(k), company-paid life insurance, and disability coverage\n- A high degree of ownership, autonomy, and the opportunity to help build and shape a growing company\n- The chance to make a meaningful impact while working alongside an ambitious, high-performing team\n- Exposure to the challenges and opportunities of a fast-growing startup environment\n\n### Compensation\n\n- Base Salary Range $100,000-150,000 USD This is a good-faith compensation range based on what Ledgebrook reasonably expects to pay for this position at the time of this posting. Actual compensation may vary based on a variety of relevant factors including experience, qualifications, geographic location and other relevant factors.\n- Employees in this position are eligible to participate in Ledgebrook’s equity incentive program.\n\n**For Candidates Applying From The U.S.:**\n\n***Please note: This position is open only to candidates who are authorized to work in the United States without the need for current or future employer-sponsored work authorization. We are unable to offer sponsorship at this time.***\n\n**For Candidates Applying From Poland:**\n\n***Please note: This position is open only to candidates who are authorized to work in Poland without the need for current or future employer-sponsored work authorization. We are unable to offer sponsorship at this time.***\n\n**For Candidates Applying From Canada:**\n\n***Please note: This position is open only to candidates who are authorized to work in Canada without the need for current or future employer-sponsored work authorization. We are unable to offer sponsorship at this time.***\n\n***Ledgebrook may use Artificial Intelligence (“AI”) as part of the job application process, including to assist us in evaluating your application. AI is used as a support tool, and hiring decisions are made by human recruiters. By submitting your information, you acknowledge that the company may use AI tools as part of our evaluation. If you need a reasonable accommodation or alternative review process because of a disability or other legally protected basis, contact hiring@ledgebrook.com. Requesting an accommodation will not negatively affect your application.***"
+    },
+    {
+      "id": "frontend-developer-sf-technology-partners-x4dcosvt",
+      "title": "Frontend Developer",
+      "company": "SF Technology Partners",
+      "company_slug": "sf-technology-partners",
+      "location": "Warrington, England, United Kingdom",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492636400/?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "ci-cd",
+        "git",
+        "javascript",
+        "microsoft-fabric",
+        "react",
+        "rest",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "Front-End Developer with strong JavaScript and React experience gained within a complex, data-heavy environment, is sought by a market-leading, global supply chain organisation investing heavily in digital innovation and new product development.\n\nThis is an opportunity to play a key role in building modern, data-driven applications that go beyond traditional reporting and dashboards, helping teams make smarter commercial and operational decisions.\n\nThe business is developing a new generation of user-facing digital products that bring together complex datasets, analytics, visualisation, workflows and emerging AI capabilities.\n\nWe're looking for an engineer who is passionate about front-end development, React and creating intuitive user experiences, and who has experience turning complex data into accessible, engaging and high-performing applications.\n\nThis isn't a traditional BI Developer or Data Engineer position. The emphasis is firmly on front-end engineering, building sophisticated applications that make large volumes of data genuinely useful to the people who rely on it.\n\nThe successful Front-End Developer should have most of the following:\n\n- Strong commercial experience developing modern applications using JavaScript, React and ideally TypeScript.\n- Experience building front-end applications within data-heavy environments, working with complex datasets and data-driven functionality.\n- An ability to transform complex information into intuitive, interactive user interfaces, dashboards and visualisations.\n- Strong experience integrating front-end applications with REST APIs, back-end services and data platforms.\n- A good understanding of front-end architecture, reusable components, state management and application performance.\n- Experience designing responsive, scalable and maintainable applications with a strong emphasis on usability and user experience.\n- Confidence working collaboratively with Data Engineers, Analytics Engineers and business stakeholders to translate complex requirements into practical digital products.\n- Familiarity with modern software engineering practices including Git, automated testing, code reviews and CI/CD.\n- Exposure to Microsoft Fabric, modern analytics platforms or enterprise data environments would be advantageous but is not essential.\n\nIn return, this Front-End Developer can expect:\n\n• Base salary of £60,000 - £70,000 DoE\n\n• A fast-paced, innovation-first environment with significant investment in modern technology.\n\n• Genuine autonomy and ownership over front-end application development.\n\n• The opportunity to build sophisticated digital products used across an international business.\n\n• Extensive career development and growth potential.\n\n• Bonus\n\n• Private healthcare\n\n• long term hybrid working (two/ three days a week on-site)\n\nSo, if you're a React / JavaScript Developer who enjoys solving complex front-end challenges, has experience working with data-intensive applications and wants the opportunity to build innovative products within an established, financially secure international organisation, please apply now to be considered\n\nFront End Developer\n\nWarrington\n\n£60,000 - £70,000"
+    },
+    {
+      "id": "frontend-developer-enov8tive-4mujrsth",
+      "title": "Frontend Developer",
+      "company": "Enov8Tive",
+      "company_slug": "enov8tive",
+      "location": "Taguig City, Metro Manila",
+      "date": "2026-11-24",
+      "url": "https://ph.jobstreet.com/job/96089906?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "ph"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "css",
+        "git",
+        "github",
+        "html",
+        "javascript",
+        "json",
+        "react",
+        "rest",
+        "typescript",
+        "vue",
+        "wireframing"
+      ],
+      "description": "**About the Position**\n\nEnov8tive Technology Solutions, Inc. is seeking a creative and technically capable Front-End Developer to join our Software Development Team.\n\nThe successful candidate will be responsible for developing and maintaining user-friendly, responsive and functional web application interfaces. We welcome fresh graduates with relevant academic or personal projects, as well as experienced developers with professional frontend development experience.\n\n**Key Responsibilities**\n\n- Develop and maintain responsive and user-friendly web application interfaces.\n- Translate UI/UX designs, wireframes and technical specifications into functional web pages and components.\n- Develop reusable frontend components using appropriate programming languages and frameworks.\n- Integrate frontend applications with backend services through REST APIs.\n- Ensure compatibility across different browsers, devices and screen sizes.\n- Conduct frontend testing, debugging and troubleshooting.\n- Optimize application performance, loading speed and responsiveness.\n- Collaborate with backend developers, UI/UX designers and QA personnel.\n- Participate in code reviews, technical discussions and software development activities.\n- Maintain clean, reusable and properly documented code.\n- Follow established development standards and application security requirements.\n\n**Qualifications**\n\n**Educational Requirements:**\n\n- Bachelor's degree in Computer Science, Information Technology, Computer Engineering, Software Engineering or a related field.\n- Fresh graduates are welcome to apply.\n\n**Technical Requirements:**\n\n- Basic to working knowledge of HTML5, CSS3 and JavaScript.\n- Familiarity with at least one frontend framework or library, such as:\n- React.js\n- Angular\n- Vue.js\n- Basic understanding of responsive web design and UI/UX principles.\n- Familiarity with REST APIs, JSON and Git.\n- Basic knowledge of debugging and browser developer tools.\n\n**Additional Qualifications:**\n\n- Knowledge of TypeScript is an advantage.\n- Familiarity with CSS frameworks or UI component libraries is an advantage.\n- Relevant internship, capstone project, academic project or personal portfolio is an advantage.\n- Good analytical, problem-solving and communication skills.\n- Attention to detail and willingness to learn new technologies.\n\n**Experience:**\n\n- Fresh graduates with relevant projects or demonstrable technical skills may apply.\n- Candidates with at least two (2) years of professional frontend or web application development experience are encouraged to apply.\n\n**What We Offer**\n\n- Opportunity to work on software development projects.\n- Exposure to modern web development technologies.\n- Professional growth and technical learning opportunities.\n- Collaborative working environment.\n- Compensation commensurate with qualifications and experience.\n\n**How to Apply**\n\nInterested applicants may submit their updated résumé/CV, together with links to their portfolio, GitHub repository or sample websites/applications, if available.\n\nJoin Enov8tive and be part of a team building practical technology solutions!"
+    },
+    {
+      "id": "full-stack-developer-in-risk-department-seb-vilnius-seb-qozquqdd",
+      "title": "Full Stack Developer in Risk Department | SEB, Vilnius",
+      "company": "SEB",
+      "company_slug": "seb",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4493996686/?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "skills": [
+        "agile",
+        "angular",
+        "api",
+        "business-development",
+        "dotnet"
+      ],
+      "description": "Want to build the systems that drive some of the bank's most critical credit risk decisions? Join our Risk Department and help us to build a comprehensive solution supporting **Loss Given Default (LGD) models**, working closely with risk experts, analysts, architects, and fellow engineers.\n\nWith technology as our driving force, we provide world-class services to SEB group customers and business divisions in 20 sites worldwide. With us, you'll be part of a dedicated team of over 2800 employees who constantly work towards improving business development and growth. Do you want to work at the interface between ground-breaking technology and a world of financial flows? Welcome to SEB Global Services!\n\n**About the role:**\n\nWe are looking for a talented **Full Stack Developer** with strong experience in **.NET** and **Angular** to join our Risk Technology team.\n\nYou will help build and evolve systems that are at the heart of the bank's risk management processes. Our department develops and maintains platforms that calculate proposed risk classes, identify defaulted clients, calculate Expected Credit Loss (ECL), perform capital calculations, and support other critical risk management capabilities.\n\nYour primary focus will be the development of a strategic platform supporting **LGD models**, helping to establish a robust and scalable foundation for future risk modelling solutions.\n\n**What you will do:**\n\n- Design, develop, and maintain full-stack applications using .NET and Angular.\n- Contribute to the development of the bank's LGD modelling platform and related risk calculation services.\n- Collaborate with risk specialists to translate regulatory and business requirements into technical solutions.\n- Improve system performance, quality, stability, and maintainability.\n- Participate in architecture discussions, code reviews, and continuous improvement initiatives.\n\n**To thrive in this role, we believe you have:**\n\n- 2+ years’ hands-on experience working with .NET, APIs, micro services architecture\n- Experience working with front-end frameworks (Angular, etc.)\n- Curiosity and willingness to experiment with modern technologies and tools\n- Analytical skills and knowledge to handle complex information\n- Great collaboration, communication skills and fluency in English\n\n**What do we offer:**\n\n- Entrepreneurial Scandinavian environment: work-life balance, international working environment, hybrid work model, empowering and welcoming culture\n- Growth culture: extensive training and learning opportunities, local and international internal mobility possibilities, long-term stability\n- Modern environment: innovative company in fore front of technology, challenging, cutting-edge work, excellent office environment, agile and modern ways of working\n- Additional monetary benefits: paid seniority vacation and volunteering days, allocations to Your pension fund, profit sharing program, and additional health insurance\n\n**Do you want to be a part of SEB?**\n\nWelcome to our inclusive culture, where our shared values inspire and uplift our team. We celebrate diversity and strive to ensure every employee feels seen, heard, and valued.\n\nWe are looking forward to your application by **17th of December.**\n\nSince we select candidates continuously, feel free to send in your application before the deadline.\n\n**Learn more about working at SEB here:** Technology | SEB\n\nIt is our fundamental belief that inclusion and diversity is crucial for our future success. We strive to have an inclusive, value-driven culture where employees feel valued, respected, and involved irrespective of who they are, what they believe or where they come from.\n\n#GSV\n\nThe above indicated range is the monthly salary range for this position before tax deduction. The final offer will depend on the experience and competencies of the selected candidate. Overall remuneration package consists of the salary together with other benefits."
+    },
+    {
+      "id": "full-stack-software-engineer-java-spring-angular-eu-institutions-ayesa-digital-gs6lcf4b",
+      "title": "Full-Stack Software Engineer (Java / Spring / Angular) | EU Institutions",
+      "company": "Ayesa Digital",
+      "company_slug": "ayesa-digital",
+      "location": "Brussels Metropolitan Area",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492648200/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [],
+      "skills": [
+        "agile",
+        "angular",
+        "api",
+        "authentication",
+        "aws",
+        "azure",
+        "ci-cd",
+        "docker",
+        "gitflow",
+        "gitlab",
+        "hibernate",
+        "java",
+        "kubernetes",
+        "mongodb",
+        "openapi",
+        "openid",
+        "oracle",
+        "postgresql",
+        "rest",
+        "scrum",
+        "soap",
+        "spring",
+        "swagger"
+      ],
+      "description": "At Ayesa Digital, we grow with you!\n\nEvery professional in our company is vital to us. Thanks to their talent, we continue to expand; today, we are a global team of over 11,000 people working toward a common goal.\n\nAyesa Digital is currently participating in high-impact European Union projects designed to address major European challenges and drive science and innovation. These are strategic technological projects based on collaborative initiatives that stand out for their international focus and a strong commitment to socially oriented results.\n\nWe are looking for a **Full-Stack Software Engineer (Java / Spring / Angular)** to join the team responsible for the information systems of a European institution working on climate action. The initial assignment focuses on the systems supporting the EU Emissions Trading System (ETS): migration, upgrade and maintenance of Java Spring and Angular applications, REST and SOAP web services, and continuous security hardening.\n\nWorking **remotely from any EU country**, with on-site presence in **Brussels** of up to 5 days per quarter (currently two visits of 2 days per year), you will work in an Agile/Scrum team on enterprise, multi-user systems.\n\n**What you'll do**\n\nDevelop, migrate, upgrade and maintain Java Spring and Angular applications.\n\nDevelop and maintain REST and SOAP web services.\n\nDesign, build and secure RESTful APIs (OpenAPI/Swagger) and OpenID Connect authentication.\n\nWork with relational and non-relational databases (PostgreSQL, Oracle, MongoDB).\n\nDeploy applications with Docker/Kubernetes and CI/CD pipelines.\n\nContribute to application security maintenance and hardening.\n\nTake part in sprint planning, backlog refinement, reviews and retrospectives.\n\n**What we're looking for**\n\nBachelor's degree (EQF level 6) and at least 7 years of IT professional experience.\n\n4 years of experience in all phases of application development.\n\n4 years of experience as a full-stack developer.\n\n4 years of experience developing Java applications.\n\n4 years of experience with Spring Framework.\n\n3 years of experience developing front-end applications with Angular.\n\n3 years of experience with Docker and Kubernetes.\n\n4 years of experience with the OpenID Connect authentication protocol.\n\nEnglish at B2 level or higher, both spoken and written.\n\nEligible for EU security clearance.\n\n**Nice to have**\n\nSpring Boot, Hibernate, REST API development.\n\nPostgreSQL, Oracle and MongoDB.\n\nGitFlow/trunk-based workflows and GitLab.\n\nAWS or Azure.\n\nPM² Agile methodology.\n\nCoaching or team leading experience.\n\n**What We Offer:**\n\nPrestigious projects within European institutions.\n\nInternational, innovative, and multicultural environments.\n\nContinuous support from a team of experts in EU projects.\n\nIf you are ambitious, enthusiastic, and seeking a new professional challenge in international projects with real-world impact, this is the place for you!\n\nIn accordance with Organic Law 3/2007 of March 22, the company is committed to promoting the defense and effective application of the principle of equality between men and women, preventing any type of labor discrimination based on sex, and guaranteeing equal entry opportunities. Furthermore, we promote diversity and reject any discrimination based on race, gender, functional diversity, religion, sexual orientation, gender identity, or any other personal or social condition, striving to build an inclusive and enriching environment."
+    },
+    {
+      "id": "full-stack-software-engineer-weekday-ai-yc-w21-bxdmupdk",
+      "title": "Full-Stack Software Engineer",
+      "company": "Weekday AI (YC W21)",
+      "company_slug": "weekday-ai-yc-w21",
+      "location": "Mumbai Metropolitan Region",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4493967255/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "angular",
+        "api",
+        "authentication",
+        "aws",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "containerization",
+        "data-modeling",
+        "data-pipelines",
+        "distributed-systems",
+        "docker",
+        "fastapi",
+        "gcp",
+        "generative-ai",
+        "kubernetes",
+        "llm",
+        "machine-learning",
+        "microservices",
+        "nosql",
+        "python",
+        "rag",
+        "react",
+        "sql",
+        "vue"
+      ],
+      "description": "𝗧𝗵𝗶𝘀 𝗿𝗼𝗹𝗲 𝗶𝘀 𝗳𝗼𝗿 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗪𝗲𝗲𝗸𝗱𝗮𝘆'𝘀 𝗰𝗹𝗶𝗲𝗻𝘁𝘀\n\n𝗦𝗮𝗹𝗮𝗿𝘆 𝗿𝗮𝗻𝗴𝗲: 𝗥𝘀 𝟰𝟱𝟬𝟬𝟬𝟬𝟬 - 𝗥𝘀 𝟳𝟬𝟬𝟬𝟬𝟬𝟬 (𝗶𝗲 𝗜𝗡𝗥 𝟰𝟱-𝟳𝟬 𝗟𝗣𝗔)\n\nExperience: 10+ yrs\n\nLocation: Mumbai, Maharashtra, India\n\nAs a Full-Stack Software Engineer, you will be responsible for designing, developing, and maintaining scalable web applications that harness the power of advanced AI technologies. You will collaborate closely with cross-functional teams, translate business requirements into robust code, and ensure seamless integration of GenAI, LLMs, and RAG components into our product suite. Leveraging your deep expertise in Python and FastAPI, you will architect APIs that deliver high performance and adaptability across diverse platforms. Your role will also involve mentoring junior developers, driving continuous improvement in code quality, and staying ahead of emerging AI trends to maintain a competitive edge.\n\n**Requirements**\n\n𝗞𝗲𝘆 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀\n\n- Design and implement end-to-end web solutions using Python, FastAPI, and modern front-end frameworks\n- Integrate Generative AI models, large language models, and Retrieval-Augmented Generation (RAG) pipelines into live production systems\n- Optimize application performance, ensuring low latency and high throughput for AI-driven services\n- Collaborate with data scientists to deploy and tune machine learning models in real-time environments\n- Develop robust, scalable microservices architecture with containerization and orchestration (Docker, Kubernetes)\n- Implement comprehensive unit, integration, and end-to-end tests for both front-end and back-end components\n- Conduct code reviews, enforce coding standards, and promote best practices across the engineering team\n- Participate in Agile ceremonies, contribute to sprint planning, and deliver on time with high-quality outputs\n- Monitor application health, troubleshoot production issues, and implement proactive monitoring dashboards\n- Stay updated with industry trends in AI, cloud technologies, and web development, and recommend architectural enhancements\n\n𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗬𝗼𝘂 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗙𝗶𝘁\n\n- 10+ years of professional experience in full-stack development, with a strong focus on Python and FastAPI\n- Proven track record of building and scaling AI-powered web applications using GenAI, LLMs, and RAG techniques\n- Deep understanding of front-end frameworks (React, Vue, Angular) and responsive design principles\n- Proficiency in cloud platforms (AWS, GCP, Azure) and experience with CI/CD pipelines, containers, and Kubernetes\n- Strong background in data modeling, SQL/NoSQL databases, and designing efficient data pipelines for AI workloads\n- Experience in monitoring, logging, and performance tuning of distributed systems with real-time AI components\n- Excellent communication skills, capable of translating complex technical concepts to non-technical stakeholders\n- Demonstrated leadership in mentoring junior developers and fostering a culture of high code quality\n- Familiarity with security best practices, including authentication, authorization, and data privacy in AI applications\n- Passion for continuous learning, staying ahead of AI and web development trends, and applying innovative solutions to business challenges"
+    },
+    {
+      "id": "full-stack-developer-shaw-organisation-vjco7pbj",
+      "title": "Full Stack Developer",
+      "company": "Shaw Organisation",
+      "company_slug": "shaw-organisation",
+      "location": "Orchard, Central Region",
+      "date": "2026-11-24",
+      "url": "https://sg.jobstreet.com/job/96089317?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "sg"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "api",
+        "azure",
+        "ci-cd",
+        "cloud",
+        "csharp",
+        "css",
+        "devops",
+        "dotnet",
+        "github",
+        "github-copilot",
+        "html",
+        "javascript",
+        "nextjs",
+        "rdbms",
+        "react",
+        "rest",
+        "sql",
+        "sql-server"
+      ],
+      "description": "Salary: $4,000 – $4,400 per month\n\n**Role Purpose:**\n\nWe are seeking a talented full stack developer with a strong focus on backend development to join our company's technology team. As a full stack developer, you will play a key role in designing, developing, and maintaining our in-house websites, point of sales systems, and kiosk applications. You will primarily work with ReactJS, next.js for frontend development and .NET Core for backend development, collaborating closely with our frontend developers, product managers, and other stakeholders to deliver high-quality software solutions tailored to the unique needs of our operations.\n\n**Key Responsibilities:**\n\n- Meet deadlines for assigned tasks while ensuring high-quality deliverables.\n- Maintain and enhance existing systems, including refactoring legacy code for improves efficiency and maintainability.\n- Develop new features for both existing systems and new projects, adhering to best practices and coding standards.\n- Collaborate in requirement analysis sessions, providing accurate estimations for development efforts.\n- Integrate third-party APIs seamlessly into existing systems to enhance functionality and user experience.\n- Conduct thorough code reviews to uphold code cleanliness, consistency, and quality.\n- Implement comprehensive testing strategies, including unit tests, integration tests, and end-to-end testing, to ensure robustness and reliability of applications.\n- Engage with end-users to gather feedback and promptly address any issues or concerns, striving for continuous improvement.\n- Assist in deploying applications to Azure environment, ensuring smooth and efficient deployment processes.\n- Continuously optimize applications by incorporating new technologies and industry best practices.\n- Create detailed technical documentation to facilitate understanding and maintenance of applications.\n- Stay abreast of market trends and suggest innovative ideas to enhance the functionality and competitiveness of applications.\n\n**Required Experience &Qualifications:**\n\n- Strong proficiency in ReactJS and next.js for frontend development.\n- Solid understanding of .NET Core and C# programming language for backend development.\n- Experience designing and implementing RESTful APIs.\n- Familiarity with relational databases such as SQL Server.\n- Knowledge of frontend technologies including HTML, CSS, and JavaScript.\n- Knowledge of AI-assisted software development tools (including Cursor, Claude, GitHub Copilot, or equivalent) and their practical use in application development is an advantage.\n- Excellent problem-solving and analytical skills.\n- Strong communication and collaboration abilities.\n- Ability to work effectively in a fast-paced, agile environment.\n- Minimum Diploma in Information Technology, Computer Science or equivalent.\n\n**Nice to have:**\n\n- Enthusiastic about upgrading skill sets to keep up with the latest technologies.\n- Experience with integrating payment systems or gateways.\n- Familiarity with Azure cloud platform.\n- Understanding of DevOps practices and CI/CD pipelines.\n\n**Interview Process**\n\n- Vervoe Online Questions / Screening\n- Please visit this link and complete this online screening:\n\n## **https://shaw-sg.vervoe.net/job-page/full-stack-engineer-56/59e62745-c9d9-4d74-89ab-2700dec0d84d**\n\n- 1st Round (for shortlisted candidates) - In-person Technical test and Interview\n- 2nd Round (for shortlisted candidates):\n- 30 mins with HR interview\n- 30 mins with i.c.e. Head of Department interview"
+    },
+    {
+      "id": "full-line-sales-pepsi-midamerica-h42t4ufg",
+      "title": "Full Line Sales",
+      "company": "Pepsi MidAmerica",
+      "company_slug": "pepsi-midamerica",
+      "location": "Mt Vernon, IL, US",
+      "date": "2026-11-24",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cc971080-001d-4234-90f9-38f9a310758c&ccId=19000101_000001&jobId=9201290041346_60&lang=en_US&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": "## **Full Line Sales Route Driver – Pepsi MidAmerica**\n\n**New Starting Pay! Earn $44,200–$46,800 + Commission!**  \n**Based in Mt Vernon, IL – Home Every Night!**\n\n* * *\n\n### **What You’ll Do**\n\n### Drive a company vehicle on your assigned route Stock & service vending machines with Pepsi products Deliver great customer service & build relationships Manage product freshness & inventory levels Keep vending machines and equipment looking their best\n\n* * *\n\n### **What You’ll Need**\n\nValid driver’s license & clean driving record  \nHigh school diploma or GED  \nAble to lift 30 lbs and push/pull up to 70 lbs  \nFriendly attitude & customer service experience\n\n* * *\n\n### **What You’ll Get**\n\nGuaranteed pay: $44,200–$46,800/year  \nHome every evening — no overnight travel!  \nMonday–Friday, 6:00 AM start time\n\n**Perks & Benefits:**  \n401(k) + company match  \nHealth Insurance & life insurance  \nPaid time off & paid training  \nHSA & retirement plan\n\n* * *\n\n**Interview Location: 205 N Davidson Ave Mt Vernon IL 62864**\n\n618-242-6281\n\n*Be part of something refreshing — Apply today!*  \n**Pepsi MidAmerica is an Equal Opportunity Employer.**"
+    },
+    {
+      "id": "full-time-peer-recovery-specialist-sante-group-companies-se4b4bb2",
+      "title": "Full-Time Peer Recovery Specialist",
+      "company": "Santé Group Companies",
+      "company_slug": "sante-group-companies",
+      "location": "Centreville, MD, US",
+      "date": "2026-11-24",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aaeaa517-7a3f-46d0-b117-dfc7046b121c&ccId=19000101_000001&jobId=9201289377185_21&lang=en_US&utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [],
+      "description": "Who We Are:\n\nSanté Group Companies prides itself in being a leader in community-based behavioral and mental health services. Our track record of innovation and growth reflects our ability to deliver diverse and highly individualized services. We have a passion for providing empathetic and potentially life-saving care to help individuals heal, recover, and thrive, as well as live their lives in a manner that allows them to fully integrate in the community. The Santé Group aspires to create an organization that places value on collaboration, innovation, creativity, and inclusiveness. To achieve this success, it is essential that all members of our organization feel secure, welcome, and respected. All members of our organization have a responsibility to uphold these values.\n\nWhat We’re Looking For:\n\nSanté is seeking a **Full-Time** **Peer Recovery Specialists (in office)** to join our frontline crisis intervention team in **Centreville,** **MD**. **The available shift is 4:00PM to 12:00AM.** As a Peer Recovery Specialist, you will assess, evaluate, and perform crisis intervention techniques, and will develop a crisis plan for continuation of services related to individual clients. He or she will be responsible for all incident documentation and will be the on-site resource for any relevant clinical information, as well as the liaison for collaboration with other involved parties including families, friends, and other community providers (all under clinical supervision of an LCSW-C/LCPC). **Not a remote position.**\n\nWhat You’ll Do:\n\n- Assist in performing a danger assessment, a crisis assessment, an environmental assessment upon entry to the community situation and lethality assessment\n- Assist in performing an on-scene assessment and treatment plan\n- Effectively perform crisis intervention including de-escalation, crisis planning and implementation\n- Design appropriate referral recommendations using available community resources\n- Address population of child, adolescent, adult, dual-diagnosis, co-occurring and elderly\n- Work with families and involved persons to de-escalate the situation, make a crisis plan, and enlist cooperation with recommended treatment\n- Document interactions using CRS procedures\n- Must be able to work with first responders and be aware of first responder culture\n- Must familiarize oneself with police codes and language\n- Participate in and complete all required trainings\n- Provide education in the community about the agency and all components of CRS when needed\n- Check work e-mail at the beginning and end of each shift\n- Provide mentoring to interns and new staff\n- Other duties as assigned\n\nWhat We Require:\n\n- Peer recovery certification\n- High School Diploma or equivalent and at least one (1) year professional experience (experience working with children and families in a community-based program preferred).\n- While performing the duties of this job, the employee is regularly required to drive a company vehicle. The employee must possess a valid Driver’s License, proof of current automobile insurance and may not have more than two (2) points on their driving record.\n\nWhat You’ll Get:\n\n- Pay Range: $20.50-$24.00 per hour\n- No cost supervision for Peer Recovery certification.\n- Opportunities for career growth, training and development, flexible work schedules and shifts.\n- Company-wide wellness program.\n\nWe believe that diversity of background and experience makes for better problem-solving and collaboration, which is why we are dedicated to adding new perspectives to the team. Even more important than your resume is a positive attitude, a passion for making an impact, a personal desire to grow, and the ability to help individuals heal, recover, and thrive.\n\nDisclaimers:\n\nThe Santé Group aspires to create an organization that places value on collaboration, innovation, creativity, and inclusiveness. To achieve this success, it is essential that all members of our organization feel secure, welcome, and respected. All members of our organization have a responsibility to uphold these values.\n\nThe Santé Group is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, or disability status. Reasonable accommodation may be made to enable individuals with disabilities to perform the essential functions of this job. The Santé Group participates in E-Verify."
+    }
+  ]
+}

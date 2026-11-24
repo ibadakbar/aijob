@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "count": 6,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4467505622",
+      "title": "Staff / Principal Design Engineer, Web",
+      "company": "Lovable",
+      "companyUrl": "https://se.linkedin.com/company/lovable-dev",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-20",
+      "url": "https://se.linkedin.com/jobs/view/staff-principal-design-engineer-web-at-lovable-4467505622"
+    },
+    {
+      "id": "4447053263",
+      "title": "Senior Frontend Engineer (React)",
+      "company": "Ubiquiti Inc.",
+      "companyUrl": "https://www.linkedin.com/company/ubiquiti-",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-16",
+      "url": "https://se.linkedin.com/jobs/view/senior-frontend-engineer-react-at-ubiquiti-inc-4447053263"
+    },
+    {
+      "id": "4476783657",
+      "title": "Senior Product Engineer (Web Frontend)",
+      "company": "Tobii Dynavox®",
+      "companyUrl": "https://se.linkedin.com/company/tobiidynavox",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-20",
+      "url": "https://se.linkedin.com/jobs/view/senior-product-engineer-web-frontend-at-tobii-dynavox%C2%AE-4476783657"
+    },
+    {
+      "id": "4491621550",
+      "title": "Frontend Product Engineer",
+      "company": "dibz",
+      "companyUrl": "https://se.linkedin.com/company/dibztech",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-20",
+      "url": "https://se.linkedin.com/jobs/view/frontend-product-engineer-at-dibz-4491621550"
+    },
+    {
+      "id": "4482535095",
+      "title": "Senior frontendutvecklare – Angular/React",
+      "company": "Castra",
+      "companyUrl": "https://se.linkedin.com/company/castra-ab",
+      "location": "Sundbyberg, Stockholm County, Sweden",
+      "date": "2026-11-18",
+      "url": "https://se.linkedin.com/jobs/view/senior-frontendutvecklare-%E2%80%93-angular-react-at-castra-4482535095"
+    },
+    {
+      "id": "4493625433",
+      "title": "Senior Software Engineer - Frontend (Portfolio Brands)",
+      "company": "H&M",
+      "companyUrl": "https://se.linkedin.com/company/h&m",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "date": "2026-11-23",
+      "url": "https://se.linkedin.com/jobs/view/senior-software-engineer-frontend-portfolio-brands-at-h-m-4493625433"
+    }
+  ]
+}

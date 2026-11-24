@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4490268102",
+      "title": "Front End Engineer",
+      "company": "Sirius.",
+      "companyUrl": "https://au.linkedin.com/company/sirius-recruitment",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-16",
+      "url": "https://au.linkedin.com/jobs/view/front-end-engineer-at-sirius-4490268102"
+    },
+    {
+      "id": "4484168071",
+      "title": "Software Engineer – Frontend",
+      "company": "Kaizen Global Technologies",
+      "companyUrl": "https://au.linkedin.com/company/kaizen-global-technologies",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-12",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-%E2%80%93-frontend-at-kaizen-global-technologies-4484168071"
+    },
+    {
+      "id": "4489690799",
+      "title": "Principal Software Engineer - TypeScript/React",
+      "company": "Objective Corporation",
+      "companyUrl": "https://au.linkedin.com/company/objective-corporation",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-11",
+      "url": "https://au.linkedin.com/jobs/view/principal-software-engineer-typescript-react-at-objective-corporation-4489690799"
+    },
+    {
+      "id": "4492776318",
+      "title": "Senior Full Stack Engineer - two roles available!",
+      "company": "Insignia Financial",
+      "companyUrl": "https://au.linkedin.com/company/insignia-financial",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-20",
+      "url": "https://au.linkedin.com/jobs/view/senior-full-stack-engineer-two-roles-available%21-at-insignia-financial-4492776318"
+    },
+    {
+      "id": "4489531712",
+      "title": "Senior Front-End Engineer – React Native",
+      "company": "Schneider Electric",
+      "companyUrl": "https://fr.linkedin.com/company/schneider-electric",
+      "location": "Macquarie Park, New South Wales, Australia",
+      "date": "2026-11-13",
+      "url": "https://au.linkedin.com/jobs/view/senior-front-end-engineer-%E2%80%93-react-native-at-schneider-electric-4489531712"
+    },
+    {
+      "id": "4480418590",
+      "title": "Principal Engineer",
+      "company": "Dreamerlabs",
+      "companyUrl": "https://au.linkedin.com/company/dreamerlabs-ai",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-16",
+      "url": "https://au.linkedin.com/jobs/view/principal-engineer-at-dreamerlabs-4480418590"
+    },
+    {
+      "id": "4484440058",
+      "title": "Senior Software Engineer (Full Stack)",
+      "company": "Mosh | Moshy",
+      "companyUrl": "https://au.linkedin.com/company/get-mosh",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-18",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-mosh-moshy-4484440058"
+    },
+    {
+      "id": "4475692681",
+      "title": "Senior Frontend Engineer - React.js",
+      "company": "Shift",
+      "companyUrl": "https://au.linkedin.com/company/shiftfinancialau",
+      "location": "North Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-react-js-at-shift-4475692681"
+    },
+    {
+      "id": "4493367959",
+      "title": "Senior Software Engineer - Full Stack (Temporary Opportunity Upto 19 Months)",
+      "company": "Transport for NSW",
+      "companyUrl": "https://au.linkedin.com/company/transport-for-nsw",
+      "location": "Macquarie Park, New South Wales, Australia",
+      "date": "2026-11-22",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-full-stack-temporary-opportunity-upto-19-months-at-transport-for-nsw-4493367959"
+    },
+    {
+      "id": "4490299173",
+      "title": "Staff Software Engineer",
+      "company": "Everlab",
+      "companyUrl": "https://au.linkedin.com/company/everlab-health",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-at-everlab-4490299173"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "count": 6,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4484056416",
+      "title": "Senior Front-End Engineer (React) - Personalization",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/senior-front-end-engineer-react-personalization-at-picnic-technologies-4484056416"
+    },
+    {
+      "id": "4449019321",
+      "title": "Front-End Engineer (React / React Native) – Store & Web",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-19",
+      "url": "https://nl.linkedin.com/jobs/view/front-end-engineer-react-react-native-%E2%80%93-store-web-at-picnic-technologies-4449019321"
+    },
+    {
+      "id": "4464790928",
+      "title": "Software Engineer - Talent Tooling",
+      "company": "Optiver",
+      "companyUrl": "https://nl.linkedin.com/company/optiver",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-talent-tooling-at-optiver-4464790928"
+    },
+    {
+      "id": "4489980067",
+      "title": "Senior Frontend Developer",
+      "company": "Sopra Steria",
+      "companyUrl": "https://fr.linkedin.com/company/soprasteria",
+      "location": "Nieuwegein, Utrecht, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/senior-frontend-developer-at-sopra-steria-4489980067"
+    },
+    {
+      "id": "4493657919",
+      "title": "Full Stack Engineer",
+      "company": "Talk360",
+      "companyUrl": "https://nl.linkedin.com/company/talk360",
+      "location": "Amsterdam Area",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-engineer-at-talk360-4493657919"
+    },
+    {
+      "id": "4494000055",
+      "title": "Software Engineer II: Autonomous Supply Chains",
+      "company": "Flexport",
+      "companyUrl": "https://www.linkedin.com/company/flexport",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-23",
+      "url": "https://nl.linkedin.com/jobs/view/software-engineer-ii-autonomous-supply-chains-at-flexport-4494000055"
+    }
+  ]
+}

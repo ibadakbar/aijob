@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "company": "Hopsule",
+      "title": "Frontend Engineer",
+      "url": "https://hopsule.com/careers/frontend-engineer",
+      "location": "Remote (Global)",
+      "source": "company"
+    },
+    {
+      "company": "Fuse AI",
+      "title": "Senior Frontend Engineer",
+      "url": "https://www.ycombinator.com/companies/fuse-ai/jobs/AS9hfmv-senior-frontend-engineer",
+      "location": "Remote",
+      "source": "yc"
+    },
+    {
+      "company": "Zinex Solutions",
+      "title": "Shopify Developer",
+      "url": "https://zinexsolutions.com/careers",
+      "location": "Remote — Worldwide",
+      "source": "company"
+    },
+    {
+      "company": "Vibe",
+      "title": "Senior Full Stack Engineer - AdManager",
+      "url": "https://jobs.ashbyhq.com/vibe/7e6324dc-82b7-46ba-86da-918baa0244b1",
+      "location": "Paris",
+      "source": "ashby"
+    },
+    {
+      "company": "Northbeam",
+      "title": "Staff Fullstack Engineer (TypeScript)",
+      "url": "https://job-boards.greenhouse.io/northbeam/jobs/4576241006",
+      "location": "Remote - USA",
+      "source": "greenhouse"
+    },
+    {
+      "company": "Hivex",
+      "title": "Shopify Developer",
+      "url": "https://alion.io/job/hivex-shopify-developer",
+      "location": "Remote (worldwide)",
+      "source": "aggregator"
+    }
+  ]
+}

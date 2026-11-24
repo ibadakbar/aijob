@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4479598989",
+      "title": "Frontend Engineer - Agentic AI",
+      "company": "Hawk",
+      "companyUrl": "https://de.linkedin.com/company/hawk-ai-tech",
+      "location": "Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-hawk-4479598989"
+    },
+    {
+      "id": "4434560511",
+      "title": "Senior Frontend Engineer (d/f/m)",
+      "company": "Personio",
+      "companyUrl": "https://de.linkedin.com/company/personio",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-13",
+      "url": "https://de.linkedin.com/jobs/view/senior-frontend-engineer-d-f-m-at-personio-4434560511"
+    },
+    {
+      "id": "4449566743",
+      "title": "Senior Frontend Engineer",
+      "company": "AMBOSS",
+      "companyUrl": "https://de.linkedin.com/company/amboss-md",
+      "location": "Berlin, Germany",
+      "date": "2026-11-11",
+      "url": "https://de.linkedin.com/jobs/view/senior-frontend-engineer-at-amboss-4449566743"
+    },
+    {
+      "id": "4470178923",
+      "title": "Principal Frontend Engineer - ZEOS Portal (all genders)",
+      "company": "Zalando",
+      "companyUrl": "https://de.linkedin.com/company/zalando",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-07",
+      "url": "https://de.linkedin.com/jobs/view/principal-frontend-engineer-zeos-portal-all-genders-at-zalando-4470178923"
+    },
+    {
+      "id": "4476157755",
+      "title": "Forward Deployed Engineer",
+      "company": "Staffbase",
+      "companyUrl": "https://de.linkedin.com/company/staffbase",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-17",
+      "url": "https://de.linkedin.com/jobs/view/forward-deployed-engineer-at-staffbase-4476157755"
+    },
+    {
+      "id": "4488007729",
+      "title": "Software Engineer",
+      "company": "Planet",
+      "companyUrl": "https://www.linkedin.com/company/planet-labs",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-at-planet-4488007729"
+    },
+    {
+      "id": "4485847733",
+      "title": "Senior Fullstack Entwickler - AI & Digital Platforms (m/w/d)",
+      "company": "SCHWAPe Holding AG",
+      "companyUrl": "https://ch.linkedin.com/company/schwape-group",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-05",
+      "url": "https://de.linkedin.com/jobs/view/senior-fullstack-entwickler-ai-digital-platforms-m-w-d-at-schwape-holding-ag-4485847733"
+    },
+    {
+      "id": "4350226149",
+      "title": "Software Engineer - Frontend Autonomous Air System V&V",
+      "company": "Helsing",
+      "companyUrl": "https://de.linkedin.com/company/helsing",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-11",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-frontend-autonomous-air-system-v-v-at-helsing-4350226149"
+    }
+  ]
+}

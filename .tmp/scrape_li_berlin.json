@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4449566743",
+      "title": "Senior Frontend Engineer",
+      "company": "AMBOSS",
+      "companyUrl": "https://de.linkedin.com/company/amboss-md",
+      "location": "Berlin, Germany",
+      "date": "2026-11-11",
+      "url": "https://de.linkedin.com/jobs/view/senior-frontend-engineer-at-amboss-4449566743"
+    },
+    {
+      "id": "4483816348",
+      "title": "React Engineer",
+      "company": "Air Apps",
+      "companyUrl": "https://www.linkedin.com/company/airapps",
+      "location": "Berlin Metropolitan Area",
+      "date": "2026-11-19",
+      "url": "https://de.linkedin.com/jobs/view/react-engineer-at-air-apps-4483816348"
+    },
+    {
+      "id": "4492956185",
+      "title": "Frontend Engineer (m/f/x)",
+      "company": "go-e",
+      "companyUrl": "https://at.linkedin.com/company/go-e-gmbh",
+      "location": "Berlin, Germany",
+      "date": "2026-11-20",
+      "url": "https://de.linkedin.com/jobs/view/frontend-engineer-m-f-x-at-go-e-4492956185"
+    },
+    {
+      "id": "4350226149",
+      "title": "Software Engineer - Frontend Autonomous Air System V&V",
+      "company": "Helsing",
+      "companyUrl": "https://de.linkedin.com/company/helsing",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-18",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-frontend-autonomous-air-system-v-v-at-helsing-4350226149"
+    },
+    {
+      "id": "4492473005",
+      "title": "Frontend Developer (m/w/d) – React / Next.js & TypeScript",
+      "company": "Randstad Deutschland",
+      "companyUrl": "https://de.linkedin.com/company/randstad-deutschland",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-19",
+      "url": "https://de.linkedin.com/jobs/view/frontend-developer-m-w-d-%E2%80%93-react-next-js-typescript-at-randstad-deutschland-4492473005"
+    },
+    {
+      "id": "4492108972",
+      "title": "Software Developer (m/f/d)",
+      "company": "Sandbox Interactive",
+      "companyUrl": "https://de.linkedin.com/company/sandbox-interactive-gmbh",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-19",
+      "url": "https://de.linkedin.com/jobs/view/software-developer-m-f-d-at-sandbox-interactive-4492108972"
+    },
+    {
+      "id": "4490548090",
+      "title": "AI-Native Software Engineer (Frontend/Web) (m/w/d)",
+      "company": "Epikur Software GmbH & Co. KG",
+      "companyUrl": "https://de.linkedin.com/company/epikur-software-gmbh-co-kg",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-12",
+      "url": "https://de.linkedin.com/jobs/view/ai-native-software-engineer-frontend-web-m-w-d-at-epikur-software-gmbh-co-kg-4490548090"
+    },
+    {
+      "id": "4492670886",
+      "title": "Full-Stack Developer – Medical Device Software (m/f/d) – funded by the EXIST start-up grant",
+      "company": "Ynone",
+      "companyUrl": "https://de.linkedin.com/company/ynone",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-24",
+      "url": "https://de.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-medical-device-software-m-f-d-%E2%80%93-funded-by-the-exist-start-up-grant-at-ynone-4492670886"
+    },
+    {
+      "id": "4488007729",
+      "title": "Software Engineer",
+      "company": "Planet",
+      "companyUrl": "https://www.linkedin.com/company/planet-labs",
+      "location": "Berlin, Berlin, Germany",
+      "date": "2026-11-20",
+      "url": "https://de.linkedin.com/jobs/view/software-engineer-at-planet-4488007729"
+    },
+    {
+      "id": "4492605682",
+      "title": "Senior Web Frontend Engineer (6 Monate befristet)",
+      "company": "finbyte",
+      "companyUrl": "https://de.linkedin.com/company/wearefinbyte",
+      "location": "Berlin, Germany",
+      "date": "2026-11-23",
+      "url": "https://de.linkedin.com/jobs/view/senior-web-frontend-engineer-6-monate-befristet-at-finbyte-4492605682"
+    }
+  ]
+}

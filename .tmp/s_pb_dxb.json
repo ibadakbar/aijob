@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4458285907",
+      "title": "Senior Front-End Engineer",
+      "company": "Fuse Energy",
+      "companyUrl": "https://uk.linkedin.com/company/fuseenergyhq",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-09",
+      "url": "https://ae.linkedin.com/jobs/view/senior-front-end-engineer-at-fuse-energy-4458285907"
+    },
+    {
+      "id": "4488772327",
+      "title": "Front & Backend Developer (Senior Role)",
+      "company": "The Greater Change",
+      "companyUrl": "https://ae.linkedin.com/company/the-greater-change",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-08",
+      "url": "https://ae.linkedin.com/jobs/view/front-backend-developer-senior-role-at-the-greater-change-4488772327"
+    },
+    {
+      "id": "4490467375",
+      "title": "Front end developer - NAS Neuron",
+      "company": "The Cigna Group",
+      "companyUrl": "https://www.linkedin.com/company/the-cigna-group",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-17",
+      "url": "https://ae.linkedin.com/jobs/view/front-end-developer-nas-neuron-at-the-cigna-group-4490467375"
+    },
+    {
+      "id": "4474557154",
+      "title": "AI Full-Stack Engineer Graduate (Corporate Service System - Frontend) - 2027 Start",
+      "company": "ByteDance",
+      "companyUrl": "https://cn.linkedin.com/company/bytedance",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-14",
+      "url": "https://ae.linkedin.com/jobs/view/ai-full-stack-engineer-graduate-corporate-service-system-frontend-2027-start-at-bytedance-4474557154"
+    },
+    {
+      "id": "4487496003",
+      "title": "Senior Digital Solutions Engineer",
+      "company": "Kerzner International",
+      "companyUrl": "https://ae.linkedin.com/company/kerzner-international",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-10",
+      "url": "https://ae.linkedin.com/jobs/view/senior-digital-solutions-engineer-at-kerzner-international-4487496003"
+    },
+    {
+      "id": "4491280391",
+      "title": "AI Full-Stack Engineer Graduate Corporate Service System - Frontend - 2027 Start",
+      "company": "TALENTMATE",
+      "companyUrl": "https://ae.linkedin.com/company/talentmateglobal",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-15",
+      "url": "https://ae.linkedin.com/jobs/view/ai-full-stack-engineer-graduate-corporate-service-system-frontend-2027-start-at-talentmate-4491280391"
+    },
+    {
+      "id": "4486646190",
+      "title": "Lead Software Engineer",
+      "company": "Virtusa",
+      "companyUrl": "https://www.linkedin.com/company/virtusa",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-07",
+      "url": "https://ae.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4486646190"
+    },
+    {
+      "id": "4486365687",
+      "title": "Senior Specialist - Fullstack Engineer",
+      "company": "Al Ghurair",
+      "companyUrl": "https://ae.linkedin.com/company/alghurair",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "date": "2026-11-05",
+      "url": "https://ae.linkedin.com/jobs/view/senior-specialist-fullstack-engineer-at-al-ghurair-4486365687"
+    }
+  ]
+}

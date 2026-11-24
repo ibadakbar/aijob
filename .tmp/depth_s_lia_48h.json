@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4475692681",
+      "title": "Senior Frontend Engineer - React.js",
+      "company": "Shift",
+      "companyUrl": "https://au.linkedin.com/company/shiftfinancialau",
+      "location": "North Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-react-js-at-shift-4475692681"
+    },
+    {
+      "id": "4484053783",
+      "title": "React Developer",
+      "company": "Airplane Solutions",
+      "companyUrl": "https://es.linkedin.com/company/airplane-solutions-s.l.",
+      "location": "Greater Madrid Metropolitan Area",
+      "date": "2026-11-23",
+      "url": "https://es.linkedin.com/jobs/view/react-developer-at-airplane-solutions-4484053783"
+    },
+    {
+      "id": "4492163804",
+      "title": "Senior Frontend Engineer",
+      "company": "Jack",
+      "companyUrl": "https://www.linkedin.com/company/searchwithjack",
+      "location": "Redwood City, CA",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-at-jack-4492163804"
+    },
+    {
+      "id": "4494001458",
+      "title": "React Engineer - Remote Work",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Ecuador",
+      "date": "2026-11-23",
+      "url": "https://ec.linkedin.com/jobs/view/react-engineer-remote-work-at-bairesdev-4494001458"
+    },
+    {
+      "id": "4490869463",
+      "title": "Senior Frontend Engineer – React / TypeScript",
+      "company": "RedTech Recruitment",
+      "companyUrl": "https://uk.linkedin.com/company/redtech-recruitment-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-%E2%80%93-react-typescript-at-redtech-recruitment-4490869463"
+    },
+    {
+      "id": "4493772920",
+      "title": "ReactJS Developer",
+      "company": "Letitbex AI",
+      "companyUrl": "https://www.linkedin.com/company/letitbexai",
+      "location": "Hyderabad, Telangana, India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-letitbex-ai-4493772920"
+    },
+    {
+      "id": "4493969613",
+      "title": "React Developer",
+      "company": "TaskVerse",
+      "companyUrl": "https://www.linkedin.com/company/taskverse",
+      "location": "United States",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/react-developer-at-taskverse-4493969613"
+    },
+    {
+      "id": "4493589195",
+      "title": "Front-end Developer (React / Next.js)",
+      "company": "Jobgether",
+      "companyUrl": "https://be.linkedin.com/company/jobgether",
+      "location": "Brazil",
+      "date": "2026-11-23",
+      "url": "https://br.linkedin.com/jobs/view/front-end-developer-react-next-js-at-jobgether-4493589195"
+    }
+  ]
+}

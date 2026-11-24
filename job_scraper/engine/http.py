@@ -3,13 +3,24 @@
 from __future__ import annotations
 
 import json
+import os
 import random
 import time
 import urllib.error
 import urllib.request
 from typing import Any, Optional
 
-UA = "Mozilla/5.0 (compatible; visa-discover/1.0; personal job search; +https://github.com/)"
+# job-boards / archive etiquette: identify traffic via JOB_SCRAPER_CONTACT.
+_CONTACT = (
+    os.environ.get("JOB_SCRAPER_CONTACT")
+    or os.environ.get("VISA_DISCOVER_CONTACT")
+    or "set JOB_SCRAPER_CONTACT"
+)
+UA = (
+    f"visa-discover/1.1 (personal job search; contact: {_CONTACT})"
+    .encode("ascii", "ignore")
+    .decode()
+)
 
 
 def fetch_json(
@@ -45,3 +56,21 @@ def fetch_json(
                 continue
             raise
     raise RuntimeError(f"fetch failed for {url}: {last_err}")
+
+
+def fetch_status(url: str, *, timeout: float = 20.0) -> tuple[int | None, str]:
+    """Return (status_code, note) for liveness checks. None status = network failure."""
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": UA, "Accept": "text/html,application/json,*/*"},
+            method="GET",
+        )
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            code = resp.status
+            body = resp.read(8000).decode("utf-8", errors="replace").lower()
+            return code, body
+    except urllib.error.HTTPError as exc:
+        return exc.code, str(exc.reason)
+    except Exception as exc:  # noqa: BLE001
+        return None, type(exc).__name__

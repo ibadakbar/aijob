@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4490006529",
+      "title": "Frontend Design Engineer",
+      "company": "Acquired Talent Ltd.",
+      "companyUrl": "https://uk.linkedin.com/company/acquired-talent-ltd",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-11",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-design-engineer-at-acquired-talent-ltd-4490006529"
+    },
+    {
+      "id": "4480716181",
+      "title": "Frontend Engineering Lead",
+      "company": "Omnea",
+      "companyUrl": "https://uk.linkedin.com/company/omnea",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-16",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-engineering-lead-at-omnea-4480716181"
+    },
+    {
+      "id": "4358580855",
+      "title": "Full-Stack Engineer (Front-End Leaning)",
+      "company": "Solve Intelligence",
+      "companyUrl": "https://uk.linkedin.com/company/solve-intelligence",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-19",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-engineer-front-end-leaning-at-solve-intelligence-4358580855"
+    },
+    {
+      "id": "4492441508",
+      "title": "Frontend Software Engineer",
+      "company": "Arondite",
+      "companyUrl": "https://uk.linkedin.com/company/arondite",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-19",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-software-engineer-at-arondite-4492441508"
+    },
+    {
+      "id": "4493642652",
+      "title": "x9 Product Engineers | Mid / Senior / Lead | Tech Agnostic - Go, Python, JVM, TS, Rust, Kotlin | Production Agentic AI | London Hybrid (3 Days) | £80-140k + Equity | Visa + Relocate",
+      "company": "Owen Thomas | B Corp™",
+      "companyUrl": "https://uk.linkedin.com/company/owen-thomas-talent",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-23",
+      "url": "https://uk.linkedin.com/jobs/view/x9-product-engineers-mid-senior-lead-tech-agnostic-go-python-jvm-ts-rust-kotlin-production-agentic-ai-london-hybrid-3-days-%C2%A380-140k-%2B-equity-visa-%2B-relocate-at-owen-thomas-b-corp%E2%84%A2-4493642652"
+    },
+    {
+      "id": "4490453954",
+      "title": "Staff Product Engineer (Frontend-Leaning)",
+      "company": "Tenth Revolution Group",
+      "companyUrl": "https://uk.linkedin.com/company/tenthrevolution",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-17",
+      "url": "https://uk.linkedin.com/jobs/view/staff-product-engineer-frontend-leaning-at-tenth-revolution-group-4490453954"
+    },
+    {
+      "id": "4491580850",
+      "title": "Front End Design Engineer",
+      "company": "Seamflow",
+      "companyUrl": "https://uk.linkedin.com/company/seamflow",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-17",
+      "url": "https://uk.linkedin.com/jobs/view/front-end-design-engineer-at-seamflow-4491580850"
+    },
+    {
+      "id": "4489964759",
+      "title": "Product Engineer",
+      "company": "STRATOS Technologies",
+      "companyUrl": "https://uk.linkedin.com/company/stratos-technologies-ltd",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-11",
+      "url": "https://uk.linkedin.com/jobs/view/product-engineer-at-stratos-technologies-4489964759"
+    },
+    {
+      "id": "4494022682",
+      "title": "Senior Design Engineer | React | Typescript | UI/UX | Figma | Hybrid | London, UK",
+      "company": "Enigma",
+      "companyUrl": "https://uk.linkedin.com/company/enigma-rec",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-23",
+      "url": "https://uk.linkedin.com/jobs/view/senior-design-engineer-react-typescript-ui-ux-figma-hybrid-london-uk-at-enigma-4494022682"
+    },
+    {
+      "id": "4491335291",
+      "title": "Software Engineer",
+      "company": "Tech Talent Partners",
+      "companyUrl": "https://uk.linkedin.com/company/techtalentpartners",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-18",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-at-tech-talent-partners-4491335291"
+    }
+  ]
+}

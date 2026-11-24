@@ -1,0 +1,15 @@
+{
+  "id": "4494311570",
+  "title": "Lead Software Engineer (AI & Integrations) | Remote, Full-Time",
+  "company": null,
+  "companyUrl": null,
+  "location": "Pakistan",
+  "date": null,
+  "url": "https://www.linkedin.com/jobs/view/4494311570",
+  "description": "About Us\nPA Logistics Group and PA Transport run a freight brokerage, asset-based trucking, international forwarding and supply chain consulting business, with a focus on life sciences and pharma. We built our own TMS, and the business has outgrown it. We need one strong engineer to own our technology: rebuild the platform, connect it to how our operations actually run, and use AI to automate the manual work. We're on a mission to build a $200 million logistics company, and the system you build is what we'll run on to get there.\n\nWhat You'll Do\nKeep the current CodeIgniter/Laravel system running while you lead the rebuild in NestJS, Next.js and PostgreSQL\nBuild and maintain integrations: carrier onboarding, GPS tracking, banking APIs, customer and carrier portals\nShip AI features that do real work, like document extraction and verification, using LLM APIs and tools like n8n\nOwn security day to day: access control, secrets, backups, logging, patching\nDecide the architecture yourself and document it so nothing lives only in your head\nHelp hire and lead the second engineer as the team grows\n\nWho Should Apply\nWe're looking for an A player. You've got 6+ years of full-stack experience, with production work in PHP/Laravel and Node/TypeScript. You've built LLM integrations in production, not just tutorials. You have solid security habits, experience with AWS or GCP, strong written English, and you write things down. Logistics or freight tech experience is a big plus.\nThis isn't a ticket queue on a big team. You'll be our first in-house engineer, in the room for the big decisions, and you'll see what your work does to the business every week. If you've wanted to build something from the ground up and grow with it, this is it.\n\nSchedule and Compensation\nFull-time, long-term (individual engineers only, no agencies)\n40+ hours weekly\nAt least 4 hours daily overlap with US Pacific time\nReliable power backup (UPS) and backup internet required\nRetention bonuses at 6 and 12 months\nPaid take-home project as part of the interview process\n\nHow to Apply\nYour GitHub or work samples\nOne paragraph on the hardest integration you've built\nA 60 to 90 second audio intro (voice note or MP3, no video) attached to your proposal, covering:\n\nWho you are and what you've built in the last 2 years\nOne AI integration you shipped to production and what broke along the way\nWhy you want to own a system yourself instead of working as one dev on a big team",
+  "seniority": "Mid-Senior level",
+  "employmentType": "Full-time",
+  "jobFunction": null,
+  "industries": null,
+  "isActive": true
+}

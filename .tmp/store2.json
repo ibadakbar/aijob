@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Software Engineer - AI Tooling",
+    "company": "Supabase",
+    "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
+    "date": null,
+    "location": "Remote, Global",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "first_seen": "2026-11-18",
+    "posted_date": null,
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "path": "A",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "notes": "We hire globally / from anywhere"
+    }
+  },
+  {
+    "title": "Senior Fullstack Engineer-Boards",
+    "company": "Zalando",
+    "url": "https://jobs.zalando.com/en/jobs/2724515",
+    "date": "2026-11-10",
+    "location": "Dublin, Ireland",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "first_seen": "2026-11-18",
+    "posted_date": "2026-11-10",
+    "deadline": null,
+    "fit": "high",
+    "status": "new",
+    "path": "B",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "relocation_support": true,
+      "notes": "Zalando relocating hires: support with visas + reimbursement"
+    }
+  },
+  {
+    "title": "FS Technology Consulting Modern Engineering Software Engineer Senior Consultant Dublin",
+    "company": "EY",
+    "url": "https://ie.linkedin.com/jobs/view/fs-technology-consulting-modern-engineering-software-engineer-senior-consultant-dublin-at-ey-4473152403",
+    "date": "2026-11-14",
+    "location": "Dublin, Ireland",
+    "portal": "linkedin-search",
+    "source": "cli",
+    "first_seen": "2026-11-18",
+    "posted_date": "2026-11-14",
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "path": "B",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "notes": "Available for Work Visa Sponsorship: YES"
+    }
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Gray Swan AI",
+    "url": "https://jobs.ashbyhq.com/Gray%20Swan%20AI/2edf0f4c-d356-41da-a7b8-9b54e95f140c",
+    "date": null,
+    "location": "Remote (U.S. Only)",
+    "portal": "websearch",
+    "source": "websearch",
+    "first_seen": "2026-11-18",
+    "posted_date": null,
+    "deadline": null,
+    "fit": "medium",
+    "status": "new",
+    "path": "A",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "notes": "Visa sponsorship available for exceptional candidates"
+    }
+  }
+]

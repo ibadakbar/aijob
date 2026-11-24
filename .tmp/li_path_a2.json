@@ -1,0 +1,98 @@
+﻿{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4493714844",
+      "title": "Full Stack Engineer",
+      "company": "Merit Tutoring",
+      "companyUrl": "https://www.linkedin.com/company/merit-tutoring",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-merit-tutoring-4493714844"
+    },
+    {
+      "id": "4494023983",
+      "title": "Fullstack Javascript Engineer (React + Node) - Remote Work",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Bolivia",
+      "date": "2026-11-23",
+      "url": "https://bo.linkedin.com/jobs/view/fullstack-javascript-engineer-react-%2B-node-remote-work-at-bairesdev-4494023983"
+    },
+    {
+      "id": "4494029882",
+      "title": "Full Stack Developer (React + Node) - Remote Work",
+      "company": "BairesDev",
+      "companyUrl": "https://www.linkedin.com/company/bairesdev",
+      "location": "Ecuador",
+      "date": "2026-11-23",
+      "url": "https://ec.linkedin.com/jobs/view/full-stack-developer-react-%2B-node-remote-work-at-bairesdev-4494029882"
+    },
+    {
+      "id": "4494103553",
+      "title": "Staff Engineer TypeScript Node React - FinTech",
+      "company": "Client Server",
+      "companyUrl": "https://uk.linkedin.com/company/client-server",
+      "location": "London, England, United Kingdom",
+      "date": "2026-11-24",
+      "url": "https://uk.linkedin.com/jobs/view/staff-engineer-typescript-node-react-fintech-at-client-server-4494103553"
+    },
+    {
+      "id": "4492316507",
+      "title": "Full Stack Developer",
+      "company": "Wayby",
+      "companyUrl": "https://www.linkedin.com/company/waybyio",
+      "location": "Keuruu, Central Finland, Finland",
+      "date": "2026-11-23",
+      "url": "https://fi.linkedin.com/jobs/view/full-stack-developer-at-wayby-4492316507"
+    },
+    {
+      "id": "4483576435",
+      "title": "Senior Fullstack Developer",
+      "company": "Playtech",
+      "companyUrl": "https://uk.linkedin.com/company/playtech",
+      "location": "Kyiv, Ukraine",
+      "date": "2026-11-23",
+      "url": "https://ua.linkedin.com/jobs/view/senior-fullstack-developer-at-playtech-4483576435"
+    },
+    {
+      "id": "4494319274",
+      "title": "Full Stack Engineer",
+      "company": "Teertham",
+      "companyUrl": "https://in.linkedin.com/company/teertham.co.in",
+      "location": "Delhi, India",
+      "date": "2026-11-24",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-teertham-4494319274"
+    },
+    {
+      "id": "4493593673",
+      "title": "Software Engineer",
+      "company": "Fabulate",
+      "companyUrl": "https://au.linkedin.com/company/fabulate",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-at-fabulate-4493593673"
+    },
+    {
+      "id": "4492640667",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "companyUrl": "https://www.linkedin.com/company/kake",
+      "location": "São Paulo, Brazil",
+      "date": "2026-11-23",
+      "url": "https://br.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4492640667"
+    },
+    {
+      "id": "4493753357",
+      "title": "Full Stack JavaScript Engineer– eCommerce SaaS - £85,000 – Remote",
+      "company": "Ventula Consulting",
+      "companyUrl": "https://uk.linkedin.com/company/ventula-consulting",
+      "location": "United Kingdom",
+      "date": "2026-11-23",
+      "url": "https://uk.linkedin.com/jobs/view/full-stack-javascript-engineer%E2%80%93-ecommerce-saas-%C2%A385-000-%E2%80%93-remote-at-ventula-consulting-4493753357"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿{
+  "meta": {
+    "count": 6,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4491820731",
+      "title": "Full Stack Software Engineer - Postgres",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-18",
+      "url": "https://nl.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491820731"
+    },
+    {
+      "id": "4488849956",
+      "title": "Frontend Engineer — React & Next.js",
+      "company": "voila.eu",
+      "companyUrl": "https://nl.linkedin.com/company/voila-eu",
+      "location": "Leusden, Utrecht, Netherlands",
+      "date": "2026-11-20",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-engineer-%E2%80%94-react-next-js-at-voila-eu-4488849956"
+    },
+    {
+      "id": "4430947503",
+      "title": "Senior Frontend Engineer",
+      "company": "Lab Digital",
+      "companyUrl": "https://nl.linkedin.com/company/lab-digital-bv",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-19",
+      "url": "https://nl.linkedin.com/jobs/view/senior-frontend-engineer-at-lab-digital-4430947503"
+    },
+    {
+      "id": "4477129823",
+      "title": "Medior / Senior Front-end Engineer",
+      "company": "iO",
+      "companyUrl": "https://be.linkedin.com/company/iodigital-com",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-11-19",
+      "url": "https://nl.linkedin.com/jobs/view/medior-senior-front-end-engineer-at-io-4477129823"
+    },
+    {
+      "id": "4466270731",
+      "title": "Frontend Engineer",
+      "company": "Mendix",
+      "companyUrl": "https://www.linkedin.com/company/mendix",
+      "location": "Rotterdam, South Holland, Netherlands",
+      "date": "2026-11-20",
+      "url": "https://nl.linkedin.com/jobs/view/frontend-engineer-at-mendix-4466270731"
+    },
+    {
+      "id": "4449933055",
+      "title": "Senior Full-Stack React Developer",
+      "company": "iO",
+      "companyUrl": "https://be.linkedin.com/company/iodigital-com",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-21",
+      "url": "https://nl.linkedin.com/jobs/view/senior-full-stack-react-developer-at-io-4449933055"
+    }
+  ]
+}

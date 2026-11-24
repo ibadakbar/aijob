@@ -1,0 +1,80 @@
+﻿{
+  "meta": {
+    "count": 8,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4483822065",
+      "title": "Web Developer",
+      "company": "Cohere",
+      "companyUrl": "https://ca.linkedin.com/company/cohere-ai",
+      "location": "Vancouver, British Columbia, Canada",
+      "date": "2026-11-18",
+      "url": "https://ca.linkedin.com/jobs/view/web-developer-at-cohere-4483822065"
+    },
+    {
+      "id": "4454703438",
+      "title": "Software Engineer II",
+      "company": "Chegg India",
+      "companyUrl": "https://in.linkedin.com/company/cheggindia",
+      "location": "Delhi, Delhi, India",
+      "date": "2026-11-18",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-chegg-india-4454703438"
+    },
+    {
+      "id": "4483803875",
+      "title": "Web Developer",
+      "company": "Cohere",
+      "companyUrl": "https://ca.linkedin.com/company/cohere-ai",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-18",
+      "url": "https://ca.linkedin.com/jobs/view/web-developer-at-cohere-4483803875"
+    },
+    {
+      "id": "4491837048",
+      "title": "Full Stack Software Engineer - Postgres",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Sydney, New South Wales, Australia",
+      "date": "2026-11-18",
+      "url": "https://au.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491837048"
+    },
+    {
+      "id": "4475692681",
+      "title": "Senior Frontend Engineer - React.js",
+      "company": "Shift",
+      "companyUrl": "https://au.linkedin.com/company/shiftfinancialau",
+      "location": "North Sydney, New South Wales, Australia",
+      "date": "2026-11-23",
+      "url": "https://au.linkedin.com/jobs/view/senior-frontend-engineer-react-js-at-shift-4475692681"
+    },
+    {
+      "id": "4493772920",
+      "title": "ReactJS Developer",
+      "company": "Letitbex AI",
+      "companyUrl": "https://www.linkedin.com/company/letitbexai",
+      "location": "Hyderabad, Telangana, India",
+      "date": "2026-11-23",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-letitbex-ai-4493772920"
+    },
+    {
+      "id": "4468818937",
+      "title": "Senior Frontend Software Engineer, Consumer Engineering",
+      "company": "Reddit, Inc.",
+      "companyUrl": "https://www.linkedin.com/company/reddit-com",
+      "location": "United States",
+      "date": "2026-11-21",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-consumer-engineering-at-reddit-inc-4468818937"
+    },
+    {
+      "id": "4491825447",
+      "title": "Full Stack Software Engineer - Postgres",
+      "company": "ClickHouse",
+      "companyUrl": "https://www.linkedin.com/company/clickhouseinc",
+      "location": "Toronto, Ontario, Canada",
+      "date": "2026-11-18",
+      "url": "https://ca.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491825447"
+    }
+  ]
+}

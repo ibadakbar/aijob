@@ -18,9 +18,10 @@ allowed-tools: Read, Write, Edit, Glob, Grep, Bash(bun --version), Bash(python t
 This skill searches job portals using the **installed portal-search CLIs** in
 `.agents/skills/` (plus WebSearch as a fallback), using queries from your profile.
 It also runs the **visa / relocation discovery engine** (`tools/visa_discover.py`)
-against Arbeitnow and curated public ATS boards (Greenhouse, Ashby, Lever) with
-sponsorship classification and dual sponsorship/skill scores. See
-`visa-sources.md` in this directory and `job_scraper/README.md`.
+against Arbeitnow, Landing.jobs, and curated public ATS boards (Greenhouse, Ashby,
+Lever, Workable, Personio, Teamtailor, SmartRecruiters, Recruitee) with sponsorship
+classification, Path A/B filtering, `--since` / `--new-only`, and dual scores. See
+`visa-sources.md` in this directory and `job_scraper/engine/README.md`.
 It deduplicates against previously seen jobs and the application tracker, and
 presents new matches with a quick fit assessment.
 
@@ -95,12 +96,36 @@ Tag each fallback result as WebSearch-sourced, keeping the portal tag when the f
 Run the Python engine so sponsorship-tagged and ATS-board roles enter the same pool as portal CLI hits. On Windows use `python` (not `python3`):
 
 ```bash
-python tools/visa_discover.py --format scrape --limit 40 --scrape-hits "<temp>/visa_hits.json"
+python tools/visa_discover.py --path-ab --since 14d --new-only --format scrape --limit 40 --scrape-hits "<temp>/visa_hits.json"
+```
+
+**Board-volume pack** (JobSpy Indeed/LinkedIn/Glassdoor + RemoteOK + WWR + optional Hiring Cafe). **Prefer volume over LinkedIn-only** for worldwide Path A/B runs — still runs Path A/B + **fake-remote DROP** (US-only / within the U.S. even when the feed says Worldwide):
+
+```bash
+python -m pip install -r job_scraper/requirements-volume.txt
+python tools/board_scrape.py --limit 30 --scrape-hits "<temp>/board_hits.json"
+# same as: visa_discover.py --volume --path-ab --since 14d --new-only
+```
+
+Hiring Cafe needs `APIFY_TOKEN` (Apify actor); without it that source skips cleanly.
+
+When ATS yield is dry, expand boards from inventories (probe-live only), then re-run:
+
+```bash
+python tools/harvest_boards.py --ats greenhouse,ashby,smartrecruiters --limit 30 --write
+python tools/discover_company_ats.py "<Company>" --write
+```
+
+Before applying a shortlisted URL, optionally verify liveness:
+
+```bash
+python tools/check_liveness.py --json "<temp>/visa_hits.json"
 ```
 
 Optional flags:
+- `--volume` — JobSpy + RemoteOK + WeWorkRemotely + HiringCafe
 - `--sources arbeitnow` — fast sponsorship-heavy pass (Arbeitnow only)
-- `--sources arbeitnow,greenhouse,ashby,lever` — default full live set
+- `--sources jobspy,remoteok,weworkremotely` — volume-only
 - `--require-country` — drop jobs whose detected country is outside the target list (keeps remote/unknown)
 
 Merge `visa_hits.json` into the Step 2 candidate pool (same `title`/`company`/`url`/`date`/`portal`/`source` contract). Preserve each hit's `sponsorship` object when storing (additive fields on the seen entry).

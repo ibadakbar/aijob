@@ -1,0 +1,15 @@
+{
+  "id": "4492690468",
+  "title": "Full Stack Engineer",
+  "company": "edenity.",
+  "companyUrl": "https://uk.linkedin.com/company/edenity-talent",
+  "location": "Amsterdam, North Holland, Netherlands",
+  "date": null,
+  "url": "https://www.linkedin.com/jobs/view/4492690468",
+  "description": "About the company\nOur client builds AI agents for e-commerce. Their agents handle a shop's customer conversations across WhatsApp, email, social and chat, and already resolve 80 to 90% of them end to end, including actions like refunds without a human stepping in. An agentic integration layer connects a new shop to its tools in around ten minutes, with no API work on the customer's side.\n\nBacked by one of the world's top startup accelerators, seed investors and a well-known tech CEO, the company passed €1.5M ARR within about a year, growing around 25% month on month. Fifteen of its own customers have invested in the business. The team is small and based in Amsterdam, and the next step is moving from cutting support costs to driving revenue for merchants.\n\nThe role\nYou'll join a small product engineering team working directly with the technical co-founder. He scopes what customers need, and you own a feature from there: design, build, ship and refine it across the whole stack. Recent releases include agentic storefronts and a system that monitors customer traffic and improves agents and integrations on its own.\n\nThe company is hiring two engineers for this role. It suits people who want ownership of outcomes, not tickets, and who'd rather talk to users than wait for a spec.\n\nWhat you'll be doing\nOwn features end to end, from scoping with the founder to production\nBuild the interfaces and workflows that make self-serve setup work for merchants\nWork in tight loops (build, test, measure, refine) and talk to users to find what's missing\nUse AI tools daily to multiply your output, from scaffolding to evals\n\nWhat you'll need\nA track record of shipping production features across the stack. Years of experience matter less than what you've built\nStrong TypeScript, React and Next.js, plus comfort on the backend with Python, FastAPI and AWS\nA product and UX mindset: you care about clean architecture, solid tests and good UI\nResourceful and persistent, comfortable figuring things out without a playbook\nDaily use of AI coding tools (Cursor, Claude or similar) and the judgement to keep quality high when building fast\nSomething you're proud of to show: products, open source or side projects\nNice to have: experience at an early-stage startup or in e-commerce tooling\n\nLocation & logistics\nOn-site in Amsterdam. This is an in-office team at this stage, so remote setups won't work.\n\nCompensation & benefits\nCompetitive base + equity, with flexibility on the mix\nFounding-stage ownership and direct work with the co-founders",
+  "seniority": "Mid-Senior level",
+  "employmentType": "Full-time",
+  "jobFunction": null,
+  "industries": "IT Services and IT Consulting",
+  "isActive": true
+}

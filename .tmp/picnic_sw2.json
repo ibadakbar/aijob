@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "count": 3,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4484056416",
+      "title": "Senior Front-End Engineer (React) - Personalization",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-17",
+      "url": "https://nl.linkedin.com/jobs/view/senior-front-end-engineer-react-personalization-at-picnic-technologies-4484056416"
+    },
+    {
+      "id": "4449019321",
+      "title": "Front-End Engineer (React / React Native) – Store & Web",
+      "company": "Picnic Technologies",
+      "companyUrl": "https://nl.linkedin.com/company/picnictechnologies",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "date": "2026-11-19",
+      "url": "https://nl.linkedin.com/jobs/view/front-end-engineer-react-react-native-%E2%80%93-store-web-at-picnic-technologies-4449019321"
+    },
+    {
+      "id": "4430947503",
+      "title": "Senior Frontend Engineer",
+      "company": "Lab Digital",
+      "companyUrl": "https://nl.linkedin.com/company/lab-digital-bv",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "date": "2026-11-19",
+      "url": "https://nl.linkedin.com/jobs/view/senior-frontend-engineer-at-lab-digital-4430947503"
+    }
+  ]
+}

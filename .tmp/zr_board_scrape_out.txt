@@ -1,0 +1,32 @@
+Running: C:\Users\surface\AppData\Local\Programs\Python\Python312\python.exe D:\jobboard\ai-job-search\tools\visa_discover.py --volume --since 2d --limit 20 --format summary --max-jobs-per-source 60 --path-ab --new-only
+ERROR:jobspy.linkedin:response status code 429 (blocked: use a proxy)
+Visa discovery 2026-11-24: 10 unique (from 10 raw). Showing top 10.
+Volume pack on: jobspy, remoteok, weworkremotely, hiringcafe
+Path A/B filter on — near-misses dropped: 27
+Since 2d — dropped 290 older dated rows
+New-only — dropped 0 already-seen rows
+Source errors: 4 (see --format json meta.errors)
+Job data from Arbeitnow.com (link back required by their API terms).
+Job data from RemoteOK.com — link back required.
+
+  # Overall Spons Skill  Path Classification         Company / Title
+  1   0.909  1.00  0.74  B    verified_in_listing    Manex AI GmbH — Frontend Engineer (f/m/d)
+     https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243
+  2   0.727  0.55  0.67  A    possible               Pleo — Staff Software Engineer
+     https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552
+  3   0.701  1.00  0.66  A    verified_in_listing    Bosch — Full Stack Developer Senior- Manufacturing Co-in
+     https://jobs.smartrecruiters.com/BoschGroup/744000163168614
+  4   0.671  0.55  0.51  A    possible               Axle Careers — Software Engineer
+     https://www.arbeitnow.co.uk/jobs/companies/axle-careers/software-engineer-london-35788
+  5   0.642  0.15  1.00  A    unknown                Yooli — FULL TIME: Software Engineer Position - React an
+     https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1
+  6   0.527  0.15  0.67  A    unknown                Supabase — Software Engineer - Interfaces Backend
+     https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01
+  7   0.467  0.15  0.67  A    unknown                WelcomeHome Software — Senior Software Engineer
+     https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer
+  8   0.411  0.15  0.51  A    unknown                Secure Privacy — Senior Full-Stack Web Developer (.NET/C#/MongoDB
+     https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience
+  9   0.355  0.15  0.35  A    unknown                A.Team — Senior Independent Software Developer ($90-$170/
+     https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr
+ 10   0.355  0.15  0.35  A    unknown                Dropbox — Backend Product Software Engineer
+     https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1

@@ -27,8 +27,8 @@ class GreenhouseSource(SourceAdapter):
         boards: list[dict[str, str]] | None = None,
         role_filter: bool = True,
         fetch_content: bool = True,
-        max_jobs: int = 60,
-        max_per_board: int = 25,
+        max_jobs: int = 200,
+        max_per_board: int = 12,
         **_: Any,
     ) -> FetchResult:
         jobs: list[NormalizedJob] = []

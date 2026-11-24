@@ -1,0 +1,829 @@
+﻿{
+  "meta": {
+    "count": 25,
+    "page": 1,
+    "total": 8047
+  },
+  "results": [
+    {
+      "id": "fullstack-developer-net-angular-msafe-secure-software-solutions-ijjr54ka",
+      "title": "Fullstack Developer (.NET/Angular)",
+      "company": "Msafe Secure Software Solutions",
+      "company_slug": "msafe-secure-software-solutions",
+      "location": "Utrecht Area",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4493628290/?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "nl"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "authentication",
+        "azure",
+        "azure-devops",
+        "ci-cd",
+        "csharp",
+        "css",
+        "devops",
+        "docker",
+        "dotnet",
+        "html",
+        "oauth",
+        "openid",
+        "owasp",
+        "react",
+        "rest",
+        "sql",
+        "sql-server",
+        "typescript",
+        "user-stories",
+        "vue"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-softwareentwickler-m-w-d-java-spring-boot-cloud-schmitt-engineering-c7w7nqaj",
+      "title": "Fullstack Softwareentwickler (m/w/d) Java / Spring Boot & Cloud",
+      "company": "Schmitt Engineering",
+      "company_slug": "schmitt-engineering",
+      "location": "Innenstadt, Germany",
+      "date": "2026-11-23",
+      "url": "https://de.whatjobs.com/pub_api__cpl__509254156__7078?utm_campaign=publisher&utm_medium=api&geoID=51020&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "aws",
+        "ci-cd",
+        "cloud",
+        "docker",
+        "eks",
+        "gitlab",
+        "intellij",
+        "java",
+        "kafka",
+        "kubernetes",
+        "maven",
+        "microservices",
+        "postgresql",
+        "scrum",
+        "soa",
+        "spring",
+        "tdd",
+        "typescript",
+        "user-stories",
+        "vue"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-engineer-postcode-lottery-tu4d4e3e",
+      "title": "Fullstack Engineer",
+      "company": "Postcode Lottery",
+      "company_slug": "postcode-lottery",
+      "location": "Edinburgh",
+      "date": "2026-11-23",
+      "url": "https://emp.jobylon.com/jobs/398791-postcode-lottery-fullstack-engineer/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "api",
+        "api-design",
+        "api-gateway",
+        "aws",
+        "cdk",
+        "ci-cd",
+        "dynamodb",
+        "eventbridge",
+        "infrastructure-as-code",
+        "lambda",
+        "nextjs",
+        "nodejs",
+        "observability",
+        "react",
+        "serverless",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-developer-devops-engineer-technische-universiteit-delft-tu-delft-sunitkeq",
+      "title": "Fullstack Developer & DevOps Engineer",
+      "company": "Technische Universiteit Delft (TU Delft)",
+      "company_slug": "technische-universiteit-delft-tu-delft",
+      "location": "Delft",
+      "date": "2026-11-23",
+      "url": "https://www.academictransfer.com/nl/jobs/365797/fullstack-developer-devops-engineer/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "nl"
+      ],
+      "skills": [
+        "agile",
+        "ai",
+        "angular",
+        "api",
+        "bpmn",
+        "ci-cd",
+        "devops",
+        "django",
+        "docker",
+        "git",
+        "java",
+        "kotlin",
+        "kubernetes",
+        "microservices",
+        "openshift",
+        "python",
+        "react",
+        "rest",
+        "scrum",
+        "vue"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-java-spring-boot-m-w-d-deutsche-wertpapierservice-bank-ag-vsg3urak",
+      "title": "Fullstack Entwickler (Java / Spring Boot) (m/w/d)",
+      "company": "Deutsche WertpapierService Bank AG",
+      "company_slug": "deutsche-wertpapierservice-bank",
+      "location": "Eschborn, Hessen, Deutschland",
+      "date": "2026-11-23",
+      "url": "https://dwpbank.softgarden.io/job/68888921/Fullstack-Entwickler-Java-Spring-Boot-m-w-d-?jobDbPVId=291353736&l=de&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "cobol",
+        "docker",
+        "java",
+        "json",
+        "kafka",
+        "kubernetes",
+        "mainframe",
+        "microservices",
+        "soap",
+        "spring"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-developer-bapon-technologies-sx4v5jmq",
+      "title": "Fullstack-Developer",
+      "company": "BAPON Technologies",
+      "company_slug": "bapon-technologies",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4493608748/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "ie"
+      ],
+      "skills": [
+        "api",
+        "automation",
+        "java",
+        "json",
+        "python",
+        "rdbms",
+        "rest",
+        "sql",
+        "swift",
+        "xml"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-fur-angular-und-java-m-w-d-shi-gmbh-f2m6sctp",
+      "title": "Fullstack-Entwickler für Angular und Java (m/w/d)",
+      "company": "SHI GmbH",
+      "company_slug": "shi",
+      "location": "Augsburg, Bayern, BAYERN, DEUTSCHLAND",
+      "date": "2026-11-23",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004052579-S?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "css",
+        "design-patterns",
+        "html",
+        "java",
+        "junit",
+        "rest",
+        "spring",
+        "user-stories",
+        "vitest"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-administrator-linux-datenbanken-m-w-d-operational-services-t5mnodai",
+      "title": "Fullstack-Administrator Linux & Datenbanken (m/w/d)",
+      "company": "operational services",
+      "company_slug": "operational-services",
+      "location": "Frankfurt am Main",
+      "date": "2026-11-22",
+      "url": "https://www.get-in-it.de/jobsuche/p315066?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "automation",
+        "linux",
+        "mariadb",
+        "saas",
+        "servicenow"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-mensch-eck-cellent-it-wmp4vwtm",
+      "title": "Fullstack-Entwickler (Mensch)",
+      "company": "eck*cellent IT",
+      "company_slug": "eck-cellent-it",
+      "location": "Braunschweig; Dortmund",
+      "date": "2026-11-22",
+      "url": "https://www.get-in-it.de/jobsuche/p315063?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "ci-cd",
+        "csharp",
+        "data-science",
+        "devops",
+        "git",
+        "java",
+        "javascript",
+        "kotlin",
+        "python",
+        "react",
+        "tdd",
+        "typescript",
+        "vue"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-developer-evernow-gmbh-nct25o27",
+      "title": "Fullstack Developer",
+      "company": "Evernow GmbH",
+      "company_slug": "evernow",
+      "location": "Frankfurt am Main,Hybrid",
+      "date": "2026-11-22",
+      "url": "https://evernow-gmbh.jobs.personio.com/job/2702222?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "aws",
+        "devops",
+        "ecommerce",
+        "graphql",
+        "javascript",
+        "laravel",
+        "php",
+        "rails",
+        "react",
+        "ruby",
+        "shopify",
+        "sql",
+        "swift",
+        "typescript",
+        "wordpress"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-engineer-renewable-energy-platform-hybrid-field-hoq4k5d6",
+      "title": "Fullstack Engineer – Renewable Energy Platform (Hybrid)",
+      "company": "Field",
+      "company_slug": "field",
+      "location": "London, United Kingdom",
+      "date": "2026-11-22",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__641092264__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "fullstack-software-engineer-eur4-865-eur6-081-per-maand-stater-jhibsst7",
+      "title": "Fullstack Software Engineer - €4.865 - €6.081 Per Maand",
+      "company": "Stater",
+      "company_slug": "stater",
+      "location": "Netherlands",
+      "date": "2026-11-22",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__181857002__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "nl"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "fullstack-engineer-ai-product-we-are-tims-xna3abmw",
+      "title": "Fullstack Engineer (AI Product)",
+      "company": "We are Tims",
+      "company_slug": "we-are-tims",
+      "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "date": "2026-11-21",
+      "url": "https://himalayas.app/companies/we-are-tims/jobs/fullstack-engineer-ai-product?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "africa",
+        "cis",
+        "eu",
+        "latam",
+        "mena",
+        "uk"
+      ],
+      "countries": [
+        "ad",
+        "ae",
+        "al",
+        "am",
+        "ao",
+        "at",
+        "az",
+        "ba",
+        "be",
+        "bg",
+        "bh",
+        "by",
+        "ch",
+        "ci",
+        "cm",
+        "cy",
+        "cz",
+        "de",
+        "dk",
+        "dz",
+        "ee",
+        "eg",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "gb",
+        "gh",
+        "gp",
+        "gr",
+        "hr",
+        "hu",
+        "ie",
+        "il",
+        "iq",
+        "ir",
+        "is",
+        "it",
+        "jo",
+        "ke",
+        "kg",
+        "kw",
+        "kz",
+        "lb",
+        "li",
+        "lt",
+        "lu",
+        "lv",
+        "ly",
+        "ma",
+        "mc",
+        "md",
+        "me",
+        "mk",
+        "mq",
+        "mt",
+        "mu",
+        "mz",
+        "ng",
+        "nl",
+        "no",
+        "om",
+        "pl",
+        "pt",
+        "qa",
+        "re",
+        "ro",
+        "rs",
+        "rw",
+        "sa",
+        "se",
+        "si",
+        "sk",
+        "sm",
+        "sn",
+        "tj",
+        "tm",
+        "tn",
+        "tr",
+        "tz",
+        "ua",
+        "ug",
+        "uz",
+        "xk",
+        "ye",
+        "za",
+        "zm",
+        "zw"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "autogen",
+        "crewai",
+        "css",
+        "fastapi",
+        "javascript",
+        "langgraph",
+        "llm",
+        "n8n",
+        "nextjs",
+        "postgresql",
+        "react",
+        "supabase",
+        "tailwind",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-c-net-geschlecht-egal-hauptsache-gut-take-e-way-gmbh-4yjuz75h",
+      "title": "Fullstack-Entwickler* C# /.NET* *Geschlecht egal, Hauptsache gut",
+      "company": "take-e-way GmbH",
+      "company_slug": "take-e-way",
+      "location": "Deutschland",
+      "date": "2026-11-21",
+      "url": "https://www.adzuna.de/land/ad/5973849626?se=en4ekabl8RGVfcGBjXMMJg&utm_medium=api&v=E28F3F697B4D9011B8851011F44CBD2F585B6C2F&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-m-w-d-frankfurt-am-main-amadeus-fire-ag-mfeaalhj",
+      "title": "Fullstack-Entwickler (m/w/d) (Frankfurt am Main)",
+      "company": "Amadeus Fire AG",
+      "company_slug": "amadeus-fire",
+      "location": "Frankfurt am Main, Germany",
+      "date": "2026-11-21",
+      "url": "https://de.whatjobs.com/pub_api__cpl__507139883__7078?utm_campaign=publisher&utm_medium=api&geoID=3671&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "java",
+        "kotlin",
+        "microservices",
+        "scrum",
+        "spring"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-software-engineer-go-vuejs-einkaufsystem-m-w-d-schwarz-gruppe-3vbgwlgt",
+      "title": "Fullstack Software Engineer (GO/VueJs) Einkaufsystem (m/w/d)",
+      "company": "Schwarz Gruppe",
+      "company_slug": "schwarz-gruppe",
+      "location": "Bad Friedrichshall, DE",
+      "date": "2026-11-21",
+      "url": "https://schwarzgt.jobs.schwarz/SchwarzDigits/job/Bad-Friedrichshall-Fullstack-Software-Engineer-%28GOVueJs%29-Einkaufsystem-%28mwd%29-BW-74177/1370505055/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "cloud",
+        "cybersecurity",
+        "docker",
+        "git",
+        "grpc",
+        "kotlin",
+        "kubernetes",
+        "microservices",
+        "mongodb",
+        "postgresql",
+        "rest",
+        "vue"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-in-vollzeit-m-w-d-softwareentwickler-in-schulze-marketing-peer-schulze-u7iqgd3e",
+      "title": "Fullstack-Entwickler/-in – Vollzeit (m/w/d) (Softwareentwickler/in)",
+      "company": "Schulze Marketing Peer Schulze",
+      "company_slug": "schulze-marketing-peer-schulze",
+      "location": "Berlin, Germany",
+      "date": "2026-11-20",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyNDctcjIzMzE5LVMgMQ?lang=en&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-m-w-d-schwerpunkt-java-anwendungsprogrammierer-in-soptim-66ki4tpp",
+      "title": "Fullstack Entwickler (m/w/d) Schwerpunkt Java (Anwendungsprogrammierer/in)",
+      "company": "Soptim",
+      "company_slug": "soptim",
+      "location": "Essen, Ruhr, Germany",
+      "date": "2026-11-20",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMzE0ODc0LVMgMQ?lang=en&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ci-cd",
+        "csharp",
+        "dotnet",
+        "java"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-m-w-d-schwerpunkt-net-backend-monari-gmbh-wz7iwnsk",
+      "title": "Fullstack Entwickler (m/w/d) - Schwerpunkt .NET Backend",
+      "company": "MONARI GmbH",
+      "company_slug": "monari",
+      "location": "Deutschland",
+      "date": "2026-11-20",
+      "url": "https://www.adzuna.de/land/ad/5973245279?se=xD6wSnTl8RGovPC9HH2D9w&utm_medium=api&v=74246D59C5D6BD4787F040FD751FBB0174537575&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "dotnet"
+      ],
+      "description": null
+    },
+    {
+      "id": "backend-engineer-source-code-repository-services-ruby-gitlab-34xtpg7y",
+      "title": "Fullstack Engineer, Source Code: Repository Services (Ruby)",
+      "company": "GitLab",
+      "company_slug": "gitlab",
+      "location": "Remote, United Kingdom",
+      "date": "2026-11-20",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912709002?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "data-modeling",
+        "devsecops",
+        "git",
+        "gitlab",
+        "graphql",
+        "monorepo",
+        "observability",
+        "rdbms",
+        "root-cause-analysis",
+        "ruby",
+        "technical-writing"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-developer-python-g-mass-consulting-lqaqinru",
+      "title": "Fullstack Developer - Python",
+      "company": "G MASS Consulting",
+      "company_slug": "g-mass-consulting",
+      "location": "Dublin, County Dublin, Ireland",
+      "date": "2026-11-20",
+      "url": "https://www.linkedin.com/jobs/view/4439546061/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "ie"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "aws",
+        "aws-bedrock",
+        "cloud",
+        "docker",
+        "event-driven-architecture",
+        "fastapi",
+        "generative-ai",
+        "jwt",
+        "langchain",
+        "postgresql",
+        "pydantic",
+        "python",
+        "react",
+        "tdd",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-engineer-huzzle-com-fsqotzys",
+      "title": "Fullstack Engineer",
+      "company": "Huzzle.com",
+      "company_slug": "huzzle-com",
+      "location": "Berlin, Berlin",
+      "date": "2026-11-20",
+      "url": "https://www.jobleads.com/de/job/fullstack-engineer--berlin--e89866301383045c409a1f0edca5bff05?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "cloud",
+        "data-pipelines",
+        "nextjs",
+        "nodejs",
+        "postgresql",
+        "python",
+        "rdbms",
+        "react",
+        "user-flows"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-in-java-barmeniagothaerag-crpui7iu",
+      "title": "Fullstack-Entwickler*in Java",
+      "company": "BarmeniaGothaerAG",
+      "company_slug": "barmeniagothaerag",
+      "location": "Wuppertal, NRW, de",
+      "date": "2026-11-20",
+      "url": "https://jobs.smartrecruiters.com/BarmeniaGothaerAG/744000162716969-fullstack-entwickler-in-java-?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "ci-cd",
+        "devops",
+        "docker",
+        "git",
+        "hibernate",
+        "java",
+        "jms",
+        "jpa",
+        "json",
+        "kubernetes",
+        "oracle",
+        "postgresql",
+        "rest",
+        "spring",
+        "sql",
+        "weblogic"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-entwickler-m-w-d-i-pforzheim-advergy-gmbh-hacv73ht",
+      "title": "Fullstack Entwickler (m/w/d) I Pforzheim",
+      "company": "ADVERGY GmbH",
+      "company_slug": "advergy",
+      "location": "Pforzheim, Baden-Württemberg",
+      "date": "2026-11-20",
+      "url": "https://www.xing.com/jobs/pforzheim-fullstack-entwickler-pforzheim-159290569?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "cloud",
+        "java",
+        "spring"
+      ],
+      "description": null
+    },
+    {
+      "id": "fullstack-java-entwickler-schwerpunkt-angular-m-w-d-it-internet-karriere-p565gcve",
+      "title": "Fullstack Java Entwickler Schwerpunkt Angular (m/w/d)",
+      "company": "IT & Internet Karriere",
+      "company_slug": "it-internet-karriere",
+      "location": "Regensburg, Germany",
+      "date": "2026-11-20",
+      "url": "https://de.whatjobs.com/pub_api__cpl__507961277__7078?utm_campaign=publisher&utm_medium=api&geoID=10965&utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "de"
+      ],
+      "skills": [
+        "angular",
+        "hibernate",
+        "j2ee",
+        "java",
+        "jpa",
+        "junit",
+        "oracle",
+        "tdd",
+        "xml"
+      ],
+      "description": null
+    }
+  ]
+}

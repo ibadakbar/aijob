@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Fullstack DevOps Engineer (Trust and Identity)",
+    "company": "Swisscom",
+    "location": "Rotterdam, Zuid-Holland, Netherlands",
+    "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
+    "date": "2026-11-18",
+    "id": "fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Fullstack DevOps Engineer In a technically exciting and fast-evolving environment, you will help us build digital trust products for organizations. Our team enables the use of verifiable information in business processes: eID, verifiable credentials, organization identity, KYB, digital signatures, PDF validation, trust chains, and secure onboarding flows. Many trust, verification, and compliance processes are still manual, fragmented, and costly. We want to change that by building simple, secure, and easy-to-integrate products that allow organizations to verify information, trace it back to an authentic source, and create better user experiences for their customers and partners. As a Fullstack DevOps Engineer, you will design, build, and operate backend services, APIs, cloud infrastructure, databases, and selected frontend capabilities for these products. You will work closely with frontend engineers, product owners, business stakeholders, UX specialists, and ecosystem partners to turn complex trust and compliance topics into reliable production services. What impact will you have? Build and operate backend services and APIs using Java, Kotlin, and Spring Boot. Design secure, scalable, and maintainable solutions for eID, verification, onboarding, KYB, and compliance-related products. Work with AWS services, databases, CI/CD pipelines, observability, and infrastructure automation. Model and manage data across relational and/or NoSQL databases with a focus on reliability, traceability, and performance. Integrate frontend applications with robust APIs, authentication, authorization, and secure data flows. Contribute to frontend features where needed using modern JavaScript/TypeScript frameworks. Take end-to-end DevOps ownership: from implementation and automated testing to deployment, monitoring, incident handling, and continuous improvement. Help the team build market-driven products that create real value, not just technical functionality. Must-haves: Bachelor’s or m",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "a stronger Swisscom community - for example, culture lunches, fun quizzes, game nights and a lot more! Allowances Full relocation support (Housing, settling in, etc.) for you and your family 200 euros per month Telephone/internet allowance 275 euros per mon",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 0.9405,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.83,
+    "path": "B"
+  },
+  {
+    "title": "Senior Software Engineer, Consumer Revenue",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+    "date": "2026-11-12",
+    "id": "8731320002",
+    "portal": "visa-greenhouse",
+    "source": "cli",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We're looking for talented Senior Software Engineers to join our Consumer Revenue squads, the teams at the heart of premium experiences at Discord. You’ll be building out a premium Discord for millions of subscribers, focusing on surfaces such as Nitro, shop, boosting, user identity, and more. Your work will be vital in delivering a high-value premium experience, without compromising the core experience for our free users. You’ll be a key driver in generating the revenue that fuels Discord’s mission. In this product engineering role, you'll collaborate cross-functionally with Product, Data Science, Design, Marketing, and other functions to create best-in-class consumer experiences. Your work will cover the full breadth of the technical stack, from backend data modeling, through business logic in APIs, to polished, user-facing interfaces. You’ll be supported by infrastructure, platform, and product teams on your mission to build the best premium Discord. What You'll Be Doing Build and improve premium Discord experiences such as Nitro, shop, boosting, user identity, and more. Own projects end to end by partnering with Product to refine requirements, create technical specs, and work closely with Design to execute and deliver best-in-class user experiences. Work with a team of full-stack engineers to ship new features across Web, Android, and iOS. Lead complex initiatives from conception to completion, thriving in ambiguous environments. Rapidly prototype new features and synthesize insights through experimentation. What you should have 5+ years of software engineering experience. You’re a key technical con",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "isco Bay Area (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma counties). Relocation assistance may be available. For this role, there is no formal requirement to work from the office. The base salary range for this",
+          "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "US",
+    "workplace": "unknown",
+    "rank_overall": 0.8285,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.51,
+    "path": "B"
+  },
+  {
+    "title": "Full-Stack Developer Senior",
+    "company": "Bosch",
+    "location": "Timișoara, TM, ro",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161229649",
+    "date": "2026-11-12",
+    "id": "744000161229649",
+    "portal": "visa-smartrecruiters",
+    "source": "cli",
+    "description": "About Bosch Service Solutions in Timișoara Bosch Service Solutions is a leading service provider of enterprise and IT solutions. It designs and provides best-in-class services , including software-based solutions, consulting and management, AI, automation and customer experience . We’re on a mission to exceed customer expectations and continually elevate industry standards. Our colleagues contribute to this mission through their commitment, in an environment where diversity is valued and where everyone can bring their own contribution. Our promise to our colleagues is rock-solid: we grow together, we enjoy our work, and inspire each other. Join us and see the difference. Work LikeABosch About Us We develop digital platforms, web applications, and intelligent software solutions that support users and business processes across the Bosch Group. As part of an entrepreneurial and globally operating team, we combine modern software engineering, cloud-native technologies, user-centric design, and AI capabilities to create innovative products with real business impact. Our products range from scalable business platforms and workflow applications to digital marketplaces, collaboration tools, and customer-facing solutions used across a variety of business domains. We are continuously expanding our portfolio and looking for talented engineers who enjoy building high-quality software end-to-end and shaping the next generation of digital solutions. Your Mission You will help shape the next generation of digital products by designing and developing scalable web applications, digital services, platform capabilities, and AI-powered solutions. From architecture and software engineering to user experience and system integration, you will contribute to products used across the Bosch Group. Your Responsibilities Plan, develop, and operate modern web platforms, digital services, and software products Build scalable frontend and backend applications using modern technologies and engineer",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "ndidates to us through our program: Recommend Bosch. For certain positions, we will honor you with an attractive bonus; Relocation package - If you’re being recruited from more than 50 km away, we provide a standard relocation package of 2500 RON (conditions",
+          "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161229649",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-18",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "RO",
+    "workplace": "unknown",
+    "rank_overall": 0.785,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.9,
+    "path": "A"
+  },
+  {
+    "title": "Front End Engineer (Core Group)",
+    "company": "Midnite",
+    "location": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/front-end-engineer-core-group-united-kingdom-184453",
+    "date": "2026-11-18",
+    "id": "front-end-engineer-core-group-united-kingdom-184453",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "🚀 Why Midnite? Midnite is a next-generation sports betting and gaming platform built for a new wave of players. We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today. Over 400,000 players have already made the move, and we’re only just getting started. We’re a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If you’re driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading. Not your grandad’s bookie. 👀 The Role Title: Mid Level Front End Engineer (Core) Team: Engineering / Core Location: Remote Salary: £65,000-£75,000 As a Front End Engineer in our Core Group, you’ll help build the account experiences players rely on, from onboarding and payments to account management and safety. Working with Product, Design and engineers across platforms, you’ll turn customer needs into reliable, intuitive web experiences and help bring features from discovery to production. You will: Build and maintain customer-facing web features using TypeScript, Vue and modern frontend tools. Work with Product and Design to shape solutions and improve customer journeys. Collaborate with Backend and mobile engineers on APIs, dependencies and consistent experiences. Create reusable components and contribute to a maintainable frontend architecture. Write and review well-tested code, covering key journeys and edge cases. Consider accessibility, responsive design, performance and clear loading and error states. Help release safely, investigate issues and improve reliability. Share knowledge with frontend peers and contribute to engineering practices. The next Midniter: Has professional experience building and shipping modern web applications. Is comfortable with TypeScript and Vue or React, and keen to wor",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/front-end-engineer-core-group-united-kingdom-184453",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "remote",
+    "rank_overall": 0.671,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51,
+    "path": "A"
+  },
+  {
+    "title": "Lead Forward Deployed Software Engineer",
+    "company": "Flink",
+    "location": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+    "date": "2026-11-18",
+    "id": "lead-forward-deployed-software-engineer-zurich-212901",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Flink Robotics is a fast-paced startup, out of ETH Zürich's Computational Robotics Lab, building autonomous robots that can handle any item - including ones they’ve never seen before. We're revolutionising material handling, from stacking boxes to sorting parcels and unloading goods. We're looking for a Lead Forward Deployed Software Engineer who loves debugging systems and turning real-world data into working software. You'll be out with our field team at customer sites, owning the adaptation and troubleshooting of our autonomy stack as it meets the conditions of each deployment. Who you are Eager to join a VC-backed startup and take real ownership from the start Passionate about robotics: from perception and motion to autonomy and control An experienced problem-solver who can make decisions under ambiguity and mentor others as the team grows Proactive, curious and a clear communicator (fluent English, additional languages are a plus) Ready to travel around 50% of the time, to get the best performance out of our deployed robots What you bring 5+ years of professional experience and a degree in maths, computer science, or a related field Experience deploying C++ code in production Self motivated, and thriving in entrepreneurial environments (startups, professional services, big tech) Proven experience diagnosing and resolving complex system issues in short turnaround cycles Low-ego collaboration; people love working with you What you'll do Optimise robot performance after installation and ensure smooth customer handover Quality control and deploy incremental and major software upgrades across robot fleet Define and own the remote supervision process Guide and filter feedback from customers to the product teams Build out and manage the forward deployed software engineering team Why join An ambitious team building a product with huge potential Cutting-edge robotics problems, with direct, high-stakes customer impact Competitive salary, equity, and top-tier gear Based i",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Swiss/EU citizen, existing Swiss work permit, or a degree from a Swiss university; able to work in Switzerland without visa sponsorship Find Jobs in Switzerland on Arbeitnow",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "visa sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "s/EU citizen, existing Swiss work permit, or a degree from a Swiss university; able to work in Switzerland without visa sponsorship Find Jobs in Switzerland on Arbeitnow",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "de Apply now if you're ready to push boundaries and help shape the future of robotics! Swiss/EU citizen, existing Swiss work permit, or a degree from a Swiss university; able to work in Switzerland without visa sponsorship Find Jobs in Switzerland on",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "work permit (unqualified)"
+        },
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-18",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "CH",
+    "workplace": "unknown",
+    "rank_overall": 0.615,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.35,
+    "path": "A"
+  }
+]

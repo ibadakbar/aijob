@@ -1,0 +1,428 @@
+[
+  {
+    "title": "Frontend Engineer",
+    "company": "Catawiki",
+    "location": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+    "date": "2026-11-20",
+    "id": "frontend-engineer-amsterdam-14154",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car , a Woolly Mammoth’s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt’s running shoe , we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world’s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we’d love to explore how you can join us. Taking ownership and driving impact Being open to change and feedback Being passionate about our mission and our customers. Your Mission Join one of Catawiki’s main Development Verticals, Demand , Supply or Fulfilment , and help us improve the experience of buyers, sellers, and internal teams across our platform. Working alongside Backend, Frontend, iOS, and Android Engineers, you’ll build product innovations for Catawiki’s apps and web app. You’ll collaborate closely with QA, UX Designers, Product Managers, and with the support of a Tech Lead Manager to create beautiful, adaptable web frontends on top of scalable microservices. While your product area may vary, your goal will remain the same: deliver reliable, high-quality experiences that make a meaningful impact for our users. What You'll Do Here at Catawiki, you will make an impact by improving and delivering product innovations for the Catawiki platform: Build impactful product experiences by improving and delivering innovations across the Catawiki platform for buyers, sellers, customer service, and internal operations teams. Create adaptable web frontends on top of scalable microservices using our core frontend stack of TypeScript and ReactJS. Deliver responsive, accessible experiences that work well across desktop, table",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "days per week. At this time, we are only considering candidates who are already based in the Netherlands . As a result, relocation support is not available for this position . We can, however, provide visa transfer from current Dutch employer . In Return You",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "NL",
+    "workplace": "unknown",
+    "rank_overall": 1.0,
+    "sponsorship_score": 1.0,
+    "skill_score": 1.0,
+    "path": "A"
+  },
+  {
+    "title": "Frontend Engineer (f/m/d)",
+    "company": "Manex AI GmbH",
+    "location": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+    "date": "2026-11-22",
+    "id": "frontend-engineer-munich-170243",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspeed and BlueYard, with engineers from top companies and leading enterprise manufacturers as customers. We ship fast, work close to the shop floor, and we don't ship things we're not proud of. The Role As Frontend Engineer, you'll work across our entire frontend ecosystem and own frontend systems end-to-end. You'll use AI to ship a high volume of polished work while making thoughtful architectural decisions that keep our frontend coherent and easy to extend. You'll work directly with founders, engineers and customers, and see your work used on real factory floors. What You'll Do Platform: Build the interface for Kosmos, the platform that brings together enterprise data, operational context and AI Applications: Build interfaces for manufacturing applications that run on and are embedded into Kosmos Framework & DX: Ship the components, conventions, tooling and guidance that help AI agents, full-stack engineers and forward-deployed engineers build better UI faster Architecture: Make the calls that keep our frontend consistent, maintainable and ready to scale You Should Apply If You Use AI as a serious engineering tool and can turn it into a high volume of reliable output Care about architecture and know when to create a reusable abstraction, and when not to Have strong visual judgment and notice when an interface feels confusing, inconsistent or unfinished Enjoy turning recurring UI problems into primitives, patterns, documentation and tooling for other builders Care about fronten",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "DE",
+    "workplace": "unknown",
+    "rank_overall": 0.909,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.74,
+    "path": "B"
+  },
+  {
+    "title": "Product Engineer - Frontend focus (f/m/d)",
+    "company": "Manex AI GmbH",
+    "location": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+    "date": "2026-11-19",
+    "id": "product-engineer-frontend-focus-munich-69998",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspeed and BlueYard, with engineers from top companies and leading enterprise manufacturers as customers. We ship fast, work close to the shopfloor, and we don't ship things we're not proud of. The Role As Product Engineer with a frontend focus, you'll build the product features our customers use every day, fully owning the product with a strong focus on usability and intuitive design. You'll use AI to ship a high volume of polished work and stay close to the problems of the people who use it. You'll work directly with founders, engineers and customers, and see your work in production at leading manufacturers. What You'll Do Product features: Take features from first idea to production Customer applications: Turn manufacturing use cases into interfaces that users pick up without training Architecture: Make the calls that keep our frontend consistent, maintainable and ready to scale Design & usability: Shape flows, layouts, interactions and UI patterns so that users understand them without explanation Customer feedback: Talk to users, observe how they work and turn what you learn into product improvements Quality: Keep every interface fast, accessible and finished You Should Apply If You Use AI as a serious engineering tool and can turn it into a high volume of reliable output Think in products and want to solve the actual problem of the user Have strong visual judgment and notice when an interface feels confusing, inconsistent or unfinished Enjoy making complex workflows feel sim",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+          "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "DE",
+    "workplace": "unknown",
+    "rank_overall": 0.909,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.74,
+    "path": "B"
+  },
+  {
+    "title": "Senior Software Engineer, Consumer Revenue",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+    "date": "2026-11-12",
+    "id": "8731320002",
+    "portal": "visa-greenhouse",
+    "source": "cli",
+    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We're looking for talented Senior Software Engineers to join our Consumer Revenue squads, the teams at the heart of premium experiences at Discord. You’ll be building out a premium Discord for millions of subscribers, focusing on surfaces such as Nitro, shop, boosting, user identity, and more. Your work will be vital in delivering a high-value premium experience, without compromising the core experience for our free users. You’ll be a key driver in generating the revenue that fuels Discord’s mission. In this product engineering role, you'll collaborate cross-functionally with Product, Data Science, Design, Marketing, and other functions to create best-in-class consumer experiences. Your work will cover the full breadth of the technical stack, from backend data modeling, through business logic in APIs, to polished, user-facing interfaces. You’ll be supported by infrastructure, platform, and product teams on your mission to build the best premium Discord. What You'll Be Doing Build and improve premium Discord experiences such as Nitro, shop, boosting, user identity, and more. Own projects end to end by partnering with Product to refine requirements, create technical specs, and work closely with Design to execute and deliver best-in-class user experiences. Work with a team of full-stack engineers to ship new features across Web, Android, and iOS. Lead complex initiatives from conception to completion, thriving in ambiguous environments. Rapidly prototype new features and synthesize insights through experimentation. What you should have 5+ years of software engineering experience. You’re a key technical con",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "isco Bay Area (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma counties). Relocation assistance may be available. For this role, there is no formal requirement to work from the office. The base salary range for this",
+          "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "US",
+    "workplace": "unknown",
+    "rank_overall": 0.8035,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.51,
+    "path": "B"
+  },
+  {
+    "title": "Senior Software Engineer I - Servicing Platform",
+    "company": "Wise",
+    "location": "London, gb",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+    "date": "2026-11-19",
+    "id": "744000162520722",
+    "portal": "visa-smartrecruiters",
+    "source": "cli",
+    "description": "Wise is a global technology company, building the best way to move and manage the world’s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money. As part of our team, you will be helping us create an entirely new network for the world's money. For everyone, everywhere. More about our mission and what we offer . About the role: Join us as a Platform Engineer in the Risk Domain, where you'll build the systems that make safe, global products possible. As part of our Platform Engineering team, you'll be at the intersection of Product and Risk – crafting systems that allow internal teams to ship faster, safer, and smarter. You won't just be writing code. You'll be building foundational services that other teams rely on to launch features across global markets. How we work: You'll be joining a team that values autonomy, creativity, and collaboration. We're building a platform from the ground up, with the support and reach of a product org that ships globally. Your work won't just scale technology – it'll scale trust. What will you be working on? We're designing a centralized risk platform – a system that unifies data and decision-making across identity verification, fraud detection, compliance, and more. This platform acts as the connective tissue between teams working on money movement, regional expansion, and customer safety. • Accelerate delivery: Enable product teams to launch faster with built-in risk tooling • Empower risk teams: Give them the systems they need to assess, respond, and protect—without blocking development • Drive real impact: Your work will directly reduce fraud, improve trust, and help us scale safely What do you need? We are fully aware that it is uncommon for a candidate to have all skills required and we fully support everyone in learning new skills with us. So if ",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "mpliance Experience in messaging systems such as Kafka is a plus. We are currently only considering local candidates as relocation support is not provided. For local candidates we are able to support transfer of visa sponsorship Interested? Find out more: Ho",
+          "source_url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.7725,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.35,
+    "path": "B"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "company": "Pleo",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+    "date": "2026-11-23",
+    "id": "staff-software-engineer-london-44552",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’. The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years. Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together. As a Staff Backend Engineer, you'll take technical ownership of complex business domains, designing, building, and evolving scalable, reliable backend services for our enterprise spend management platform. What you'll be working on: Designing and operating distributed systems, event-driven architectures, and cloud-native services. Applying Domain-Driven Design (DDD) to model complex business domains and define clear service boundaries. Building maintainable systems following Clean Architecture, Hexagonal Architecture, and similar architectural principles. Designing APIs, service integrations, and reliable asynchronous workflows using technologies such as Temporal. Designing secure authentication and authorization solutions, applying standards such as OAuth 2.0, OIDC, and WebAuthn, as well as fine-grained authorization models. En",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.727,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.67,
+    "path": "A"
+  },
+  {
+    "title": "Full Stack Developer Senior- Manufacturing Co-intelligence",
+    "company": "Bosch",
+    "location": "Timișoara, TM, ro",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163168614",
+    "date": "2026-11-23",
+    "id": "744000163168614",
+    "portal": "visa-smartrecruiters",
+    "source": "cli",
+    "description": "About Bosch Service Solutions in Timișoara Bosch Service Solutions is a leading service provider of enterprise and IT solutions. It designs and provides best-in-class services , including software-based solutions, consulting and management, AI, automation and customer experience . We’re on a mission to exceed customer expectations and continually elevate industry standards. Our colleagues contribute to this mission through their commitment, in an environment where diversity is valued and where everyone can bring their own contribution. Our promise to our colleagues is rock-solid: we grow together, we enjoy our work, and inspire each other. Join us and see the difference. Work LikeABosch Main objective of the job : Develop and maintain the core infrastructure on manufacturing co-intelligence platform, including semantic query engines, data ingestion pipelines, chat interfaces, and agent runtime systems, using AI technologies and robust, scalable microservices architecture. Main attributions and responsibilities: Design, implement, and maintain microservices for AI-powered applications, including semantic search, data processing, and intelligent automation. Develop reliable APIs to handle complex machine learning workloads and real-time user interactions. Build robust, scalable data ingestion and processing pipelines for real-time and batch data from diverse enterprise sources and formats, using workflow orchestration frameworks. Implement vector-based search systems using embedding models, similarity algorithms, and retrieval-augmented generation architectures for intelligent information discovery. Develop responsive natural language web interfaces integrated with large language model APIs, and orchestration layers for multi-agent AI workflows, task delegation, and autonomous decision-making processes. Ensure system scalability, security, and observability across distributed platform components using containerization, cloud-native deployment patterns, and comprehensi",
+    "sponsorship": {
+      "classification": "verified_in_listing",
+      "confidence": 0.8,
+      "evidence": [
+        {
+          "excerpt": "ndidates to us through our program: Recommend Bosch. For certain positions, we will honor you with an attractive bonus; Relocation package - If you’re being recruited from more than 50 km away, we provide a standard relocation package of 2500 RON (conditions",
+          "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000163168614",
+          "pattern": "relocation support"
+        }
+      ],
+      "relocation_support": true,
+      "verified_at": "2026-11-24",
+      "notes": "Explicit sponsorship/relocation language in the job listing."
+    },
+    "country": "RO",
+    "workplace": "unknown",
+    "rank_overall": 0.701,
+    "sponsorship_score": 1.0,
+    "skill_score": 0.66,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Axle Careers",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/software-engineer-london-35788",
+    "date": "2026-11-24",
+    "id": "software-engineer-london-35788",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "At Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control hundreds of thousands of energy assets. We’re building in a legacy industry and moving gigawatt-hours of electrons in the real world, but we operate at lightning speed, and we’re growing the team to meet customer demand. We’re proud to be supported by world-leading investors, including Energize Capital and Accel. Read more about what we’re building here . About the role Software Engineers at Axle build the core infrastructure for connecting to distributed energy devices, orchestrating them, and allowing them to participate in electricity markets. This is a generalist Software Engineering role, encompassing product-engineering, devops, and data engineering. We encourage engineers to own as much of the problem-space as they can: you’ll spend time talking to clients, getting feedback from users, and working closely with market operators. At Axle, we work in a deliberately flat structure. That means fewer layers, faster decisions, and more ownership for everyone. Software engineering at Axle looks like Forming a deep understanding of the domain & the business, so you have enough context to execute independently at speed Focusing on outcomes, not process, and taking ownership for the end product you ship into the world Managing your own time and those of others to adapt to changing scope and deadlines, delivering 80% of the value in 20% of the time Tech stack 🐍 We build in Python + React for the frontend 🐋 Everything we build lives in Docker, for minimal cross-platform faff and maximal reproducibility. 🤖 Unlimited Claude Code tokens - we are aggressive users and explorers of AI, and encourage everybody to reconsider their workflows regularly ☁️ We deploy on GCP What's in it for you A meaningful slice of equity in Ax",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/software-engineer-london-35788",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": "GB",
+    "workplace": "unknown",
+    "rank_overall": 0.671,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer, Platform Security (All Levels)",
+    "company": "Render",
+    "location": "Remote: United States",
+    "url": "https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+    "date": "2026-11-24",
+    "id": "566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "At Render, we’re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms—so teams can ship fast, scale reliably, and focus on their product, not infrastructure. Unlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experience with persistent compute, dynamic autoscaling, built-in orchestration, and observability, allowing teams to launch, scale, and manage real-world applications without writing infrastructure code or managing servers. Whether you're building LLM-powered applications, scalable SaaS products, or async processing pipelines, Render empowers teams to move fast and scale confidently from MVP to millions of users. Our platform is trusted by over 7 million developers worldwide and continues to grow rapidly. In February 2026, we raised an additional $100M in Series C financing, bringing our total funding to $260M, to accelerate our vision of making cloud infrastructure both powerful and intuitive—designed for the speed of modern AI development. We’re a diverse and talented team that values craft, velocity, and user experience. If you’re excited to help shape the future of the intelligent cloud and empower developers everywhere, we’d love to hear from you. APPLYING TO RENDER We're seeking candidates who possess high integrity, humility, and an insatiable drive to learn. Through reasoned discussions and continuous feedback, we strive to improve both individually and collectively. We foster an environment of mutual trust and respect, empowering effective debate to achieve the best outcomes for our customers and team. We especially encourage members of underrepresented groups in the tech community to apply and understand that not all successful candidates will meet each requirement listed. Our interview process is unique to each role, and ",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "s for remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+          "pattern": "visa sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+          "pattern": "sponsorship (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "US",
+    "workplace": "remote",
+    "rank_overall": 0.671,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer, Application Security (all levels)",
+    "company": "Render",
+    "location": "SF or Remote (US/Canada)",
+    "url": "https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+    "date": "2026-11-20",
+    "id": "9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "At Render, we’re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms—so teams can ship fast, scale reliably, and focus on their product, not infrastructure. Unlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experience with persistent compute, dynamic autoscaling, built-in orchestration, and observability, allowing teams to launch, scale, and manage real-world applications without writing infrastructure code or managing servers. Whether you're building LLM-powered applications, scalable SaaS products, or async processing pipelines, Render empowers teams to move fast and scale confidently from MVP to millions of users. Our platform is trusted by over 7 million developers worldwide and continues to grow rapidly. In February 2026, we raised an additional $100M in Series C financing, bringing our total funding to $260M, to accelerate our vision of making cloud infrastructure both powerful and intuitive—designed for the speed of modern AI development. We’re a diverse and talented team that values craft, velocity, and user experience. If you’re excited to help shape the future of the intelligent cloud and empower developers everywhere, we’d love to hear from you. APPLYING TO RENDER We're seeking candidates who possess high integrity, humility, and an insatiable drive to learn. Through reasoned discussions and continuous feedback, we strive to improve both individually and collectively. We foster an environment of mutual trust and respect, empowering effective debate to achieve the best outcomes for our customers and team. We especially encourage members of underrepresented groups in the tech community to apply and understand that not all successful candidates will meet each requirement listed. Our interview process is unique to each role, and ",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "excerpt": "s for remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+          "pattern": "visa sponsorship (unqualified)"
+        },
+        {
+          "excerpt": "remote Renders. - Continuous learning benefits & related support. This position is generally not eligible for new visa sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must rece",
+          "source_url": "https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+          "pattern": "sponsorship (unqualified)"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Ambiguous sponsorship-related wording."
+    },
+    "country": "CA",
+    "workplace": "remote",
+    "rank_overall": 0.671,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.51,
+    "path": "A"
+  },
+  {
+    "title": "Backend Software Developer",
+    "company": "Dawn Technology",
+    "location": "Werken op afstand",
+    "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+    "date": "2026-11-20",
+    "id": "remote-backend-software-developer-hilversum-417173",
+    "portal": "visa-arbeitnow",
+    "source": "cli",
+    "description": "Backend Software Developer – Maatwerk Software met Impact Wij weten dat wat op het eerste gezicht eenvoudig lijkt, vaak complexer is dan men denkt. En wij begrijpen dat technologie geen barrière mag zijn, maar juist de verbinding naar een bestendige maatschappij. Bij Dawn Technology bouwen we niet zomaar digitale oplossingen. We ontwikkelen hoogwaardige maatwerk software die het leven van mensen verrijkt. Binnen onze Smart Devices afdeling bouwen we apps die impact maken. Van media apps voor bedrijven als Pathé en de NPO met miljoenen gebruikers, tot de app van het KNMI waarmee we belangrijke weerswaarschuwingen zoals code rood meldingen afgeven. We maken geen compromissen op kwaliteit en zoeken altijd naar de best mogelijke oplossing, tot in de kleinste details. Om onze groeiambities te realiseren zoeken we een Backend Software Developer . Iemand die energie krijgt van het ontwikkelen van sterke backend-omgevingen, het schrijven van strakke code en het operationeel krijgen én houden van de onderliggende cloud-infrastructuur voor applicaties met miljoenen gebruikers. Jouw rol Als Backend Software Developer ben je een onmisbare schakel in de backend-trajecten van onze applicaties. Je bouwt de schaalbare, onzichtbare motor achter hoogwaardige innovaties en zorgt dat onze infrastructuur robuust staat. Je bent analytisch sterk en je krijgt er energie van om technische requirements te vertalen naar logische cloud-infrastructuren die je vervolgens zélf bouwt. Je werkt nauw samen met onze multidisciplinaire ontwikkelteams en zorgt dat de code soepel draait. Geen haastwerk, maar engineering met diepgang en visie. Wat je zal gaan doen: Ontwikkelen en operationeel maken van serverless backends en event-driven API's met TypeScript (AWS Lambda / Serverless Functions). Zelfstandig opzetten van cloud-infrastructuren met behulp van Infrastructure as Code (bijv. via AWS CDK, Terraform of CloudFormation). Proactief meedenken over en het inrichten van CI/CD pipelines, applicatie-upti",
+    "sponsorship": {
+      "classification": "possible",
+      "confidence": 0.55,
+      "evidence": [
+        {
+          "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+          "source_url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+          "pattern": "arbeitnow visa_sponsorship filter"
+        }
+      ],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.667,
+    "sponsorship_score": 0.55,
+    "skill_score": 0.67,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer - Interfaces Backend",
+    "company": "Supabase",
+    "location": "Remote, Global",
+    "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+    "date": "2026-11-23",
+    "id": "30cc053e-33dc-4924-a870-2cf41c296b01",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We’re looking for a Software Engineer to join Supabase’s Interfaces group and help run the backend services behind our developer tools, starting with postgres-meta: the open-source service that runs SQL against customers’ Postgres databases on behalf of our dashboard, our MCP server, AI agents, and other platform tools. You’ll work closely with the engineers who build those tools, and with our Platform and SRE teams. AI agents are the fastest-growing source of postgres-meta’s traffic, and it sits on the path between developers and their data, so when it struggles, people can’t reach their databases from the dashboard or their agents. The team’s first priority is making it reliable, observable, and fair between tenants at agent scale, and helping redesign it for that scale without breaking the tools that depend on it. Depending on your experience, you’ll own major parts of that work or lead it. Alongside it, the team builds the backend services that give every branch of a project the configuration and secrets it needs. We want to be upfront: this role carries real operational load. Our on-call process and rotation are new and need a lot of maturing, and you’ll help build them into something sustainable from your first weeks. You’ll be on call for services on the critical path, and incidents come before planned work. Platform teams run the infrastructure underneath; you’ll own the services themselves, from their code to how they behave in production. It’s ideal for someone who enjoys that kind of ownership, thrives in async, fast-paced environments, and stays calm when the root cause turns out to be in someone else’s system. WHAT YOU’LL BE RESPONSIBLE FOR In this role, you’ll: - He",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.527,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.67,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer - Postgres Tooling",
+    "company": "Supabase",
+    "location": "Remote, Global",
+    "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+    "date": "2026-11-19",
+    "id": "2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We’re looking for a Software Engineer, Postgres Tooling to join our CLI team and help build the open-source tools developers use to change their Postgres schemas safely. You’ll join as a co-maintainer of pg-delta, our schema diff and migration engine, and grow into leading it. Given two databases, or a database and a folder of SQL files describing the schema you want, pg-delta works out the differences and generates the migration to get from one to the other. It powers supabase db diff, db pull, and declarative schemas, and it runs underneath Supabase’s platform, branching, and AI agent workflows. Every migration it generates is verified on a throwaway clone before it’s trusted, and it’s tested against 331 scenarios on PostgreSQL 14–18. We’re now working toward a stable, standalone 1.0 release for any Postgres developer, on Supabase or not. This is a correctness-first role. The SQL this tool generates runs against production databases, so privilege safety and avoiding data loss are non-negotiable. It’s a great fit for someone who loves Postgres at the catalog level, enjoys compiler-style problems, and thrives in async, fast-paced environments. WHAT YOU’LL BE RESPONSIBLE FOR In this role, you’ll: - Co-maintain pg-delta: review and merge changes, including PRs written by AI agents, and grow into its lead maintainer. - Own correctness: triage bug reports from GitHub and support, fix diff and dependency-ordering bugs, and extend test coverage across Postgres versions. - Make sure generated migrations are privilege-safe and never silently lose data, by detecting destructive changes and rewriting them into safe equivalents where possible. - Help take pg-delta to a stable 1.0: a public ",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.471,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.51,
+    "path": "A"
+  },
+  {
+    "title": "Software Engineer - AI Tooling",
+    "company": "Supabase",
+    "location": "Remote, Global",
+    "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
+    "date": "2026-11-10",
+    "id": "0055f731-cffa-4c74-9c00-8abfa579873d",
+    "portal": "visa-ashby",
+    "source": "cli",
+    "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We’re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse. You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. WHAT YOU’LL BE RESPONSIBLE FOR - Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant. - Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production. - Drive an eval-first approach: build and improve evals, instrumentation and feedback loops, measure tools against a no-tool baseline, and help define the quality KPIs and gates that stop regressions shipping. - Understand how customers and agents actually use what we ship, and turn that into improvements to our tooling, interfaces and documentation. - Design how documentation and prod",
+    "sponsorship": {
+      "classification": "unknown",
+      "confidence": 0.1,
+      "evidence": [],
+      "relocation_support": null,
+      "verified_at": "2026-11-24",
+      "notes": "Insufficient evidence in listing text."
+    },
+    "country": null,
+    "workplace": "remote",
+    "rank_overall": 0.446,
+    "sponsorship_score": 0.15,
+    "skill_score": 0.51,
+    "path": "A"
+  }
+]

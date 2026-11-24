@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "company": "Lume Deodorant",
+      "title": "Staff Software Engineer, DTC",
+      "url": "https://job-boards.greenhouse.io/103644278/jobs/8237877",
+      "location": "New York, NY",
+      "source": "greenhouse"
+    },
+    {
+      "company": "Harry's",
+      "title": "Senior Software Engineer, DTC",
+      "url": "https://job-boards.greenhouse.io/harrys/jobs/8399868",
+      "location": "New York, NY",
+      "source": "greenhouse"
+    },
+    {
+      "company": "Grüns",
+      "title": "Senior Shopify Full Stack Developer",
+      "url": "https://job-boards.greenhouse.io/gruns/jobs/5363457008",
+      "location": "Remote",
+      "source": "greenhouse"
+    },
+    {
+      "company": "Vibe",
+      "title": "Senior Full Stack Engineer - AdManager",
+      "url": "https://jobs.ashbyhq.com/vibe/7e6324dc-82b7-46ba-86da-918baa0244b1",
+      "location": "Paris",
+      "source": "ashby"
+    },
+    {
+      "company": "Fuse AI",
+      "title": "Senior Frontend Engineer",
+      "url": "https://www.ycombinator.com/companies/fuse-ai/jobs/AS9hfmv-senior-frontend-engineer",
+      "location": "Remote",
+      "source": "yc"
+    },
+    {
+      "company": "amo",
+      "title": "Software Engineer, Web (Full stack)",
+      "url": "https://jobs.ashbyhq.com/amo/5f204df7-6170-4256-ac64-8c92470cf885",
+      "location": "Paris",
+      "source": "ashby"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (Repayment UX)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+      "location": "Remote Spain",
+      "source": "greenhouse"
+    }
+  ]
+}

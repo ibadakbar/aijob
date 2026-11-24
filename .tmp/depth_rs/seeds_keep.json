@@ -1,0 +1,110 @@
+[
+  {
+    "file": "li_ams.json",
+    "company": "ClickHouse",
+    "title": "Full Stack Software Engineer - Postgres",
+    "url": "https://nl.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491820731",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "posted": "2026-11-18",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_ams.json",
+    "company": "iO",
+    "title": "Medior / Senior Front-end Engineer",
+    "url": "https://nl.linkedin.com/jobs/view/medior-senior-front-end-engineer-at-io-4477129823",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "posted": "2026-11-19",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_ams.json",
+    "company": "Mendix",
+    "title": "Frontend Engineer",
+    "url": "https://nl.linkedin.com/jobs/view/frontend-engineer-at-mendix-4466270731",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "posted": "2026-11-20",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_berlin.json",
+    "company": "Planet",
+    "title": "Software Engineer",
+    "url": "https://de.linkedin.com/jobs/view/software-engineer-at-planet-4488007729",
+    "location": "Berlin, Berlin, Germany",
+    "posted": "2026-11-20",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_london.json",
+    "company": "Client Server",
+    "title": "Staff Engineer TypeScript Node React - FinTech",
+    "url": "https://uk.linkedin.com/jobs/view/staff-engineer-typescript-node-react-fintech-at-client-server-4494103553",
+    "location": "London, England, United Kingdom",
+    "posted": "2026-11-24",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_london.json",
+    "company": "ClickHouse",
+    "title": "Full Stack Software Engineer - Postgres",
+    "url": "https://uk.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491817883",
+    "location": "London, England, United Kingdom",
+    "posted": "2026-11-18",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_london.json",
+    "company": "Capital on Tap",
+    "title": "Frontend Software Engineer",
+    "url": "https://uk.linkedin.com/jobs/view/frontend-software-engineer-at-capital-on-tap-4485336472",
+    "location": "London, England, United Kingdom",
+    "posted": "2026-11-23",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_london.json",
+    "company": "JUXT",
+    "title": "Senior React Engineer",
+    "url": "https://uk.linkedin.com/jobs/view/senior-react-engineer-at-juxt-4491841590",
+    "location": "London Area, United Kingdom",
+    "posted": "2026-11-18",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_london.json",
+    "company": "Hunter Bond",
+    "title": "React Engineer - London - Up to \u00a3180,000 Starting Base + Exceptional Bonuses/Benefits",
+    "url": "https://uk.linkedin.com/jobs/view/react-engineer-london-up-to-%C2%A3180-000-starting-base-%2B-exceptional-bonuses-benefits-at-hunter-bond-4490807286",
+    "location": "London Area, United Kingdom",
+    "posted": "2026-11-17",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_remote.json",
+    "company": "ClickHouse",
+    "title": "Full Stack Software Engineer - Postgres",
+    "url": "https://au.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491837048",
+    "location": "Sydney, New South Wales, Australia",
+    "posted": "2026-11-18",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_remote.json",
+    "company": "Letitbex AI",
+    "title": "ReactJS Developer",
+    "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-letitbex-ai-4493772920",
+    "location": "Hyderabad, Telangana, India",
+    "posted": "2026-11-23",
+    "reason": "KEEP"
+  },
+  {
+    "file": "li_remote.json",
+    "company": "ClickHouse",
+    "title": "Full Stack Software Engineer - Postgres",
+    "url": "https://ca.linkedin.com/jobs/view/full-stack-software-engineer-postgres-at-clickhouse-4491825447",
+    "location": "Toronto, Ontario, Canada",
+    "posted": "2026-11-18",
+    "reason": "KEEP"
+  }
+]

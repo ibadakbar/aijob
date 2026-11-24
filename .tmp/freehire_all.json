@@ -1,0 +1,508 @@
+﻿{
+  "meta": {
+    "count": 15,
+    "page": 1,
+    "total": 55516
+  },
+  "results": [
+    {
+      "id": "frontend-developer-truenorth-r-hrwwq7vr",
+      "title": "Frontend Developer",
+      "company": "TrueNorth®",
+      "company_slug": "true-north",
+      "location": "Manchester Area, United Kingdom",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4493628699/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "accessibility",
+        "ci-cd",
+        "css",
+        "github",
+        "gitlab",
+        "html",
+        "jenkins",
+        "kanban",
+        "nodejs",
+        "playwright",
+        "scrum",
+        "selenium",
+        "tdd",
+        "typescript"
+      ],
+      "description": "**Front End Developer**\n\n**Location: Manchester - 3 days a week on site**\n\n**Contract | Inside IR35 | £430**\n\n**Clearance: Active SC preferred of high confidence of eligibility**\n\nA UK public-sector organisation is looking for a Front End Developer to build and test accessible digital services.\n\nYou’ll work with\n\n- Node.js,\n- TypeScript,\n- HTML and CSS,\n- TDD, and automate browser tests with tools such as Playwright or Selenium.\n\nYou’ll need practical experience developing and testing for accessibility, plus experience with a CI/CD tool such as Jenkins, GitLab or GitHub. Experience with government design standards and components, GitLab CI/CD, Playwright with TypeScript, or Scrum and Kanban is welcome.\n\nThe role can be based at a UK client site outside London. The aim is 60% on site, with potential flexibility, and monthly travel.\n\nMessage me with your CV, preferred location and an example of your accessibility testing work."
+    },
+    {
+      "id": "react-native-developer-expo-curemeabroad-wu33rbg6",
+      "title": "React Native Developer (Expo)",
+      "company": "CureMeAbroad",
+      "company_slug": "curemeabroad",
+      "location": "Pune City, Maharashtra, India",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492677486/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "authentication",
+        "aws",
+        "cloud",
+        "express",
+        "gcp",
+        "ios",
+        "javascript",
+        "mongodb",
+        "nodejs",
+        "postgresql",
+        "react",
+        "react-native",
+        "rest",
+        "typescript"
+      ],
+      "description": "**CureMeAbroad** is looking for a passionate React Native Developer who enjoys building mobile applications, developing backend services, and creating seamless digital experiences.\n\n**💻 What You’ll Work On:**\n\nMobile App Development: Build and maintain cross-platform mobile applications for iOS and Android using React Native and Expo.Backend Development: Develop and maintain backend services, REST APIs, and integrations using Node.js and Express.js.API & Third-Party Integrations: Integrate APIs, authentication, push notifications, and third-party services.UI/UX Implementation: Build responsive, intuitive, and high-performance mobile interfaces.\n\nApp Performance: Optimize application performance, troubleshoot issues, and ensure a smooth user experience.\n\nBuild & Deployment: Manage Expo EAS builds, app releases, and deployments to Google Play Store and Apple App Store.\n\nCloud & Infrastructure: Work with cloud infrastructure and deployment environments on AWS and GCP.\n\n🎯 **What We’re Looking For:**\n\n2–4 years of experience in mobile app development.\n\nStrong proficiency in JavaScript/TypeScript, React Native, and Expo.\n\nExperience with Node.js and Express.js for backend development.\n\nGood understanding of REST APIs, authentication, and database integration.\n\nHands-on experience with Expo EAS Build and mobile app deployment.Understanding of React Hooks, state management, and mobile app architecture.\n\nFamiliarity with PostgreSQL and/or MongoDB.Experience with AWS and/or GCP deployment and cloud infrastructure is preferred.A problem-solving mindset and the ability to take ownership of features in a fast-paced startup environment.\n\n**📍 Location: Pune (In-office)**\n\n**🚀 Why Join Us?**\n\nBuild and ship real mobile products, work across mobile and backend technologies, and make a direct impact on a growing medical tourism platform serving patients worldwide."
+    },
+    {
+      "id": "frontend-engineer-react-typescript-money-forward-india-qyvyo4cj",
+      "title": "Frontend Engineer (React / TypeScript)",
+      "company": "Money Forward India",
+      "company_slug": "money-forward-india",
+      "location": "Chennai, Tamil Nadu, India",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4493995682/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "ai",
+        "api",
+        "argocd",
+        "automation",
+        "aws",
+        "azure",
+        "chatgpt",
+        "ci-cd",
+        "claude-code",
+        "cloud",
+        "cloud-native",
+        "css",
+        "devops",
+        "docker",
+        "ecs",
+        "fintech",
+        "gcp",
+        "generative-ai",
+        "git",
+        "github",
+        "github-actions",
+        "github-copilot",
+        "graphql",
+        "java",
+        "jest",
+        "kotlin",
+        "oauth",
+        "openid",
+        "playwright",
+        "postgresql",
+        "react",
+        "react-testing-library",
+        "redis",
+        "saas",
+        "scrum",
+        "spring",
+        "sre",
+        "storybook",
+        "tailwind",
+        "typescript",
+        "wcag"
+      ],
+      "description": "**About Money Forward**  \nDriven by our core mission, \"Money Forward. Move your life forward,\" Money Forward is redefining how individuals and businesses interact with financial services through high-impact technology. In partnership with Sumitomo Mitsui Financial Group (SMFG) and Sumitomo Mitsui Banking Corporation (SMBC), we are launching a next-generation digital bank built from the ground up to empower small and medium-sized businesses (SMBs) across Japan.\n\nOperating as an agile fintech startup within our modern tech hubs in Chennai and Pune, our engineering team is creating high-availability, cloud-native financial solutions using modern architectures, AI-driven automation, and slick user-centric web applications.  \nWe are looking for a visionary Frontend Engineer who thrives in greenfield environments, cares deeply about UI/UX performance, and is excited to craft high-scale digital banking platforms.\n\n**The Opportunity & Team Culture**  \nYou will join a cross-functional, product-focused team of Product Managers, Backend Engineers, Frontend Engineers, QA Engineers, and SREs working closely together in an agile, low-friction culture. You will have a direct hand in shaping the frontend architecture, performance standards, and user experiences for embedded financial products leveraging Mambu cloud banking infrastructure.\n\n**Key Responsibilities**\n\nThe team consists of cross-functional members Product Managers, Backend Engineers, Frontend Engineers, QA Engineers, and SRE working together with tight communication throughout the development process.\n\n**Responsibilities and duties**  \nAs a Software Engineer in the Application Development Team, you will leverage Mambu, a leading cloud banking platform for neobanks and challenger banks, to build one of the most reliable and agile banking systems in the industry. Our goal is to shape the future of digital banking in Japan, making it more accessible and user-friendly than ever before.\n\n- Architect, develop, and maintain high-performance, accessible, and responsive web applications using TypeScript, React, and modern UI toolkits (Shadcn, Tailwind CSS, TanStack).\n- Partner with Product Managers, UX Designers, and Backend Engineers to translate complex banking domain workflows (CLM, loans, transactional channels) into seamless frontend experiences.\n- Drive UI architecture, design systems, state management, and web performance optimization for mission-critical fintech applications.\n- Champion integrates testing at different layers like unit , storybook and playwright testing and non-functional quality standards (web security, accessibility,WCAG, Core Web Vitals) within modern CI/CD pipelines.\n- Integrate GenAI tools and workflows (Copilot, Claude Code, ChatGPT) to boost developer productivity and streamline operational processes.\n- Lead sprint execution as a technical mentor and Scrum contributor, taking end-to-end ownership across the software development lifecycle.\n\nRequirements\n\n**Required skills and experience**  \nWe are looking for self-driven engineers with strong problem-solving capabilities and experience in building enterprise-grade frontend systems.\n\n- 5+ years of professional experience building scalable web applications with React and TypeScript.\n- Solid proficiency with state management libraries, asynchronous API integration (REST/GraphQL), and modern CSS frameworks (Shadcn UI/Material UI, Tailwind, or styled-components).\n- Strong understanding of web security fundamentals (OAuth2, OIDC, XSS, CSRF) and performance tuning.\n- Experience with frontend testing frameworks (Jest, React Testing Library, Playwright)).\n- Practical experience with Git, CI/CD automation pipelines, and containerized deployments (Docker).\n- Bachelor's or Master's degree in Computer Science, Information Technology, or equivalent practical experience.\n\n**Preferred skills and experience**\n\n- Prior exposure to fintech, banking, payment gateways, or SaaS products in high-growth environments.\n- Familiarity with server-side technologies or BFF architectures ( Java/Kotlin, Spring Boot).\n- Hands-on experience leveraging AI tools (GitHub Copilot, Claude Code, ChatGPT) for development workflows.\n- Experience with modern cloud platforms (AWS, GCP, or Azure) and micro-frontend architectures.\n\n**What We Offer & Cultural Fit**\n\n- Opportunity to build a digital bank from scratch alongside top engineering talent in India and Japan.\n- High-ownership environment where critical thinking, initiative, and modern engineering practices are valued.\n- Continuous learning opportunities, AI tool enablement, and collaborative cross-border innovation.\n\n**Technology stack and tools used**  \nFrontend(Mandatory) : TypeScript, React, TanStack, Shadcn UI, Tailwind CSS  \nBackend & Platform: Kotlin, Spring Boot, PostgreSQL, Redis  \nCloud & DevOps: AWS ECS, Docker, GitHub Actions, ArgoCD, SonarCloud, AeyeScan  \nAI Tooling: GitHub Copilot, Claude Code, ChatGPT, Gemini"
+    },
+    {
+      "id": "frontend-developer-spait-infotech-cmzjs7du",
+      "title": "Frontend Developer",
+      "company": "Spait Infotech",
+      "company_slug": "spait-infotech",
+      "location": "Canada",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4494075481/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "ca"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "bootstrap",
+        "css",
+        "git",
+        "github",
+        "html",
+        "javascript",
+        "json",
+        "react",
+        "rest",
+        "tailwind",
+        "typescript",
+        "version-control",
+        "vue",
+        "wireframing"
+      ],
+      "description": "Roles and Responsibilities\n\n- Develop responsive and interactive web pages using HTML, CSS, and JavaScript.\n- Build reusable UI components and frontend functionalities.\n- Develop web applications using React.js, Angular, or Vue.js.\n- Convert UI/UX designs and wireframes into functional web interfaces.\n- Ensure websites are responsive across desktop, tablet, and mobile devices.\n- Integrate REST APIs and backend services into frontend applications.\n- Implement form validations and user interaction features.\n- Optimize website performance, loading speed, and application responsiveness.\n- Identify, troubleshoot, and fix frontend bugs and issues.\n- Maintain clean, reusable, and well-structured code.\n- Ensure cross-browser compatibility and consistent user experience.\n- Work with backend developers to integrate frontend and backend functionalities.\n- Use version control tools such as Git and GitHub.\n- Participate in code reviews, testing, and debugging activities.\n- Maintain and improve existing web applications.\n\nTechnical Skills Required\n\n- HTML5: Semantic HTML, Forms, Tables, Web Structure.\n- CSS3: Flexbox, Grid, Media Queries, Animations, Responsive Design.\n- JavaScript: ES6+, DOM Manipulation, Events, Promises, Async/Await.\n- React.js: Components, Props, State, Hooks, React Router.\n- Angular: Components, Services, Directives, Data Binding (if applicable).\n- Bootstrap / Tailwind CSS: Responsive UI Development and Styling.\n- REST API: API Integration, HTTP Methods, JSON Handling.\n- Git & GitHub: Version Control, Branching, Code Management.\n- TypeScript: Basic to Intermediate Knowledge.\n- Debugging: Browser Developer Tools and Error Handling.\n\nRequired Skills\n\n- Strong understanding of HTML, CSS, and JavaScript.\n- Good knowledge of responsive web design.\n- Understanding of frontend frameworks and libraries.\n- Problem-solving and debugging skills.\n- Ability to write clean, reusable, and maintainable code.\n- Good communication and teamwork skills.\n- Attention to detail and creativity.\n- Ability to learn new technologies and adapt to changing requirements."
+    },
+    {
+      "id": "frontend-developer-m-f-d-quantion-23bxbsvp",
+      "title": "Frontend developer (m/f/d)",
+      "company": "Quantion",
+      "company_slug": "quantion",
+      "location": "Barcelona, Catalonia, Spain",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4493721219/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "es"
+      ],
+      "skills": [
+        "accessibility",
+        "adobe-experience-manager",
+        "ai",
+        "api",
+        "authentication",
+        "azure",
+        "ci-cd",
+        "css",
+        "git",
+        "github",
+        "github-copilot",
+        "graphql",
+        "html",
+        "javascript",
+        "react",
+        "redux",
+        "test-automation",
+        "typescript",
+        "wcag"
+      ],
+      "description": "🔎 **Who we are?**\n\n**Quantion** is a Business Digital Transformation services company founded in 2015 and part of the **Astek Group** group operating in more than **25 countries** with over **10,000 employees** worldwide.\n\nOur team is specialized in application development, UX/UI, and digital business transformation, focused on building innovative solutions that drive measurable business results.\n\nWe combine our teams in cutting-edge technologies and digital deep experiences with the innovation ecosystem, to ensure that we can provide the best solution to face business challenges, from its concept to its implementation.\n\n- Experienced developers to learn from,\n- Weekly dev talks, time for refactoring and improvements,\n- Dev team has freedom to choose frameworks/libraries,\n- Individual development plan with trainings,\n- Possibility to go to conferences.\n\nWe are looking for a **Frontend Developer** to join **Astek Group**, working on an exciting project for a client in the **airline industry**.\n\nYou will become part of a dynamic team, contributing to the development and enhancement of digital solutions within the aviation sector.\n\n**Required Skill set:**\n\n**Front-End Development:** Strong JavaScript/TypeScript, HTML5 and CSS skills, with experience the modern framework React\n\n**Architecture & APIs:** Ability to build maintainable, reusable components, manage application state and integrate REST or GraphQL APIs.\n\n**UX & Accessibility:** Implement responsive, user-friendly interfaces with forms, navigation using design system, internationalisation and WCAG-compliant accessibility\n\n**Quality & Performance:** Experience with automated testing, debugging and optimization of rendering, network usage and Core Web Vitals.\n\n**Security & Privacy:** Secure handling of user data, authentication and sensitive information.\n\n**AI-Assisted Development**: Effectively use AI coding tools such as GitHub Copilot to accelerate development, code generation, testing, debugging, documentation and refactoring while critically reviewing AI-generated code for quality, security and maintainability.\n\n**Development & Delivery:** Proficient with Git, code reviews, CI/CD pipelines, feature flags and release processes (preferably MS Azure)\n\n**Collaboration:** Effective collaboration with Design, Product, Backend and QA teams on requirements, API contracts and implementation decisions.\n\n**Experienced** in working with Mono-Repository Architecture as well as Micro-Frontend Architecture\n\n**Experienced** with Redux Technologie\n\n**Experienced** in AEM\n\n**Our offering:**\n\n🚀 You will grow professionally in a company in constant development and evolution.\n\n📏 You will benefit from a personalized follow-up of your professional projects as close as possible to your ambitions.\n\n📈 You will make a real contribution to the company's development in real time.\n\n🏝️ You will enjoy 23 days of vacation.\n\n🌍 You will join our team: diverse, multicultural and constantly growing.\n\n🔋 You will have days full of good energy and good atmosphere."
+    },
+    {
+      "id": "frontend-developer-astek-by57zlax",
+      "title": "Frontend Developer",
+      "company": "Astek",
+      "company_slug": "astek",
+      "location": "Barcelona, Catalonia, Spain",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492383650/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "es"
+      ],
+      "skills": [
+        "accessibility",
+        "adobe-experience-manager",
+        "ai",
+        "api",
+        "authentication",
+        "azure",
+        "ci-cd",
+        "css",
+        "git",
+        "github",
+        "github-copilot",
+        "graphql",
+        "html",
+        "javascript",
+        "react",
+        "redux",
+        "test-automation",
+        "typescript",
+        "wcag"
+      ],
+      "description": "At ASTEK Iberia, we are looking for an experienced **Frontend Developer** to join a client in the airline industry, contributing to innovative digital solutions within the aviation sector\n\n💪 **Main responsibilities:**\n\n- Develop and enhance modern, responsive web applications using React, JavaScript/TypeScript, HTML5 and CSS.\n- Build maintainable and reusable frontend components, manage application state and integrate REST and GraphQL APIs.\n- Implement accessible and user-friendly interfaces following design systems, internationalisation standards and WCAG accessibility guidelines.\n- Ensure application quality through automated testing, debugging and optimisation of rendering, network usage and Core Web Vitals.\n- Apply secure practices when handling user data, authentication and sensitive information.\n- Use AI-assisted development tools such as GitHub Copilot for development, testing, debugging, documentation and refactoring, while critically reviewing generated code.\n- Collaborate closely with Design, Product, Backend and QA teams on requirements, API contracts and implementation decisions.\n- Contribute to development and delivery processes using Git, code reviews, CI/CD pipelines, feature flags and release processes.\n\n👀 **Who are you?**\n\n- Strong experience with React, JavaScript/TypeScript, HTML5 and CSS.\n- Experience with application state management, particularly Redux.\n- Experience working with Mono-Repository and Micro-Frontend architectures.\n- Hands-on experience with AEM (Adobe Experience Manager).\n- Strong understanding of frontend performance, automated testing, debugging, security and accessibility.\n- Comfortable working collaboratively within multidisciplinary development teams.\n\nNice to have:\n\n- Experience with Microsoft Azure for CI/CD and release processes.\n- Experience using GitHub Copilot or similar AI coding tools.\n\n💼 **Who are we?**\n\nSince 2015, Astek Iberia has been accompanying its customers in their development throughout Spain (Madrid, Barcelona, Valencia, Basque Country, Andalusia, Galicia, etc.).\n\nFounded in France in 1988, Astek is a global player in engineering and technology consulting, present in five continents and 25 countries. With expertise in a wide range of industrial and service sectors, Astek is an essential partner, supporting its customers in an intelligent deployment of their products and services, and in the implementation of their digital transformation.\n\nToday we are more than 8,000 employees, committed every day to promote the complementarity between digital technologies and complex systems engineering.\n\nOur style is to have flexible schedules and highly value the well-being of our employees.\n\n**Why join us?**\n\n🚀 You will grow professionally in a company in constant development and evolution.\n\n📏 You will benefit from a personalized follow-up of your professional projects as close as possible to your ambitions.\n\n📈 You will make a real contribution to the company's development in real time.\n\n🏝️ You will enjoy 23 days of vacation (in addition to holidays) that you will be able to choose whenever you want.\n\n🌍 You will join our team: diverse, multicultural and constantly growing.\n\n🔋 You will have days full of good energy and good atmosphere.\n\n...although you still have a lot to discover! 😄\n\nShall we meet? 📧\n\nIf you want to participate in the process, apply from here attaching your CV (in English) as detailed as possible and we will tell you more."
+    },
+    {
+      "id": "react-developer-talent-kv7ujbyn",
+      "title": "React Developer",
+      "company": "Talent",
+      "company_slug": "talent",
+      "location": "Canberra, Australian Capital Territory, Australia",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4494097866/?utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "accessibility",
+        "agentic-ai",
+        "ai",
+        "api",
+        "ci-cd",
+        "cloud",
+        "cloud-native",
+        "react",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "- **Build modern React and TypeScript applications using AI-assisted engineering workflows**\n- **Multiple opportunities | 12-month contract + 12-month extension option**\n- **Australian Citizenship required | Ability to obtain Baseline clearance**\n\nJoin a multidisciplinary digital delivery team developing accessible, secure and user-centred web applications within a large-scale enterprise environment.\n\nThis is a hands-on frontend engineering role with a strong emphasis on AI-assisted software development. You'll combine your expertise in React and TypeScript with modern AI development tools to accelerate delivery while maintaining ownership of code quality, security, accessibility and technical outcomes.\n\n**The Role**\n\nWorking closely with designers, business analysts, architects and backend developers, you'll contribute to the development and ongoing improvement of modern digital applications.\n\nYour responsibilities will include:\n\n- Developing, testing and maintaining modern web applications using React and TypeScript\n- Leveraging AI-assisted development tools throughout implementation, testing, debugging and documentation\n- Developing reusable components, enhancing design systems and integrating frontend applications with backend services\n- Ensuring applications meet accessibility, security, performance and maintainability standards\n- Contributing to code reviews, automated testing, CI/CD processes and continuous improvement of engineering practices\n\n**About You**\n\nWe're particularly interested in:\n\n- Strong hands-on frontend development experience using React and TypeScript\n- Strong understanding of component-based architecture, state management, API integration and responsive UI development\n- Demonstrated experience incorporating AI-assisted development tools into day-to-day software engineering workflows\n- Ability to effectively direct, review, validate and refine AI-generated code, backed by strong software engineering fundamentals\n- Experience delivering accessible digital applications and applying inclusive design principles throughout development\n- Experience with source control, automated testing, CI/CD pipelines and modern software delivery practices\n- Strong communication and collaboration skills within multidisciplinary delivery teams\n- Experience with agentic development tools, specification-driven development, component libraries or cloud-native platforms would be highly regarded\n\n**Why Consider the Opportunity?**\n\nThis is an opportunity to work within an engineering environment where AI-assisted development is a core part of how software is delivered, rather than an optional productivity tool.\n\nYou'll have the opportunity to further develop your capabilities across emerging AI engineering workflows while remaining hands-on with React and TypeScript, applying these approaches to complex enterprise applications where accessibility, security and code quality remain essential.\n\n**Interested?**\n\nClick APPLY to send through your resume. If your experience aligns, I'll be in touch to talk you through the opportunity, provide further context on the role and working environment, and discuss the submission process and next steps.\n\nFor a confidential discussion, contact Jaela Smith at Talent International on 0480 806 146 or jaela.smith@talentinternational.com.\n\nFor over 30 years Talent has been redefining the contracting experience with industry leading support, exclusive contractor benefits & a world-class digital platform ENGAGE to access it all. Apply today to see how we can elevate your career"
+    },
+    {
+      "id": "frontend-developer-sf-technology-partners-x4dcosvt",
+      "title": "Frontend Developer",
+      "company": "SF Technology Partners",
+      "company_slug": "sf-technology-partners",
+      "location": "Warrington, England, United Kingdom",
+      "date": "2026-11-24",
+      "url": "https://www.linkedin.com/jobs/view/4492636400/?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "uk"
+      ],
+      "countries": [
+        "gb"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "api",
+        "ci-cd",
+        "git",
+        "javascript",
+        "microsoft-fabric",
+        "react",
+        "rest",
+        "test-automation",
+        "typescript"
+      ],
+      "description": "Front-End Developer with strong JavaScript and React experience gained within a complex, data-heavy environment, is sought by a market-leading, global supply chain organisation investing heavily in digital innovation and new product development.\n\nThis is an opportunity to play a key role in building modern, data-driven applications that go beyond traditional reporting and dashboards, helping teams make smarter commercial and operational decisions.\n\nThe business is developing a new generation of user-facing digital products that bring together complex datasets, analytics, visualisation, workflows and emerging AI capabilities.\n\nWe're looking for an engineer who is passionate about front-end development, React and creating intuitive user experiences, and who has experience turning complex data into accessible, engaging and high-performing applications.\n\nThis isn't a traditional BI Developer or Data Engineer position. The emphasis is firmly on front-end engineering, building sophisticated applications that make large volumes of data genuinely useful to the people who rely on it.\n\nThe successful Front-End Developer should have most of the following:\n\n- Strong commercial experience developing modern applications using JavaScript, React and ideally TypeScript.\n- Experience building front-end applications within data-heavy environments, working with complex datasets and data-driven functionality.\n- An ability to transform complex information into intuitive, interactive user interfaces, dashboards and visualisations.\n- Strong experience integrating front-end applications with REST APIs, back-end services and data platforms.\n- A good understanding of front-end architecture, reusable components, state management and application performance.\n- Experience designing responsive, scalable and maintainable applications with a strong emphasis on usability and user experience.\n- Confidence working collaboratively with Data Engineers, Analytics Engineers and business stakeholders to translate complex requirements into practical digital products.\n- Familiarity with modern software engineering practices including Git, automated testing, code reviews and CI/CD.\n- Exposure to Microsoft Fabric, modern analytics platforms or enterprise data environments would be advantageous but is not essential.\n\nIn return, this Front-End Developer can expect:\n\n• Base salary of £60,000 - £70,000 DoE\n\n• A fast-paced, innovation-first environment with significant investment in modern technology.\n\n• Genuine autonomy and ownership over front-end application development.\n\n• The opportunity to build sophisticated digital products used across an international business.\n\n• Extensive career development and growth potential.\n\n• Bonus\n\n• Private healthcare\n\n• long term hybrid working (two/ three days a week on-site)\n\nSo, if you're a React / JavaScript Developer who enjoys solving complex front-end challenges, has experience working with data-intensive applications and wants the opportunity to build innovative products within an established, financially secure international organisation, please apply now to be considered\n\nFront End Developer\n\nWarrington\n\n£60,000 - £70,000"
+    },
+    {
+      "id": "frontend-developer-enov8tive-4mujrsth",
+      "title": "Frontend Developer",
+      "company": "Enov8Tive",
+      "company_slug": "enov8tive",
+      "location": "Taguig City, Metro Manila",
+      "date": "2026-11-24",
+      "url": "https://ph.jobstreet.com/job/96089906?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "ph"
+      ],
+      "skills": [
+        "angular",
+        "api",
+        "css",
+        "git",
+        "github",
+        "html",
+        "javascript",
+        "json",
+        "react",
+        "rest",
+        "typescript",
+        "vue",
+        "wireframing"
+      ],
+      "description": "**About the Position**\n\nEnov8tive Technology Solutions, Inc. is seeking a creative and technically capable Front-End Developer to join our Software Development Team.\n\nThe successful candidate will be responsible for developing and maintaining user-friendly, responsive and functional web application interfaces. We welcome fresh graduates with relevant academic or personal projects, as well as experienced developers with professional frontend development experience.\n\n**Key Responsibilities**\n\n- Develop and maintain responsive and user-friendly web application interfaces.\n- Translate UI/UX designs, wireframes and technical specifications into functional web pages and components.\n- Develop reusable frontend components using appropriate programming languages and frameworks.\n- Integrate frontend applications with backend services through REST APIs.\n- Ensure compatibility across different browsers, devices and screen sizes.\n- Conduct frontend testing, debugging and troubleshooting.\n- Optimize application performance, loading speed and responsiveness.\n- Collaborate with backend developers, UI/UX designers and QA personnel.\n- Participate in code reviews, technical discussions and software development activities.\n- Maintain clean, reusable and properly documented code.\n- Follow established development standards and application security requirements.\n\n**Qualifications**\n\n**Educational Requirements:**\n\n- Bachelor's degree in Computer Science, Information Technology, Computer Engineering, Software Engineering or a related field.\n- Fresh graduates are welcome to apply.\n\n**Technical Requirements:**\n\n- Basic to working knowledge of HTML5, CSS3 and JavaScript.\n- Familiarity with at least one frontend framework or library, such as:\n- React.js\n- Angular\n- Vue.js\n- Basic understanding of responsive web design and UI/UX principles.\n- Familiarity with REST APIs, JSON and Git.\n- Basic knowledge of debugging and browser developer tools.\n\n**Additional Qualifications:**\n\n- Knowledge of TypeScript is an advantage.\n- Familiarity with CSS frameworks or UI component libraries is an advantage.\n- Relevant internship, capstone project, academic project or personal portfolio is an advantage.\n- Good analytical, problem-solving and communication skills.\n- Attention to detail and willingness to learn new technologies.\n\n**Experience:**\n\n- Fresh graduates with relevant projects or demonstrable technical skills may apply.\n- Candidates with at least two (2) years of professional frontend or web application development experience are encouraged to apply.\n\n**What We Offer**\n\n- Opportunity to work on software development projects.\n- Exposure to modern web development technologies.\n- Professional growth and technical learning opportunities.\n- Collaborative working environment.\n- Compensation commensurate with qualifications and experience.\n\n**How to Apply**\n\nInterested applicants may submit their updated résumé/CV, together with links to their portfolio, GitHub repository or sample websites/applications, if available.\n\nJoin Enov8tive and be part of a team building practical technology solutions!"
+    },
+    {
+      "id": "react-native-developer-renaissance-infosystems-6etjsn2v",
+      "title": "React Native Developer",
+      "company": "Renaissance InfoSystems",
+      "company_slug": "renaissance-infosystems",
+      "location": "Sydney, New South Wales",
+      "date": "2026-11-24",
+      "url": "https://www.jobleads.com/au/job/react-native-developer--sydney--e71ea751cf6fab896d3354e7a7a729dae?utm_source=freehire.me",
+      "work_mode": "onsite",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "au"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "css",
+        "html",
+        "ios",
+        "mobx",
+        "react",
+        "react-native",
+        "redux",
+        "rest",
+        "zustand"
+      ],
+      "description": "Renaissance Info Systems is seeking a React Native Developer to design, build, and maintain mobile apps for Android and iOS in a Sydney-based contract role.\n\nIdeal candidates have 6+ years in mobile development, strong React Native skills, and experience with REST APIs and modern state management tools. The position is based in Sydney, Australia, and offers a contract engagement with ongoing project work.\n\nDesign, develop, and maintain mobile applications using React Native for Android and iOS platforms. Build reusable components and scalable mobile application architectures. Integrate RESTful APIs and third-party services into mobile applications. Implement state management using Redux, Context API, or other state management libraries. 5+ years of experience in mobile application development. Strong hands-on experience with React Native. Experience developing applications for both Android and iOS. Strong understanding of React.js, Functional Components, Hooks, and Context API. Experience with Redux, Redux Toolkit, MobX, or Zustand. Hands-on experience integrating REST APIs and third-party APIs. Knowledge of HTML5, CSS3, and responsive design principles."
+    },
+    {
+      "id": "frontend-ux-lead-manager-remote-collaboration-citystyle-it-solutions-corp-yz26q23d",
+      "title": "Frontend & UX Lead Manager: Remote Collaboration",
+      "company": "CITYSTYLE IT Solutions Corp.",
+      "company_slug": "citystyle-it-solutions",
+      "location": "Time, Rogaland",
+      "date": "2026-11-24",
+      "url": "https://www.jobleads.com/no/job/frontend-ux-lead-manager-remote-collaboration--time--e04ca6067fccb0d027cb488e130c63e87?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "no"
+      ],
+      "skills": [
+        "accessibility",
+        "ux-design"
+      ],
+      "description": "CITYSTYLE IT Solutions Corp. is seeking a Web Development Manager to lead our frontend engineers and drive high‑quality web solutions. You will coordinate with an engineering team based in the Philippines and interact with clients in Japan to ensure on‑time delivery and strong UI/UX outcomes.\n\nThe role emphasizes hands-on leadership, cross‑functional collaboration, and maintaining rigorous design and coding standards across projects.\n\nManage the front‑end engineering team (currently four members, with plans for expansion). Oversee website development and system UI/UX design and ensure successful implementation. Review source code and resolve technical issues. Identify bugs, understand root causes, and propose improvements. Conduct remote meetings with clients (Japan). Handle project progress tracking, cost estimation, and quality control. Train and nurture the engineering team based in the Philippines. Understand client requirements and coordinate initiatives to ensure project delivery. At least five (5) years of experience in both design and management. Experience supervising front-end engineers and delivering web projects. Strong grasp of UI/UX and accessibility best practices."
+    },
+    {
+      "id": "react-native-developer-hybrid-mobile-apps-ios-android-zactra-technologies-inc-3a4heepb",
+      "title": "React Native Developer - Hybrid Mobile Apps (iOS/Android)",
+      "company": "Zactra Technologies Inc",
+      "company_slug": "zactra-technologies",
+      "location": "On, Luxemburg",
+      "date": "2026-11-24",
+      "url": "https://www.jobleads.com/be/job/react-native-developer-hybrid-mobile-apps-ios-android--on--e26437f98484e5ae5a955e2654b187f39?utm_source=freehire.me",
+      "work_mode": "hybrid",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "be"
+      ],
+      "skills": [
+        "android",
+        "api",
+        "ios",
+        "react",
+        "react-native",
+        "rest"
+      ],
+      "description": "Zactra Technologies Inc is seeking a React Native Developer to design, develop, and maintain high-performance mobile applications for iOS and Android. You will collaborate with designers, backend developers, and project managers to deliver scalable and user-friendly mobile solutions.\n\nThe role emphasizes cross‑platform development, RESTful API integration, and clean code. It requires hands-on experience with React Native and a hybrid work arrangement in New York area.\n\nDevelop and maintain cross‑platform mobile applications using React Native. Collaborate with UI/UX designers to implement responsive user interfaces. Integrate apps with RESTful APIs and third‑party services. Write clean, maintainable code following best practices. Debug, optimize performance, and participate in code reviews. Experience in designing and developing cross‑platform mobile apps using React Native. Ability to integrate mobile apps with RESTful APIs and third‑party services. Strong focus on clean, maintainable, and efficient code."
+    },
+    {
+      "id": "frontend-developer-ssr-sr-malaga-espana-stefanini-2h4gypib",
+      "title": "Frontend Developer Ssr/Sr (Málaga, España)",
+      "company": "Stefanini",
+      "company_slug": "stefanini",
+      "location": "Málaga, Spain",
+      "date": "2026-11-24",
+      "url": "https://es.whatjobs.com/pub_api__cpl__374110994__7107?utm_campaign=publisher&utm_medium=api&geoID=425&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "es"
+      ],
+      "skills": [
+        "angular",
+        "microservices",
+        "react",
+        "vue"
+      ],
+      "description": "Desarrollador Frontend Sr/Ssr para participar en diseño y desarrollo de soluciones digitales, integrando productos propios y de terceros.  \nSe requiere experiencia con Angular, React o Vue.Js, microservicios, Design Systems y inglés intermedio."
+    },
+    {
+      "id": "frontend-software-developer-m-f-d-flyeralarm-74bhizhx",
+      "title": "Frontend Software Developer M/F/D",
+      "company": "Flyeralarm",
+      "company_slug": "flyeralarm",
+      "location": "Málaga, Spain",
+      "date": "2026-11-24",
+      "url": "https://es.whatjobs.com/pub_api__cpl__374139820__7107?utm_campaign=publisher&utm_medium=api&geoID=425&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "es"
+      ],
+      "skills": [
+        "agile",
+        "ci-cd",
+        "design-patterns",
+        "docker",
+        "domain-driven-design",
+        "ecommerce",
+        "git",
+        "html",
+        "k6"
+      ],
+      "description": "Did you know? We are one of the largest German e-commerce companies and are looking for reinforcement in Spanien Frontend Software Developer m/f/d FLYERALARM is a leading e-commerce company specializing in print products and marketing within the B2 B sector, and one of Europe ?s most successful online printing companies. As part of our IT team, you will ensure smooth functionality within one of our departments, playing a crucial role in the overall success of the company. You are an expert developer with extensive experience in complex online stores. You are communicative and enjoy sharing your knowledge. You will develop professional web and backend applications, with agile software development, ensuring variety and autonomy in your work. You are passionate about clean software architecture employing domain-driven design, maintaining high code quality, and actively engaging with Dev Ops topics. With our diverse departments we offer a variety of tasks and areas, including: developing innovative solutions for print data and automated rule-based print data adjustments, automating and standardizing shipping and production processes, optimizing throughput times and transferring order information to production, implementing product master data projects, optimizing our product configurators, creating automated price calculations and system maintenance of our growing product catalog. Best of all, you have the opportunity to choose your area of focus! You develop customer facing web and frontend applications You work with Dev Ops methods (e.G. continuous integration) as well as platforms and tools such as Git, K6, Docker You enjoy to share your knowledge with the team You plan requirements and implement them in the team You ensure compliance with clean software architecture principles and practices, including the use of domain-driven design (DDD) Your profile: A degree in computer science, a completed apprenticeship as an IT specialist or equivalent vocational training Several years of experience in front-end and UX/UI software development Proficiency in applying SOLID principles and design patterns in software development Experience in writing Unit tests and E2 E tests You already worked with the HTML Canvas or fabric JS Complex customer facing applications are no longer new territory for you Our technologies: Advanced Curriculum For The Software Craftsman #J-\\*\\*\\*\\*\\*-Ljbffr"
+    },
+    {
+      "id": "frontend-developer-react-typescript-ia-panel-sistemas-informaticos-nlcwfwk2",
+      "title": "Frontend Developer React / Typescript / Ia",
+      "company": "Panel Sistemas Informaticos",
+      "company_slug": "panel-sistemas-informaticos",
+      "location": "Madrid, Spain",
+      "date": "2026-11-24",
+      "url": "https://es.whatjobs.com/pub_api__cpl__373273457__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "work_mode": null,
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "es"
+      ],
+      "skills": [
+        "anthropic",
+        "api",
+        "azure",
+        "cloud",
+        "cypress",
+        "fintech",
+        "javascript",
+        "jest",
+        "llm",
+        "nextjs",
+        "oauth",
+        "openai",
+        "openid",
+        "playwright",
+        "react",
+        "redux",
+        "rest",
+        "typescript",
+        "vector-search",
+        "wcag",
+        "zustand"
+      ],
+      "description": "Estamos buscando: Frontend Developer React / TypeScript / IA¿Te motiva desarrollar interfaces modernas, trabajar con React y TypeScript a nivel experto y participar en proyectos greenfield con tecnología puntera?  \nSigue leyendo¿Qué harás en el día a día?  \nDiseñar y desarrollar aplicaciones frontend de alta calidad en entornos productivosConstruir interfaces escalables con React, TypeScript y patrones modernos de estadoIntegrarte con APIs REST, incluyendo streaming y datos en tiempo realColaborar estrechamente con equipos de backend, cloud y productoGarantizar rendimiento, accesibilidad (WCAG 2.1 AA) y compatibilidad entre navegadoresTrabajar con autonomía en un entorno greenfield, dinámico y cambiantePerfil que buscamosMás de 5 años de experiencia en desarrollo frontend en producciónNivel experto en React y TypeScriptHooks, ContextOptimización de rendimientoLibrerías de componentes propiasConocimiento sólido de JavaScript moderno (ES\\*\\*\\*\\*+), Web APIs y rendering en navegadorExperiencia con gestión de estado (React Query, Zustand, Redux Toolkit)Experiencia construyendo y consumiendo APIs REST (streaming y tiempo real)Experiencia Con Plataforma Azure, EspecialmenteAzure App ServiceAzure Static Web AppsAzure Active DirectoryConocimiento de OAuth 2.0, OpenID Connect y MSALTesting automatizado (Jest / RTL y Playwright o Cypress)Conocimientos de accesibilidad web (WCAG 2.1 AA)Inglés fluido, idioma de trabajoSe valorará positivamenteIntegración con LLM APIs en streaming (Azure OpenAI, OpenAI, Anthropic)Conocimiento de AG UI, A2A o MCPExperiencia con Next.Js (App Router / Server Components)Design systems y StorybookConocimiento de RAG y vector search en UIExperiencia en hubs / centros de excelenciaBackground en banca, fintech o servicios financierosCertificación GitHubConocimientos de españolUbicación y condicionesPreferible Valencia, abierto a otras ubicaciones en EspañaDisponibilidad para viajar puntualmente a Valencia¿Qué ofrecemos?  \nProyectos greenfield con alto impacto técnicoEntorno internacionalTrabajo con IA y LLMsCrecimiento profesional continuoCultura de ingeniería y ownership#J-\\*\\*\\*\\*\\*-Ljbffr"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "count": 10,
+    "page": 1
+  },
+  "results": [
+    {
+      "id": "4489454266",
+      "title": "Intern Software Developer (JavaScript & React)",
+      "company": "Motorola Solutions",
+      "companyUrl": "https://www.linkedin.com/company/motorolasolutions",
+      "location": "Cracow, Małopolskie, Poland",
+      "date": "2026-11-10",
+      "url": "https://pl.linkedin.com/jobs/view/intern-software-developer-javascript-react-at-motorola-solutions-4489454266"
+    },
+    {
+      "id": "4489759839",
+      "title": "React Developer P.iva",
+      "company": "AGM SOLUTIONS",
+      "companyUrl": "https://it.linkedin.com/company/agm-solutions-s-r-l-",
+      "location": "Milan, Lombardy, Italy",
+      "date": "2026-11-16",
+      "url": "https://it.linkedin.com/jobs/view/react-developer-p-iva-at-agm-solutions-4489759839"
+    },
+    {
+      "id": "4490954465",
+      "title": "React Developer P.iva",
+      "company": "AGM SOLUTIONS",
+      "companyUrl": "https://it.linkedin.com/company/agm-solutions-s-r-l-",
+      "location": "Milan, Lombardy, Italy",
+      "date": "2026-11-17",
+      "url": "https://it.linkedin.com/jobs/view/react-developer-p-iva-at-agm-solutions-4490954465"
+    },
+    {
+      "id": "4488526090",
+      "title": "Frontend Developer",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-12",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-developer-at-oliver-bernard-4488526090"
+    },
+    {
+      "id": "4489752108",
+      "title": "Student Web Development",
+      "company": "greenventory",
+      "companyUrl": "https://de.linkedin.com/company/greenventory",
+      "location": "Freiburg, Baden-Württemberg, Germany",
+      "date": "2026-11-16",
+      "url": "https://de.linkedin.com/jobs/view/student-web-development-at-greenventory-4489752108"
+    },
+    {
+      "id": "4491323884",
+      "title": "Senior Full-Stack Engineer (TypeScript, React, NestJS, AWS)",
+      "company": "Celebal Technologies",
+      "companyUrl": "https://in.linkedin.com/company/celebaltechnologies",
+      "location": "Santa Clara, CA",
+      "date": "2026-11-18",
+      "url": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-typescript-react-nestjs-aws-at-celebal-technologies-4491323884"
+    },
+    {
+      "id": "4490355115",
+      "title": "Frontend Engineer - Contract - Capital Markets - £700/day outside",
+      "company": "Oliver Bernard",
+      "companyUrl": "https://uk.linkedin.com/company/oliverbernard",
+      "location": "London Area, United Kingdom",
+      "date": "2026-11-12",
+      "url": "https://uk.linkedin.com/jobs/view/frontend-engineer-contract-capital-markets-%C2%A3700-day-outside-at-oliver-bernard-4490355115"
+    },
+    {
+      "id": "4489003361",
+      "title": "Software Engineer - Freelance - Madrid",
+      "company": "Galadrim",
+      "companyUrl": "https://fr.linkedin.com/company/galadrim",
+      "location": "Madrid, Community of Madrid, Spain",
+      "date": "2026-11-11",
+      "url": "https://es.linkedin.com/jobs/view/software-engineer-freelance-madrid-at-galadrim-4489003361"
+    },
+    {
+      "id": "4413695377",
+      "title": "Senior Frontend Developer",
+      "company": "Vector Synergy",
+      "companyUrl": "https://pl.linkedin.com/company/vector-synergy",
+      "location": "Cut Off, LA",
+      "date": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-developer-at-vector-synergy-4413695377"
+    },
+    {
+      "id": "4492944846",
+      "title": "Fullstack Engineer (Frontend focused)",
+      "company": "Flix",
+      "companyUrl": "https://de.linkedin.com/company/flixbus-flixtrain",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "date": "2026-11-20",
+      "url": "https://pl.linkedin.com/jobs/view/fullstack-engineer-frontend-focused-at-flix-4492944846"
+    }
+  ]
+}

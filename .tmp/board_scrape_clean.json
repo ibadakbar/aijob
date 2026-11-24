@@ -1,0 +1,1654 @@
+{
+  "meta": {
+    "date": "2026-11-24",
+    "raw_count": 15,
+    "deduped_count": 15,
+    "sources": {
+      "arbeitnow": {
+        "count": 28,
+        "pages_fetched": 2
+      },
+      "landingjobs": {
+        "count": 0,
+        "pages": 0
+      },
+      "remoteok": {
+        "count": 10,
+        "attribution": "Job data from RemoteOK.com \u2014 link back required."
+      },
+      "remoteok_attribution": "Job data from RemoteOK.com \u2014 link back required.",
+      "weworkremotely": {
+        "count": 9,
+        "feed": "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+      },
+      "jobspy": {
+        "count": 20,
+        "installed": true,
+        "sites": [
+          "indeed",
+          "linkedin",
+          "glassdoor"
+        ],
+        "queries": 2
+      },
+      "hiringcafe": {
+        "count": 0
+      },
+      "greenhouse": {
+        "count": 60,
+        "boards": 99
+      },
+      "ashby": {
+        "count": 60,
+        "boards": 70
+      },
+      "lever": {
+        "count": 60,
+        "boards": 34
+      },
+      "workable": {
+        "count": 8,
+        "boards": 4
+      },
+      "personio": {
+        "count": 2,
+        "boards": 4
+      },
+      "teamtailor": {
+        "count": 4,
+        "boards": 7
+      },
+      "smartrecruiters": {
+        "count": 60,
+        "boards": 42
+      },
+      "recruitee": {
+        "count": 0,
+        "boards": 0
+      },
+      "relocate.me": {
+        "stub": true,
+        "implemented": false,
+        "reason": "Relocation-focused board; no verified public job API as of 2026-10-27. Do not HTML-scrape until ToS/robots and a stable feed are confirmed."
+      },
+      "wellfound": {
+        "stub": true,
+        "implemented": false,
+        "reason": "No stable unauthenticated public board API verified; auth/anti-bot common."
+      },
+      "eures": {
+        "stub": true,
+        "implemented": false,
+        "reason": "EU official portal; programmatic access not verified for this project \u2014 stub only."
+      }
+    },
+    "errors": [
+      "landingjobs page=1: <urlopen error [Errno 11002] getaddrinfo failed>",
+      "hiringcafe Apify HTTP 400: Bad Request"
+    ],
+    "path_ab_only": true,
+    "path_near_miss_count": 95,
+    "since_days": 7,
+    "dropped_by_since": 211,
+    "new_only": true,
+    "dropped_as_seen": 0,
+    "arbeitnow_attribution": "Job data from Arbeitnow.com (link back required by their API terms)."
+  },
+  "results": [
+    {
+      "title": "Frontend Engineer",
+      "company": "Catawiki",
+      "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+      "source": "arbeitnow",
+      "location": "Amsterdam",
+      "country": "NL",
+      "workplace": "unknown",
+      "employment_type": null,
+      "published_date": "2026-11-20",
+      "last_seen": "2026-11-24",
+      "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we\u2019d love to explore how you can join us. Taking ownership and driving impact Being open to change and feedback Being passionate about our mission and our customers. Your Mission Join one of Catawiki\u2019s main Development Verticals, Demand , Supply or Fulfilment , and help us improve the experience of buyers, sellers, and internal teams across our platform. Working alongside Backend, Frontend, iOS, and Android Engineers, you\u2019ll build product innovations for Catawiki\u2019s apps and web app. You\u2019ll collaborate closely with QA, UX Designers, Product Managers, and with the support of a Tech Lead Manager to create beautiful, adaptable web frontends on top of scalable microservices. While your product area may vary, your goal will remain the same: deliver reliable, high-quality experiences that make a meaningful impact for our users. What You'll Do Here at Catawiki, you will make an impact by improving and delivering product innovations for the Catawiki platform: Build impactful product experiences by improving and delivering innovations across the Catawiki platform for buyers, sellers, customer service, and internal operations teams. Create adaptable web frontends on top of scalable microservices using our core frontend stack of TypeScript and ReactJS. Deliver responsive, accessible experiences that work well across desktop, tablet, and mobile screens. Optimise product performance by measuring and monitoring systems and using insights to improve the experiences you build. Experiment and learn by partnering with Product Managers and UX Designers on A/B tests, using data analysis to validate ideas and iterate. Collaborate across disciplines with engineers, QA, design, and product colleagues to build scalable and maintainable solutions. What You\u2019ll Bring You are a Frontend Engineer with extensive frontend experience in multiple technologies, with an impressive portfolio of past frontend deliveries, and eager to expand your knowledge and impact, ready to take the next step in your career. As a Senior Developer, you are effective in lifting the level of your team, and you love to cooperate with Frontend Engineers of other teams. Extensive frontend experience : Demonstrated experience as a Frontend Engineer, using JavaScript or TypeScript as your main stack, with a strong portfolio of frontend deliveries. Strong web foundations : Proficiency in JavaScript/TypeScript, HTML, and CSS, along with an understanding of HTTP/S, the Critical Rendering Path, CORS, caching, and CDNs. Modern frontend expertise : Familiarity with libraries and frameworks such as ReactJS, NextJS, Redux, CSS Modules, Tailwind, and/or Rails. Product-focused collaboration : Proven experience in product companies, working closely with engineers and Product Managers as part of an autonomous, cross-functional team. Production ownership : Experience designing, implementing, deploying, monitoring, and managing applications with a focus on availability, latency, and consistency - you build it, you run it, you love it. Quality-minded engineering : An understanding of principles such as SOLID and DRY, with consideration for accessibility, security, SEO, performance, testing, observability, internationalisation, and typing when building features. Collaborate and grow with your team : You take initiative, welcome new challenges, help raise the level of your team, share knowledge across teams, and actively expand your skills and impact. Experiment, learn, and iterate : You validate ideas quickly, iterate based on insights, and are willing to discard what does not work - then build validated solutions for long-term scalability and maintainability. Familiarity with NodeJS and experience running it in production is a plus. It will help you collaborate effectively across the stack and optimise frontend-backend interactions. How We Work Our Engineering teams are interdisciplinary, bringing together Backend, Frontend, iOS, and Android Engineers with QA, UX Design, Product Management, and Engineering leadership. Teams take ownership of their product area and work together to ship new features, learn new things, and pursue meaningful technical challenges. We use a test-and-learn approach, combining experimentation and data with a focus on maintainability and long-term quality. We value passionate engineers who have a strong eye for detail, take initiative, support their colleagues, and enjoy working in a diverse and dynamic environment. Where You'll Be This is a Hybrid role based in Amsterdam. You will work from our Amsterdam HQ a minimum of 2 days per week. At this time, we are only considering candidates who are already based in the Netherlands . As a result, relocation support is not available for this position . We can, however, provide visa transfer from current Dutch employer . In Return You\u2019ll be part of an enthusiastic, highly motivated team of 800+ Catawikians . A competitive Annual Gross Base Salary depending on your level, competencies, and overall experience. A Work From Home Allowance to help with your monthly household bills. Commuting between your home and our office is covered by Catawiki. Amazing Office right in the centre of Amsterdam. Why You'll Love Working with Us Create a visible impact by working at scale in a global organisation serving millions of customers across 80+ categories. In our flat structure, every role has a broad scope and directly impacts both our customers and the business. Learn and grow through our Learning & Development initiatives, including clear development plans and mentorship programmes to support your career progression. A culture of connection defines us . We\u2019re a passionate, diverse team of 800+ Catawikians representing 60+ nationalities. We foster an inclusive and queer-friendly environment where everyone is encouraged to bring their full self to work. Celebrate life\u2019s moments with us. You\u2019ll receive a \u20ac100 Catavoucher when you join, a \u20ac50 Catavoucher on your birthday, and an extra day off each year to \u201cPursue Your Passion \u201d . We also offer additional leave for key work anniversaries and important life events. Benefits may vary by location. Our Offices and Way of Working Our vibrant offices in Amsterdam and Lisbon are designed to inspire collaboration. Most Catawikians operate in a hybrid setup, combining office-based and remote work, with a minimum of two days per week in the office, unless a role is explicitly stated as fully remote or fully office-based. Interested? Apply with an English CV and Cover Letter. By applying, you agree to Catawiki\u2019s Applicant Privacy Policy. If you\u2019re excited about this role but don\u2019t meet every requirement, we still encourage you to apply anyway. You may be just the right candidate for this or other roles. We may use artificial intelligence (AI) tools to support the review of your application. AI may help us assess how your experience matches the requirements of the role, but hiring decisions are always made by our recruitment team Find Jobs in Netherlands on Arbeitnow",
+      "skills": [
+        "Engineering"
+      ],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "days per week. At this time, we are only considering candidates who are already based in the Netherlands . As a result, relocation support is not available for this position . We can, however, provide visa transfer from current Dutch employer . In Return You",
+            "source_url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "frontend-engineer-amsterdam-14154",
+      "dedupe_key": "arbeitnow::frontend-engineer-amsterdam-14154",
+      "raw": {
+        "tags": [
+          "Engineering"
+        ],
+        "job_types": [],
+        "path": "A",
+        "path_reason": "remote + sponsorship=verified_in_listing"
+      },
+      "rank": {
+        "overall": 1.0,
+        "sponsorship_score": 1.0,
+        "skill_score": 1.0,
+        "country_score": 1.0,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=verified_in_listing (1.00)",
+          "core stack in title",
+          "skills: javascript, nextjs, node, nodejs, react, redux",
+          "target country NL",
+          "posted 4d ago"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + sponsorship=verified_in_listing"
+    },
+    {
+      "title": "Director, Software Engineering (Remote)",
+      "company": "Inspira Financial",
+      "url": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239331006&c=2202139&d=ExternalCareerSite&rb=INDEED&idUnique=5001239331006",
+      "source": "jobspy",
+      "location": "Oak Brook, IL, USA",
+      "country": "US",
+      "workplace": "remote",
+      "employment_type": "nan",
+      "published_date": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "description": "**Position Summary:** We are seeking a Platform Software Engineering Director to join our growing team. This role is responsible for the full software development life cycle, from conception to deployment. As a Platform Software Engineering Director, you will have relevant experience with both front-end and back-end coding languages, software development architecture and design patterns, development frameworks and third-party libraries. The ideal candidate will have a strong background leading teams developing consumer-facing digital products in collaboration with product and design leaders. This individual must be creative, client focused, team player, organized, and can thrive in a dynamic environment. At First Dollar, we believe in empowering engineers to build a smarter health benefits platform - one where human expertise is amplified, not replaced, by AI tools. We seek engineers who have demonstrated experience using AI responsibly to accelerate their development workflow, improve code quality, and solve complex problems more efficiently. Our engineering team is built on the principles of humans over code. We are a tight-knit group of lifelong learners in a constant quest to be a team that is greater than the sum of its parts. Come join us! **Duties & Responsibilities:** * As a member of the Research and Development / Product Leadership team, will provide design services, resource planning, work estimation and coordination for multiple delivery teams * Lead a team of software engineers and quality engineers to design, develop, and test applications (e.g. API, web apps) in accordance with established standards. * Collaborate with Product and Design Leaders to lead product delivery teams. * Set short to medium term technical direction, creating plans to help achieve goals * Participate in peer-reviews of solution designs and related code. * Package and support deployment of releases. * Foster an environment where different backgrounds, cultures, industry and life experiences are embraced and valued. * Collaborate on architecture decisions, ensuring that we are adapting and evolving to meet organization's scaling business needs * Collaborate with other software developers, product managers and software architects to plan, design and deliver applications. * Assess opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties. * Adhere to high-quality development principles while delivering solutions on time and within budget. * Ensure that non-functional requirements such as security, performance, maintainability, scalability, usability, and reliability are being considered when architecting solutions. * Work in an Agile framework to identify and automate solutions that result in enhanced developer experience and increased developer productivity. * Stay abreast of emerging technologies, industry trends, and best practices in solution architecture and technology innovation. * Contribute towards defining and establishing benchmarks, metrics, and quality measures. * Leverage AI as a tool, not a replacement - Candidates are expected to understand that AI is a power productivity multiplier while maintaining engineering judgment, and ensuring AI generated code meets quality standards * Full code ownership mandatory - Must understand, explain, and support all AI-assisted code as if written from scratch * Troubleshoot, debug and upgrade software * Other duties as assigned. **Supervisory Responsibilities:** * Provide direction, guidance, and support to a team of employees. Set clear expectations, delegate tasks, and ensure effective communication within the team. * Evaluate employee performance, provide feedback, and conduct performance reviews. Identify areas for development and create plans to enhance team members' skills. * Uniformly identify high performers who consistently produce quality work. * Remove barriers for the team, ensuring team members have all the tools, resources, and context to execute. * Active coaching of the team and developing individual development plans for all team members. * Overcome challenges and conflicts that arise within the team or projects. * Make decisions that balance various factors and contribute to the overall success of the organization. * Cultivate relationships with clients, partners, and other departments to facilitate collaboration and achieve common goals. * Recruits, interviews, hires, and trains new team members. Requirements: **Education & Experience:** * 10 or more years of experience in software or solution architecture roles, with a focus on designing and implementing complex, enterprise-level solutions using cloud platform. * Strong knowledge of software architecture principles, design patterns, and architectural frameworks. * Strong understanding of Continuous Delivery patterns, Cloud foundational patterns, Observability patterns, Developer experience patterns. * Strong analytical and problem-solving skills. * Practical AI experience - Comfortable using tools like GitHub Copilot, ChatGPT, or Claude for prototyping, debugging, and problem-solving * Bachelor's degree in computer science or equivalent experience **Technical Proficiency and Skills**: * Proficiency with: * Node.js * React * TypeScript * Apollo GraphQL * Git Version Control System * PostgreSQL * Google Cloud * Jest * Docker Container * CI/CD Pipelines * Experience with one or more cloud platforms, preferably GCP * Excellent communication and teamwork skills * Great attention to detail and organizational skills * Experience delivering individual and institutional client facing solutions; Web Portal(s), online payments, and third-party integrations * Good understanding of Agile/Scrum methodology * Expertise in delivering secure, high performance, fault-tolerant, and high availability solutions * Experience with DevOps, GitHub, CI/CD, SecDevOps, Containers, Serverless **Other Requirements:** * Infrequent travel (10%) * Ability to occasionally work overtime or after hours * Prolonged periods of sitting at a desk and working on a computer Req Benefits: The compensation for this position will vary depending on factors such as your location, skills and experience. The compensation package may also include incentive and bonus opportunities. Inspira provides industry-leading benefits including, but not limited to: healthcare, 401K savings plan, company holidays, paid time off, parental leave and an employee assistance program. Compensation: $160,587-$195,000 per year Additional Details : **Take the next step in your journey at Inspira Financial.** Guided by our mission to enable better health and greater wealth, we help businesses and individuals thrive today, tomorrow, and into retirement by strengthening and simplifying the health and wealth journey. Serving more than 7 million clients and representing over $62 billion in assets, Inspira partners with thousands of employers, plan sponsors, recordkeepers, TPAs, and other institutional partners to help the people they support plan, save, and invest for a brighter future. Through solutions including automatic rollover services, health savings accounts, emergency savings, and custody services, Inspira is focused on delivering better outcomes for all. Learn more at inspirafinancial.com. Our values shape how we show up every day. We **Lead with Heart** by acting with compassion, empathy, and doing what's right; **Cultivate Trust** through integrity, transparency, and accountability; **Aim Higher** by never settling for what's expected and continually raising the standard; and **Win Together** by collaborating inclusively to achieve the best outcomes. Our growth and culture haven't gone unnoticed; we've been recognized on Crain's Fast 50 and Inc. 5000 for remarkable growth, and named to Built In's 2025 Best Places to Work and Gallagher's 2022 Best-In-Class Employer for our workplace culture and benefits. Don't meet every single requirement? That's okay. We know growth comes from people who are willing to learn and challenge themselves, not just check every box. If you're energized and inspired by meaningful work, continuous development, and being part of a team that turns collective effort into real impact, we want to hear from you. We look forward to receiving your application. *Our office locations are designed to bring people together, foster collaboration, and build meaningful connections. While some roles are aligned to a specific office location, work arrangements and role locations may change over time to support business and team needs. Relocation assistance is not provided, whether for the initial move or for future changes in work location or role.* **Remote Eligibility:** At the time of hire, candidates for remote positions must reside in one of the following states: AL, AZ, CT, DE, FL, GA, IA, IL, IN, KY, MA, MI, MN, MO, NC, NE, NJ, NV, OH, OK, PA, RI, SC, TN, TX, UT, VA, VT, WA, WI, WV.",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": "160587.0-195000.0 USD",
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "specific office location, work arrangements and role locations may change over time to support business and team needs. Relocation assistance is not provided, whether for the initial move or for future changes in work location or role.* **Remote Eligibility:**",
+            "source_url": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239331006&c=2202139&d=ExternalCareerSite&rb=INDEED&idUnique=5001239331006",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "in-71ecbeb475e31a40",
+      "dedupe_key": "jobspy::in-71ecbeb475e31a40",
+      "raw": {
+        "board": "indeed",
+        "query": "React TypeScript \"full stack\" OR frontend OR \"front-end\" OR Next.js",
+        "emails": "nan",
+        "path": "A",
+        "path_reason": "remote + sponsorship=verified_in_listing"
+      },
+      "rank": {
+        "overall": 0.9405,
+        "sponsorship_score": 1.0,
+        "skill_score": 0.83,
+        "country_score": 1.0,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=verified_in_listing (1.00)",
+          "skills: docker, node, node.js, postgresql, react, typescript",
+          "target country US",
+          "posted 1d ago"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + sponsorship=verified_in_listing"
+    },
+    {
+      "title": "Frontend Engineer (f/m/d)",
+      "company": "Manex AI GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+      "source": "arbeitnow",
+      "location": "Munich",
+      "country": "DE",
+      "workplace": "unknown",
+      "employment_type": null,
+      "published_date": "2026-11-22",
+      "last_seen": "2026-11-24",
+      "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspeed and BlueYard, with engineers from top companies and leading enterprise manufacturers as customers. We ship fast, work close to the shop floor, and we don't ship things we're not proud of. The Role As Frontend Engineer, you'll work across our entire frontend ecosystem and own frontend systems end-to-end. You'll use AI to ship a high volume of polished work while making thoughtful architectural decisions that keep our frontend coherent and easy to extend. You'll work directly with founders, engineers and customers, and see your work used on real factory floors. What You'll Do Platform: Build the interface for Kosmos, the platform that brings together enterprise data, operational context and AI Applications: Build interfaces for manufacturing applications that run on and are embedded into Kosmos Framework & DX: Ship the components, conventions, tooling and guidance that help AI agents, full-stack engineers and forward-deployed engineers build better UI faster Architecture: Make the calls that keep our frontend consistent, maintainable and ready to scale You Should Apply If You Use AI as a serious engineering tool and can turn it into a high volume of reliable output Care about architecture and know when to create a reusable abstraction, and when not to Have strong visual judgment and notice when an interface feels confusing, inconsistent or unfinished Enjoy turning recurring UI problems into primitives, patterns, documentation and tooling for other builders Care about frontend fundamentals such as usability, accessibility, performance and maintainability Learn unfamiliar technologies quickly and form your own judgment about technical tradeoffs We care more about evidence of cleverness, craft and learning speed than about years of experience, credentials or prior use of our exact stack. Nice to Have TypeScript, React or Next.js Design systems, component libraries or Storybook Visual regression, accessibility and browser testing SDKs, developer platforms, embedded applications or microfrontends Complex interfaces involving data grids, graphs, editors, workflows or real-time state Experience designing tools or interfaces for AI-assisted development Our current stack includes Next.js 16.3, React 19, TypeScript, Tailwind CSS, Radix-based components, TanStack libraries, Storybook, Vitest and Playwright. Familiarity helps, but none of these tools is a prerequisite. What We Offer A cooperative team where you own your work, but never solve hard problems alone High trust and ownership from day one Competitive salary and equity Corporate Wellpass membership and a subsidized Deutschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Find more English Speaking Jobs in Germany on Arbeitnow",
+      "skills": [
+        "Tech"
+      ],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+            "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "frontend-engineer-munich-170243",
+      "dedupe_key": "arbeitnow::frontend-engineer-munich-170243",
+      "raw": {
+        "tags": [
+          "Tech"
+        ],
+        "job_types": [
+          "Full Time"
+        ],
+        "path": "B",
+        "path_reason": "unknown workplace + verified sponsorship/relocation"
+      },
+      "rank": {
+        "overall": 0.909,
+        "sponsorship_score": 1.0,
+        "skill_score": 0.74,
+        "country_score": 1.0,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=verified_in_listing (1.00)",
+          "core stack in title",
+          "skills: next.js, react, typescript",
+          "target country DE",
+          "posted 2d ago"
+        ]
+      },
+      "path": "B",
+      "path_reason": "unknown workplace + verified sponsorship/relocation"
+    },
+    {
+      "title": "Product Engineer - Frontend focus (f/m/d)",
+      "company": "Manex AI GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+      "source": "arbeitnow",
+      "location": "Munich",
+      "country": "DE",
+      "workplace": "unknown",
+      "employment_type": null,
+      "published_date": "2026-11-19",
+      "last_seen": "2026-11-24",
+      "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspeed and BlueYard, with engineers from top companies and leading enterprise manufacturers as customers. We ship fast, work close to the shopfloor, and we don't ship things we're not proud of. The Role As Product Engineer with a frontend focus, you'll build the product features our customers use every day, fully owning the product with a strong focus on usability and intuitive design. You'll use AI to ship a high volume of polished work and stay close to the problems of the people who use it. You'll work directly with founders, engineers and customers, and see your work in production at leading manufacturers. What You'll Do Product features: Take features from first idea to production Customer applications: Turn manufacturing use cases into interfaces that users pick up without training Architecture: Make the calls that keep our frontend consistent, maintainable and ready to scale Design & usability: Shape flows, layouts, interactions and UI patterns so that users understand them without explanation Customer feedback: Talk to users, observe how they work and turn what you learn into product improvements Quality: Keep every interface fast, accessible and finished You Should Apply If You Use AI as a serious engineering tool and can turn it into a high volume of reliable output Think in products and want to solve the actual problem of the user Have strong visual judgment and notice when an interface feels confusing, inconsistent or unfinished Enjoy making complex workflows feel simple and intuitive Care about frontend fundamentals such as usability, accessibility, performance and maintainability Learn unfamiliar technologies quickly and form your own judgment about technical tradeoffs We care more about evidence of cleverness, craft and learning speed than about years of experience, credentials or prior use of our exact stack. Nice to Have TypeScript, React or Next.js Experience shipping product features end-to-end Experience with user research, prototyping or usability testing Complex interfaces involving data grids, graphs, editors, workflows or real-time state Experience with B2B or customer-facing products Visual regression, accessibility and browser testing Our current stack includes Next.js 16.3, React 19, TypeScript, Tailwind CSS, Radix-based components, TanStack libraries, Storybook, Vitest and Playwright. Familiarity helps, but none of these tools is a prerequisite. What We Offer A cooperative team where you own your work, but never solve hard problems alone High trust and ownership from day one Competitive salary and equity Corporate Wellpass membership and a subsidized Deutschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Find more English Speaking Jobs in Germany on Arbeitnow",
+      "skills": [
+        "Tech"
+      ],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+            "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "product-engineer-frontend-focus-munich-69998",
+      "dedupe_key": "arbeitnow::product-engineer-frontend-focus-munich-69998",
+      "raw": {
+        "tags": [
+          "Tech"
+        ],
+        "job_types": [
+          "Full Time"
+        ],
+        "path": "B",
+        "path_reason": "unknown workplace + verified sponsorship/relocation"
+      },
+      "rank": {
+        "overall": 0.909,
+        "sponsorship_score": 1.0,
+        "skill_score": 0.74,
+        "country_score": 1.0,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=verified_in_listing (1.00)",
+          "core stack in title",
+          "skills: next.js, react, typescript",
+          "target country DE",
+          "posted 5d ago"
+        ]
+      },
+      "path": "B",
+      "path_reason": "unknown workplace + verified sponsorship/relocation"
+    },
+    {
+      "title": "Senior Software Engineer I - Servicing Platform",
+      "company": "Wise",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+      "source": "smartrecruiters",
+      "location": "London, gb",
+      "country": "GB",
+      "workplace": "unknown",
+      "employment_type": null,
+      "published_date": "2026-11-19",
+      "last_seen": "2026-11-24",
+      "description": "Wise is a global technology company, building the best way to move and manage the world\u2019s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money. As part of our team, you will be helping us create an entirely new network for the world's money. For everyone, everywhere. More about our mission and what we offer . About the role: Join us as a Platform Engineer in the Risk Domain, where you'll build the systems that make safe, global products possible. As part of our Platform Engineering team, you'll be at the intersection of Product and Risk \u2013 crafting systems that allow internal teams to ship faster, safer, and smarter. You won't just be writing code. You'll be building foundational services that other teams rely on to launch features across global markets. How we work: You'll be joining a team that values autonomy, creativity, and collaboration. We're building a platform from the ground up, with the support and reach of a product org that ships globally. Your work won't just scale technology \u2013 it'll scale trust. What will you be working on? We're designing a centralized risk platform \u2013 a system that unifies data and decision-making across identity verification, fraud detection, compliance, and more. This platform acts as the connective tissue between teams working on money movement, regional expansion, and customer safety. \u2022 Accelerate delivery: Enable product teams to launch faster with built-in risk tooling \u2022 Empower risk teams: Give them the systems they need to assess, respond, and protect\u2014without blocking development \u2022 Drive real impact: Your work will directly reduce fraud, improve trust, and help us scale safely What do you need? We are fully aware that it is uncommon for a candidate to have all skills required and we fully support everyone in learning new skills with us. So if you have some of those listed below and are eager to learn more we do want to hear from you! Strong proficiency in backend programming languages like Java, Python or Go. Passion for building at scale \u2013 You've worked on high-throughput systems and know what it takes to keep services fast and reliable Deep interest in system design \u2013 You think in terms of platforms, not just features A desire to build meaningful infrastructure \u2013 You care about enabling others, not just shipping your own code Excellent verbal and written communication skills, with the ability to convey technical concepts to both technical and non-technical audiences. Nice to Have: Experience working in fintech or high-trust domains like risk, identity, or compliance Experience in messaging systems such as Kafka is a plus. We are currently only considering local candidates as relocation support is not provided. For local candidates we are able to support transfer of visa sponsorship Interested? Find out more: How we work \u2013 a practical guide DEI @ Wise Wise Tech Stack (2025 update) See what it's like to work at Wise London! Our Engineering career map Wise Engineering \u2013 https://medium.com/wise-engineering What do we offer: Starting salary: 87K - 111K GBP + RSUs Wise Benefits #LI-AB3 #LI-Hybrid For everyone, everywhere. We're people building money without borders \u2014 without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. We're proud to have a truly international team, and we celebrate our differences. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to contribute towards our mission and able to progress in their careers. If you want to find out more about what it's like to work at Wise visit Wise.Jobs . Keep up to date with life at Wise by following us on LinkedIn and Instagram .",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "mpliance Experience in messaging systems such as Kafka is a plus. We are currently only considering local candidates as relocation support is not provided. For local candidates we are able to support transfer of visa sponsorship Interested? Find out more: Ho",
+            "source_url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "744000162520722",
+      "dedupe_key": "smartrecruiters::744000162520722",
+      "raw": {
+        "board": "Wise",
+        "path": "B",
+        "path_reason": "unknown workplace + verified sponsorship/relocation"
+      },
+      "rank": {
+        "overall": 0.7725,
+        "sponsorship_score": 1.0,
+        "skill_score": 0.35,
+        "country_score": 1.0,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=verified_in_listing (1.00)",
+          "target country GB",
+          "posted 5d ago"
+        ]
+      },
+      "path": "B",
+      "path_reason": "unknown workplace + verified sponsorship/relocation"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Pleo",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+      "source": "arbeitnow",
+      "location": "London",
+      "country": "GB",
+      "workplace": "unknown",
+      "employment_type": null,
+      "published_date": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than you\u2019d expect\u2019, and living by that mantra has been the secret to our success over the last 10 years. Now, we\u2019re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can\u2019t say we\u2019ve got this whole thing figured out. And frankly, that\u2019s half the fun! What we can say is that we\u2019re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together. As a Staff Backend Engineer, you'll take technical ownership of complex business domains, designing, building, and evolving scalable, reliable backend services for our enterprise spend management platform. What you'll be working on: Designing and operating distributed systems, event-driven architectures, and cloud-native services. Applying Domain-Driven Design (DDD) to model complex business domains and define clear service boundaries. Building maintainable systems following Clean Architecture, Hexagonal Architecture, and similar architectural principles. Designing APIs, service integrations, and reliable asynchronous workflows using technologies such as Temporal. Designing secure authentication and authorization solutions, applying standards such as OAuth 2.0, OIDC, and WebAuthn, as well as fine-grained authorization models. Ensuring scalability, security, observability, and resilience in production. Continuously improving shared libraries, project structure, development tooling, and automated quality assurance practices to promote consistency, reusability, and maintainability across services. Driving architectural decisions, evaluating trade-offs, and mentoring other engineers. Leveraging AI extensively but responsibly, including developing guardrails, agent harnesses, and tooling to maintain engineering quality in a fast-paced environment. We primarily use Node.js with TypeScript , with Java and Kotlin as a nice to have. Above all, strong engineering fundamentals matter more to us than experience with a particular language. Our technology stack also includes Temporal, SpiceDB, PostgreSQL, Kafka, and Redis. This is a 80/20 hands-on technical leadership role , combining deep engineering work with architectural ownership and influence across teams. Remote, but travel to Amsterdam or other offsite meetings in Europe might occasionally be requested Your colleagues would say you Lead by example and raise the bar with pragmatism and care. Communicate clearly, listen well, and bring people along in decisions. Enjoy breaking down complex problems, gathering input, and driving to a solution. Coach others and create space for people to grow. Prefer progress over perfection, while still caring deeply about quality. Show me the benefits Your own Pleo card (no more out-of-pocket spending!) Lunch is on us - with catering in our Lisbon, Copenhagen and London offices or a monthly lunch allowance paid directly together with your salary in other markets Private health insurance to ensure you\u2019re fit in body and mind to do your best work Wellbeing days - fully paid days off designed for a slower pace, allowing you to take time to recharge and prioritise self-care We provide access to MyndUp to give our employees access to free mental health and wellbeing support with great success so far Access to LinkedIn Learning - acquire new skills, stay abreast of industry trends and fuel your personal and professional development continuously Paid parental leave - we want to make sure that we're supportive of families and help you feel that you don't have to compromise your family due to work About your application English first. Since it's our company language, please submit your application in English. You\u2019ll be using it a lot if you join us. A fair look for everyone. Our talent team reads every single application to ensure the process is fair. To keep things running smoothly, we only accept applications through our system\u2014our support team can\u2019t pass on calls or emails. Diversity drives us. We can only reach our goals if our team reflects the world around us. That starts with you hitting apply, even if you don't tick every single box. We encourage people from all backgrounds and experiences to join us. Interview at your best. We want you to feel comfortable throughout the process. If you have any accessibility requirements or need a specific format, email ----- We\u2019ll design a process that works for you. Your data is safe. When you apply, we process your personal data as a data processor. For more information on how Pleo processes personal data, read our Privacy Policy here . Applying for multiple roles? Nothing is stopping you, and we assess every role independently. However, we do look for alignment, so make sure you can explain why your interest and experience are right for each specific role. Reapplying. If you\u2019re applying for the same role again, please wait six months from your last decision before hitting submit. Find Jobs in United Kingdom on Arbeitnow",
+      "skills": [
+        "Engineering"
+      ],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "possible",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+            "source_url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+            "pattern": "arbeitnow visa_sponsorship filter"
+          }
+        ],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "staff-software-engineer-london-44552",
+      "dedupe_key": "arbeitnow::staff-software-engineer-london-44552",
+      "raw": {
+        "tags": [
+          "Engineering"
+        ],
+        "job_types": [
+          "Full Time"
+        ],
+        "path": "A",
+        "path_reason": "remote + sponsorship=possible"
+      },
+      "rank": {
+        "overall": 0.727,
+        "sponsorship_score": 0.55,
+        "skill_score": 0.67,
+        "country_score": 1.0,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=possible (0.55)",
+          "skills: node, node.js, postgresql, typescript",
+          "target country GB",
+          "posted 1d ago"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + sponsorship=possible"
+    },
+    {
+      "title": "Full Stack Developer Senior- Backend Focus",
+      "company": "Bosch",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163411024",
+      "source": "smartrecruiters",
+      "location": "Timi\u0219oara, TM, ro",
+      "country": "RO",
+      "workplace": "unknown",
+      "employment_type": null,
+      "published_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "description": "About Bosch Service Solutions in Timi\u0219oara Bosch Service Solutions is a leading service provider of enterprise and IT solutions. It designs and provides best-in-class services , including software-based solutions, consulting and management, AI, automation and customer experience . We\u2019re on a mission to exceed customer expectations and continually elevate industry standards. Our colleagues contribute to this mission through their commitment, in an environment where diversity is valued and where everyone can bring their own contribution. Our promise to our colleagues is rock-solid: we grow together, we enjoy our work, and inspire each other. Join us and see the difference. Work LikeABosch Main objective of the job : Develop and maintain the core infrastructure on manufacturing co-intelligence platform, including semantic query engines, data ingestion pipelines, chat interfaces, and agent runtime systems, using AI technologies and robust, scalable microservices architecture. Main attributions and responsibilities: Design, implement, and maintain microservices for AI-powered applications, including semantic search, data processing, and intelligent automation. Develop reliable APIs to handle complex machine learning workloads and real-time user interactions. Build robust, scalable data ingestion and processing pipelines for real-time and batch data from diverse enterprise sources and formats, using workflow orchestration frameworks. Implement vector-based search systems using embedding models, similarity algorithms, and retrieval-augmented generation architectures for intelligent information discovery. Develop responsive natural language web interfaces integrated with large language model APIs, and orchestration layers for multi-agent AI workflows, task delegation, and autonomous decision-making processes. Ensure system scalability, security, and observability across distributed platform components using containerization, cloud-native deployment patterns, and comprehensive monitoring. Implement enterprise security infrastructure, including OAuth, JSON Web Tokens (JWT), role-based access control, audit logging, and compliance features. Collaborate with AI Engineers and product teams to translate business requirements into scalable technical solutions. Implement industry best practices for code quality, automated testing, and continuous deployment to build robust, maintainable, and well-tested software. Reads, understands and applies the procedures from area of responsibility and other interdepartmental procedures, applicable within the company; Fulfils any other tasks related to area of responsibility, as requested by direct superior. University studies in IT domain or any other related field; Language: English Strong knowledge of Python 3.11+ Experience with REST API design and modern web frameworks. Knowledge of asynchronous programming, concurrency, and event-driven design. Strong SQL skills, including query optimization and relational database design. Knowledge of data modeling, validation, database migrations, and NoSQL databases. Understanding of Retrieval-Augmented Generation (RAG), semantic search, and vector databases. Experience integrating Large Language Model (LLM) APIs and applying prompt engineering. Knowledge of in-memory data stores and distributed caching. Solid understanding of microservices and distributed systems architecture. Proficiency with containerization and cloud-native orchestration platforms. Knowledge of data pipelines, workflow management, and AI service orchestration. Knowledge of authentication protocols, API security, and enterprise security practices. Experience with unit, integration, and asynchronous testing. Proficiency with Git workflows, package management, and environment isolation tools. Knowledge of continuous integration and deployment (CI/CD), automation, and code quality tools. Knowledge of modern JavaScript frameworks and enterprise API integration- nice to have Familiarity with monitoring, metrics, and distributed tracing. Strong problem-solving, communication, and teamwork skills; interest in AI and continuous learning LikeABosch Benefits: Financial benefits: Flexible benefits system \u2013 In addition to your salary, we provide 2700 RON/year through your benefits account, allowing reimbursements based on your preferences; Meal tickets - A balanced diet includes at least one hot meal per day, therefore we offer you meal tickets with a value of 40 Ron; The company performance related pay - Your contribution to Bosch is valuable. Celebrate a successful year with the company performance related pay; Celebrate together - We Like to give presents to our Loved ones, therefore we offer you 300 Ron for Christmas and Easter. Your minor children will enjoy this benefit too, as they will also receive 300 Ron; Loyalty bonus : We value your commitment and at 5 years you will receive 750 RON, at 10 years 1500 RON, and for every additional 5 years brings another 1500 RON. It\u2019s our way of saying thank you for being part of our journey. Language courses - A new language is key to a new world, so we invite you to learn languages in your free time and get a discount of up to 1200 RON/year (e.g.: two modules of 600 RON each). Please note that the discount is based on the certification that you have passed the specific module. Referral bonuses - We build our teams on trust, so we encourage you to refer new candidates to us through our program: Recommend Bosch. For certain positions, we will honor you with an attractive bonus; Relocation package - If you\u2019re being recruited from more than 50 km away, we provide a standard relocation package of 2500 RON (conditions apply). This is a one-time fee, paid together with your first salary. Life events celebration - Your family is growing while working at Bosch? We congratulate your newborn with a 5000 RON bonus; Unforeseen situations - In case of unfortunate events, we support you by offering you free days and financial support (handled on a case-by-case basis); Discounts to our partners - We have a strong network in our community so we can offer you discounts to various businesses such as ISHO, Vodafone, and others. Work-Life Balance: Smart Work \u2013 Our working contracts are standardized to include the home office. Occasionally, you might be asked to come to the office (trainings, workshops, team events). Talk to your leader for more information. Flex-time possibility - We care about your schedule, therefore we try to offer you flexible working hours, according to personal and business needs. Please discuss this with your leader. Growing number of vacation days - Work-life balance is essential for us, therefore we offer you 1 more day of vacation for every 2 years you spend in Bosch. We start with 25 days. Internal communities - You are welcome to become an active member of our internal communities: Trainers Community, Wellbeing Community, Quality Ambassadors, Project Management Ambassadors, IT Community, and many others; Work from abroad : Do you want to work a few days from abroad? Our Smart Work concept allows you to work from outside Romania for up to 30 days per year. Conditions apply. Please contact HR for support. Health and sport: Medical subscription - We know how important health is, so you get a medical subscription through the Regina Maria network, paid by the company\u2014extended package of medical tests, free or reduced ultrasounds, and consultations. Sports benefits - Being active helps you in your personal and professional Life, so we encourage you to stay in shape by using the 7Card discount for Smartfit Studio; See also: flexible benefits; Psychological counseling -Through the medical subscription, you can benefit from several free psychological counseling sessions at Clinicile Oana Nicolau and at a discounted price afterward. Development: Bookster- the road to self-improvement is paved by books. Borrow the books that interest you and your family through the Library that comes to your office (and your home). Training and certifications -We believe in a Life-Long Learning approach, so we invite you to take part in technical and soft skills training delivered by our internal training team and through other methods. Professional Development - Great opportunities to develop yourself within the company. Choose between different career paths: expert, project manager, or associates manager. Whether an upward or lateral move \u2013 we\u2019ll be by your side. Team-buildings - We organize yearly team-building activities for your department, so you get to know each other and build trust among your peers; International Assignments - You can work on international projects with and in other Bosch Locations, as we have offices in more than 60 countries worldwide; Diversity and multicultural mindset - More than 10 different nations are represented and several Languages are spoken by our colleagues. Diversity Day is a special day dedicated to sharing our diverse cultural experiences.",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "ndidates to us through our program: Recommend Bosch. For certain positions, we will honor you with an attractive bonus; Relocation package - If you\u2019re being recruited from more than 50 km away, we provide a standard relocation package of 2500 RON (conditions",
+            "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000163411024",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "744000163411024",
+      "dedupe_key": "smartrecruiters::744000163411024",
+      "raw": {
+        "board": "BoschGroup",
+        "path": "A",
+        "path_reason": "unknown workplace + verified sponsorship + remote-intl"
+      },
+      "rank": {
+        "overall": 0.701,
+        "sponsorship_score": 1.0,
+        "skill_score": 0.66,
+        "country_score": 0.1,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=verified_in_listing (1.00)",
+          "core stack in title",
+          "skills: full stack, javascript",
+          "outside preferred (RO)",
+          "posted 0d ago"
+        ]
+      },
+      "path": "A",
+      "path_reason": "unknown workplace + verified sponsorship + remote-intl"
+    },
+    {
+      "title": "Backend Software Developer",
+      "company": "Dawn Technology",
+      "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+      "source": "arbeitnow",
+      "location": "Werken op afstand",
+      "country": null,
+      "workplace": "remote",
+      "employment_type": null,
+      "published_date": "2026-11-20",
+      "last_seen": "2026-11-24",
+      "description": "Backend Software Developer \u2013 Maatwerk Software met Impact Wij weten dat wat op het eerste gezicht eenvoudig lijkt, vaak complexer is dan men denkt. En wij begrijpen dat technologie geen barri\u00e8re mag zijn, maar juist de verbinding naar een bestendige maatschappij. Bij Dawn Technology bouwen we niet zomaar digitale oplossingen. We ontwikkelen hoogwaardige maatwerk software die het leven van mensen verrijkt. Binnen onze Smart Devices afdeling bouwen we apps die impact maken. Van media apps voor bedrijven als Path\u00e9 en de NPO met miljoenen gebruikers, tot de app van het KNMI waarmee we belangrijke weerswaarschuwingen zoals code rood meldingen afgeven. We maken geen compromissen op kwaliteit en zoeken altijd naar de best mogelijke oplossing, tot in de kleinste details. Om onze groeiambities te realiseren zoeken we een Backend Software Developer . Iemand die energie krijgt van het ontwikkelen van sterke backend-omgevingen, het schrijven van strakke code en het operationeel krijgen \u00e9n houden van de onderliggende cloud-infrastructuur voor applicaties met miljoenen gebruikers. Jouw rol Als Backend Software Developer ben je een onmisbare schakel in de backend-trajecten van onze applicaties. Je bouwt de schaalbare, onzichtbare motor achter hoogwaardige innovaties en zorgt dat onze infrastructuur robuust staat. Je bent analytisch sterk en je krijgt er energie van om technische requirements te vertalen naar logische cloud-infrastructuren die je vervolgens z\u00e9lf bouwt. Je werkt nauw samen met onze multidisciplinaire ontwikkelteams en zorgt dat de code soepel draait. Geen haastwerk, maar engineering met diepgang en visie. Wat je zal gaan doen: Ontwikkelen en operationeel maken van serverless backends en event-driven API's met TypeScript (AWS Lambda / Serverless Functions). Zelfstandig opzetten van cloud-infrastructuren met behulp van Infrastructure as Code (bijv. via AWS CDK, Terraform of CloudFormation). Proactief meedenken over en het inrichten van CI/CD pipelines, applicatie-uptime en databeveiliging. Bijdragen aan de codekwaliteit door middel van code reviews en het actief delen van kennis met jouw teamleden. Effectief asynchroon samenwerken, documenteren en code opleveren binnen een distributed, remote-first team. Wie ben jij? We zoeken een developer met een HBO werk- en denkniveau die al de nodige stappen heeft gezet in het bouwen van cloud-native applicaties . Je hebt sterke ervaring met de TypeScript/Node.js stack en modern software-development zoals Agile/Scrum, CI/CD en Infrastructure as Code kent voor jou geen geheimen. Je bent niet alleen een developer, maar je kunt ook \u00e9cht zelf cloudomgevingen operationeel krijgen en beheren met tools als AWS CDK, Terraform of CloudFormation . Algemene cloud kennis is een vereiste; specifieke ervaring met AWS of Scaleway is een pre . Je geniet van technische puzzels, levert graag goed geteste code op en voelt je thuis in een Node.js backend. Verder ben je woonachtig in Nederland . Wat bieden wij jou? De Organisatie : Snelgroeiende, vooruitstrevende organisatie met sterke visie en focus op maatschappelijk relevante software. Autonomie : Veel ruimte voor eigen initiatief, ondernemerschap en technische autonomie. Maatschappelijke Impact : De kans om bij te dragen aan bekende, maatschappelijk relevante applicaties voor platformen zoals NPO Start, Path\u00e9 Thuis en het KNMI binnen een uitstekend beoordeeld top-tier maatwerk softwarebedrijf (Emerce100 koploper). Salaris : Bruto maandsalaris tussen de \u20ac4000,- en \u20ac6000,- passend bij jouw ervaring. Vakantiedagen : 25 vakantiedagen om lekker uit te rusten. Werkplek & Sfeer : Een fijne remote-first cultuur met volledige flexibiliteit, een gezellige werksfeer en inspirerende maandelijkse co-working dagen. Mobiliteit & Thuiswerken : Kilometervergoeding van \u20ac0,25/km of volledige OV-vergoeding, gecombineerd met een maandelijkse thuiswerkvergoeding. Pensioen : Een uitstekend en goed geregeld pensioen. Ontwikkeling & Extra's : Ruime mogelijkheden voor opleidingen en trainingen, plus actieve deelname en toegang tot het eigen event Appdevcon en diverse kennissessies. De 'Gadget Kit' : Een high-end MacBook Pro, een 27 inch 5K display, testdevices en een volledig ingerichte thuiswerkplek. Events & Fun : Toffe teamactiviteiten en gezellige, bedrijfsbrede Summer en Winter Events. Over Dawn Technology We bouwen niet voor de massa, maar voor betekenis. Onze klanten komen uit sectoren die er \u00e9cht toe doen \u2013 van zorg en educatie tot duurzaamheid en publieke dienstverlening. We verstoppen complexiteit achter eenvoud en bouwen software die logisch voelt. En precies d\u00e1t maakt ons werk elke dag boeiend. Samen met een groep van bijna 250 digitale specialisten delen we kennis, zoeken we de nieuwste technologie\u00ebn op en versterken we elkaar. Benieuwd om te horen hoe het is om bij Dawn Technology te werken? Luister dan eens naar deze podcast . Solliciteren Spreekt deze rol je aan? Laat je gegevens dan achter via de sollicitatieknop. Ook als je twijfelt of je volledig aansluit nodigen we je uit om te solliciteren. Nog vragen naar aanleiding van deze vacature? Neem dan gerust contact op met Dennis Timmerman (Corporate Recruiter) via 0638675360 . Have a great day. Dawn Technology. We gebruiken voor nieuwe kandidaten een assessment (actueel binnen software ontwikkeling) om het niveau objectief vast te stellen. Hiermee onderbouwen we de totstandkoming van het salaris in het recruitmentproces op basis van feitelijke vaardigheden. Dit geeft ons een eerlijk en meetbaar kader voor iedereen. Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Find more English Speaking Jobs in Netherlands on Arbeitnow",
+      "skills": [
+        "Dawn Technology",
+        "Remote"
+      ],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "possible",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+            "source_url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+            "pattern": "arbeitnow visa_sponsorship filter"
+          }
+        ],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "remote-backend-software-developer-hilversum-417173",
+      "dedupe_key": "arbeitnow::remote-backend-software-developer-hilversum-417173",
+      "raw": {
+        "tags": [
+          "Dawn Technology",
+          "Remote"
+        ],
+        "job_types": [
+          "Experienced",
+          "fulltime permanent"
+        ],
+        "path": "A",
+        "path_reason": "remote + sponsorship=possible"
+      },
+      "rank": {
+        "overall": 0.667,
+        "sponsorship_score": 0.55,
+        "skill_score": 0.67,
+        "country_score": 0.7,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=possible (0.55)",
+          "skills: aws, node, node.js, typescript",
+          "remote (country unset)",
+          "posted 4d ago"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + sponsorship=possible"
+    },
+    {
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "source": "weworkremotely",
+      "location": "Worldwide Remote",
+      "country": "AU",
+      "workplace": "remote",
+      "employment_type": null,
+      "published_date": null,
+      "last_seen": "2026-11-24",
+      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare. This critical role involves developing, integrating, and optimising our backend and database systems. You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance. Ensure the scalability, security, and responsiveness of backend services. Uphold rigorous data protection standards and implement industry-leading security measures. Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team. What Youll Bring: Essential Skills & Experience: At least 7 years of experience with: React React Vite REST API development Strong knowledge and hands-on experience with SQL . Proficiency in Prisma for database management. A minimum of 5 years of experience in REST API development using the NestJS framework . Expertise in backend development, specifically with NestJS , Node.js , REST APIs , and PostgreSQL . Experience in developing single-page applications using ReactJS . Strong understanding of TypeScript and Object-Oriented Programming (OOP) principles. Solid grasp of commonly used data structures . Proven experience with cloud hosting services (preferably AWS) and integrating them into development workflows. Exceptional problem-solving skills and meticulous attention to detail. A proven ability to thrive in collaborative, remote work environments, showcasing excellent communication skills and a commitment to team success. A portfolio demonstrating relevant projects. Nice-to-Haves: Experience with CI/CD pipelines and version control systems like Git . Familiarity with agile development methodologies and project management tools. Knowledge of Redux for state management. A degree in Computer Science or a related field. To apply: https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1\n\nFully remote / work from anywhere (We Work Remotely listing).",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": null,
+      "dedupe_key": "yooli::fulltimesoftwareengineerpositionreactandrest",
+      "raw": {
+        "board": "weworkremotely",
+        "path": "A",
+        "path_reason": "remote + remote-international hire language"
+      },
+      "rank": {
+        "overall": 0.6425,
+        "sponsorship_score": 0.15,
+        "skill_score": 1.0,
+        "country_score": 1.0,
+        "freshness_score": 0.4,
+        "reasons": [
+          "sponsorship=unknown (0.15)",
+          "core stack in title",
+          "skills: aws, node, node.js, postgresql, react, redux",
+          "target country AU",
+          "date unknown"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + remote-international hire language"
+    },
+    {
+      "title": "Software Engineer - Interfaces Backend",
+      "company": "Supabase",
+      "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+      "source": "ashby",
+      "location": "Remote, Global",
+      "country": null,
+      "workplace": "remote",
+      "employment_type": "FullTime",
+      "published_date": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We\u2019re looking for a Software Engineer to join Supabase\u2019s Interfaces group and help run the backend services behind our developer tools, starting with postgres-meta: the open-source service that runs SQL against customers\u2019 Postgres databases on behalf of our dashboard, our MCP server, AI agents, and other platform tools. You\u2019ll work closely with the engineers who build those tools, and with our Platform and SRE teams. AI agents are the fastest-growing source of postgres-meta\u2019s traffic, and it sits on the path between developers and their data, so when it struggles, people can\u2019t reach their databases from the dashboard or their agents. The team\u2019s first priority is making it reliable, observable, and fair between tenants at agent scale, and helping redesign it for that scale without breaking the tools that depend on it. Depending on your experience, you\u2019ll own major parts of that work or lead it. Alongside it, the team builds the backend services that give every branch of a project the configuration and secrets it needs. We want to be upfront: this role carries real operational load. Our on-call process and rotation are new and need a lot of maturing, and you\u2019ll help build them into something sustainable from your first weeks. You\u2019ll be on call for services on the critical path, and incidents come before planned work. Platform teams run the infrastructure underneath; you\u2019ll own the services themselves, from their code to how they behave in production. It\u2019s ideal for someone who enjoys that kind of ownership, thrives in async, fast-paced environments, and stays calm when the root cause turns out to be in someone else\u2019s system. WHAT YOU\u2019LL BE RESPONSIBLE FOR In this role, you\u2019ll: - Help mature the team\u2019s on-call from your first weeks: grow the rotation to cover every service the team runs, write runbooks, and agree when to declare an incident. Then build it, with our embedded SRE, into a sustainable follow-the-sun rotation as the team grows. - Set SLOs with the teams that call the service, and build the observability to hold them: metrics per tenant and per caller, alerts that catch failures wherever they start, and logs you can search across regions. - Make deploys routine with canary and staged rollouts, so dependency and security upgrades stop being risky. - Redesign how the service works with Postgres at scale: reusing connections, limiting or streaming large results, and isolating and rate-limiting tenants, so no single caller, human or agent, can degrade it for everyone else. - Help decide the service\u2019s long-term architecture with our Platform teams, then evolve it without breaking the callers that depend on it. - Write down and agree the service\u2019s contract with its callers, including the dashboard, MCP and AI, and platform workers: how transactions, multi-statement queries, timeouts, and errors behave. - Work through incidents with the networking, Kubernetes, pooler, and control-plane teams when a problem on the path to customers\u2019 databases starts in their systems. - Build backend services for code-first workflows, starting with delivering each branch\u2019s configuration and secrets to the services that need them. - Make small changes directly in the CLI, dashboard, or docs when a capability needs them, with the owning team reviewing. - Review code and designs, mentor other engineers, and grow into leading the team\u2019s technical direction. YOU MIGHT BE A GOOD FIT IF YOU Must have: - Have 5+ years of experience as a software engineer, most of it building and running backend services in production. - Have run a high-traffic, multi-tenant service in production: been on call for it, worked incidents through to resolution, and followed through on postmortems. - Write strong TypeScript, and work confidently in a large Node.js backend codebase. - Understand Postgres from the client side: connection management and pooling, transactions, statement timeouts and cancellation, and large result sets. - Have built observability for a service you owned (metrics, tracing, logs, and alerts tied to SLOs), and used it to debug problems that span proxies, load balancers, or Kubernetes. - Have kept a service healthy under load with patterns such as rate limiting, timeouts, memory limits, and graceful degradation. - Have shipped changes to a live service safely, with canaries, staged rollouts, feature flags, or fast rollback. - Work calmly and constructively with other teams during incidents, including when the root cause is in a system you don\u2019t own. - Communicate clearly in writing, from design docs to postmortems, thrive in async, globally distributed teams, and make progress when the path isn\u2019t fully defined. Nice to have, roughly in order of how much they\u2019d help: - Have rebuilt or migrated a live, high-traffic service without breaking its callers, using techniques such as shadow traffic, contract tests, or incremental replacement. - Have led the design of reliability work, such as tenant isolation, load shedding, or a staged-deploy pipeline, or set technical direction that other engineers built on. - Have built or operated a database proxy or connection pooler (such as PgBouncer, Supavisor, or pgcat), or an API gateway such as Envoy. - Have secured a service that runs SQL on its callers\u2019 behalf: handling credentials safely, and limiting how much damage any one caller can do. - Multi-region AWS experience. - Experience with Fastify. - Production experience in a second backend language, such as Elixir or Go. - Experience with a secrets manager or key management service, such as HashiCorp Vault or AWS KMS. - Familiarity with Supabase, or with how AI agents use databases through tools like MCP. WHAT WE OFFER - Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. - ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we\u2019re building together. - Tech Allowance Use this budget to set up your ideal work environment\u2014laptop, monitor, headphones, or whatever helps you do your best work. - Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family\u2019s health are important to us. - Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It\u2019s a highlight of our year. - Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. - Professional Development Every team member receives an annual education allowance to spend on learning\u2014courses, books, conferences, or anything that supports your growth. ABOUT THE TEAM Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. - ~400 team members - 60+ countries - 20+ languages spoken - Over $1B raised (including our $500M Series F) - 540,000+ community members We move fast, build in public, and use what we ship. If it\u2019s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support\u2014not replace\u2014existing tools and communities.",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "30cc053e-33dc-4924-a870-2cf41c296b01",
+      "dedupe_key": "ashby::30cc053e-33dc-4924-a870-2cf41c296b01",
+      "raw": {
+        "board": "supabase",
+        "path": "A",
+        "path_reason": "remote + remote-international hire language"
+      },
+      "rank": {
+        "overall": 0.527,
+        "sponsorship_score": 0.15,
+        "skill_score": 0.67,
+        "country_score": 0.7,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=unknown (0.15)",
+          "skills: aws, node, node.js, typescript",
+          "remote (country unset)",
+          "posted 1d ago"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + remote-international hire language"
+    },
+    {
+      "title": "Software Engineer - Postgres Tooling",
+      "company": "Supabase",
+      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "source": "ashby",
+      "location": "Remote, Global",
+      "country": null,
+      "workplace": "remote",
+      "employment_type": "FullTime",
+      "published_date": "2026-11-19",
+      "last_seen": "2026-11-24",
+      "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We\u2019re looking for a Software Engineer, Postgres Tooling to join our CLI team and help build the open-source tools developers use to change their Postgres schemas safely. You\u2019ll join as a co-maintainer of pg-delta, our schema diff and migration engine, and grow into leading it. Given two databases, or a database and a folder of SQL files describing the schema you want, pg-delta works out the differences and generates the migration to get from one to the other. It powers supabase db diff, db pull, and declarative schemas, and it runs underneath Supabase\u2019s platform, branching, and AI agent workflows. Every migration it generates is verified on a throwaway clone before it\u2019s trusted, and it\u2019s tested against 331 scenarios on PostgreSQL 14\u201318. We\u2019re now working toward a stable, standalone 1.0 release for any Postgres developer, on Supabase or not. This is a correctness-first role. The SQL this tool generates runs against production databases, so privilege safety and avoiding data loss are non-negotiable. It\u2019s a great fit for someone who loves Postgres at the catalog level, enjoys compiler-style problems, and thrives in async, fast-paced environments. WHAT YOU\u2019LL BE RESPONSIBLE FOR In this role, you\u2019ll: - Co-maintain pg-delta: review and merge changes, including PRs written by AI agents, and grow into its lead maintainer. - Own correctness: triage bug reports from GitHub and support, fix diff and dependency-ordering bugs, and extend test coverage across Postgres versions. - Make sure generated migrations are privilege-safe and never silently lose data, by detecting destructive changes and rewriting them into safe equivalents where possible. - Help take pg-delta to a stable 1.0: a public API with a semver contract, documentation, and broader coverage of Postgres extensions. - Work with the open-source community: triage issues, review outside contributions, and say no gracefully when a request doesn\u2019t fit. - Work with the teams across Supabase that build on pg-delta, so migrations are generated and run the same way everywhere. - Write the design docs and technical strategy that set the tool\u2019s direction, working async across teams. - Share the CLI team\u2019s on-call rotation. Weekdays are covered follow-the-sun, and because we ship packaged software that users can roll back, pages are rare. YOU MIGHT BE A GOOD FIT IF YOU Must have: - Have 8+ years of experience as a software engineer, including deep, hands-on work with PostgreSQL. - Know Postgres internals at the catalog level: pg_catalog, pg_depend, object ownership, grants and default privileges, RLS policies, and extension membership. - Understand DDL and migration semantics: which changes take locks, which can\u2019t run inside a transaction, how dependencies determine ordering, and how to spot a destructive change. - Treat a migration that silently loosens access as a top-severity bug. - Write strong TypeScript, and design tests for correctness, such as differential, property-based, or corpus testing across multiple Postgres versions. - Are comfortable with compiler-style problems: dependency graphs, topological ordering, cycle handling, and diffing. - Can confidently review complex changes in an intricate codebase, including AI-generated PRs. - Have owned software in production with users in the loop: staged rollouts, error monitoring, and triaging real bug reports. - Have led a technical project across several teams, from an ambiguous start to production. - Communicate clearly in writing and thrive in async, globally distributed teams. Nice to have, roughly in order of how much they\u2019d help: - Have built or maintained schema diff or migration tooling (such as migra, pg-schema-diff, Atlas, pgroll, sqitch, Prisma Migrate, or Flyway/Liquibase), or worked with pg_dump internals. - Open-source maintainer experience: API contracts, semver, documentation, and community triage. - Familiarity with Postgres extensions such as pg_cron, pgmq, pg_partman, vault, pg_net, pgvector, or PostGIS. - Experience with Go. - Contributions to Postgres itself, or authorship of a Postgres extension. - Experience with Supabase or another managed Postgres platform. WHAT WE OFFER - Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. - ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we\u2019re building together. - Tech Allowance Use this budget to set up your ideal work environment\u2014laptop, monitor, headphones, or whatever helps you do your best work. - Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family\u2019s health are important to us. - Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It\u2019s a highlight of our year. - Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. - Professional Development Every team member receives an annual education allowance to spend on learning\u2014courses, books, conferences, or anything that supports your growth. ABOUT THE TEAM Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. - ~400 team members - 60+ countries - 20+ languages spoken - Over $1B raised (including our $500M Series F) - 540,000+ community members We move fast, build in public, and use what we ship. If it\u2019s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support\u2014not replace\u2014existing tools and communities.",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": "2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "dedupe_key": "ashby::2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "raw": {
+        "board": "supabase",
+        "path": "A",
+        "path_reason": "remote + remote-international hire language"
+      },
+      "rank": {
+        "overall": 0.471,
+        "sponsorship_score": 0.15,
+        "skill_score": 0.51,
+        "country_score": 0.7,
+        "freshness_score": 1.0,
+        "reasons": [
+          "sponsorship=unknown (0.15)",
+          "skills: postgresql, typescript",
+          "remote (country unset)",
+          "posted 5d ago"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + remote-international hire language"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "WelcomeHome Software",
+      "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+      "source": "weworkremotely",
+      "location": "Worldwide Remote",
+      "country": null,
+      "workplace": "remote",
+      "employment_type": null,
+      "published_date": null,
+      "last_seen": "2026-11-24",
+      "description": "Headquarters: Atlanta, Georgia URL: https://www.welcomehomesoftware.com/homecarecrm?utm_term=home%20care%20software&utm_campaign=Lead+Gen+-+Home+Care+-+Branded+%26+General&utm_source=adwords&utm_medium=ppc&hsa_acc=3279896849&hsa_cam=22158696391&hsa_grp=179100793812&hsa_ad=730236934988&hsa_s About WelcomeHome WelcomeHome is an Atlanta-based SaaS provider with the mission to build the best Customer Relationship Management (CRM) platform in the Senior Living and Home Care space. Since launch in 2019, we have sustained consistent and rapid growth, expanding from four to 100+ employees. To date, we\u2019ve succeeded with a focused team that prioritizes client success over external / VC reporting and updates. WelcomeHome\u2019s differentiation extends beyond providing the most technologically advanced, easy-to-use software in the space. Clients receive world class support, from the migration from their legacy CRM platform to ongoing day-to-day training and troubleshooting. About the Role: WelcomeHome is looking for Senior Ruby on Rails Engineers excited about building user-friendly software solutions. This role is fully remote (based in the U.S.), will report to our VP of Engineering (based in Las Vegas), and play an integral role in product development and have the opportunity to impact several areas of the business. Tech Stack Backend: Ruby on Rails 8 / Ruby 3.3 (currently upgrading to Ruby 4) Frontend: Haml, Stimulus, minimal React (where it earns its place) Testing: Minitest + Capybara, TDD throughout Data/Async: PostgreSQL, Redis, Sidekiq Infrastructure: AWS (Aurora, S3, EC2) via Cloud66 AI: Pi, Codex, and Claude Code used in the daily dev workflow A great candidate might have: Deep experience with Ruby on Rails 5+ years software engineering experience Passion for building high quality software focused on the user experience Ability to take ownership and work well with others Demonstrated ability to work independently to problem solve and offer solutions Experience using Claude Code (or comparable AI tools) as part of your daily development workflow Prior experience in a growth stage company or start-up What You'll Get WelcomeHome values all of its employees and strives to provide a competitive compensation package. Benefits include health, vision and dental coverage, 401(k) matching, paid parental leave, and unlimited PTO. But, on top of that, you'll be surrounded by awesome people who care deeply about what they do and will do whatever it takes to help you succeed To apply: https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer\n\nFully remote / work from anywhere (We Work Remotely listing).",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": null,
+      "dedupe_key": "welcomehomesoftware::seniorsoftwareengineer",
+      "raw": {
+        "board": "weworkremotely",
+        "path": "A",
+        "path_reason": "remote + remote-international hire language"
+      },
+      "rank": {
+        "overall": 0.467,
+        "sponsorship_score": 0.15,
+        "skill_score": 0.67,
+        "country_score": 0.7,
+        "freshness_score": 0.4,
+        "reasons": [
+          "sponsorship=unknown (0.15)",
+          "skills: aws, postgresql, react, saas",
+          "remote (country unset)",
+          "date unknown"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + remote-international hire language"
+    },
+    {
+      "title": "Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) \u2013 AI-First, with GDPR Experience",
+      "company": "Secure Privacy",
+      "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+      "source": "weworkremotely",
+      "location": "Worldwide Remote",
+      "country": null,
+      "workplace": "remote",
+      "employment_type": null,
+      "published_date": null,
+      "last_seen": "2026-11-24",
+      "description": "Headquarters: Europe (DK) URL: https://secureprivacy.ai Secure Privacy is expanding, and we\u2019re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You\u2019ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you\u2019re passionate about clean, maintainable code, we\u2019d love to hear from you! What You\u2019ll Do: Develop and maintain backend services with C# and .NET. Develop and maintain frontend logic with Angular and Redux. Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them. Work closely with designers to bring high-quality, scalable, and maintainable solutions to life. Engage in all stages of the development process: planning, coding, testing, and deployment. Advocate for best practices and contribute to improving our development standards. Collaborate in a remote environment, primarily during European business hours. What We\u2019re Looking For: 5+ years of backend development experience, particularly with C# and .NET Framework. Hands-on, daily experience with AI coding tools such as Cursor or Claude Code on real projects, including giving agents good context and critically reviewing AI-generated code. Expertise in MongoDB, including complex operations (aggregations, compound indexes, transactions). Experience with GDPR, CCPA, or other data privacy compliance standards. Experience in Angular development, including NgRx or other Redux frameworks, is desirable. Experience with payment platforms such as Stripe. Strong Git skills, including modern branching strategies and ways of working. Familiarity with profiling web apps for high availability and scalability. Ability to make informed decisions between server-side and client-side code. Excellent communication skills and the ability to collaborate with non-engineers. A proactive approach to problem-solving, with a high level of discipline and independence. Startup experience. Bonus Points If You Have: Experience building MCP servers. Open source contributions. StackOverflow or other community contributions. Mobile app or SDK experience. To apply, submit your CV and a short Loom video (max 2 minutes) introducing yourself and how you use AI to develop faster without compromising quality. To apply: https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience\n\nFully remote / work from anywhere (We Work Remotely listing).",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": null,
+      "dedupe_key": "secureprivacy::seniorfullstackwebdevelopernetcmongodbangularreduxaifirstwithgdprexperience",
+      "raw": {
+        "board": "weworkremotely",
+        "path": "A",
+        "path_reason": "remote + remote-international hire language"
+      },
+      "rank": {
+        "overall": 0.411,
+        "sponsorship_score": 0.15,
+        "skill_score": 0.51,
+        "country_score": 0.7,
+        "freshness_score": 0.4,
+        "reasons": [
+          "sponsorship=unknown (0.15)",
+          "skills: mongodb, redux",
+          "remote (country unset)",
+          "date unknown"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + remote-international hire language"
+    },
+    {
+      "title": "Senior Independent Software Developer ($90-$170/hr)",
+      "company": "A.Team",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "source": "weworkremotely",
+      "location": "Worldwide Remote",
+      "country": null,
+      "workplace": "remote",
+      "employment_type": null,
+      "published_date": null,
+      "last_seen": "2026-11-24",
+      "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A\u00b7Team, we\u2019ve turned this vision into reality for top-tier independent software builders. Since May 2020, A\u00b7Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more. Why A\u00b7Team? High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies\u2014from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA. Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration. Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed. Exclusive gatherings: Participate in off-the-record events and connect with top builders. Transparent earnings: Keep 100% of your rate. How to Join: Visit A\u00b7Team Application and mention WWR under \"how you heard about A\u00b7Team.\" No cover letter needed \u2013 we value your portfolio. What to Expect: As an A\u00b7Teamer, you\u2019ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction. Who We're Looking For: Senior developers who left large companies to pursue their craft with autonomy. Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders. Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing. Not for: People seeking small gigs. Builders focused on simple WordPress/Wix/Squarespace sites. Early-career professionals and recent grads. Our Vision: A\u00b7Team is for the \"unhirables\" \u2013 exceptional builders whom traditional companies can\u2019t hire full-time. We empower you to do meaningful work with your favorite people in small, autonomous, expert teams. A.Team is forging a new vision for the future of work that\u2019s backed by $60M in funding from investors like Insight Partners, Tiger Global, and Spruce House, future-of-work pioneers like Adam Grant, Dan Ariely and Joseph Fuller, cultural leaders like Jay-Z\u2019s RocNation, and founders and execs from CAA, Apollo, Upwork, Fiverr, and SpaceX. Ready to join a team where your talent is valued, and your work is meaningful? Apply now and start your next great mission with A\u00b7Team. To apply: https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr\n\nFully remote / work from anywhere (We Work Remotely listing).",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": null,
+      "dedupe_key": "ateam::seniorindependentsoftwaredeveloper90170hr",
+      "raw": {
+        "board": "weworkremotely",
+        "path": "A",
+        "path_reason": "remote + remote-international hire language"
+      },
+      "rank": {
+        "overall": 0.355,
+        "sponsorship_score": 0.15,
+        "skill_score": 0.35,
+        "country_score": 0.7,
+        "freshness_score": 0.4,
+        "reasons": [
+          "sponsorship=unknown (0.15)",
+          "remote (country unset)",
+          "date unknown"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + remote-international hire language"
+    },
+    {
+      "title": "Backend Product Software Engineer",
+      "company": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
+      "source": "weworkremotely",
+      "location": "Worldwide Remote",
+      "country": null,
+      "workplace": "remote",
+      "employment_type": null,
+      "published_date": null,
+      "last_seen": "2026-11-24",
+      "description": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalable, and user-friendly features. This year, Dropbox is on a mission to expedite the creation and implementation of AI-enable d products by providing a comprehensive technology stack that facilitates rapid prototyping and reliable deployment of AI- augmented functionalit y . Our Engineering Career Framework is viewable by anyone outside the company and describes what\u2019s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here . Responsibilities Designing and building scalable software to reach millions of daily users. Collaborating closely with product managers, designers, and analysts to understand user needs and develop products that meet those needs. Developing and executing short and long-term roadmaps, balancing business impact, user experience, and technical quality. Actively contributing to our team and company culture through mentorship, participation in interviews, and involvement in new initiatives. Supporting fellow engineers through feedback, code reviews, and improvement of internal tools and processes. On-call work may be necessary occasionally to help address bugs, outages, or other operational issues, with the goal of maintaining a stable and high-quality experience for our customers. Requirements 3+ years of experience in software engineering or related industry roles. BS degree in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent technical experience. Demonstrated success in developing and deploying large-scale web applications with a user-focused approach. Proficiency in building user-facing software and supporting web/desktop systems and libraries. Ability to handle full-stack projects and deliver minimum viable products efficiently. Willingness to participate in on-call rotations if required by the team. Preferred Qualifications Contributions to o pen s ource p rojects or t echnical c ommunitie s Full-Stack Development Technologies: Python, Go, Java, Rust, MySQL Durable Skills AI fluency means using these tools to amplify human judgment, not replace it. We believe people with these skills will thrive as work and technology continue to evolve: Awareness: Understand yourself and others. Judgment: Evaluate information and make decisions in complex situations. Adaptability: Learn, adjust, and stay effective through change. Connection: Communicate, collaborate, and build trust. To learn more about why these skills matter and what the data shows about thriving through change, read this blog post from our Chief People Officer, Melanie Rosenwasser. To apply: https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1\n\nFully remote / work from anywhere (We Work Remotely listing).",
+      "skills": [],
+      "experience_requirements": null,
+      "salary": null,
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "application_deadline": null,
+      "status": "open",
+      "source_job_id": null,
+      "dedupe_key": "dropbox::backendproductsoftwareengineer",
+      "raw": {
+        "board": "weworkremotely",
+        "path": "A",
+        "path_reason": "remote + remote-international hire language"
+      },
+      "rank": {
+        "overall": 0.355,
+        "sponsorship_score": 0.15,
+        "skill_score": 0.35,
+        "country_score": 0.7,
+        "freshness_score": 0.4,
+        "reasons": [
+          "sponsorship=unknown (0.15)",
+          "remote (country unset)",
+          "date unknown"
+        ]
+      },
+      "path": "A",
+      "path_reason": "remote + remote-international hire language"
+    }
+  ],
+  "scrape_hits": [
+    {
+      "title": "Frontend Engineer",
+      "company": "Catawiki",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+      "date": "2026-11-20",
+      "id": "frontend-engineer-amsterdam-14154",
+      "portal": "visa-arbeitnow",
+      "source": "cli",
+      "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we\u2019d love to explore how you can join us. Taking ownership and driving impact Being open to change and feedback Being passionate about our mission and our customers. Your Mission Join one of Catawiki\u2019s main Development Verticals, Demand , Supply or Fulfilment , and help us improve the experience of buyers, sellers, and internal teams across our platform. Working alongside Backend, Frontend, iOS, and Android Engineers, you\u2019ll build product innovations for Catawiki\u2019s apps and web app. You\u2019ll collaborate closely with QA, UX Designers, Product Managers, and with the support of a Tech Lead Manager to create beautiful, adaptable web frontends on top of scalable microservices. While your product area may vary, your goal will remain the same: deliver reliable, high-quality experiences that make a meaningful impact for our users. What You'll Do Here at Catawiki, you will make an impact by improving and delivering product innovations for the Catawiki platform: Build impactful product experiences by improving and delivering innovations across the Catawiki platform for buyers, sellers, customer service, and internal operations teams. Create adaptable web frontends on top of scalable microservices using our core frontend stack of TypeScript and ReactJS. Deliver responsive, accessible experiences that work well across desktop, table",
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "days per week. At this time, we are only considering candidates who are already based in the Netherlands . As a result, relocation support is not available for this position . We can, however, provide visa transfer from current Dutch employer . In Return You",
+            "source_url": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "country": "NL",
+      "workplace": "unknown",
+      "rank_overall": 1.0,
+      "sponsorship_score": 1.0,
+      "skill_score": 1.0,
+      "path": "A"
+    },
+    {
+      "title": "Director, Software Engineering (Remote)",
+      "company": "Inspira Financial",
+      "location": "Oak Brook, IL, USA",
+      "url": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239331006&c=2202139&d=ExternalCareerSite&rb=INDEED&idUnique=5001239331006",
+      "date": "2026-11-23",
+      "id": "in-71ecbeb475e31a40",
+      "portal": "visa-jobspy",
+      "source": "cli",
+      "description": "**Position Summary:** We are seeking a Platform Software Engineering Director to join our growing team. This role is responsible for the full software development life cycle, from conception to deployment. As a Platform Software Engineering Director, you will have relevant experience with both front-end and back-end coding languages, software development architecture and design patterns, development frameworks and third-party libraries. The ideal candidate will have a strong background leading teams developing consumer-facing digital products in collaboration with product and design leaders. This individual must be creative, client focused, team player, organized, and can thrive in a dynamic environment. At First Dollar, we believe in empowering engineers to build a smarter health benefits platform - one where human expertise is amplified, not replaced, by AI tools. We seek engineers who have demonstrated experience using AI responsibly to accelerate their development workflow, improve code quality, and solve complex problems more efficiently. Our engineering team is built on the principles of humans over code. We are a tight-knit group of lifelong learners in a constant quest to be a team that is greater than the sum of its parts. Come join us! **Duties & Responsibilities:** * As a member of the Research and Development / Product Leadership team, will provide design services, resource planning, work estimation and coordination for multiple delivery teams * Lead a team of software engineers and quality engineers to design, develop, and test applications (e.g. API, web apps) in accordance with established standards. * Collaborate with Product and Design Leaders to lead product delivery teams. * Set short to medium term technical direction, creating plans to help achieve goals * Participate in peer-reviews of solution designs and related code. * Package and support deployment of releases. * Foster an environment where different backgrounds, cultures, industry and life",
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "specific office location, work arrangements and role locations may change over time to support business and team needs. Relocation assistance is not provided, whether for the initial move or for future changes in work location or role.* **Remote Eligibility:**",
+            "source_url": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239331006&c=2202139&d=ExternalCareerSite&rb=INDEED&idUnique=5001239331006",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "country": "US",
+      "workplace": "remote",
+      "rank_overall": 0.9405,
+      "sponsorship_score": 1.0,
+      "skill_score": 0.83,
+      "path": "A"
+    },
+    {
+      "title": "Frontend Engineer (f/m/d)",
+      "company": "Manex AI GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+      "date": "2026-11-22",
+      "id": "frontend-engineer-munich-170243",
+      "portal": "visa-arbeitnow",
+      "source": "cli",
+      "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspeed and BlueYard, with engineers from top companies and leading enterprise manufacturers as customers. We ship fast, work close to the shop floor, and we don't ship things we're not proud of. The Role As Frontend Engineer, you'll work across our entire frontend ecosystem and own frontend systems end-to-end. You'll use AI to ship a high volume of polished work while making thoughtful architectural decisions that keep our frontend coherent and easy to extend. You'll work directly with founders, engineers and customers, and see your work used on real factory floors. What You'll Do Platform: Build the interface for Kosmos, the platform that brings together enterprise data, operational context and AI Applications: Build interfaces for manufacturing applications that run on and are embedded into Kosmos Framework & DX: Ship the components, conventions, tooling and guidance that help AI agents, full-stack engineers and forward-deployed engineers build better UI faster Architecture: Make the calls that keep our frontend consistent, maintainable and ready to scale You Should Apply If You Use AI as a serious engineering tool and can turn it into a high volume of reliable output Care about architecture and know when to create a reusable abstraction, and when not to Have strong visual judgment and notice when an interface feels confusing, inconsistent or unfinished Enjoy turning recurring UI problems into primitives, patterns, documentation and tooling for other builders Care about fronten",
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+            "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/frontend-engineer-munich-170243",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "country": "DE",
+      "workplace": "unknown",
+      "rank_overall": 0.909,
+      "sponsorship_score": 1.0,
+      "skill_score": 0.74,
+      "path": "B"
+    },
+    {
+      "title": "Product Engineer - Frontend focus (f/m/d)",
+      "company": "Manex AI GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+      "date": "2026-11-19",
+      "id": "product-engineer-frontend-focus-munich-69998",
+      "portal": "visa-arbeitnow",
+      "source": "cli",
+      "description": "Who We Are Manufacturing runs on fragmented data: machines, sensors and decade-old systems that don't talk to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can't unfold its potential in point solutions that don't deliver. At Manex AI, we build the missing layer. Our platform handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it. We're a fast-growing team in Munich, backed by Lightspeed and BlueYard, with engineers from top companies and leading enterprise manufacturers as customers. We ship fast, work close to the shopfloor, and we don't ship things we're not proud of. The Role As Product Engineer with a frontend focus, you'll build the product features our customers use every day, fully owning the product with a strong focus on usability and intuitive design. You'll use AI to ship a high volume of polished work and stay close to the problems of the people who use it. You'll work directly with founders, engineers and customers, and see your work in production at leading manufacturers. What You'll Do Product features: Take features from first idea to production Customer applications: Turn manufacturing use cases into interfaces that users pick up without training Architecture: Make the calls that keep our frontend consistent, maintainable and ready to scale Design & usability: Shape flows, layouts, interactions and UI patterns so that users understand them without explanation Customer feedback: Talk to users, observe how they work and turn what you learn into product improvements Quality: Keep every interface fast, accessible and finished You Should Apply If You Use AI as a serious engineering tool and can turn it into a high volume of reliable output Think in products and want to solve the actual problem of the user Have strong visual judgment and notice when an interface feels confusing, inconsistent or unfinished Enjoy making complex workflows feel sim",
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "utschlandticket Regular offsites with the greatest team: think Austrian mountains, lakeside retreats or European cities Relocation support, including corporate housing offers Are you willing to start contributing to European autonomy at scale? Apply now! Fin",
+            "source_url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/product-engineer-frontend-focus-munich-69998",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "country": "DE",
+      "workplace": "unknown",
+      "rank_overall": 0.909,
+      "sponsorship_score": 1.0,
+      "skill_score": 0.74,
+      "path": "B"
+    },
+    {
+      "title": "Senior Software Engineer I - Servicing Platform",
+      "company": "Wise",
+      "location": "London, gb",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+      "date": "2026-11-19",
+      "id": "744000162520722",
+      "portal": "visa-smartrecruiters",
+      "source": "cli",
+      "description": "Wise is a global technology company, building the best way to move and manage the world\u2019s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money. As part of our team, you will be helping us create an entirely new network for the world's money. For everyone, everywhere. More about our mission and what we offer . About the role: Join us as a Platform Engineer in the Risk Domain, where you'll build the systems that make safe, global products possible. As part of our Platform Engineering team, you'll be at the intersection of Product and Risk \u2013 crafting systems that allow internal teams to ship faster, safer, and smarter. You won't just be writing code. You'll be building foundational services that other teams rely on to launch features across global markets. How we work: You'll be joining a team that values autonomy, creativity, and collaboration. We're building a platform from the ground up, with the support and reach of a product org that ships globally. Your work won't just scale technology \u2013 it'll scale trust. What will you be working on? We're designing a centralized risk platform \u2013 a system that unifies data and decision-making across identity verification, fraud detection, compliance, and more. This platform acts as the connective tissue between teams working on money movement, regional expansion, and customer safety. \u2022 Accelerate delivery: Enable product teams to launch faster with built-in risk tooling \u2022 Empower risk teams: Give them the systems they need to assess, respond, and protect\u2014without blocking development \u2022 Drive real impact: Your work will directly reduce fraud, improve trust, and help us scale safely What do you need? We are fully aware that it is uncommon for a candidate to have all skills required and we fully support everyone in learning new skills with us. So if ",
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "mpliance Experience in messaging systems such as Kafka is a plus. We are currently only considering local candidates as relocation support is not provided. For local candidates we are able to support transfer of visa sponsorship Interested? Find out more: Ho",
+            "source_url": "https://jobs.smartrecruiters.com/Wise/744000162520722",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "country": "GB",
+      "workplace": "unknown",
+      "rank_overall": 0.7725,
+      "sponsorship_score": 1.0,
+      "skill_score": 0.35,
+      "path": "B"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Pleo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+      "date": "2026-11-23",
+      "id": "staff-software-engineer-london-44552",
+      "portal": "visa-arbeitnow",
+      "source": "cli",
+      "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than you\u2019d expect\u2019, and living by that mantra has been the secret to our success over the last 10 years. Now, we\u2019re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can\u2019t say we\u2019ve got this whole thing figured out. And frankly, that\u2019s half the fun! What we can say is that we\u2019re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together. As a Staff Backend Engineer, you'll take technical ownership of complex business domains, designing, building, and evolving scalable, reliable backend services for our enterprise spend management platform. What you'll be working on: Designing and operating distributed systems, event-driven architectures, and cloud-native services. Applying Domain-Driven Design (DDD) to model complex business domains and define clear service boundaries. Building maintainable systems following Clean Architecture, Hexagonal Architecture, and similar architectural principles. Designing APIs, service integrations, and reliable asynchronous workflows using technologies such as Temporal. Designing secure authentication and authorization solutions, applying standards such as OAuth 2.0, OIDC, and WebAuthn, as well as fine-grained authorization models. En",
+      "sponsorship": {
+        "classification": "possible",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+            "source_url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/staff-software-engineer-london-44552",
+            "pattern": "arbeitnow visa_sponsorship filter"
+          }
+        ],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+      },
+      "country": "GB",
+      "workplace": "unknown",
+      "rank_overall": 0.727,
+      "sponsorship_score": 0.55,
+      "skill_score": 0.67,
+      "path": "A"
+    },
+    {
+      "title": "Full Stack Developer Senior- Backend Focus",
+      "company": "Bosch",
+      "location": "Timi\u0219oara, TM, ro",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163411024",
+      "date": "2026-11-24",
+      "id": "744000163411024",
+      "portal": "visa-smartrecruiters",
+      "source": "cli",
+      "description": "About Bosch Service Solutions in Timi\u0219oara Bosch Service Solutions is a leading service provider of enterprise and IT solutions. It designs and provides best-in-class services , including software-based solutions, consulting and management, AI, automation and customer experience . We\u2019re on a mission to exceed customer expectations and continually elevate industry standards. Our colleagues contribute to this mission through their commitment, in an environment where diversity is valued and where everyone can bring their own contribution. Our promise to our colleagues is rock-solid: we grow together, we enjoy our work, and inspire each other. Join us and see the difference. Work LikeABosch Main objective of the job : Develop and maintain the core infrastructure on manufacturing co-intelligence platform, including semantic query engines, data ingestion pipelines, chat interfaces, and agent runtime systems, using AI technologies and robust, scalable microservices architecture. Main attributions and responsibilities: Design, implement, and maintain microservices for AI-powered applications, including semantic search, data processing, and intelligent automation. Develop reliable APIs to handle complex machine learning workloads and real-time user interactions. Build robust, scalable data ingestion and processing pipelines for real-time and batch data from diverse enterprise sources and formats, using workflow orchestration frameworks. Implement vector-based search systems using embedding models, similarity algorithms, and retrieval-augmented generation architectures for intelligent information discovery. Develop responsive natural language web interfaces integrated with large language model APIs, and orchestration layers for multi-agent AI workflows, task delegation, and autonomous decision-making processes. Ensure system scalability, security, and observability across distributed platform components using containerization, cloud-native deployment patterns, and comprehensi",
+      "sponsorship": {
+        "classification": "verified_in_listing",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "excerpt": "ndidates to us through our program: Recommend Bosch. For certain positions, we will honor you with an attractive bonus; Relocation package - If you\u2019re being recruited from more than 50 km away, we provide a standard relocation package of 2500 RON (conditions",
+            "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000163411024",
+            "pattern": "relocation support"
+          }
+        ],
+        "relocation_support": true,
+        "verified_at": "2026-11-24",
+        "notes": "Explicit sponsorship/relocation language in the job listing."
+      },
+      "country": "RO",
+      "workplace": "unknown",
+      "rank_overall": 0.701,
+      "sponsorship_score": 1.0,
+      "skill_score": 0.66,
+      "path": "A"
+    },
+    {
+      "title": "Backend Software Developer",
+      "company": "Dawn Technology",
+      "location": "Werken op afstand",
+      "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+      "date": "2026-11-20",
+      "id": "remote-backend-software-developer-hilversum-417173",
+      "portal": "visa-arbeitnow",
+      "source": "cli",
+      "description": "Backend Software Developer \u2013 Maatwerk Software met Impact Wij weten dat wat op het eerste gezicht eenvoudig lijkt, vaak complexer is dan men denkt. En wij begrijpen dat technologie geen barri\u00e8re mag zijn, maar juist de verbinding naar een bestendige maatschappij. Bij Dawn Technology bouwen we niet zomaar digitale oplossingen. We ontwikkelen hoogwaardige maatwerk software die het leven van mensen verrijkt. Binnen onze Smart Devices afdeling bouwen we apps die impact maken. Van media apps voor bedrijven als Path\u00e9 en de NPO met miljoenen gebruikers, tot de app van het KNMI waarmee we belangrijke weerswaarschuwingen zoals code rood meldingen afgeven. We maken geen compromissen op kwaliteit en zoeken altijd naar de best mogelijke oplossing, tot in de kleinste details. Om onze groeiambities te realiseren zoeken we een Backend Software Developer . Iemand die energie krijgt van het ontwikkelen van sterke backend-omgevingen, het schrijven van strakke code en het operationeel krijgen \u00e9n houden van de onderliggende cloud-infrastructuur voor applicaties met miljoenen gebruikers. Jouw rol Als Backend Software Developer ben je een onmisbare schakel in de backend-trajecten van onze applicaties. Je bouwt de schaalbare, onzichtbare motor achter hoogwaardige innovaties en zorgt dat onze infrastructuur robuust staat. Je bent analytisch sterk en je krijgt er energie van om technische requirements te vertalen naar logische cloud-infrastructuren die je vervolgens z\u00e9lf bouwt. Je werkt nauw samen met onze multidisciplinaire ontwikkelteams en zorgt dat de code soepel draait. Geen haastwerk, maar engineering met diepgang en visie. Wat je zal gaan doen: Ontwikkelen en operationeel maken van serverless backends en event-driven API's met TypeScript (AWS Lambda / Serverless Functions). Zelfstandig opzetten van cloud-infrastructuren met behulp van Infrastructure as Code (bijv. via AWS CDK, Terraform of CloudFormation). Proactief meedenken over en het inrichten van CI/CD pipelines, applicatie-upti",
+      "sponsorship": {
+        "classification": "possible",
+        "confidence": 0.55,
+        "evidence": [
+          {
+            "excerpt": "Returned by Arbeitnow API with visa_sponsorship=true (board-level filter; confirm in listing).",
+            "source_url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+            "pattern": "arbeitnow visa_sponsorship filter"
+          }
+        ],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Arbeitnow tagged this posting under its visa-sponsorship filter."
+      },
+      "country": null,
+      "workplace": "remote",
+      "rank_overall": 0.667,
+      "sponsorship_score": 0.55,
+      "skill_score": 0.67,
+      "path": "A"
+    },
+    {
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "location": "Worldwide Remote",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "date": null,
+      "id": "",
+      "portal": "visa-weworkremotely",
+      "source": "cli",
+      "description": "Headquarters: Australia URL: http://yooli.co Job description We are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare. This critical role involves developing, integrating, and optimising our backend and database systems. You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. Your Role: Develop and maintain robust backend services using NestJS and Node.js , ensuring top-tier performance and security. Design and manage efficient REST API endpoints to optimise interactions with our SQL database. Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance. Ensure the scalability, security, and responsiveness of backend services. Uphold rigorous data protection standards and implement industry-leading security measures. Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team. What Youll Bring: Essential Skills & Experience: At least 7 years of experience with: React React Vite REST API development Strong knowledge and hands-on experience with SQL . Proficiency in Prisma for database management. A minimum of 5 years of experience in REST API development using the NestJS framework . Expertise in backend development, specifically with NestJS , Node.js , REST APIs , and PostgreSQL . Experience in developing single-page applications using ReactJS . Strong understanding of TypeScript and Object-Oriented Programming (OOP) principles. Solid grasp of commonly used data structures . Proven experience with cloud hosting services (preferably AWS) and integrating them into development workflows. Exceptional problem-solving skills and meticulous attention to detail. A proven ability to thrive in collaborative, remote work environments, showcasing excellent communicati",
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "country": "AU",
+      "workplace": "remote",
+      "rank_overall": 0.6425,
+      "sponsorship_score": 0.15,
+      "skill_score": 1.0,
+      "path": "A"
+    },
+    {
+      "title": "Software Engineer - Interfaces Backend",
+      "company": "Supabase",
+      "location": "Remote, Global",
+      "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+      "date": "2026-11-23",
+      "id": "30cc053e-33dc-4924-a870-2cf41c296b01",
+      "portal": "visa-ashby",
+      "source": "cli",
+      "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We\u2019re looking for a Software Engineer to join Supabase\u2019s Interfaces group and help run the backend services behind our developer tools, starting with postgres-meta: the open-source service that runs SQL against customers\u2019 Postgres databases on behalf of our dashboard, our MCP server, AI agents, and other platform tools. You\u2019ll work closely with the engineers who build those tools, and with our Platform and SRE teams. AI agents are the fastest-growing source of postgres-meta\u2019s traffic, and it sits on the path between developers and their data, so when it struggles, people can\u2019t reach their databases from the dashboard or their agents. The team\u2019s first priority is making it reliable, observable, and fair between tenants at agent scale, and helping redesign it for that scale without breaking the tools that depend on it. Depending on your experience, you\u2019ll own major parts of that work or lead it. Alongside it, the team builds the backend services that give every branch of a project the configuration and secrets it needs. We want to be upfront: this role carries real operational load. Our on-call process and rotation are new and need a lot of maturing, and you\u2019ll help build them into something sustainable from your first weeks. You\u2019ll be on call for services on the critical path, and incidents come before planned work. Platform teams run the infrastructure underneath; you\u2019ll own the services themselves, from their code to how they behave in production. It\u2019s ideal for someone who enjoys that kind of ownership, thrives in async, fast-paced environments, and stays calm when the root cause turns out to be in someone else\u2019s system. WHAT YOU\u2019LL BE RESPONSIBLE FOR In this role, you\u2019ll: - He",
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "country": null,
+      "workplace": "remote",
+      "rank_overall": 0.527,
+      "sponsorship_score": 0.15,
+      "skill_score": 0.67,
+      "path": "A"
+    },
+    {
+      "title": "Software Engineer - Postgres Tooling",
+      "company": "Supabase",
+      "location": "Remote, Global",
+      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "date": "2026-11-19",
+      "id": "2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "portal": "visa-ashby",
+      "source": "cli",
+      "description": "ABOUT SUPABASE Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. ABOUT THE ROLE We\u2019re looking for a Software Engineer, Postgres Tooling to join our CLI team and help build the open-source tools developers use to change their Postgres schemas safely. You\u2019ll join as a co-maintainer of pg-delta, our schema diff and migration engine, and grow into leading it. Given two databases, or a database and a folder of SQL files describing the schema you want, pg-delta works out the differences and generates the migration to get from one to the other. It powers supabase db diff, db pull, and declarative schemas, and it runs underneath Supabase\u2019s platform, branching, and AI agent workflows. Every migration it generates is verified on a throwaway clone before it\u2019s trusted, and it\u2019s tested against 331 scenarios on PostgreSQL 14\u201318. We\u2019re now working toward a stable, standalone 1.0 release for any Postgres developer, on Supabase or not. This is a correctness-first role. The SQL this tool generates runs against production databases, so privilege safety and avoiding data loss are non-negotiable. It\u2019s a great fit for someone who loves Postgres at the catalog level, enjoys compiler-style problems, and thrives in async, fast-paced environments. WHAT YOU\u2019LL BE RESPONSIBLE FOR In this role, you\u2019ll: - Co-maintain pg-delta: review and merge changes, including PRs written by AI agents, and grow into its lead maintainer. - Own correctness: triage bug reports from GitHub and support, fix diff and dependency-ordering bugs, and extend test coverage across Postgres versions. - Make sure generated migrations are privilege-safe and never silently lose data, by detecting destructive changes and rewriting them into safe equivalents where possible. - Help take pg-delta to a stable 1.0: a public ",
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "country": null,
+      "workplace": "remote",
+      "rank_overall": 0.471,
+      "sponsorship_score": 0.15,
+      "skill_score": 0.51,
+      "path": "A"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "WelcomeHome Software",
+      "location": "Worldwide Remote",
+      "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+      "date": null,
+      "id": "",
+      "portal": "visa-weworkremotely",
+      "source": "cli",
+      "description": "Headquarters: Atlanta, Georgia URL: https://www.welcomehomesoftware.com/homecarecrm?utm_term=home%20care%20software&utm_campaign=Lead+Gen+-+Home+Care+-+Branded+%26+General&utm_source=adwords&utm_medium=ppc&hsa_acc=3279896849&hsa_cam=22158696391&hsa_grp=179100793812&hsa_ad=730236934988&hsa_s About WelcomeHome WelcomeHome is an Atlanta-based SaaS provider with the mission to build the best Customer Relationship Management (CRM) platform in the Senior Living and Home Care space. Since launch in 2019, we have sustained consistent and rapid growth, expanding from four to 100+ employees. To date, we\u2019ve succeeded with a focused team that prioritizes client success over external / VC reporting and updates. WelcomeHome\u2019s differentiation extends beyond providing the most technologically advanced, easy-to-use software in the space. Clients receive world class support, from the migration from their legacy CRM platform to ongoing day-to-day training and troubleshooting. About the Role: WelcomeHome is looking for Senior Ruby on Rails Engineers excited about building user-friendly software solutions. This role is fully remote (based in the U.S.), will report to our VP of Engineering (based in Las Vegas), and play an integral role in product development and have the opportunity to impact several areas of the business. Tech Stack Backend: Ruby on Rails 8 / Ruby 3.3 (currently upgrading to Ruby 4) Frontend: Haml, Stimulus, minimal React (where it earns its place) Testing: Minitest + Capybara, TDD throughout Data/Async: PostgreSQL, Redis, Sidekiq Infrastructure: AWS (Aurora, S3, EC2) via Cloud66 AI: Pi, Codex, and Claude Code used in the daily dev workflow A great candidate might have: Deep experience with Ruby on Rails 5+ years software engineering experience Passion for building high quality software focused on the user experience Ability to take ownership and work well with others Demonstrated ability to work independently to problem solve and offer solutions Experience using Claud",
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "country": null,
+      "workplace": "remote",
+      "rank_overall": 0.467,
+      "sponsorship_score": 0.15,
+      "skill_score": 0.67,
+      "path": "A"
+    },
+    {
+      "title": "Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) \u2013 AI-First, with GDPR Experience",
+      "company": "Secure Privacy",
+      "location": "Worldwide Remote",
+      "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+      "date": null,
+      "id": "",
+      "portal": "visa-weworkremotely",
+      "source": "cli",
+      "description": "Headquarters: Europe (DK) URL: https://secureprivacy.ai Secure Privacy is expanding, and we\u2019re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You\u2019ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you\u2019re passionate about clean, maintainable code, we\u2019d love to hear from you! What You\u2019ll Do: Develop and maintain backend services with C# and .NET. Develop and maintain frontend logic with Angular and Redux. Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them. Work closely with designers to bring high-quality, scalable, and maintainable solutions to life. Engage in all stages of the development process: planning, coding, testing, and deployment. Advocate for best practices and contribute to improving our development standards. Collaborate in a remote environment, primarily during European business hours. What We\u2019re Looking For: 5+ years of backend development experience, particularly with C# and .NET Framework. Hands-on, daily experience with AI coding tools such as Cursor or Claude Code on real projects, including giving agents good context and critically reviewing AI-generated code. Expertise in MongoDB, including complex operations (aggregations, compound indexes, transactions). Experience with GDPR, CCPA, or other data privacy compliance standards. Experience in Angular development, including NgRx or other Redux frameworks, is desirable. Experience with payment platforms such as Stripe. Strong Git skills, including modern branching strategies and ways of working. Familiarity with profiling web apps for high availability and scalability. Ability to make informed decisions between server-side and client-side code. Excellent communication skills and t",
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "country": null,
+      "workplace": "remote",
+      "rank_overall": 0.411,
+      "sponsorship_score": 0.15,
+      "skill_score": 0.51,
+      "path": "A"
+    },
+    {
+      "title": "Senior Independent Software Developer ($90-$170/hr)",
+      "company": "A.Team",
+      "location": "Worldwide Remote",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+      "date": null,
+      "id": "",
+      "portal": "visa-weworkremotely",
+      "source": "cli",
+      "description": "Headquarters: NYC and TLV URL: https://build.a.team/wwrfastrackreferral Imagine choosing your projects, collaborating with the best, and keeping every dollar you earn. At A\u00b7Team, we\u2019ve turned this vision into reality for top-tier independent software builders. Since May 2020, A\u00b7Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more. Why A\u00b7Team? High-paying, meaningful missions: Earn $90-$170/hr with over 500 companies\u2014from trailblazing startups like Sightful, D-ID, and Apprentice to enterprise innovators like Lyft, Google X, and HCA. Collaborate with trusted peers: Work in small, elite teams for high-impact projects, ensuring top-tier collaboration. Full autonomy: Choose projects that excite you. Join when you're ready, and take breaks as needed. Exclusive gatherings: Participate in off-the-record events and connect with top builders. Transparent earnings: Keep 100% of your rate. How to Join: Visit A\u00b7Team Application and mention WWR under \"how you heard about A\u00b7Team.\" No cover letter needed \u2013 we value your portfolio. What to Expect: As an A\u00b7Teamer, you\u2019ll be invited to projects matching your interests. Work with startups, well-funded companies, or non-tech giants, building ambitious software from scratch in 3-4 person teams. Scope, strategize, and execute, often guiding clients who need direction. Who We're Looking For: Senior developers who left large companies to pursue their craft with autonomy. Those preferring consistent contract work over full-time roles, eager to create innovative products with other top-tier builders. Independent workers, full-time employees exploring client work, bootstrapping side projects, or searching for their next big thing. Not for: People seeking small gigs. Builders focused on simple WordPress/Wix/Squarespace sites. Early-career professionals and recent grads. Our Vision: A\u00b7Team is for the \"unhirables\" \u2013 exceptional ",
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "country": null,
+      "workplace": "remote",
+      "rank_overall": 0.355,
+      "sponsorship_score": 0.15,
+      "skill_score": 0.35,
+      "path": "A"
+    },
+    {
+      "title": "Backend Product Software Engineer",
+      "company": "Dropbox",
+      "location": "Worldwide Remote",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
+      "date": null,
+      "id": "",
+      "portal": "visa-weworkremotely",
+      "source": "cli",
+      "description": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalable, and user-friendly features. This year, Dropbox is on a mission to expedite the creation and implementation of AI-enable d products by providing a comprehensive technology stack that facilitates rapid prototyping and reliable deployment of AI- augmented functionalit y . Our Engineering Career Framework is viewable by anyone outside the company and describes what\u2019s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here . Responsibilities Designing and building scalable software to reach millions of daily users. Collaborating closely with product managers, designers, and analysts to understand user needs and develop products that meet those needs. Developing and executing short and long-term roadmaps, balancing business impact, user experience, and technical quality. Actively contributing to our team and company culture through mentorship, participation in interviews, and involvement in new initiatives. Supporting fellow engineers through feedback, code reviews, and improvement of internal tools and processes. On-call work may be necessary occasionally to help address bugs, outages, or other operational issues, with the goal of maintaining a stable and high-quality experience for our customers. Requirements 3+ years of experience in software engineering or related industry roles. BS degree in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent technical experience. Demonstrated success in developing and deploying large-scale web applications with a user-focused appr",
+      "sponsorship": {
+        "classification": "unknown",
+        "confidence": 0.1,
+        "evidence": [],
+        "relocation_support": null,
+        "verified_at": "2026-11-24",
+        "notes": "Insufficient evidence in listing text."
+      },
+      "country": null,
+      "workplace": "remote",
+      "rank_overall": 0.355,
+      "sponsorship_score": 0.15,
+      "skill_score": 0.35,
+      "path": "A"
+    }
+  ],
+  "path_near_misses": [
+    {
+      "company": "Ingestro",
+      "title": "Senior Frontend Engineer (gn)",
+      "url": "https://www.arbeitnow.com/jobs/companies/ingestro/senior-frontend-engineer-gn-berlin-129314",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Catapult Sports",
+      "title": "Senior Software Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/senior-software-engineer-london-39801",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Gymshark",
+      "title": "Senior Software Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/senior-software-engineer-solihull-300284",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Elastic",
+      "title": "Senior Software Engineer - Platform Billing Core",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-software-engineer-platform-billing-core-362074",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Sanity",
+      "title": "Software Engineering Manager, Billing & Integrations",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/software-engineering-manager-billing-integrations-london-uk-337815",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Automation Consultants Ltd",
+      "title": "Software Engineer",
+      "url": "https://www.arbeitnow.fr/jobs/companies/automation-consultants-ltd/software-engineer-hybrid-281608",
+      "workplace": "hybrid",
+      "sponsorship": "possible",
+      "reason": "hybrid without verified sponsorship/relocation"
+    },
+    {
+      "company": "Laelaps",
+      "title": "Software Engineer, Simulation (Digital Twins)",
+      "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-simulation-digital-twins-zurich-415398",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Laelaps",
+      "title": "Software Engineer, Robot Autonomy (Reliability & Test Infrastructure)",
+      "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-reliability-test-infrastructure-zurich-390637",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Auterion",
+      "title": "Senior Embedded Linux Software Engineer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-271814",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Univ\u00e9",
+      "title": "IT Specialist Frontend Platform",
+      "url": "https://www.arbeitnow.nl/jobs/companies/unive/it-specialist-frontend-platform-zwolle-113452",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "CCS Connects",
+      "title": "Software Engineer (.NET)",
+      "url": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-442578",
+      "workplace": "hybrid",
+      "sponsorship": "possible",
+      "reason": "hybrid without verified sponsorship/relocation"
+    },
+    {
+      "company": "databricks",
+      "title": "Software Engineering Intern (2027 Start) - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-133061",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "ILLUIN Technology",
+      "title": "Software Engineer (F/H)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/software-engineer-f-h-puteaux-319006",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Doctrine",
+      "title": "STAGE - Junior Fullstack Engineer - Productivity",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-productivity-paris-89035",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Doctrine",
+      "title": "STAGE - Junior Fullstack Engineer - International Team",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-international-team-paris-134859",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Diabolocom",
+      "title": "Full Stack Developer",
+      "url": "https://www.arbeitnow.fr/jobs/companies/diabolocom/full-stack-developer-paris-80109",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Namespace",
+      "title": "Infrastructure Software Engineer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/namespace/infrastructure-software-engineer-zurich-162653",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Elastic",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-software-engineer-vector-search-elasticsearch-102741",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Elastic",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-vector-search-elasticsearch-483019",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Elastic",
+      "title": "Principal Software Engineer - Search Infra - Elasticsearch",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-search-infra-elasticsearch-9780",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Auterion",
+      "title": "Senior Software Engineer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-software-engineer-zurich-229997",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Storyteq",
+      "title": "Senior Full Stack Engineer (TypeScript / Node.js)",
+      "url": "https://www.arbeitnow.nl/jobs/companies/storyteq/senior-full-stack-engineer-typescript-nodejs-amsterdam-401430",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Flexport",
+      "title": "Senior Software Engineer, Customs",
+      "url": "https://www.arbeitnow.nl/jobs/companies/flexport/senior-software-engineer-customs-amsterdam-73882",
+      "workplace": "unknown",
+      "sponsorship": "possible",
+      "reason": "workplace unknown / insufficient Path A/B evidence"
+    },
+    {
+      "company": "Clover Health",
+      "title": "Senior Software Developer, Agentic AI - Canada",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Cribl",
+      "title": "Staff Software Engineer, Agentic Tools",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Software Engineer, Partner Integrations",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Senior Software Engineer - Behavioral Security Products",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Reddit",
+      "title": "Principal Software Engineer, Infrastructure",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Honeycomb.io",
+      "title": "Senior Software Engineer II - Agentic Intelligence",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Cribl",
+      "title": "Sr Mgr, Software Engineering (Cribl Detect)",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-mgr-software-engineering-cribl-detect-cribl-1137923",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Clover Health",
+      "title": "Senior Software Developer - Canada",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Clover Health",
+      "title": "Senior Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Arbor Education",
+      "title": "Senior Product Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "DRFIRST COM INC",
+      "title": "Senior Software Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Knock",
+      "title": "Lending Manager (Front End) - Remote",
+      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "SimpleTiger",
+      "title": "Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
+      "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Reddit",
+      "title": "Frontend Engineer, Ads",
+      "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Upstart Network, Inc.",
+      "title": "Senior Frontend Software Engineer, Personal Loans",
+      "url": "nan",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "remote without sponsorship or worldwide/overseas hire language"
+    },
+    {
+      "company": "Concentrix",
+      "title": "Sr. Web Developer \u2013 React & Integrations",
+      "url": "https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Work-at-Home/Sr-Web-Developer---React---Integrations_R1783757?source=Indeed",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "fake-remote / country-only remote"
+    },
+    {
+      "company": "Koniag Government Services",
+      "title": "Cloud Software Engineer (REMOTE)",
+      "url": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/16490",
+      "workplace": "remote",
+      "sponsorship": "unknown",
+      "reason": "remote without sponsorship or worldwide/overseas hire language"
+    }
+  ]
+}

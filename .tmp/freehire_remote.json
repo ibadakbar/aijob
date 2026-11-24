@@ -1,0 +1,672 @@
+﻿{
+  "meta": {
+    "count": 25,
+    "page": 1,
+    "total": 16832
+  },
+  "results": [
+    {
+      "id": "next-js-developer-internship-qurovo-jbu5lorz",
+      "title": "Next.js Developer Internship",
+      "company": "Qurovo",
+      "company_slug": "qurovo",
+      "location": null,
+      "date": "2026-11-22",
+      "url": "https://unstop.com/internships/nextjs-developer-internship-qurovo-1822709?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "api",
+        "css",
+        "git",
+        "github",
+        "html",
+        "javascript",
+        "nextjs",
+        "react"
+      ],
+      "description": null
+    },
+    {
+      "id": "next-js-engineer-remote-work-ref-290615-bairesdev-gu3vr3zm",
+      "title": "Next.js Engineer - Remote Work | REF#290615",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": ",",
+      "date": "2026-11-17",
+      "url": "https://www.jobleads.com/cl/job/next-js-engineer-remote-work-ref-290615--chile--ef64385b515e1b0c99fe05dd0af72e9e0?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cl"
+      ],
+      "skills": [
+        "css",
+        "nextjs",
+        "react",
+        "seo",
+        "tailwind",
+        "typescript",
+        "vercel"
+      ],
+      "description": null
+    },
+    {
+      "id": "next-js-full-stack-engineer-remote-per-project-pay-candora-trading-wo4ezd7f",
+      "title": "Next.js Full-Stack Engineer — Remote, Per-Project Pay",
+      "company": "Candora Trading",
+      "company_slug": "candora-trading",
+      "location": ",",
+      "date": "2026-11-11",
+      "url": "https://www.jobleads.com/no/job/next-js-full-stack-engineer-remote-per-project-pay--norway--ec75cc7a88ec7b089258859cc9b0353a4?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "no"
+      ],
+      "skills": [
+        "accessibility",
+        "analytics",
+        "api",
+        "crm",
+        "github",
+        "nextjs",
+        "react",
+        "seo",
+        "sql",
+        "technical-seo",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "typescript-next-js-yi-liao-ye-jie-xiang-kewebapurikai-fa-levtech-freelance-qg2fcjd5",
+      "title": "【TypeScript/Next.js】医療業界向けWebアプリ開発",
+      "company": "Levtech Freelance",
+      "company_slug": "levtech-freelance",
+      "location": "新宿区, 東京都",
+      "date": "2026-11-18",
+      "url": "https://freelance.levtech.jp/project/detail/695084/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "jp"
+      ],
+      "skills": [
+        "aws",
+        "docker",
+        "gin",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-next-js-developer-remote-proxify-ab-o33kn6kl",
+      "title": "Senior Next.Js Developer - Remote",
+      "company": "Proxify AB",
+      "company_slug": "proxify",
+      "location": "Braga, Braga",
+      "date": "2026-11-17",
+      "url": "https://www.jobleads.com/pt/job/senior-next-js-developer-remote--braga--e620582d8e2fd077d72764dfe6dcf4493?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "pt"
+      ],
+      "skills": [
+        "nextjs",
+        "react"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-next-js-developer-remote-proxify-ab-2r6ehdok",
+      "title": "Senior Next.Js Developer - Remote",
+      "company": "Proxify AB",
+      "company_slug": "proxify",
+      "location": "Viseu, Viseu",
+      "date": "2026-11-17",
+      "url": "https://www.jobleads.com/pt/job/senior-next-js-developer-remote--viseu--e6a4304f14aef230dc009f653c5da5b23?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "pt"
+      ],
+      "skills": [
+        "nextjs",
+        "react"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-next-js-engineer-remote-flexible-hours-proxify-ab-zfmi2q6s",
+      "title": "Senior Next.js Engineer — Remote & Flexible Hours",
+      "company": "Proxify AB",
+      "company_slug": "proxify",
+      "location": "Viseu, Viseu",
+      "date": "2026-11-17",
+      "url": "https://www.jobleads.com/pt/job/senior-next-js-engineer-remote-flexible-hours--viseu--ee04db75cba748ed4868e57ccbbdfa2c0?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "pt"
+      ],
+      "skills": [
+        "nextjs",
+        "react"
+      ],
+      "description": null
+    },
+    {
+      "id": "remote-next-js-engineer-ssr-isr-react-ts-bairesdev-m5qmgkmy",
+      "title": "Remote Next.js Engineer — SSR/ISR, React + TS",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": ",",
+      "date": "2026-11-17",
+      "url": "https://www.jobleads.com/cl/job/remote-next-js-engineer-ssr-isr-react-ts--chile--e597d81e7bda571b3f38463baf468f6ff?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cl"
+      ],
+      "skills": [
+        "css",
+        "nextjs",
+        "react",
+        "seo",
+        "tailwind",
+        "typescript",
+        "vercel"
+      ],
+      "description": null
+    },
+    {
+      "id": "react-next-js-developer-remote-work-ref-290623-bairesdev-tujngar2",
+      "title": "React/Next.js Developer - Remote Work | REF#290623",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": ",",
+      "date": "2026-11-17",
+      "url": "https://www.jobleads.com/cl/job/react-next-js-developer-remote-work-ref-290623--chile--e880862a35d37c6f60c48617a60a694c7?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cl"
+      ],
+      "skills": [
+        "css",
+        "nextjs",
+        "react",
+        "tailwind",
+        "typescript",
+        "vercel"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-next-js-python-full-stack-developer-august-infotech-k3l72ol7",
+      "title": "Senior Next.js + Python (Full Stack Developer)",
+      "company": "August Infotech",
+      "company_slug": "august-infotech",
+      "location": "Poland",
+      "date": "2026-11-16",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__34398162__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [
+        "pl"
+      ],
+      "skills": [
+        "ai",
+        "aws",
+        "azure",
+        "contentful",
+        "cypress",
+        "generative-ai",
+        "graphql",
+        "nextjs",
+        "performance-management",
+        "python",
+        "react",
+        "redux",
+        "seo",
+        "vercel"
+      ],
+      "description": null
+    },
+    {
+      "id": "remote-next-js-react-developer-flexible-schedule-planet-logics-qxyqbgvn",
+      "title": "Remote Next.js/React Developer, Flexible Schedule",
+      "company": "Planet Logics",
+      "company_slug": "planet-logics",
+      "location": ",",
+      "date": "2026-11-11",
+      "url": "https://www.jobleads.com/us/job/remote-next-js-react-developer-flexible-schedule--united-states--e015cbe0c0ab8c9bc5ed7f118f4023797?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "api",
+        "bootstrap",
+        "css",
+        "git",
+        "html",
+        "javascript",
+        "json",
+        "nextjs",
+        "react",
+        "rest",
+        "seo",
+        "tailwind",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "typescript-node-js-next-js-dian-zi-shu-ji-ecsaitosabisuhurusutatsukukai-fa-levtech-freelance-75p53uxp",
+      "title": "【Typescript/Node.js/Next.js】電子書籍ECサイトサービスフルスタック開発",
+      "company": "Levtech Freelance",
+      "company_slug": "levtech-freelance",
+      "location": "港区, 東京都",
+      "date": "2026-11-19",
+      "url": "https://freelance.levtech.jp/project/detail/424841/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "jp"
+      ],
+      "skills": [
+        "css",
+        "html",
+        "javascript",
+        "jira",
+        "mysql",
+        "nextjs",
+        "nodejs",
+        "php",
+        "react",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "full-stack-developer-next-js-react-ai-backend-engineer-python-node-js-kozak-agency-qqmhysjc",
+      "title": "Full-Stack Developer (Next.js / React) + AI/Backend Engineer (Python / Node.js)",
+      "company": "Kozak Agency",
+      "company_slug": "kozak-agency",
+      "location": "Europe",
+      "date": "2026-11-23",
+      "url": "https://djinni.co/jobs/859319-full-stack-developer-next-js-react-ai-backend/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "eu"
+      ],
+      "countries": [],
+      "skills": [
+        "ai",
+        "api",
+        "authentication",
+        "llm",
+        "pgvector",
+        "postgresql"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-frontend-dev-next-js-remote-latam-zarego-h6tphszn",
+      "title": "Senior Frontend Dev - Next.js (Remote, LatAm)",
+      "company": "Zarego",
+      "company_slug": "zarego",
+      "location": "Bogotá, Bogotá, Distrito Capital",
+      "date": "2026-11-23",
+      "url": "https://www.jobleads.com/co/job/senior-frontend-dev-next-js-remote-latam--bogota--e1e58cf61632abee65e1fcfd919fe2b9b?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "co"
+      ],
+      "skills": [
+        "api",
+        "css",
+        "jest",
+        "nextjs",
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "senior-frontend-developer-next-js-remote-position-zarego-wnbrds45",
+      "title": "Senior Frontend Developer - Next.js (remote position)",
+      "company": "Zarego",
+      "company_slug": "zarego",
+      "location": "Bogotá, Bogotá, Distrito Capital",
+      "date": "2026-11-23",
+      "url": "https://www.jobleads.com/co/job/senior-frontend-developer-next-js-remote-position--bogota--e14ecf007a6832484701f3e8a693a1270?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "co"
+      ],
+      "skills": [
+        "api",
+        "css",
+        "jest",
+        "nextjs",
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "front-end-developer-react-next-js-jobgether-gb5uxtsr",
+      "title": "Front-end Developer (React / Next.js)",
+      "company": "Jobgether",
+      "company_slug": "jobgether",
+      "location": "Brazil",
+      "date": "2026-11-23",
+      "url": "https://jobs.lever.co/jobgether/15b7a665-b5cf-4cfe-9e02-ac37fab854d9?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "br"
+      ],
+      "skills": [
+        "accessibility",
+        "agile",
+        "ai",
+        "api",
+        "figma",
+        "gdpr",
+        "github",
+        "image-processing",
+        "nextjs",
+        "react",
+        "rest",
+        "slack",
+        "typescript",
+        "version-control",
+        "wcag"
+      ],
+      "description": null
+    },
+    {
+      "id": "web-developer-next-js-work-from-home-hampox-bizlink-com-fc5kf3ji",
+      "title": "Web Developer (Next.js) – Work from Home | Hampox",
+      "company": "Bizlink.com",
+      "company_slug": "bizlink-com",
+      "location": "Vishakhapatnam, Andhra Pradesh, India",
+      "date": "2026-11-22",
+      "url": "https://www.linkedin.com/jobs/view/4492344447/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "analytics",
+        "api",
+        "cloudflare",
+        "css",
+        "dns",
+        "ecommerce",
+        "google-analytics",
+        "mongodb",
+        "nextjs",
+        "postgresql",
+        "react",
+        "seo",
+        "sql",
+        "stripe",
+        "tailwind",
+        "typescript",
+        "typography",
+        "vercel",
+        "webhooks"
+      ],
+      "description": null
+    },
+    {
+      "id": "front-end-developer-next-js-react-js-ultahost-cyjtkcbu",
+      "title": "Front-End Developer (Next.js & React.js)",
+      "company": "Ultahost",
+      "company_slug": "ultahost",
+      "location": "United States",
+      "date": "2026-11-21",
+      "url": "https://himalayas.app/companies/ultahost/jobs/front-end-developer-next-js-react-js?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "north_america"
+      ],
+      "countries": [
+        "us"
+      ],
+      "skills": [
+        "api",
+        "css",
+        "cypress",
+        "developer-experience",
+        "git",
+        "html",
+        "javascript",
+        "jest",
+        "nextjs",
+        "react",
+        "redux",
+        "rest",
+        "seo",
+        "version-control"
+      ],
+      "description": null
+    },
+    {
+      "id": "remote-react-next-js-developer-high-impact-ui-bairesdev-oyxbtvzn",
+      "title": "Remote React/Next.js Developer — High-Impact UI",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": "Chile",
+      "date": "2026-11-20",
+      "url": "https://cl.whatjobs.com/pub_api__cpl__49356246__7092?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cl"
+      ],
+      "skills": [
+        "nextjs",
+        "react"
+      ],
+      "description": null
+    },
+    {
+      "id": "e-commerce-web-developer-next-js-node-js-experience-is-required-workstaff360-tocfevse",
+      "title": "E-commerce Web Developer (Next.js / Node.js experience is required)",
+      "company": "WorkStaff360",
+      "company_slug": "workstaff360",
+      "location": "India",
+      "date": "2026-11-20",
+      "url": "https://www.shine.com/jobs/e-commerce-web-developer-nextjs-nodejs-experience-is-required/workstaff360/20110508?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "in"
+      ],
+      "skills": [
+        "analytics",
+        "api",
+        "automation",
+        "ecommerce",
+        "nextjs",
+        "nodejs",
+        "react",
+        "seo",
+        "technical-seo"
+      ],
+      "description": null
+    },
+    {
+      "id": "remote-full-stack-next-js-engineer-ssr-isr-bairesdev-mbzfa3ii",
+      "title": "Remote Full-Stack Next.js Engineer | SSR/ISR",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": ", Antioquia",
+      "date": "2026-11-19",
+      "url": "https://www.jobleads.com/co/job/remote-full-stack-next-js-engineer-ssr-isr--antioquia--efbeefa1182f1fa3ef3b675d46c4f6c6f?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "co"
+      ],
+      "skills": [
+        "api",
+        "css",
+        "nextjs",
+        "react",
+        "seo",
+        "tailwind",
+        "typescript",
+        "vercel"
+      ],
+      "description": null
+    },
+    {
+      "id": "full-stack-next-js-developer-remote-work-ref-290636-bairesdev-gfyw2koa",
+      "title": "Full Stack Next.js Developer - Remote Work | REF#290636",
+      "company": "BairesDev",
+      "company_slug": "bairesdev",
+      "location": ", Antioquia",
+      "date": "2026-11-19",
+      "url": "https://www.jobleads.com/co/job/full-stack-next-js-developer-remote-work-ref-290636--antioquia--eb101a1e0c77ea264cd073b8d3c48fc26?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "co"
+      ],
+      "skills": [
+        "api",
+        "css",
+        "nextjs",
+        "react",
+        "seo",
+        "tailwind",
+        "typescript",
+        "vercel"
+      ],
+      "description": null
+    },
+    {
+      "id": "desarrollador-senior-next-js-100-remoto-manejo-ingles-consistor-chile-eudottow",
+      "title": "Desarrollador senior Next.js 100% Remoto (manejo inglés)",
+      "company": "Consistor Chile",
+      "company_slug": "consistor-chile",
+      "location": ",",
+      "date": "2026-11-19",
+      "url": "https://www.jobleads.com/cl/job/desarrollador-senior-next-js-100-remoto-manejo-ingles--chile--ef8c7f03225e747c68922b5fa8bd451a6?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cl"
+      ],
+      "skills": [
+        "nextjs",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "desarrollador-senior-next-js-y-typescript-100-remoto-consistor-chile-mhfgnrmn",
+      "title": "Desarrollador Senior Next.js y TypeScript — 100% Remoto",
+      "company": "Consistor Chile",
+      "company_slug": "consistor-chile",
+      "location": ",",
+      "date": "2026-11-19",
+      "url": "https://www.jobleads.com/cl/job/desarrollador-senior-next-js-y-typescript-100-remoto--chile--edc051f5dfe4ba2dca9b5f9260b008742?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "latam"
+      ],
+      "countries": [
+        "cl"
+      ],
+      "skills": [
+        "nextjs",
+        "typescript"
+      ],
+      "description": null
+    },
+    {
+      "id": "php-laravel-next-js-yi-liao-xi-sabisuapurikai-fa-levtech-freelance-4ohr7o6x",
+      "title": "【PHP/Laravel/Next.js】医療系サービスアプリ開発",
+      "company": "Levtech Freelance",
+      "company_slug": "levtech-freelance",
+      "location": "千代田区, 東京都",
+      "date": "2026-11-19",
+      "url": "https://freelance.levtech.jp/project/detail/636366/?utm_source=freehire.me",
+      "work_mode": "remote",
+      "regions": [
+        "apac"
+      ],
+      "countries": [
+        "jp"
+      ],
+      "skills": [
+        "laravel",
+        "nextjs",
+        "php"
+      ],
+      "description": null
+    }
+  ]
+}

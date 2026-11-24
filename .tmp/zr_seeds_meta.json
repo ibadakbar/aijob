@@ -1,0 +1,30 @@
+{
+  "seed_count": 21,
+  "dropped_hard": 11,
+  "dropped_agency": 5,
+  "dropped_dup": 2,
+  "dropped_noise": 22,
+  "companies": [
+    "Utility Profit",
+    "Databento",
+    "StackAI",
+    "Solvd",
+    "Siena AI",
+    "Fortaegis Technologies",
+    "Staffbase",
+    "Bump",
+    "Evlo AI",
+    "Incubyte",
+    "John Deere",
+    "Vested",
+    "LSEG",
+    "BotFriday AI",
+    "Enigma",
+    "PwC Deutschland",
+    "Autohaus Royal GmbH",
+    "PwC Deutschland",
+    "Codefield",
+    "Visual Productions BV",
+    "Sopra Steria"
+  ]
+}
