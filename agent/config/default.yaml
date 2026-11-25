@@ -1,0 +1,112 @@
+# Autonomous opportunity agent — intervals in minutes
+agent:
+  enabled: true
+  workbook: data/opportunities.xlsx
+  backup_dir: backups
+  log_dir: logs
+  prevent_sleep_note: "Keep PC powered on, online, and disable sleep for 24/7 operation."
+
+intervals_minutes:
+  jobs_feeds: 15
+  ats_jobs: 30
+  clients_projects: 45
+  founders: 60
+  recruiters: 60
+  agencies: 60
+  companies: 60
+  enrichment: 60
+  verification: 360
+  excel_stats_refresh: 30
+
+# Quality gates (applied before every Excel upsert)
+quality:
+  zero_repeat: true
+  kill_days: 14
+  max_listing_age_days: 90   # last 3 months only
+  enforce_path_ab: true
+  fake_remote_drop: true
+  block_india: true          # never keep India / India-primary listings
+  grade_a_requires_demand_and_contact: true
+  contact_ladder: true   # email → founder LinkedIn → apply URL
+  reject_inferred_emails: true
+  check_mx: false        # set true if dnspython installed for VERIFIED status
+
+engines:
+  jobs:
+    enabled: true
+    volume: true
+    since: "2d"
+    limit: 25
+  leads_bridge:
+    enabled: true
+    prompt: >-
+      Find React OR Next.js OR TypeScript full-stack SaaS roles remote-international
+      or visa sponsorship for DE/NL/UK/IE/AU/NZ/CA/US/EU/UAE/PK. Include New Zealand.
+      Exclude India / Bangalore / Mumbai / Hyderabad / India-only roles.
+  companies:
+    enabled: true
+    since: "7d"
+    limit: 25
+    harvest: false       # set true weekly to refresh greenhouse/ashby/lever slugs
+  clients:
+    enabled: true
+    discover: true
+    limit: 50
+    prompt: >-
+      Find clients and businesses in DE/NL/UK/IE/AU/NZ/CA/US/EU/UAE/PK (and remote-international
+      into those) that need a React OR Next.js OR TypeScript OR full-stack SaaS developer
+      (freelance, contract, or project). Prefer published email or phone. Include New Zealand.
+      Exclude India / India-only / Bangalore / Mumbai roles.
+  founders:
+    enabled: true
+  recruiters:
+    enabled: true
+  agencies:
+    enabled: true
+
+rate_limits:
+  default_requests_per_minute: 8
+  retry_max: 3
+  retry_backoff_seconds: 5
+
+profile:
+  skills:
+    - React.js
+    - Next.js
+    - TypeScript
+    - JavaScript
+    - Node.js
+    - Express.js
+    - Supabase
+    - PostgreSQL
+    - MongoDB
+    - MySQL
+    - Tailwind CSS
+    - Redux
+    - React Native
+    - Expo
+    - SaaS
+    - Full-stack
+    - REST APIs
+    - AWS
+    - Firebase
+  markets:
+    - Germany
+    - Netherlands
+    - United Kingdom
+    - Ireland
+    - Canada
+    - Australia
+    - New Zealand
+    - United States
+    - Sweden
+    - Finland
+    - Denmark
+    - UAE
+    - Saudi Arabia
+    - Qatar
+    - Switzerland
+    - Pakistan
+    - Worldwide remote
+  exclude_markets:
+    - India

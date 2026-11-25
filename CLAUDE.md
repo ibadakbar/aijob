@@ -16,7 +16,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ### Identity
 - **Name:** Ibad Akbar
 - **Location:** Karachi, Pakistan
-- **Target geographies:** Germany, Netherlands, United Kingdom, Ireland, Australia, Canada, New Zealand, United States, Sweden, Finland, Denmark, UAE, Saudi Arabia, Qatar, Switzerland, broader Europe (EU/EEA + UK), Pakistan — plus remote roles that hire into those markets
+- **Target geographies:** Germany, Netherlands, United Kingdom, Ireland, Australia, Canada, New Zealand, United States, Sweden, Finland, Denmark, Norway, Belgium, Czechia, Singapore, UAE, Saudi Arabia, Qatar, Switzerland, broader Europe (EU/EEA + UK), Pakistan — plus remote roles that hire into those markets
 - **Work arrangements:** Full-time, part-time, and contract are all acceptable
 - **Workplace type:** Prefer **fully remote**. **Onsite or hybrid allowed only** when the listing literally offers **visa sponsorship** and/or **relocation** (into a target geo). Without sponsorship/relocation → remote only
 - **Mobility / hire path:**
@@ -89,6 +89,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ### Deal-breakers
 - **Onsite** or **hybrid** with **no** visa sponsorship and **no** relocation support
 - Remote that is country-only (e.g. remote AU/UK/CA only) with **no** overseas / international hire or remote visa-sponsorship path
+- **India** / India-primary listings (Bangalore, Mumbai, Hyderabad, India-only remote, etc.) — skip; not a target market
 - Unpaid long "trial" periods framed as employment
 - Roles whose primary language requirement is a language not on your Languages table (German/Arabic as a *required* working language = FAIL unless you add that language later)
 

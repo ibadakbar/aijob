@@ -92,7 +92,7 @@ When evaluating results:
 - **FAIL:** Onsite; hybrid; country-only remote with no overseas path; local work-rights / citizenship-only; undeclared required working languages (e.g. German-only, Arabic-only)
 - **Override:** User may re-enable onsite/hybrid visa+relocate in plain language for a single run
 
-**Target geography checklist:** Germany · Netherlands · United Kingdom · Ireland · Australia · Canada · New Zealand · United States · Sweden · Finland · Denmark · UAE · Saudi Arabia · Qatar · Switzerland · Pakistan · broader EU/EEA when sponsorship/remote is clear
+**Target geography checklist:** Germany · Netherlands · United Kingdom · Ireland · Australia · Canada · New Zealand · United States · Sweden · Finland · Denmark · Norway · Belgium · Czechia · Singapore · UAE · Saudi Arabia · Qatar · Switzerland · Pakistan · broader EU/EEA when sponsorship/remote is clear
 
 ## Language Filter
 

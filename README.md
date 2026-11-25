@@ -37,6 +37,20 @@ Sixty-nine tailored applications, twenty first interviews, and one signed contra
   </a>
 </p>
 
+## 24/7 Excel opportunity agent (optional)
+
+Continuously running local discovery worker — **Excel only** (no database). v0.2 adds zero-repeat, Path A/B + fake-remote gates, contact ladder, Grade A hireability, and live founder/recruiter/agency/ATS collectors. See [`AGENT.md`](AGENT.md).
+
+```bat
+python -m pip install -r requirements-agent.txt
+python agent\cli.py init
+start_agent.bat
+run_dashboard.bat
+python agent\cli.py run-once --engine all
+```
+
+Existing `/scrape`, `/leads`, `/apply`, and `/outcome` workflows stay unchanged.
+
 ## What this is
 
 A structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-profiling, fit evaluation, and the drafter-reviewer application pipeline) is **language- and country-agnostic**. The job portal search skills are built for the Danish market (Jobindex, Jobnet, Akademikernes Jobbank, etc.), but the pattern is designed to be swapped for your local job boards.

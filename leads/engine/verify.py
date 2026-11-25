@@ -131,16 +131,31 @@ def verify_lead(lead: Lead, *, freshness_days: int = 30) -> VerificationReport:
     else:
         missing.append("company_domain")
 
+    # Prefer explicit published_date; else LinkedIn activity snowflake (~3mo hard ceiling)
     pub = _parse_day(lead.published_date)
+    if pub is None and lead.url and "linkedin.com" in (lead.url or "").casefold():
+        m = re.search(r"(?i)(?:activity|ugcPost|share)[_:-]?(\d{15,22})", lead.url)
+        if m:
+            try:
+                ms = int(m.group(1)) >> 22
+                if 1_000_000_000_000 < ms < 2_500_000_000_000:
+                    from datetime import timezone as _tz
+
+                    pub = datetime.fromtimestamp(ms / 1000, tz=_tz.utc).date()
+                    if not lead.published_date:
+                        lead.published_date = pub.isoformat()
+            except (ValueError, OSError, OverflowError):
+                pub = None
+    max_age_days = 90  # hard ceiling: last 3 months only
     if pub is None:
         missing.append("publication_date")
         conf -= 0.02
     else:
         checks.append("publication_date_present")
         age = (date.today() - pub).days
-        if age > max(freshness_days * 3, 90) or lead.expired:
-            issues.append("Listing appears stale or marked expired")
-            conf -= 0.25
+        if age > max_age_days or lead.expired:
+            issues.append(f"Listing older than {max_age_days}d (age {age}d) — drop")
+            conf -= 0.45
 
     email = next(
         (
@@ -199,10 +214,11 @@ def verify_lead(lead: Lead, *, freshness_days: int = 30) -> VerificationReport:
 
     conf = max(0.0, min(1.0, conf))
 
-    # Status ladder
-    if lead.expired or (pub and (date.today() - pub).days > max(freshness_days * 3, 120)):
+    # Status ladder — hard-expire anything older than 3 months
+    if lead.expired or (pub and (date.today() - pub).days > 90):
         status: VerificationStatus = "stale"
         opp_status = "expired" if lead.expired else "stale"
+        lead.expired = True
     elif visa == "contradictory":
         status = "contradictory"
         opp_status = "uncertain"

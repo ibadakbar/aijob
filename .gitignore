@@ -121,6 +121,16 @@ leads/exports/**
 **/leads/store/**
 **/leads/exports/**
 
+# Opportunity agent Excel store, locks, logs, backups (personal discovery data)
+data/**
+!data/.gitkeep
+backups/**
+!backups/.gitkeep
+logs/**
+!logs/.gitkeep
+*.xlsx.tmp
+agent/**/__pycache__/
+
 # Agent skills: track the source, ignore only deps and logs.
 # (A blanket `.agents/` ignore silently drops the job-search CLI skills from the repo.)
 .agents/**/node_modules
