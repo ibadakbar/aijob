@@ -5,7 +5,7 @@ from __future__ import annotations
 import hashlib
 import re
 from dataclasses import asdict, dataclass, field
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from typing import Any
 
 
@@ -52,6 +52,7 @@ class OpportunityRecord:
     contact_position: str = ""
     contact_email: str = ""
     contact_phone: str = ""  # published only — never inferred
+    contact_whatsapp: str = ""  # published wa.me / WhatsApp only — empty if none
     email_status: str = "NOT_FOUND"  # VERIFIED | PUBLIC_UNVERIFIED | INFERRED | NOT_FOUND
     linkedin_url: str = ""
     intent_classification: str = ""  # EXPLICIT_DEMAND | STRONG_SIGNAL | POTENTIAL_FIT | ""
@@ -100,9 +101,37 @@ def now_iso() -> str:
     return datetime.now().replace(microsecond=0).isoformat(sep=" ")
 
 
+# Monotonic clock so bulk creates in the same second still get unique Found-at times.
+_last_discovered_dt: datetime | None = None
+
+
 def now_discovered() -> str:
-    """Local discovery timestamp stored in Excel (sortable)."""
-    return datetime.now().strftime("%Y-%m-%d %I:%M:%S %p")
+    """Local discovery timestamp stored in Excel (unique per call within a process)."""
+    global _last_discovered_dt
+    dt = datetime.now().replace(microsecond=0)
+    if _last_discovered_dt is not None and dt <= _last_discovered_dt:
+        dt = _last_discovered_dt + timedelta(seconds=1)
+    _last_discovered_dt = dt
+    return dt.strftime("%Y-%m-%d %I:%M:%S %p")
+
+
+def discovered_from_source(*candidates: Any, fallback_now: bool = True) -> str:
+    """Pick the best source timestamp (checked/found/published) for Discovered Date.
+
+    Date-only values become noon local so the table shows a real clock, not blank AM.
+    """
+    for raw in candidates:
+        if raw is None or raw == "":
+            continue
+        dt = parse_datetime_flexible(raw)
+        if dt is None:
+            continue
+        if is_date_only_timestamp(raw) or (
+            isinstance(raw, date) and not isinstance(raw, datetime)
+        ) or (dt.hour == 0 and dt.minute == 0 and dt.second == 0 and len(str(raw).strip()) <= 10):
+            dt = datetime(dt.year, dt.month, dt.day, 12, 0, 0)
+        return dt.strftime("%Y-%m-%d %I:%M:%S %p")
+    return now_discovered() if fallback_now else ""
 
 
 def parse_datetime_flexible(value: Any) -> datetime | None:
@@ -177,10 +206,36 @@ def is_date_only_timestamp(value: Any) -> bool:
 
 
 def format_12h(value: str) -> str:
-    """Display date/datetime as ``YYYY-MM-DD hh:mm AM/PM`` (12-hour)."""
+    """Display Found-at / clock times as ``YYYY-MM-DD hh:mm AM/PM``.
+
+    Date-only values (Posted dates) stay ``YYYY-MM-DD`` — never invent ``12:00 AM``.
+    """
     if not value:
         return ""
-    dt = parse_datetime_flexible(value)
+    raw = str(value).strip()
+    if not raw:
+        return ""
+    # Date-only → no fake midnight clock
+    if is_date_only_timestamp(raw) or len(raw) <= 10:
+        dt = parse_datetime_flexible(raw)
+        if dt is None:
+            return raw[:10] if len(raw) >= 10 else raw
+        return dt.strftime("%Y-%m-%d")
+    dt = parse_datetime_flexible(raw)
     if dt is None:
-        return str(value).strip()
+        return raw
+    return dt.strftime("%Y-%m-%d %I:%M %p")
+
+
+def format_found_at(value: str) -> str:
+    """Always show Found-at with a real clock when a time exists."""
+    if not value:
+        return ""
+    raw = str(value).strip()
+    dt = parse_datetime_flexible(raw)
+    if dt is None:
+        return raw
+    if is_date_only_timestamp(raw):
+        # Noon placeholder from date-only backfill — still show clock so column is consistent
+        return dt.strftime("%Y-%m-%d %I:%M %p")
     return dt.strftime("%Y-%m-%d %I:%M %p")

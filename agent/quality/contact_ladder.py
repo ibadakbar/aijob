@@ -46,6 +46,7 @@ class ContactVerdict:
     tier: str  # A | B | C | none
     email: str = ""
     phone: str = ""
+    whatsapp: str = ""  # wa.me link or empty
     email_status: str = "NOT_FOUND"  # VERIFIED | PUBLIC_UNVERIFIED | INFERRED | NOT_FOUND
     linkedin_url: str = ""
     apply_url: str = ""
@@ -68,6 +69,73 @@ def extract_published_phone(*blobs: str) -> str:
         tel = re.search(r"tel:([+\d][\d\-().\s]{6,})", text, re.I)
         if tel:
             return re.sub(r"\s+", " ", tel.group(1)).strip()
+    return ""
+
+
+def _digits_phone(raw: str) -> str:
+    digits = re.sub(r"\D", "", raw or "")
+    if digits.startswith("00"):
+        digits = digits[2:]
+    return digits
+
+
+def normalize_whatsapp(raw: str) -> str:
+    """Normalize published WhatsApp to ``https://wa.me/<digits>`` or empty."""
+    val = (raw or "").strip()
+    if not val:
+        return ""
+    # Already a wa.me / api.whatsapp.com link
+    m = re.search(
+        r"(?:https?://)?(?:wa\.me/|api\.whatsapp\.com/send\?phone=)(\+?[\d]+)",
+        val,
+        re.I,
+    )
+    if m:
+        digits = _digits_phone(m.group(1))
+        if 8 <= len(digits) <= 15:
+            return f"https://wa.me/{digits}"
+    digits = _digits_phone(val)
+    if 8 <= len(digits) <= 15:
+        return f"https://wa.me/{digits}"
+    return ""
+
+
+def extract_published_whatsapp(*blobs: str) -> str:
+    """Return WhatsApp only when literally published — never invent.
+
+    Looks for wa.me / api.whatsapp.com links and labeled WhatsApp numbers.
+    """
+    for blob in blobs:
+        text = blob or ""
+        if not text:
+            continue
+        # Explicit WhatsApp deep links
+        for m in re.finditer(
+            r"(?:https?://)?(?:wa\.me/|api\.whatsapp\.com/send\?phone=)(\+?[\d]+)",
+            text,
+            re.I,
+        ):
+            got = normalize_whatsapp(m.group(0))
+            if got:
+                return got
+        # Labeled WhatsApp: ... number
+        labeled = re.search(
+            r"(?i)(?:whats?\s*app|whatsapp|wa)\s*[:#/\-]?\s*((?:\+|00)?[\d][\d\s\-().]{7,18}\d)",
+            text,
+        )
+        if labeled:
+            got = normalize_whatsapp(labeled.group(1))
+            if got:
+                return got
+        # "chat on WhatsApp" near a phone
+        near = re.search(
+            r"(?i)whats?\s*app.{0,40}?((?:\+|00)?[\d][\d\s\-().]{7,18}\d)",
+            text,
+        )
+        if near:
+            got = normalize_whatsapp(near.group(1))
+            if got:
+                return got
     return ""
 
 
@@ -160,6 +228,7 @@ def ladder_from_contacts(
     """Pick best published contact. Never invent."""
     email = ""
     phone = ""
+    whatsapp = ""
     email_status = "NOT_FOUND"
     email_prov = ""
     linkedin = ""
@@ -182,8 +251,12 @@ def ladder_from_contacts(
             email_prov = prov
             name = str(ch.get("name") or "")
             title = str(ch.get("title") or "")
+        if ctype in ("whatsapp", "wa", "whats_app") and val and not whatsapp:
+            whatsapp = normalize_whatsapp(val) or extract_published_whatsapp(val, notes)
         if ctype in ("phone", "tel", "whatsapp", "mobile") and val and not phone:
             phone = val
+            if ctype == "whatsapp" and not whatsapp:
+                whatsapp = normalize_whatsapp(val)
         elif not phone:
             maybe = extract_published_phone(val, notes)
             if maybe and ("phone" in ctype.lower() or "tel" in ctype.lower() or ctype == "unknown"):
@@ -191,6 +264,9 @@ def ladder_from_contacts(
                 digits = re.sub(r"\D", "", maybe)
                 if 8 <= len(digits) <= 15:
                     phone = maybe
+        # Catch wa.me in any channel value/notes
+        if not whatsapp:
+            whatsapp = extract_published_whatsapp(val, notes)
         if ctype == "professional_profile" and "linkedin.com/in/" in val.lower() and not linkedin:
             linkedin = val
         if ctype in ("application_page", "url") and val.startswith("http") and not source_url:
@@ -217,18 +293,20 @@ def ladder_from_contacts(
             tier=tier,
             email=email,
             phone=phone,
+            whatsapp=whatsapp,
             email_status=email_status,
             linkedin_url=linkedin,
             apply_url=apply_url,
             provenance=email_prov or "published_email",
         )
-    if phone:
+    if whatsapp or phone:
         return ContactVerdict(
             tier="A",
             phone=phone,
+            whatsapp=whatsapp,
             linkedin_url=linkedin,
             apply_url=apply_url,
-            provenance="published_phone",
+            provenance="published_whatsapp" if whatsapp else "published_phone",
             email_status="NOT_FOUND",
         )
     if linkedin:
@@ -237,6 +315,7 @@ def ladder_from_contacts(
             linkedin_url=linkedin,
             apply_url=apply_url,
             phone=phone,
+            whatsapp=whatsapp,
             provenance="founder_or_named_linkedin",
             email_status="NOT_FOUND",
         )
@@ -278,6 +357,26 @@ def apply_contact_ladder_to_record(rec, contacts=None, founders=None, *, check_m
         maybe = extract_published_phone(rec.description or "", rec.evidence or "")
         if maybe:
             rec.contact_phone = maybe
+    # WhatsApp: published only; leave empty/null when not found
+    if verdict.whatsapp:
+        rec.contact_whatsapp = verdict.whatsapp
+    elif not getattr(rec, "contact_whatsapp", ""):
+        wa = extract_published_whatsapp(
+            rec.description or "",
+            rec.evidence or "",
+            rec.source_url or "",
+            getattr(rec, "contact_phone", "") or "",
+        )
+        # Only promote phone → WhatsApp when text explicitly mentions WhatsApp
+        blob = f"{rec.description or ''} {rec.evidence or ''}"
+        if wa:
+            rec.contact_whatsapp = wa
+        elif re.search(r"(?i)whats?\s*app", blob) and getattr(rec, "contact_phone", ""):
+            maybe_wa = normalize_whatsapp(rec.contact_phone)
+            if maybe_wa:
+                rec.contact_whatsapp = maybe_wa
+        else:
+            rec.contact_whatsapp = ""
     if verdict.linkedin_url and not rec.linkedin_url:
         rec.linkedin_url = verdict.linkedin_url
     if verdict.provenance:

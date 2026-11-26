@@ -22,12 +22,14 @@ except ImportError:  # pragma: no cover
 
 from agent.models.opportunity import (
     OpportunityRecord,
+    discovered_from_source,
     grade_from_score,
     is_date_only_timestamp,
     make_opportunity_id,
     norm_key,
     now_discovered,
     now_iso,
+    parse_datetime_flexible,
     to_discovered_str,
 )
 
@@ -77,6 +79,7 @@ ALL_OPPORTUNITIES_COLUMNS = [
     "Contact Position",
     "Contact Email",
     "Contact Phone",
+    "WhatsApp",
     "Email Status",
     "LinkedIn URL",
     "Intent Classification",
@@ -137,6 +140,7 @@ def _row_to_record(headers: list[str], values: list[Any]) -> dict[str, Any]:
             "Contact Position": "contact_position",
             "Contact Email": "contact_email",
             "Contact Phone": "contact_phone",
+            "WhatsApp": "contact_whatsapp",
             "Email Status": "email_status",
             "LinkedIn URL": "linkedin_url",
             "Intent Classification": "intent_classification",
@@ -187,6 +191,7 @@ def _record_to_values(rec: OpportunityRecord) -> list[Any]:
         "contact_position",
         "contact_email",
         "contact_phone",
+        "contact_whatsapp",
         "email_status",
         "linkedin_url",
         "intent_classification",
@@ -346,11 +351,21 @@ class ExcelStore:
                 email_i = headers.index("Contact Email") + 1  # 1-based insert after
                 ws.insert_cols(email_i + 1)
                 ws.cell(1, email_i + 1).value = "Contact Phone"
+                headers = [c.value for c in ws[1]]
+                self._style_header(ws)
+                changed = True
+            if "WhatsApp" not in headers and "Contact Phone" in headers:
+                phone_i = headers.index("Contact Phone") + 1
+                ws.insert_cols(phone_i + 1)
+                ws.cell(1, phone_i + 1).value = "WhatsApp"
+                headers = [c.value for c in ws[1]]
                 self._style_header(ws)
                 changed = True
             elif not headers or headers[0] != "ID":
                 continue
-            elif headers != ALL_OPPORTUNITIES_COLUMNS and "Contact Phone" not in headers:
+            elif headers != ALL_OPPORTUNITIES_COLUMNS and (
+                "Contact Phone" not in headers or "WhatsApp" not in headers
+            ):
                 # Rebuild header row if column set drifted — append missing at end
                 for col in ALL_OPPORTUNITIES_COLUMNS:
                     if col not in headers:
@@ -426,6 +441,159 @@ class ExcelStore:
                 cell.number_format = "@"  # keep as text so Excel won't drop the clock
                 changed = True
         return changed
+
+    def repair_found_at_times(self, *, backup: bool = True) -> dict[str, int]:
+        """Fix bulk-identical Discovered Date stamps using leads_store checked/published dates.
+
+        Rows that share one batch clock (e.g. all ``11:44:26 AM``) get the lead's
+        ``checked_date`` / ``published_date`` so the table shows when each listing
+        was actually found — not one shared import second.
+        """
+        import json
+        from datetime import timedelta
+
+        self.ensure_workbook()
+        if backup:
+            self.backup("pre_repair_found_at")
+        leads_path = ROOT / "leads" / "store" / "leads_store.json"
+        by_url: dict[str, dict] = {}
+        by_pair: dict[tuple[str, str], dict] = {}
+        if leads_path.is_file():
+            try:
+                payload = json.loads(leads_path.read_text(encoding="utf-8"))
+                for lead in (payload.get("leads") or {}).values():
+                    if not isinstance(lead, dict):
+                        continue
+                    url = str(lead.get("url") or lead.get("source_url") or "").rstrip("/")
+                    company = str(lead.get("company") or lead.get("company_name") or "")
+                    title = str(
+                        lead.get("title") or lead.get("role") or lead.get("opportunity_title") or ""
+                    )
+                    if url:
+                        by_url[url.casefold()] = lead
+                    if company and title:
+                        by_pair[(norm_key(company), norm_key(title))] = lead
+            except (OSError, json.JSONDecodeError):
+                pass
+
+        lock = self._lock()
+        if lock:
+            with lock:
+                return self._repair_found_at_unlocked(by_url, by_pair)
+        return self._repair_found_at_unlocked(by_url, by_pair)
+
+    def _repair_found_at_unlocked(
+        self,
+        by_url: dict[str, dict],
+        by_pair: dict[tuple[str, str], dict],
+    ) -> dict[str, int]:
+        from datetime import timedelta
+        from collections import Counter
+
+        wb = load_workbook(self.path)
+        sheet_names = [
+            "All Opportunities",
+            "Jobs",
+            "Contracts & Freelance",
+            "Clients",
+            "Founders & Clients",
+            "Recruiters",
+            "Agencies",
+        ]
+        # Detect bulk-identical stamps on All Opportunities
+        ws0 = wb["All Opportunities"]
+        h0 = [c.value for c in ws0[1]]
+        disc0 = h0.index("Discovered Date") + 1
+        counts: Counter[str] = Counter()
+        for r in range(2, ws0.max_row + 1):
+            counts[str(ws0.cell(r, disc0).value or "")] += 1
+        bulk_stamps = {s for s, n in counts.items() if s and n >= 10}
+
+        fixed = 0
+        posted_fixed = 0
+        used_seconds: dict[str, int] = {}  # date-key -> next second offset
+
+        for name in sheet_names:
+            if name not in wb.sheetnames:
+                continue
+            ws = wb[name]
+            headers = [c.value for c in ws[1]]
+            if "Discovered Date" not in headers or "Company" not in headers:
+                continue
+            disc_col = headers.index("Discovered Date") + 1
+            company_col = headers.index("Company") + 1
+            title_col = headers.index("Role / Project Title") + 1
+            url_col = headers.index("Source URL") + 1 if "Source URL" in headers else None
+            posted_col = headers.index("Posted Date") + 1 if "Posted Date" in headers else None
+
+            for r in range(2, ws.max_row + 1):
+                current = str(ws.cell(r, disc_col).value or "")
+                company = str(ws.cell(r, company_col).value or "")
+                title = str(ws.cell(r, title_col).value or "")
+                url = ""
+                if url_col:
+                    url = str(ws.cell(r, url_col).value or "").rstrip("/")
+                lead = None
+                if url and url.casefold() in by_url:
+                    lead = by_url[url.casefold()]
+                elif (norm_key(company), norm_key(title)) in by_pair:
+                    lead = by_pair[(norm_key(company), norm_key(title))]
+
+                needs_fix = (current in bulk_stamps) or is_date_only_timestamp(current)
+                if not needs_fix and not lead:
+                    continue
+
+                new_stamp = ""
+                if lead:
+                    new_stamp = discovered_from_source(
+                        lead.get("checked_date"),
+                        lead.get("discovered_at"),
+                        lead.get("found_at"),
+                        lead.get("published_date"),
+                        lead.get("posted_date"),
+                        fallback_now=False,
+                    )
+                    if posted_col and not ws.cell(r, posted_col).value:
+                        pub = str(lead.get("published_date") or lead.get("posted_date") or "")[:10]
+                        if pub:
+                            ws.cell(r, posted_col).value = pub
+                            posted_fixed += 1
+                if not new_stamp and current in bulk_stamps:
+                    # No lead match: keep the bulk day but stagger seconds so rows differ
+                    dt = parse_datetime_flexible(current) or datetime.now()
+                    day_key = dt.strftime("%Y-%m-%d")
+                    offset = used_seconds.get(day_key, 0)
+                    used_seconds[day_key] = offset + 1
+                    new_stamp = (dt.replace(hour=dt.hour, minute=dt.minute, second=0) + timedelta(seconds=offset)).strftime(
+                        "%Y-%m-%d %I:%M:%S %p"
+                    )
+                elif new_stamp:
+                    # Stagger identical date-only checked_dates into unique clocks
+                    dt = parse_datetime_flexible(new_stamp)
+                    if dt:
+                        day_key = dt.strftime("%Y-%m-%d %H:%M")
+                        offset = used_seconds.get(day_key, 0)
+                        used_seconds[day_key] = offset + 1
+                        if offset:
+                            new_stamp = (dt + timedelta(seconds=offset)).strftime(
+                                "%Y-%m-%d %I:%M:%S %p"
+                            )
+
+                if new_stamp and new_stamp != current and needs_fix:
+                    cell = ws.cell(r, disc_col)
+                    cell.value = new_stamp
+                    cell.number_format = "@"
+                    fixed += 1
+
+        if fixed or posted_fixed:
+            self._atomic_save(wb)
+        else:
+            wb.close()
+        return {
+            "fixed_discovered": fixed,
+            "fixed_posted": posted_fixed,
+            "bulk_stamps": len(bulk_stamps),
+        }
 
     def _autosize(self, ws) -> None:
         for idx, col in enumerate(ws.columns, start=1):
@@ -574,12 +742,9 @@ class ExcelStore:
             disc_idx = ALL_OPPORTUNITIES_COLUMNS.index("Discovered Date")
             disc_col = headers.index("Discovered Date") + 1
             if row_idx is None:
-                # New row: always stamp real local discovery time
-                stamp = (
-                    to_discovered_str(rec.discovered_date)
-                    if rec.discovered_date and not is_date_only_timestamp(rec.discovered_date)
-                    else now_discovered()
-                )
+                # New listing → save current local time as Found at (shown in dashboard table)
+                stamp = now_discovered()
+                rec.discovered_date = stamp
                 values[disc_idx] = stamp
                 ws.append(values)
                 row_idx = ws.max_row
@@ -813,6 +978,90 @@ class ExcelStore:
                     break
         self._atomic_save(wb)
 
+    def record_search_query(
+        self,
+        *,
+        query_id: str,
+        engine: str,
+        query_text: str,
+        hits: int = 0,
+        new_hits: int = 0,
+        notes: str = "",
+        enabled: str = "yes",
+    ) -> None:
+        """Upsert a row on the Search Queries sheet for intelligent pack tracking."""
+        self.ensure_workbook()
+        lock = self._lock()
+        if lock:
+            with lock:
+                self._record_search_query_unlocked(
+                    query_id, engine, query_text, hits, new_hits, notes, enabled
+                )
+        else:
+            self._record_search_query_unlocked(
+                query_id, engine, query_text, hits, new_hits, notes, enabled
+            )
+
+    def _record_search_query_unlocked(
+        self,
+        query_id: str,
+        engine: str,
+        query_text: str,
+        hits: int,
+        new_hits: int,
+        notes: str,
+        enabled: str,
+    ) -> None:
+        wb = load_workbook(self.path)
+        if "Search Queries" not in wb.sheetnames:
+            ws = wb.create_sheet("Search Queries")
+            ws.append(
+                [
+                    "Query ID",
+                    "Engine",
+                    "Query Text",
+                    "Last Run",
+                    "Hits",
+                    "New Hits",
+                    "Enabled",
+                    "Notes",
+                ]
+            )
+            self._style_header(ws)
+        else:
+            ws = wb["Search Queries"]
+        found = None
+        for r in range(2, ws.max_row + 1):
+            if str(ws.cell(r, 1).value or "") == query_id:
+                found = r
+                break
+        stamp = now_iso()
+        if found is None:
+            ws.append(
+                [
+                    query_id,
+                    engine,
+                    query_text[:500],
+                    stamp,
+                    hits,
+                    new_hits,
+                    enabled,
+                    notes[:300],
+                ]
+            )
+        else:
+            ws.cell(found, 2).value = engine
+            ws.cell(found, 3).value = query_text[:500]
+            ws.cell(found, 4).value = stamp
+            prev_hits = int(ws.cell(found, 5).value or 0)
+            prev_new = int(ws.cell(found, 6).value or 0)
+            ws.cell(found, 5).value = prev_hits + hits
+            ws.cell(found, 6).value = prev_new + new_hits
+            ws.cell(found, 7).value = enabled
+            if notes:
+                ws.cell(found, 8).value = notes[:300]
+        self._atomic_save(wb)
+
     def expire_stale_opportunities(
         self,
         *,
@@ -920,6 +1169,100 @@ class ExcelStore:
             "enriched_posted": enriched,
             "scanned": scanned,
         }
+
+    def update_opportunity_fields(
+        self,
+        opportunity_id: str,
+        *,
+        status: str | None = None,
+        notes_append: str = "",
+        next_action: str | None = None,
+    ) -> bool:
+        """Update Status / Notes / Next Action for one row by ID. Returns True if found."""
+        self.ensure_workbook()
+        lock = self._lock()
+        if lock:
+            with lock:
+                return self._update_opportunity_fields_unlocked(
+                    opportunity_id,
+                    status=status,
+                    notes_append=notes_append,
+                    next_action=next_action,
+                )
+        return self._update_opportunity_fields_unlocked(
+            opportunity_id,
+            status=status,
+            notes_append=notes_append,
+            next_action=next_action,
+        )
+
+    def _update_opportunity_fields_unlocked(
+        self,
+        opportunity_id: str,
+        *,
+        status: str | None,
+        notes_append: str,
+        next_action: str | None,
+    ) -> bool:
+        oid = (opportunity_id or "").strip()
+        if not oid:
+            return False
+        wb = load_workbook(self.path)
+        ws = wb["All Opportunities"]
+        headers = [c.value for c in ws[1]]
+        if "ID" not in headers:
+            wb.close()
+            return False
+        id_col = headers.index("ID") + 1
+        status_col = headers.index("Status") + 1 if "Status" in headers else None
+        notes_col = headers.index("Notes") + 1 if "Notes" in headers else None
+        next_col = headers.index("Next Action") + 1 if "Next Action" in headers else None
+        found = None
+        for r in range(2, ws.max_row + 1):
+            if str(ws.cell(r, id_col).value or "").strip() == oid:
+                found = r
+                break
+        if found is None:
+            wb.close()
+            return False
+        if status is not None and status_col:
+            ws.cell(found, status_col).value = status
+        if notes_append and notes_col:
+            prev = str(ws.cell(found, notes_col).value or "")
+            tag = notes_append.strip()
+            if tag and tag not in prev:
+                ws.cell(found, notes_col).value = (prev + " " + tag).strip()
+        if next_action is not None and next_col:
+            ws.cell(found, next_col).value = next_action
+        # Mirror to type sheet
+        otype = ""
+        if "Opportunity Type" in headers:
+            otype = str(ws.cell(found, headers.index("Opportunity Type") + 1).value or "").lower()
+        type_sheet = TYPE_TO_SHEET.get(otype)
+        if type_sheet and type_sheet in wb.sheetnames:
+            tws = wb[type_sheet]
+            theaders = [c.value for c in tws[1]]
+            if "ID" in theaders:
+                tid = theaders.index("ID") + 1
+                for tr in range(2, tws.max_row + 1):
+                    if str(tws.cell(tr, tid).value or "").strip() == oid:
+                        if status is not None and "Status" in theaders:
+                            tws.cell(tr, theaders.index("Status") + 1).value = status
+                        if notes_append and "Notes" in theaders:
+                            tnotes = theaders.index("Notes") + 1
+                            prev = str(tws.cell(tr, tnotes).value or "")
+                            tag = notes_append.strip()
+                            if tag and tag not in prev:
+                                tws.cell(tr, tnotes).value = (prev + " " + tag).strip()
+                        if next_action is not None and "Next Action" in theaders:
+                            tws.cell(tr, theaders.index("Next Action") + 1).value = next_action
+                        break
+        if "Discovery History" in wb.sheetnames:
+            wb["Discovery History"].append(
+                [now_iso(), oid, status or "updated", notes_append or next_action or "field update", "dashboard"]
+            )
+        self._atomic_save(wb)
+        return True
 
     def get_statistics(self) -> dict[str, Any]:
         self.ensure_workbook()

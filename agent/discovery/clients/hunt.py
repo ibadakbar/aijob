@@ -175,6 +175,12 @@ def _lead_to_client_record(lead: dict[str, Any]) -> OpportunityRecord | None:
     apply_contact_ladder_to_record(rec, contacts=contacts, founders=founders)
     if not rec.contact_phone:
         rec.contact_phone = extract_published_phone(rec.description, rec.evidence, url)
+    if not getattr(rec, "contact_whatsapp", ""):
+        from agent.quality.contact_ladder import extract_published_whatsapp
+
+        rec.contact_whatsapp = extract_published_whatsapp(
+            rec.description, rec.evidence, url, rec.contact_phone
+        ) or ""
     return score_client(rec)
 
 
@@ -249,6 +255,23 @@ def run_client_discovery(
             -float(r.opportunity_score or 0),
         )
     )
+    # Public contact-chain: company/contact/about/team pages → published email/phone/WA
+    chain_hits = 0
+    try:
+        from agent.enrichment.contact_chain import enrich_record_contact_chain
+
+        for rec in records[: min(20, len(records))]:
+            if rec.contact_email and (rec.contact_phone or getattr(rec, "contact_whatsapp", "")):
+                continue
+            try:
+                cr = enrich_record_contact_chain(rec, max_pages=4)
+                if cr.get("changed"):
+                    chain_hits += 1
+            except Exception:  # noqa: BLE001
+                continue
+    except Exception:  # noqa: BLE001
+        chain_hits = 0
+
     existing = store.load_all_opportunities()
     # Clients: soft path (enforce_path still drops fake-remote / unsponsored onsite)
     gated = apply_quality_gates(
@@ -259,7 +282,7 @@ def run_client_discovery(
     )
     # Keep client type only
     kept = [r for r in gated.kept if r.opportunity_type == "client"][:limit]
-    result = store.upsert_opportunities(kept, history_summary="client hunter worldwide")
+    result = store.upsert_opportunities(kept, history_summary="client hunter worldwide + contact_chain")
     store.record_source_run(
         "clients",
         success=True,
@@ -273,7 +296,9 @@ def run_client_discovery(
         "kept": len(kept),
         "dropped": len(gated.dropped),
         "gate": gated.stats,
+        "contact_chain_enriched": chain_hits,
         "with_email": sum(1 for r in kept if r.contact_email),
         "with_phone": sum(1 for r in kept if r.contact_phone),
+        "with_whatsapp": sum(1 for r in kept if getattr(r, "contact_whatsapp", "")),
         **result,
     }

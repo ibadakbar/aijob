@@ -49,6 +49,7 @@ def main(argv: list[str] | None = None) -> int:
             "founders",
             "recruiters",
             "agencies",
+            "enrichment",
             "ingest_only",
         ],
     )
@@ -68,6 +69,22 @@ def main(argv: list[str] | None = None) -> int:
         "expire-stale",
         help="Mark listings older than 3 months as expired (LinkedIn age + posted date)",
     )
+    sub.add_parser(
+        "repair-found-at",
+        help="Fix bulk-identical Discovered/Found-at times from leads checked/published dates",
+    )
+    p_enrich = sub.add_parser(
+        "enrich-contacts",
+        help="Public contact-chain: site → /contact /about /team → published email/phone/WhatsApp",
+    )
+    p_enrich.add_argument("--limit", type=int, default=20, help="Max rows to enrich this run")
+    p_apply = sub.add_parser(
+        "apply-assist",
+        help="Build review-only apply packet (open URL + draft); never auto-submits",
+    )
+    p_apply.add_argument("--id", required=True, help="Opportunity ID from Excel")
+    p_apply.add_argument("--open-url", action="store_true", help="Open apply URL in browser")
+    p_apply.add_argument("--mailto", action="store_true", help="Open mail client draft")
 
     args = parser.parse_args(argv)
     store = ExcelStore()
@@ -142,6 +159,44 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.cmd == "expire-stale":
         print(json.dumps(store.expire_stale_opportunities(), indent=2))
+        return 0
+    if args.cmd == "repair-found-at":
+        print(json.dumps(store.repair_found_at_times(), indent=2))
+        return 0
+    if args.cmd == "enrich-contacts":
+        from agent.enrichment.contact_chain import run_contact_chain_enrichment
+
+        print(
+            json.dumps(
+                run_contact_chain_enrichment(store, limit=int(args.limit)),
+                indent=2,
+                default=str,
+            )
+        )
+        return 0
+    if args.cmd == "apply-assist":
+        from agent.apply_assist import prepare_application
+
+        rows = {r.id: r for r in store.load_all_opportunities()}
+        rec = rows.get(args.id)
+        if not rec:
+            print(json.dumps({"ok": False, "error": f"id not found: {args.id}"}))
+            return 1
+        packet = prepare_application(
+            rec,
+            open_url=bool(args.open_url),
+            open_mail=bool(args.mailto),
+            save_draft=True,
+        )
+        store.update_opportunity_fields(
+            rec.id,
+            status="drafted"
+            if (rec.status or "").lower() in ("", "new", "qualified", "needs_review")
+            else None,
+            notes_append=f"[apply-assist {packet.draft_path}]",
+            next_action="review_and_submit_manually",
+        )
+        print(json.dumps(packet.to_dict(), indent=2))
         return 0
     return 1
 

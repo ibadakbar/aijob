@@ -103,6 +103,8 @@ def has_reachable_contact(rec: OpportunityRecord) -> bool:
         return True
     if getattr(rec, "contact_phone", ""):
         return True
+    if getattr(rec, "contact_whatsapp", ""):
+        return True
     if rec.linkedin_url and "linkedin.com/in/" in rec.linkedin_url.lower():
         return True
     return False
@@ -113,7 +115,7 @@ def contact_points(rec: OpportunityRecord, email_pts: int = 10, li_pts: int = 5)
         return float(email_pts)
     if rec.contact_email and (rec.email_status or "") != "INFERRED":
         return float(email_pts) * 0.85
-    if getattr(rec, "contact_phone", ""):
+    if getattr(rec, "contact_phone", "") or getattr(rec, "contact_whatsapp", ""):
         return float(email_pts) * 0.8
     if rec.linkedin_url and "linkedin.com/in/" in (rec.linkedin_url or "").lower():
         return float(li_pts)

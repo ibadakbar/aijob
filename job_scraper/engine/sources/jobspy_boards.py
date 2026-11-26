@@ -38,16 +38,22 @@ WORLDWIDE_INDEED_COUNTRIES = [
 ]
 
 # Worldwide: remote OR sponsorship / relocation / hire-anywhere language.
+# Rotated/expanded for Ibad stack (React/Next/TS/SaaS/Shopify/AI).
 WORLDWIDE_QUERIES = [
     'React OR Next.js OR "full stack" TypeScript remote',
     'React (Node OR TypeScript) ("visa sponsorship" OR relocation OR "work from anywhere" OR worldwide OR "hire globally")',
     '"frontend" OR "full stack" (React OR Next.js) (sponsorship OR relocation OR "from anywhere" OR EOR)',
+    '(SaaS OR dashboard OR analytics) (React OR Next.js) TypeScript ("remote" OR worldwide OR sponsorship)',
+    '(Shopify OR ecommerce OR "e-commerce") (React OR Next.js OR TypeScript) remote',
+    '("Senior" OR Lead) (React OR "Full Stack" OR Next.js) (TypeScript OR Node) (remote OR sponsorship OR worldwide)',
+    '(OpenAI OR LLM OR "AI-powered") (React OR Next.js OR TypeScript) (remote OR "from anywhere")',
 ]
 
 # Pakistan: any workplace mode — no remote-only filter.
 PAKISTAN_QUERIES = [
     'React OR Next.js OR "full stack" OR MERN OR TypeScript',
     '"software engineer" OR "web developer" OR "frontend" OR "fullstack" (React OR Node)',
+    '(SaaS OR Shopify OR Next.js) (React OR TypeScript) (Karachi OR remote OR Pakistan)',
 ]
 
 PAKISTAN_LOCATIONS = ["Pakistan", "Karachi", "Lahore", "Islamabad"]

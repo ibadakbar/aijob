@@ -9,7 +9,11 @@ from datetime import date
 from pathlib import Path
 from typing import Any
 
-from agent.models.opportunity import OpportunityRecord, make_opportunity_id, now_discovered
+from agent.models.opportunity import (
+    OpportunityRecord,
+    make_opportunity_id,
+    now_discovered,
+)
 from agent.quality.contact_ladder import apply_contact_ladder_to_record
 from agent.quality.pipeline import apply_quality_gates
 from agent.scoring.scores import score_client, score_job
@@ -60,8 +64,9 @@ def _lead_to_record(lead: dict[str, Any]) -> OpportunityRecord:
         relocation_support=reloc,
         salary_or_budget=str(lead.get("budget") or lead.get("budget_or_salary") or lead.get("salary") or ""),
         posted_date=str(
-            lead.get("posted_date") or lead.get("published_date") or lead.get("discovered_at") or ""
+            lead.get("posted_date") or lead.get("published_date") or ""
         )[:10],
+        # Found at = current local time when agent saves this listing (shown in table)
         discovered_date=now_discovered(),
         last_verified=date.today().isoformat(),
         source_name=str(lead.get("source") or "leads_store"),

@@ -23,7 +23,18 @@ for _mod_name in list(sys.modules):
         del sys.modules[_mod_name]
 importlib.invalidate_caches()
 
-from agent.models.opportunity import OpportunityRecord, format_12h  # noqa: E402
+from agent.apply_assist import (  # noqa: E402
+    CANDIDATE,
+    is_arbeitnow,
+    prepare_application,
+    rank_apply_candidates,
+)
+from agent.models.opportunity import (  # noqa: E402
+    OpportunityRecord,
+    format_12h,
+    format_found_at,
+    parse_datetime_flexible,
+)
 from agent.scheduler.runner import (  # noqa: E402
     is_agent_alive,
     live_status,
@@ -80,6 +91,7 @@ def _parse_day(value: str) -> Optional[date]:
 def _row_day(r: OpportunityRecord, field: str) -> Optional[date]:
     if field == "Posted":
         return _parse_day(r.posted_date) or _parse_day(r.discovered_date)
+    # "Found at" / Discovered
     return _parse_day(r.discovered_date) or _parse_day(r.posted_date)
 
 
@@ -99,7 +111,7 @@ def render_date_filter(
     """Day-by-day / range filter. Returns (filtered_rows, caption)."""
     field = st.radio(
         "Date field",
-        ["Discovered", "Posted"],
+        ["Found at", "Posted"],
         horizontal=True,
         key=f"{key_prefix}_date_field",
     )
@@ -191,11 +203,27 @@ def render_date_filter(
     return filtered, label
 
 
+def _found_at_sort_key(r: OpportunityRecord) -> datetime:
+    """Newest Found-at first; missing times sort last."""
+    dt = parse_datetime_flexible(r.discovered_date)
+    return dt or datetime.min
+
+
+def sort_newest_found(rows: list[OpportunityRecord]) -> list[OpportunityRecord]:
+    """Latest finds on top; score breaks ties."""
+    return sorted(
+        rows,
+        key=lambda r: (_found_at_sort_key(r), float(r.opportunity_score or 0)),
+        reverse=True,
+    )
+
+
 def rows_to_table(rows: list[OpportunityRecord]) -> list[dict[str, Any]]:
     data = []
-    for r in sorted(rows, key=lambda x: (-x.opportunity_score, x.company or "")):
+    for r in sort_newest_found(rows):
         data.append(
             {
+                "Found at": format_found_at(r.discovered_date),
                 "Score": r.opportunity_score,
                 "Grade": r.grade,
                 "Type": r.opportunity_type,
@@ -206,12 +234,13 @@ def rows_to_table(rows: list[OpportunityRecord]) -> list[dict[str, Any]]:
                 "Visa": r.visa_sponsorship,
                 "Email": r.contact_email,
                 "Phone": getattr(r, "contact_phone", "") or "",
+                "WhatsApp": getattr(r, "contact_whatsapp", "") or "",
                 "LinkedIn": r.linkedin_url,
                 "Intent": r.intent_classification,
                 "Source": r.source_name,
                 "URL": r.source_url,
                 "Status": r.status,
-                "Discovered": format_12h(r.discovered_date),
+                # Posted = listing publish date only (no fake 12:00 AM)
                 "Posted": format_12h(r.posted_date) if r.posted_date else "",
             }
         )
@@ -230,6 +259,7 @@ page = st.sidebar.radio(
     "Pages",
     [
         "Overview",
+        "Apply Assist",
         "All Opportunities",
         "Jobs",
         "Clients",
@@ -351,8 +381,104 @@ if page == "Overview":
     ov_data = rows_to_table(filtered)
     st.dataframe(ov_data, use_container_width=True, height=480)
     st.caption(
-        f"{len(ov_data)} rows · {date_label} · workbook {store.path}"
+        f"{len(ov_data)} rows · newest Found at on top · "
+        f"Found at = when found · Posted = date only · {date_label}"
     )
+
+elif page == "Apply Assist":
+    st.subheader("Apply Assist — review before you send")
+    st.caption(
+        "Opens the apply URL and builds email / form drafts for **you** to paste. "
+        "Nothing is submitted automatically. Arbeitnow listings are listed first "
+        "(they usually redirect to the employer ATS)."
+    )
+    all_rows = _visible_rows(store.load_all_opportunities())
+    candidates = rank_apply_candidates(all_rows)
+    only_an = st.checkbox("Arbeitnow only", value=False, key="apply_arbeitnow_only")
+    if only_an:
+        candidates = [r for r in candidates if is_arbeitnow(r)]
+    min_sc = st.slider("Min score", 0, 100, 40, key="apply_min_score")
+    candidates = [r for r in candidates if float(r.opportunity_score or 0) >= min_sc]
+
+    if not candidates:
+        st.warning("No applyable rows (need URL or email; not expired/applied).")
+    else:
+        labels = [
+            (
+                f"{'AN · ' if is_arbeitnow(r) else ''}"
+                f"{r.grade or '-'} {int(r.opportunity_score or 0)} · {r.company} — {r.role_or_title}"
+            )
+            for r in candidates[:80]
+        ]
+        pick = st.selectbox("Choose listing", options=list(range(len(labels))), format_func=lambda i: labels[i])
+        rec = candidates[pick]
+        st.write(
+            f"**{rec.company}** — {rec.role_or_title}  \n"
+            f"Source: `{rec.source_name or '—'}` · Path {rec.path or '—'} · "
+            f"Status `{rec.status}` · Visa `{rec.visa_sponsorship or '—'}`"
+        )
+        if rec.source_url:
+            st.markdown(f"[Open listing URL]({rec.source_url})")
+        if rec.contact_email:
+            st.write("Contact email:", rec.contact_email)
+
+        c1, c2, c3 = st.columns(3)
+        do_url = c1.checkbox("Open apply URL in browser", value=True)
+        do_mail = c2.checkbox("Open mail draft (mailto)", value=False)
+        do_save = c3.checkbox("Save markdown draft", value=True)
+
+        if st.button("Prepare apply packet", type="primary"):
+            packet = prepare_application(
+                rec,
+                open_url=do_url,
+                open_mail=do_mail and bool(rec.contact_email),
+                save_draft=do_save,
+            )
+            st.session_state["apply_packet"] = packet.to_dict()
+            store.update_opportunity_fields(
+                rec.id,
+                status="drafted" if (rec.status or "").lower() in ("", "new", "qualified", "needs_review") else None,
+                notes_append=f"[apply-assist {packet.draft_path or 'no-file'}]",
+                next_action="review_and_submit_manually",
+            )
+            st.success(
+                "Packet ready. Review below, then submit yourself on the employer site. "
+                + (f"Draft saved: `{packet.draft_path}`" if packet.draft_path else "")
+            )
+
+        packet_data = st.session_state.get("apply_packet")
+        if packet_data and packet_data.get("opportunity_id") == rec.id:
+            st.markdown("### Email subject")
+            st.code(packet_data.get("subject") or "", language=None)
+            st.markdown("### Email body")
+            st.text_area("body", value=packet_data.get("email_body") or "", height=280, label_visibility="collapsed")
+            st.markdown("### Short pitch")
+            st.code(packet_data.get("short_pitch") or "", language=None)
+            st.markdown("### Form answers")
+            st.json(packet_data.get("form_answers") or {})
+            st.markdown("### Checklist")
+            for item in packet_data.get("checklist") or []:
+                st.write(f"- [ ] {item}")
+            st.info(packet_data.get("notes") or "")
+            st.caption(f"Candidate profile used: {CANDIDATE['name']} · {CANDIDATE['email']}")
+
+            m1, m2 = st.columns(2)
+            if m1.button("I submitted — mark Applied"):
+                store.update_opportunity_fields(
+                    rec.id,
+                    status="applied",
+                    notes_append=f"[manual-applied {datetime.now().strftime('%Y-%m-%d %H:%M')}]",
+                    next_action="await_response",
+                )
+                st.success("Marked applied in Excel.")
+            if m2.button("Skip / not a fit"):
+                store.update_opportunity_fields(
+                    rec.id,
+                    status="skipped",
+                    notes_append="[skipped via apply-assist]",
+                    next_action="",
+                )
+                st.warning("Marked skipped.")
 
 elif page == "Clients":
     st.subheader("Clients — buyers needing your stack")
@@ -387,7 +513,10 @@ elif page == "Clients":
         if only_phone and not getattr(r, "contact_phone", ""):
             continue
         if only_contact and not (
-            r.contact_email or getattr(r, "contact_phone", "") or r.linkedin_url
+            r.contact_email
+            or getattr(r, "contact_phone", "")
+            or getattr(r, "contact_whatsapp", "")
+            or r.linkedin_url
         ):
             continue
         blob = f"{r.company} {r.role_or_title} {r.description}".lower()
@@ -395,15 +524,17 @@ elif page == "Clients":
             continue
         filtered.append(r)
     client_view = []
-    for r in sorted(filtered, key=lambda x: (-x.opportunity_score, x.company or "")):
+    for r in sort_newest_found(filtered):
         client_view.append(
             {
+                "Found at": format_found_at(r.discovered_date),
                 "Score": r.opportunity_score,
                 "Grade": r.grade,
                 "Company": r.company,
                 "Need / Title": r.role_or_title,
                 "Email": r.contact_email,
                 "Phone": getattr(r, "contact_phone", "") or "",
+                "WhatsApp": getattr(r, "contact_whatsapp", "") or "",
                 "LinkedIn": r.linkedin_url,
                 "Budget": r.salary_or_budget,
                 "Location": r.location,
@@ -412,7 +543,6 @@ elif page == "Clients":
                 "Source": r.source_name,
                 "URL": r.source_url,
                 "Status": r.status,
-                "Discovered": format_12h(r.discovered_date),
             }
         )
     st.dataframe(client_view, use_container_width=True, height=520)
@@ -471,7 +601,11 @@ elif page in (
         filtered.append(r)
     data = rows_to_table(filtered)
     st.dataframe(data, use_container_width=True, height=520)
-    st.caption(f"{len(data)} rows · {date_label} · workbook {store.path}")
+    st.caption(
+        f"{len(data)} rows · newest on top · "
+        f"Found at = current time when saved · Posted = listing publish date · "
+        f"{date_label} · {store.path}"
+    )
 
 elif page == "Contacts":
     rows = [r for r in _visible_rows(store.load_all_opportunities()) if r.contact_email]
@@ -486,7 +620,7 @@ elif page == "Contacts":
                 "Status": r.email_status,
                 "LinkedIn": r.linkedin_url,
                 "Source": r.source_url,
-                "Discovered": format_12h(r.discovered_date),
+                "Found at": format_found_at(r.discovered_date),
             }
             for r in rows
         ],

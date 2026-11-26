@@ -21,6 +21,7 @@ from agent.discovery.companies.careers import run_ats_deep_crawl
 from agent.discovery.founders.collect import run_founder_discovery
 from agent.discovery.jobs.ingest import run_job_discovery
 from agent.discovery.recruiters.collect import run_recruiter_discovery
+from agent.enrichment.contact_chain import run_contact_chain_enrichment
 from agent.storage.excel_store import ExcelStore
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -266,6 +267,7 @@ class AgentRunner:
             "founders": int(mins.get("founders", 60)) * 60,
             "recruiters": int(mins.get("recruiters", 60)) * 60,
             "agencies": int(mins.get("agencies", 60)) * 60,
+            "enrichment": int(mins.get("enrichment", 60)) * 60,
             "stats": int(mins.get("excel_stats_refresh", 30)) * 60,
         }
         self._stop = threading.Event()
@@ -303,12 +305,17 @@ class AgentRunner:
             results["expire_stale"] = {"ok": False, "error": str(exc)}
         jobs_cfg = self._engines.get("jobs") or {}
         if engine in ("all", "jobs") and self._engine_on("jobs", True):
-            self.log.info("Running job discovery (gated)")
+            self.log.info("Running intelligent multi-strategy job discovery")
             results["jobs"] = run_job_discovery(
                 self.store,
-                limit=int(jobs_cfg.get("limit", 25)),
-                since=str(jobs_cfg.get("since", "2d")),
+                limit=int(jobs_cfg.get("limit", 30)),
+                since=str(jobs_cfg.get("since", "3d")),
                 volume=bool(jobs_cfg.get("volume", True)),
+                packs_per_cycle=int(jobs_cfg.get("packs_per_cycle", 3)),
+                freehire_timeout=int(jobs_cfg.get("freehire_timeout", 90)),
+                visa_fast_timeout=int(jobs_cfg.get("visa_fast_timeout", 240)),
+                visa_volume_timeout=int(jobs_cfg.get("visa_volume_timeout", 420)),
+                board_timeout=int(jobs_cfg.get("board_timeout", 300)),
             )
         if engine in ("all", "ats", "jobs") and self._engine_on("companies", True):
             self.log.info("Running ATS/careers deep crawl")
@@ -345,6 +352,13 @@ class AgentRunner:
             results["recruiters"] = run_recruiter_discovery(self.store)
         if engine in ("all", "agencies") and self._engine_on("agencies", True):
             results["agencies"] = run_agency_discovery(self.store)
+        if engine in ("all", "enrichment", "enrich") and self._engine_on("enrichment", True):
+            self.log.info("Running public contact-chain enrichment")
+            ecfg = self._engines.get("enrichment") or {}
+            results["enrichment"] = run_contact_chain_enrichment(
+                self.store,
+                limit=int(ecfg.get("limit", 20)),
+            )
         if engine in ("all", "ingest_only"):
             results["leads_ingest"] = ingest_leads_store(self.store)
         return results
@@ -396,7 +410,16 @@ class AgentRunner:
                 state = load_state()
                 now = datetime.now().isoformat()
                 state.setdefault("last_runs", {})
-                for k in ("jobs", "ats", "leads", "clients", "founders", "recruiters", "agencies"):
+                for k in (
+                    "jobs",
+                    "ats",
+                    "leads",
+                    "clients",
+                    "founders",
+                    "recruiters",
+                    "agencies",
+                    "enrichment",
+                ):
                     state["last_runs"][k] = now
                 state["status"] = "running"
                 save_state(state)
@@ -404,20 +427,53 @@ class AgentRunner:
 
             state = load_state()
             state["status"] = "running"
+            jcfg = self._engines.get("jobs") or {}
+
+            def _jobs_worker():
+                return run_job_discovery(
+                    self.store,
+                    limit=int(jcfg.get("limit", 30)),
+                    since=str(jcfg.get("since", "3d")),
+                    volume=bool(jcfg.get("volume", True)),
+                    packs_per_cycle=int(jcfg.get("packs_per_cycle", 3)),
+                    freehire_timeout=int(jcfg.get("freehire_timeout", 90)),
+                    visa_fast_timeout=int(jcfg.get("visa_fast_timeout", 240)),
+                    visa_volume_timeout=int(jcfg.get("visa_volume_timeout", 420)),
+                    board_timeout=int(jcfg.get("board_timeout", 300)),
+                )
+
+            ecfg = self._engines.get("enrichment") or {}
+
+            def _enrich_worker():
+                return run_contact_chain_enrichment(
+                    self.store,
+                    limit=int(ecfg.get("limit", 20)),
+                )
+
             workers = [
-                ("jobs", self.intervals["jobs"], "jobs", lambda: run_job_discovery(self.store)),
+                ("jobs", self.intervals["jobs"], "jobs", _jobs_worker),
                 ("ats", self.intervals["ats"], "companies", lambda: run_ats_deep_crawl(self.store)),
                 ("leads", self.intervals["leads"], "leads_bridge", lambda: ingest_leads_store(self.store)),
                 ("clients", self.intervals["clients"], "clients", lambda: run_client_discovery(self.store, discover=False)),
                 ("founders", self.intervals["founders"], "founders", lambda: run_founder_discovery(self.store)),
                 ("recruiters", self.intervals["recruiters"], "recruiters", lambda: run_recruiter_discovery(self.store)),
                 ("agencies", self.intervals["agencies"], "agencies", lambda: run_agency_discovery(self.store)),
+                ("enrichment", self.intervals.get("enrichment", 3600), "enrichment", _enrich_worker),
             ]
             for key, interval, eng_name, fn in workers:
                 if not self._engine_on(
                     eng_name,
                     eng_name
-                    in ("jobs", "leads_bridge", "companies", "clients", "founders", "recruiters", "agencies"),
+                    in (
+                        "jobs",
+                        "leads_bridge",
+                        "companies",
+                        "clients",
+                        "founders",
+                        "recruiters",
+                        "agencies",
+                        "enrichment",
+                    ),
                 ):
                     continue
                 if self._due(key, interval, state):

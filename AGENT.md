@@ -40,13 +40,14 @@ The PC must stay **powered on**, **online**, and **not sleeping**. The agent doe
 
 | Engine | CLI | What it hunts |
 |--------|-----|----------------|
-| Jobs | `run-once --engine jobs` | `visa_discover --volume --path-ab --new-only` |
+| Jobs | `run-once --engine jobs` | **Intelligent multi-strategy + auto-improve:** rotating freehire packs + visa_fast + volume; if `added=0` dry streak → emergency visa/worldwide/PK packs, wider `since`, same-cycle escalation |
 | ATS / careers | `hunt-ats` / `--engine ats` | `board_scrape` (+ optional `harvest_boards`) |
 | Leads bridge | `--engine leads` | `leads_cli` + gated `leads_store` ingest |
 | Clients | `hunt-clients` | Worldwide buyers needing React/Next/TS; email/phone if published |
 | Founders | `hunt-founders` | YC/founders + founder-titled contacts from store |
 | Recruiters | `hunt-recruiters` | Published recruiter/talent emails |
 | Agencies | `hunt-agencies` | `partnership.is_agency` overflow partners |
+| Contact chain | `enrich-contacts` / `--engine enrichment` | Public pages only: company → `/contact` `/about` `/team` → published email/phone/WhatsApp (never invent) |
 
 ## CLI
 
